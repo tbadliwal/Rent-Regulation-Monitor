@@ -1,24 +1,35 @@
-# Residential Rent Regulation Monitor — Phase 1
+# Davis Advisors — U.S. Rent Regulation Monitor
 
-Self-contained static website for Davis Advisors residential rent-regulation research.
+Static GitHub Pages dashboard with three deliberately separate layers:
 
-## What is in this build
-- One `index.html` containing the CSS, JavaScript, initial state/locality dataset and interactive UI.
-- Plotly is loaded from its public CDN for the geographic U.S. map.
-- A built-in CSS tile map appears automatically if Plotly cannot load.
-- Six priority-state baselines are populated: CA, OR, WA, MN, NY and NJ.
-- All other states are explicitly marked **Pending audit**, not low risk.
+1. **50-state statutory baseline** — statewide cap, local preemption/authority and priority localities.
+2. **Verified archive** — curated high-signal developments linked to primary/official sources.
+3. **Automated 15-day discovery** — GDELT-powered candidate feed refreshed every six hours. Discovery items never overwrite the legal baseline.
 
-## Fastest GitHub Pages deployment
-1. Create a new public GitHub repository, e.g. `Rent-Regulation-Monitor`.
-2. Upload `index.html`, `README.md`, and `.nojekyll` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/ (root)`, then Save.
-6. GitHub will provide the permanent site URL after the Pages build completes.
+## Files
 
-## Later automation
-Do not add an automated discovery/update workflow until the UI and research taxonomy are approved. The next build should separate curated verified data from live discovery candidates, following the pattern used in the Data Center Monitor.
+- `index.html` — dashboard UI.
+- `data/baseline.json` — 50-state + DC baseline.
+- `data/verified_events.json` — curated chronological developments.
+- `data/live.json` — generated discovery snapshot.
+- `scripts/update_live_data.py` — state-by-state 15-day discovery updater.
+- `.github/workflows/refresh-and-deploy.yml` — refresh + GitHub Pages deployment every six hours.
+
+## Deploy / upgrade existing repository
+
+Upload the **contents** of this package into the root of the existing `Rent-Regulation-Monitor` repository, replacing `index.html` and `README.md` and adding the `data`, `scripts`, and `.github/workflows` folders.
+
+Then in **Settings → Pages**, set **Source = GitHub Actions**.
+
+Go to **Actions → Refresh rent-regulation data and deploy monitor → Run workflow**. The first run takes several minutes because the updater deliberately throttles GDELT requests. When the workflow finishes, the site will deploy and `data/live.json` will contain the current 15-day discovery layer.
+
+## Research discipline
+
+- Green = low current **direct rent-amount constraint**, not “no regulation.”
+- Automated discovery is not legal verification.
+- Priority/locality baselines should be re-checked against current statutes and ordinances before an investment decision.
+- The 50-state posture layer is seeded from a September 16, 2026 statutory survey that links to controlling official state statutes; priority markets include direct official/primary source links.
 
 ## Security
-GitHub Pages repositories/sites are generally public. Do not publish confidential Davis analysis or internal commentary unless approved for public exposure.
+
+GitHub Pages is public. Do not place Davis-confidential investment commentary, portfolio holdings, non-public analysis, credentials or secrets in this repository.

@@ -1,0 +1,113 @@
+{
+  "as_of": "2026-09-18",
+  "events": [
+    {
+      "date": "2026-09-18",
+      "state": "CA",
+      "locality": "Santa Barbara",
+      "status": "Proposed",
+      "type": "Rent Stabilization / Registry",
+      "title": "Santa Barbara posts draft Residential Rent Stabilization and Rental Registry ordinance for Sept. 22 introduction",
+      "impact": "Would add a new local rent-stabilization and rental-registry layer if adopted; monitor coverage, cap formula, exemptions and implementation date.",
+      "source": "City of Santa Barbara",
+      "source_tier": "A",
+      "url": "https://santabarbaraca.gov/services/housing-human-services/affordable-housing/rent-stabilization"
+    },
+    {
+      "date": "2026-09-15",
+      "state": "CA",
+      "locality": "Alameda",
+      "status": "Proposed / Council action",
+      "type": "Local Ordinance",
+      "title": "Alameda City Council considers amendments to its rent-control ordinance concerning permanent relocation payments",
+      "impact": "Does not change the basic rent cap by itself, but can change landlord cost and enforcement exposure on covered terminations.",
+      "source": "City of Alameda",
+      "source_tier": "A",
+      "url": "https://alameda.legistar.com/MeetingDetail.aspx?GUID=7C367A7F-3897-42A9-A460-CCB252E73C94&ID=1366300&Options=info%7C&Search="
+    },
+    {
+      "date": "2026-09-14",
+      "state": "CA",
+      "locality": "Los Angeles / Valley Glen",
+      "status": "Effective",
+      "type": "Local Ordinance",
+      "title": "Los Angeles RSO-related interim-control ordinance for Valley Glen becomes effective",
+      "impact": "Adds a locality-specific restriction tied to permits/demolition around RSO housing; relevant to redevelopment optionality rather than a new citywide rent cap.",
+      "source": "Los Angeles City Clerk",
+      "source_tier": "A",
+      "url": "https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?cfnumber=25-0970&fa=ccfi.viewrecord"
+    },
+    {
+      "date": "2026-09-10",
+      "state": "CA",
+      "locality": "Pasadena",
+      "status": "Effective / Compliance",
+      "type": "Rental Registry",
+      "title": "Pasadena opens 2026 rental-registration cycle with updated portal and 2.5% 2026-27 AGA",
+      "impact": "Raises compliance visibility for covered units; annual registration is mandatory and the 2.5% AGA takes effect Oct. 1, 2026.",
+      "source": "City of Pasadena Rent Stabilization Department",
+      "source_tier": "A",
+      "url": "https://www.cityofpasadena.net/rent-stabilization/rental-registry/"
+    },
+    {
+      "date": "2026-09-09",
+      "state": "NJ",
+      "locality": "Jersey City",
+      "status": "Enforcement / Audit",
+      "type": "Rent Control Enforcement",
+      "title": "Jersey City releases Phase I of first citywide rent-control audit covering more than 1,700 properties and 20,000 units",
+      "impact": "Materially increases enforcement visibility and legal-rent scrutiny; Phase II focuses on properties claiming exemptions without adequate documentation.",
+      "source": "City of Jersey City",
+      "source_tier": "A",
+      "url": "https://www.jerseycitynj.gov/news/residents_to_fight_illegal_rent_increases"
+    },
+    {
+      "date": "2026-09-09",
+      "state": "CA",
+      "locality": "West Hollywood",
+      "status": "Policy Review",
+      "type": "Rent Stabilization",
+      "title": "West Hollywood continues stakeholder review of potential Rent Stabilization Ordinance and enforcement-procedure updates",
+      "impact": "Watch for changes to administrative procedures, enforcement and ordinance clarity rather than assuming the existing rent formula itself is changing.",
+      "source": "City of West Hollywood",
+      "source_tier": "A",
+      "url": "https://www.weho.org/Home/Components/Calendar/Event/32205/1472"
+    },
+    {
+      "date": "2026-09-16",
+      "state": "CT",
+      "locality": "Danbury",
+      "status": "Commission Activity",
+      "type": "Fair Rent Commission",
+      "title": "Danbury Fair Rent Commission agenda includes active 2026 cases",
+      "impact": "Illustrates Connecticut's complaint-driven local fair-rent layer; commission activity can affect proposed increases even without a fixed percentage cap.",
+      "source": "City of Danbury",
+      "source_tier": "A",
+      "url": "https://danbury-ct.gov/Calendar.aspx?EID=2360&calType=0&day=15&month=9&year=2026"
+    },
+    {
+      "date": "2026-10-01",
+      "state": "NY",
+      "locality": "New York City",
+      "status": "Upcoming Effective",
+      "type": "Rent Guidelines",
+      "title": "NYC 2026-27 rent-stabilized renewal period begins with a 0% increase for one- and two-year renewals",
+      "impact": "Directly constrains renewal growth for covered stabilized apartments during the Oct. 1, 2026–Sep. 30, 2027 guideline period.",
+      "source": "NYC Rent Increase Guide",
+      "source_tier": "A",
+      "url": "https://www.nyc.gov/main/services/rent-increase-guide"
+    },
+    {
+      "date": "2026-10-12",
+      "state": "MD",
+      "locality": "Takoma Park",
+      "status": "Upcoming Policy Review",
+      "type": "Rent Stabilization",
+      "title": "Takoma Park schedules public meeting on potential rent-stabilization policy updates",
+      "impact": "Current 3% allowance remains in force for Jul. 2026–Jun. 2027, while the city reviews possible program modifications for 2027.",
+      "source": "City of Takoma Park",
+      "source_tier": "A",
+      "url": "https://www.takomaparkmd.gov/2485/Rent-Stabilization-Policy-Review"
+    }
+  ]
+}

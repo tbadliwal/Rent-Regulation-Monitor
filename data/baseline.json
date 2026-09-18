@@ -1,0 +1,1596 @@
+{
+  "generated": "2026-09-18",
+  "methodology": {
+    "posture_source": "Landlord Atlas 50-state survey, verified Sep. 16, 2026, with controlling-state-statute links.",
+    "deep_dive": "Primary-source deep dives are included for priority markets; automated discovery is separate and not treated as verified law.",
+    "counts": {
+      "barred_preempted": 31,
+      "not_barred_or_pathway": 9,
+      "no_express_statute": 10,
+      "statewide_caps_states": 3,
+      "active_local_regulation_states": 7
+    }
+  },
+  "states": {
+    "AL": {
+      "abbr": "AL",
+      "name": "Alabama",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Alabama has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "AK": {
+      "abbr": "AK",
+      "name": "Alaska",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Alaska has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "AZ": {
+      "abbr": "AZ",
+      "name": "Arizona",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Arizona has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "AR": {
+      "abbr": "AR",
+      "name": "Arkansas",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Arkansas has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "CA": {
+      "abbr": "CA",
+      "name": "California",
+      "risk": "Very High",
+      "statewide_cap": "Yes",
+      "cap_standard": "Statewide TPA cap: lower of 10% or 5% + applicable cost-of-living change; local rules can be tighter.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "Statewide cap coexists with numerous local rent-stabilization ordinances.",
+      "summary": "California has an active jurisdiction-wide rent-increase framework. Local rent regulation permitted or available through state-law pathway. Local and tenancy-specific rules still require separate review.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Los Angeles",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Local RSO; current allowable adjustment must be checked by effective period",
+          "note": "Major local rent-stabilization regime; eviction and registration rules also matter.",
+          "url": "https://housing.lacity.gov/residents/rso-overview"
+        },
+        {
+          "name": "Los Angeles County",
+          "status": "Active",
+          "heat": "High",
+          "standard": "County rent stabilization / tenant protections in covered unincorporated areas",
+          "note": "Separate county layer from City of Los Angeles.",
+          "url": "https://dcba.lacounty.gov/rentstabilization/"
+        },
+        {
+          "name": "San Francisco",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Local rent control for covered units",
+          "note": "Annual allowable increase and coverage depend on local ordinance and tenancy.",
+          "url": "https://www.sf.gov/information/learn-about-rent-increases"
+        },
+        {
+          "name": "Oakland",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Local rent adjustment program",
+          "note": "Annual CPI-based adjustment plus local just-cause mechanics.",
+          "url": "https://www.oaklandca.gov/topics/rent-adjustment-program"
+        },
+        {
+          "name": "Berkeley",
+          "status": "Active / ballot activity",
+          "heat": "High",
+          "standard": "Rent Stabilization + Just Cause",
+          "note": "November 2026 ballot activity can change ordinance mechanics.",
+          "url": "https://rentboard.berkeleyca.gov/"
+        },
+        {
+          "name": "Pasadena",
+          "status": "Active",
+          "heat": "High",
+          "standard": "2.5% AGA effective Oct. 1, 2026–Sep. 30, 2027",
+          "note": "2026 rental registration cycle is active; registry and fee compliance are material.",
+          "url": "https://www.cityofpasadena.net/rent-stabilization/rental-registry/"
+        },
+        {
+          "name": "Santa Monica",
+          "status": "Active",
+          "heat": "High",
+          "standard": "2.6% effective Sep. 1, 2026–Aug. 31, 2027 for covered units",
+          "note": "Long-running local regime with separate coverage rules.",
+          "url": "https://www.santamonica.gov/departments/rent-control"
+        },
+        {
+          "name": "West Hollywood",
+          "status": "Active / rule review",
+          "heat": "High",
+          "standard": "Local RSO; ordinance/regulation review underway",
+          "note": "2026 stakeholder process is reviewing ordinance, regulations and enforcement procedures.",
+          "url": "https://www.weho.org/city-government/rent-stabilization"
+        },
+        {
+          "name": "Santa Barbara",
+          "status": "Proposed",
+          "heat": "High",
+          "standard": "Draft Residential Rent Stabilization + Rental Registry ordinance",
+          "note": "Council introduction scheduled for Sep. 22, 2026.",
+          "url": "https://santabarbaraca.gov/services/housing-human-services/affordable-housing/rent-stabilization"
+        },
+        {
+          "name": "Salinas",
+          "status": "Ballot / repeal activity",
+          "heat": "High",
+          "standard": "Existing local policy subject to 2026 ballot repeal question",
+          "note": "Track November 2026 ballot outcome and implementation timing.",
+          "url": "https://www.cityofsalinas.org/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "Lesser of 10% or 5% + applicable cost-of-living change",
+      "vacancy": "Costa-Hawkins generally preserves vacancy reset for covered local regimes; local coverage/exemptions vary.",
+      "new_construction": "Statewide TPA generally uses a rolling 15-year exemption; local ordinances have separate coverage dates/exemptions.",
+      "primary_sources": [
+        [
+          "California DOJ — statewide & local rent limits",
+          "https://oag.ca.gov/rentcaps"
+        ],
+        [
+          "California Civil Code §1947.12",
+          "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1947.12.&lawCode=CIV"
+        ],
+        [
+          "Costa-Hawkins §1954.52",
+          "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1954.52.&lawCode=CIV"
+        ]
+      ]
+    },
+    "CO": {
+      "abbr": "CO",
+      "name": "Colorado",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Colorado has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "CT": {
+      "abbr": "CT",
+      "name": "Connecticut",
+      "risk": "Moderate",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "Fair rent commissions are expressly authorized; municipalities of 15,000+ are subject to the state mandate/timeline.",
+      "summary": "Connecticut has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Bridgeport",
+          "status": "Fair Rent Commission",
+          "heat": "Watch",
+          "standard": "Complaint-based fair-rent review",
+          "note": "Commission activity can affect proposed increases even without a fixed municipal percentage cap.",
+          "url": "https://portal.ct.gov/doh/doh/programs/fair-rent-commissions"
+        },
+        {
+          "name": "Hartford",
+          "status": "Fair Rent Commission",
+          "heat": "Watch",
+          "standard": "Complaint-based fair-rent review",
+          "note": "Commission activity can affect proposed increases even without a fixed municipal percentage cap.",
+          "url": "https://portal.ct.gov/doh/doh/programs/fair-rent-commissions"
+        },
+        {
+          "name": "New Haven",
+          "status": "Fair Rent Commission",
+          "heat": "Watch",
+          "standard": "Complaint-based fair-rent review",
+          "note": "Commission activity can affect proposed increases even without a fixed municipal percentage cap.",
+          "url": "https://portal.ct.gov/doh/doh/programs/fair-rent-commissions"
+        },
+        {
+          "name": "Stamford",
+          "status": "Fair Rent Commission",
+          "heat": "Watch",
+          "standard": "Complaint-based fair-rent review",
+          "note": "Commission activity can affect proposed increases even without a fixed municipal percentage cap.",
+          "url": "https://portal.ct.gov/doh/doh/programs/fair-rent-commissions"
+        },
+        {
+          "name": "Danbury",
+          "status": "Fair Rent Commission",
+          "heat": "Watch",
+          "standard": "Complaint-based fair-rent review",
+          "note": "Commission activity can affect proposed increases even without a fixed municipal percentage cap.",
+          "url": "https://portal.ct.gov/doh/doh/programs/fair-rent-commissions"
+        },
+        {
+          "name": "Norwalk",
+          "status": "Fair Rent Commission",
+          "heat": "Watch",
+          "standard": "Complaint-based fair-rent review",
+          "note": "Commission activity can affect proposed increases even without a fixed municipal percentage cap.",
+          "url": "https://portal.ct.gov/doh/doh/programs/fair-rent-commissions"
+        },
+        {
+          "name": "Waterbury",
+          "status": "Fair Rent Commission",
+          "heat": "Watch",
+          "standard": "Complaint-based fair-rent review",
+          "note": "Commission activity can affect proposed increases even without a fixed municipal percentage cap.",
+          "url": "https://portal.ct.gov/doh/doh/programs/fair-rent-commissions"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "Complaint / fair-rent-commission framework rather than one statewide percentage cap",
+      "vacancy": "No statewide general rent cap; commission authority focuses on excessive rent complaints and remedies.",
+      "new_construction": "Commission jurisdiction/exemptions are municipality- and statute-specific.",
+      "primary_sources": [
+        [
+          "Conn. Gen. Stat. §7-148b",
+          "https://www.cga.ct.gov/current/pub/chap_098.htm#sec_7-148b"
+        ]
+      ]
+    },
+    "DE": {
+      "abbr": "DE",
+      "name": "Delaware",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Delaware has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "FL": {
+      "abbr": "FL",
+      "name": "Florida",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Florida has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "GA": {
+      "abbr": "GA",
+      "name": "Georgia",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Georgia has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "HI": {
+      "abbr": "HI",
+      "name": "Hawaii",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "County authority / emergency savings clauses exist, but no county rent cap is currently in force.",
+      "summary": "Hawaii has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "ID": {
+      "abbr": "ID",
+      "name": "Idaho",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Idaho has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "IL": {
+      "abbr": "IL",
+      "name": "Illinois",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Illinois has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Chicago",
+          "status": "Preempted / tenant-bill activity",
+          "heat": "Watch",
+          "standard": "No rent amount control currently allowed",
+          "note": "Track Renter’s Bill of Rights / registry proposals separately from rent-control preemption.",
+          "url": "https://chicityclerkelms.chicago.gov/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "IN": {
+      "abbr": "IN",
+      "name": "Indiana",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "Local rent control requires state legislative authorization.",
+      "summary": "Indiana has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "IA": {
+      "abbr": "IA",
+      "name": "Iowa",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Iowa has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "KS": {
+      "abbr": "KS",
+      "name": "Kansas",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Kansas has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "KY": {
+      "abbr": "KY",
+      "name": "Kentucky",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Kentucky has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "LA": {
+      "abbr": "LA",
+      "name": "Louisiana",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Louisiana has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "ME": {
+      "abbr": "ME",
+      "name": "Maine",
+      "risk": "Moderate",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "No statewide preemption; Portland and South Portland have local regimes.",
+      "summary": "Maine has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Portland",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Local rent control / stabilization",
+          "note": "Local ordinance controls annual increases and related tenancy mechanics for covered units.",
+          "url": "https://www.portlandmaine.gov/1148/Rent-Control-Rental-Housing-Rights"
+        },
+        {
+          "name": "South Portland",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Local rent stabilization",
+          "note": "Separate local ordinance; asset-level coverage review required.",
+          "url": "https://www.southportland.gov/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "No statewide percentage cap; local regimes permitted",
+      "vacancy": "Local ordinance-specific.",
+      "new_construction": "Local exemptions and coverage rules control.",
+      "primary_sources": [
+        [
+          "Maine home-rule authority — 30-A M.R.S. §3001",
+          "https://legislature.maine.gov/statutes/30-A/title30-Asec3001.html"
+        ]
+      ]
+    },
+    "MD": {
+      "abbr": "MD",
+      "name": "Maryland",
+      "risk": "High",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "No statewide rent cap; several major local jurisdictions operate rent stabilization.",
+      "summary": "Maryland has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Montgomery County",
+          "status": "Active",
+          "heat": "High",
+          "standard": "County rent stabilization",
+          "note": "Countywide program is a major DC-suburban underwriting input.",
+          "url": "https://www.montgomerycountymd.gov/DHCA/Tenants/RentStabilization.html"
+        },
+        {
+          "name": "Prince George’s County",
+          "status": "Active",
+          "heat": "High",
+          "standard": "County rent stabilization",
+          "note": "Separate county formula and exemptions; verify annually.",
+          "url": "https://www.princegeorgescountymd.gov/"
+        },
+        {
+          "name": "Takoma Park",
+          "status": "Active / policy review",
+          "heat": "High",
+          "standard": "3% allowance Jul. 1, 2026–Jun. 30, 2027",
+          "note": "City is conducting a policy review through 2026-27.",
+          "url": "https://www.takomaparkmd.gov/2485/Rent-Stabilization-Policy-Review"
+        },
+        {
+          "name": "Frederick",
+          "status": "Proposal / watch",
+          "heat": "Watch",
+          "standard": "Local rent-control concepts discussed in 2026",
+          "note": "No enacted rent cap in curated baseline; keep on proposal watch.",
+          "url": "https://www.cityoffrederickmd.gov/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "No statewide cap; material county/city stabilization programs",
+      "vacancy": "Local ordinance-specific; turnover treatment must be checked by jurisdiction.",
+      "new_construction": "Local exemptions can materially change exposure.",
+      "primary_sources": [
+        [
+          "Maryland Local Government §10-206",
+          "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=glg&section=10-206&enactments=false"
+        ],
+        [
+          "Montgomery County Rent Stabilization",
+          "https://www.montgomerycountymd.gov/DHCA/Tenants/RentStabilization.html"
+        ],
+        [
+          "Takoma Park Rent Stabilization",
+          "https://www.takomaparkmd.gov/1594/Rent-Stabilization-Rent-Increase-Allowan"
+        ]
+      ]
+    },
+    "MA": {
+      "abbr": "MA",
+      "name": "Massachusetts",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Massachusetts has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Boston",
+          "status": "Preempted / active policy advocacy",
+          "heat": "Watch",
+          "standard": "No rent control currently in force",
+          "note": "City Council adopted a June 2026 resolution supporting a state-authorized local option; state preemption remains controlling unless changed.",
+          "url": "https://boston.legistar.com/LegislationDetail.aspx?ID=8063171"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "MI": {
+      "abbr": "MI",
+      "name": "Michigan",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Michigan has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "MN": {
+      "abbr": "MN",
+      "name": "Minnesota",
+      "risk": "Moderate",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "Local rent control is available only with voter approval at a general election.",
+      "summary": "Minnesota has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Saint Paul",
+          "status": "Active",
+          "heat": "High",
+          "standard": "3% standard allowable increase, with exceptions",
+          "note": "Voter-approved ordinance; amended in 2022 and 2025.",
+          "url": "https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/renting-property/rent-stabilization"
+        },
+        {
+          "name": "Minneapolis",
+          "status": "Authorized politically; no rent cap enacted",
+          "heat": "Watch",
+          "standard": "No rent-stabilization ordinance currently in force",
+          "note": "Continue monitoring local housing policy and any renewed ballot/ordinance process.",
+          "url": "https://www.minneapolismn.gov/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "Local rent control only through voter-approved pathway",
+      "vacancy": "Saint Paul ordinance has exceptions including vacancy-related mechanisms; other localities differ.",
+      "new_construction": "Saint Paul has ordinance-specific exemptions/exception processes.",
+      "primary_sources": [
+        [
+          "Minn. Stat. §471.9996",
+          "https://www.revisor.mn.gov/statutes/cite/471.9996"
+        ],
+        [
+          "Saint Paul Rent Stabilization",
+          "https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/renting-property/rent-stabilization"
+        ]
+      ]
+    },
+    "MS": {
+      "abbr": "MS",
+      "name": "Mississippi",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "Local rent control requires state legislative authorization.",
+      "summary": "Mississippi has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "MO": {
+      "abbr": "MO",
+      "name": "Missouri",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Missouri has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "MT": {
+      "abbr": "MT",
+      "name": "Montana",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Montana has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "NE": {
+      "abbr": "NE",
+      "name": "Nebraska",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Nebraska has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "NV": {
+      "abbr": "NV",
+      "name": "Nevada",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Nevada has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "NH": {
+      "abbr": "NH",
+      "name": "New Hampshire",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "New Hampshire has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "NJ": {
+      "abbr": "NJ",
+      "name": "New Jersey",
+      "risk": "High",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "Municipal rent control is widespread; newly constructed multiple dwellings can qualify for long exemptions.",
+      "summary": "New Jersey has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Jersey City",
+          "status": "Active + enforcement audit",
+          "heat": "High",
+          "standard": "Municipal rent control",
+          "note": "Phase I 2026 audit identified 1,700+ properties / 20,000+ units and launched a property-status map.",
+          "url": "https://www.jerseycitynj.gov/news/residents_to_fight_illegal_rent_increases"
+        },
+        {
+          "name": "Newark",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Municipal rent control; city states increases may not exceed 4%",
+          "note": "Registration and compliance requirements are also material.",
+          "url": "https://www.newarknj.gov/255/Division-of-Rent-Control"
+        },
+        {
+          "name": "Elizabeth",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Municipal rent leveling; current local rule should be checked directly",
+          "note": "Local ordinance and board process drive permitted increases.",
+          "url": "https://www.elizabethnj.org/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "No single statewide cap; municipal ordinances vary",
+      "vacancy": "Local ordinance-specific; legal rent, vacancy treatment and exemptions must be checked municipality by municipality.",
+      "new_construction": "State law can exempt newly constructed multiple dwellings from local rent-control limits for up to 30 years.",
+      "primary_sources": [
+        [
+          "NJ DCA landlord-tenant / rent-control resources",
+          "https://www.nj.gov/dca/home/landlord-tenant.shtml"
+        ],
+        [
+          "Jersey City Rent Control Audit",
+          "https://www.jerseycitynj.gov/news/residents_to_fight_illegal_rent_increases"
+        ]
+      ]
+    },
+    "NM": {
+      "abbr": "NM",
+      "name": "New Mexico",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "New Mexico has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "NY": {
+      "abbr": "NY",
+      "name": "New York",
+      "risk": "Very High",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "Municipalities may opt into rent stabilization under the Emergency Tenant Protection Act; Good Cause is separate.",
+      "summary": "New York has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "New York City",
+          "status": "Active",
+          "heat": "High",
+          "standard": "Rent stabilization + rent control + Good Cause",
+          "note": "Upcoming RGB period beginning Oct. 1, 2026 has a rent freeze for rent-stabilized renewals according to NYC guidance.",
+          "url": "https://www.nyc.gov/main/services/rent-increase-guide"
+        },
+        {
+          "name": "Albany",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Ithaca",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Kingston",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Poughkeepsie",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Rochester",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Beacon",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Newburgh",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Nyack",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Hudson",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "New Paltz",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Fishkill",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Catskill",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Croton-on-Hudson",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        },
+        {
+          "name": "Binghamton",
+          "status": "Good Cause opt-in",
+          "heat": "Watch",
+          "standard": "Good Cause Eviction applies subject to local parameters/exemptions",
+          "note": "Not the same as traditional rent stabilization; it can constrain unreasonable renewal increases in covered housing.",
+          "url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "No statewide general cap; NYC rent stabilization + local ETPA opt-in + Good Cause overlay",
+      "vacancy": "Rent-stabilized and market-rate/GCE mechanics differ; deregulation and vacancy treatment require unit-level analysis.",
+      "new_construction": "ETPA/GCE exemptions and building-age rules are material.",
+      "primary_sources": [
+        [
+          "NY Attorney General — Good Cause Eviction",
+          "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law"
+        ],
+        [
+          "NYC Rent Increase Guide",
+          "https://www.nyc.gov/main/services/rent-increase-guide"
+        ],
+        [
+          "NYS ETPA / Open Legislation",
+          "https://www.nysenate.gov/legislation/laws/ETP"
+        ]
+      ]
+    },
+    "NC": {
+      "abbr": "NC",
+      "name": "North Carolina",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "North Carolina has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "ND": {
+      "abbr": "ND",
+      "name": "North Dakota",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "North Dakota has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "OH": {
+      "abbr": "OH",
+      "name": "Ohio",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Ohio has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "OK": {
+      "abbr": "OK",
+      "name": "Oklahoma",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Oklahoma has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "OR": {
+      "abbr": "OR",
+      "name": "Oregon",
+      "risk": "High",
+      "statewide_cap": "Yes",
+      "cap_standard": "2026: 9.5% for most covered tenancies; separate 6% rule for certain larger manufactured dwelling/marina facilities.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "Cities/counties are preempted, while a separate statewide rent cap applies.",
+      "summary": "Oregon has an active jurisdiction-wide rent-increase framework. Local rent amount controls barred / preempted by state law. Local and tenancy-specific rules still require separate review.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Portland",
+          "status": "No local rent cap authority",
+          "heat": "Watch",
+          "standard": "State cap applies; local amount controls preempted",
+          "note": "Still monitor relocation assistance, tenant protections and other non-rent-amount rules.",
+          "url": "https://www.portland.gov/phb/rental-services"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "2026 lesser of 10% or 7% + CPI = 9.5% for most covered tenancies",
+      "vacancy": "Statewide law governs annual increases; local governments cannot add rent amount controls.",
+      "new_construction": "Coverage/exemption analysis depends on statutory property age/type rules.",
+      "primary_sources": [
+        [
+          "Oregon DAS — Rent Stabilization",
+          "https://www.oregon.gov/das/oea/pages/rent-stabilization.aspx"
+        ],
+        [
+          "ORS 91.225 — local preemption",
+          "https://www.oregonlegislature.gov/bills_laws/ors/ors091.html"
+        ]
+      ]
+    },
+    "PA": {
+      "abbr": "PA",
+      "name": "Pennsylvania",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Pennsylvania has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Philadelphia",
+          "status": "No rent cap / tenant-protection overlay",
+          "heat": "Watch",
+          "standard": "No rent-control ordinance in force",
+          "note": "Monitor just-cause and broader tenant-protection rules separately from rent amount control.",
+          "url": "https://www.phila.gov/departments/fair-housing-commission/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "RI": {
+      "abbr": "RI",
+      "name": "Rhode Island",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Rhode Island has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Providence",
+          "status": "No ordinance in force",
+          "heat": "Watch",
+          "standard": "2026 rent-stabilization attempt was vetoed",
+          "note": "No current rent cap; prior proposal shows local political interest.",
+          "url": "https://www.providenceri.gov/"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "SC": {
+      "abbr": "SC",
+      "name": "South Carolina",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "South Carolina has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "SD": {
+      "abbr": "SD",
+      "name": "South Dakota",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "South Dakota has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "TN": {
+      "abbr": "TN",
+      "name": "Tennessee",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Tennessee has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "TX": {
+      "abbr": "TX",
+      "name": "Texas",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent regulation permitted or available through state-law pathway",
+      "qualifier": "Local rent control is available only in a governor-approved disaster housing emergency.",
+      "summary": "Texas has no general statewide rent cap in the curated baseline. Local rent regulation permitted or available through state-law pathway. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "UT": {
+      "abbr": "UT",
+      "name": "Utah",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "Local rent control requires state legislative authorization.",
+      "summary": "Utah has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "VT": {
+      "abbr": "VT",
+      "name": "Vermont",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Vermont has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "VA": {
+      "abbr": "VA",
+      "name": "Virginia",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "State landlord-tenant law supersedes local residential leasing ordinances.",
+      "summary": "Virginia has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "WA": {
+      "abbr": "WA",
+      "name": "Washington",
+      "risk": "High",
+      "statewide_cap": "Yes",
+      "cap_standard": "2026: 9.683% for covered residential tenancies; 2027 published maximum is 10%.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "Cities/counties are preempted, while a separate statewide rent cap applies.",
+      "summary": "Washington has an active jurisdiction-wide rent-increase framework. Local rent amount controls barred / preempted by state law. Local and tenancy-specific rules still require separate review.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Seattle",
+          "status": "State cap + local tenant protections",
+          "heat": "Watch",
+          "standard": "No city rent-amount cap; statewide cap applies",
+          "note": "Local rent amount controls are preempted, but Seattle-specific tenant protections and notice rules remain relevant.",
+          "url": "https://www.seattle.gov/rentinginseattle"
+        },
+        {
+          "name": "Tacoma",
+          "status": "State cap + local tenant protections",
+          "heat": "Watch",
+          "standard": "No city rent-amount cap; statewide cap applies",
+          "note": "Monitor local tenant-protection ordinances even though rent amount controls are preempted.",
+          "url": "https://www.cityoftacoma.org/government/city_departments/equity_and_human_rights/landlord-tenant_program"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "Lesser of 10% or 7% + Seattle-area CPI after first 12 months",
+      "vacancy": "No increase during first 12 months; annual cap thereafter for covered tenancies.",
+      "new_construction": "HB 1217 / RCW exemptions apply; property-specific review required.",
+      "primary_sources": [
+        [
+          "Washington Commerce — HB 1217 Resource Center",
+          "https://www.commerce.wa.gov/housing-policy/hb1217-landlord-resource-center/"
+        ],
+        [
+          "RCW 59.18.700",
+          "https://app.leg.wa.gov/RCW/default.aspx?cite=59.18.700"
+        ],
+        [
+          "RCW 35.21.830 — city preemption",
+          "https://app.leg.wa.gov/RCW/default.aspx?cite=35.21.830"
+        ]
+      ]
+    },
+    "WV": {
+      "abbr": "WV",
+      "name": "West Virginia",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "West Virginia has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "WI": {
+      "abbr": "WI",
+      "name": "Wisconsin",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "Local rent amount controls barred / preempted by state law",
+      "qualifier": "",
+      "summary": "Wisconsin has no general statewide rent cap in the curated baseline. Local rent amount controls barred / preempted by state law. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "WY": {
+      "abbr": "WY",
+      "name": "Wyoming",
+      "risk": "Low",
+      "statewide_cap": "No",
+      "cap_standard": "No general statewide percentage cap identified in this monitor.",
+      "posture": "No express statewide rent-control preemption statute identified",
+      "qualifier": "",
+      "summary": "Wyoming has no general statewide rent cap in the curated baseline. No express statewide rent-control preemption statute identified. The live layer still monitors local ordinances, tenant-protection measures, registries, enforcement, ballot activity, and changes to preemption.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ]
+    },
+    "DC": {
+      "abbr": "DC",
+      "name": "District of Columbia",
+      "risk": "Very High",
+      "statewide_cap": "Yes",
+      "cap_standard": "2026-27 general covered-unit adjustment reported at 2.1% under District rent-control framework.",
+      "posture": "District-wide rent regulation; no state preemption layer",
+      "qualifier": "",
+      "summary": "District of Columbia has an active jurisdiction-wide rent-increase framework. District-wide rent regulation; no state preemption layer. Local and tenancy-specific rules still require separate review.",
+      "baseline_verified": "2026-09-16",
+      "baseline_source": "https://landlordatlas.com/research/rent-control-preemption-50-states-2026/",
+      "baseline_source_label": "2026 50-state statutory preemption survey (links to controlling state statutes)",
+      "localities": [
+        {
+          "name": "Washington, DC",
+          "status": "Active",
+          "heat": "High",
+          "standard": "District rent control",
+          "note": "Treat as a special jurisdiction even though it is not a state.",
+          "url": "https://dhcd.dc.gov/service/rent-control"
+        }
+      ],
+      "verified_events": [],
+      "investment_relevance": [
+        "Map color reflects current direct rent-regulation constraint, not political ideology or a prediction of future policy.",
+        "A green state can still generate local landlord-tenant developments; the live feed is intentionally independent of the baseline color.",
+        "Preemption changes, ballot measures, good-cause rules, rent registries and enforcement actions can matter even without a rent cap."
+      ],
+      "formula": "District rent-control formula / CPI-based annual adjustment subject to statutory limits",
+      "vacancy": "District-specific vacancy and hardship-petition rules apply.",
+      "new_construction": "Coverage depends on building age, unit count, ownership and statutory exemptions.",
+      "primary_sources": [
+        [
+          "DC Department of Buildings / Rental Housing Commission resources",
+          "https://dhcd.dc.gov/service/rent-control"
+        ],
+        [
+          "DC Code Title 42, Chapter 35",
+          "https://code.dccouncil.gov/us/dc/council/code/titles/42/chapters/35"
+        ]
+      ]
+    }
+  }
+}

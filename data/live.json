@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-09-18T20:45:00Z",
+  "status": "seeded",
+  "window_days": 15,
+  "message": "Seed snapshot included with package. GitHub Actions will replace this with automated 15-day discovery after the first successful refresh.",
+  "articles": [],
+  "state_feeds": {},
+  "errors": []
+}
