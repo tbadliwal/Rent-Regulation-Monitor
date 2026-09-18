@@ -1,9 +1,249 @@
 {
-  "generated_at": "2026-09-18T20:45:00Z",
-  "status": "seeded",
+  "generated_at": "2026-09-18T21:16:04.870031Z",
+  "status": "partial",
   "window_days": 15,
-  "message": "Seed snapshot included with package. GitHub Actions will replace this with automated 15-day discovery after the first successful refresh.",
-  "articles": [],
-  "state_feeds": {},
-  "errors": []
+  "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
+  "articles": [
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-09-09T20:00:00Z",
+      "title": "Jersey City releases anticipated rent control audit , hires new housing preservation dir .",
+      "url": "https://hudsoncountyview.com/jersey-city-releases-anticipated-rent-control-audit-hires-new-housing-preservation-dir/",
+      "domain": "hudsoncountyview.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "source_tier": "C",
+      "verification": "Automated discovery — verify before relying on it"
+    }
+  ],
+  "state_feeds": {
+    "AL": [],
+    "AK": [],
+    "AZ": [],
+    "AR": [],
+    "CA": [],
+    "CO": [],
+    "CT": [],
+    "DE": [],
+    "FL": [],
+    "GA": [],
+    "HI": [],
+    "ID": [],
+    "IL": [],
+    "IN": [],
+    "IA": [],
+    "KS": [],
+    "KY": [],
+    "LA": [],
+    "ME": [],
+    "MD": [],
+    "MA": [],
+    "MI": [],
+    "MN": [],
+    "MS": [],
+    "MO": [],
+    "MT": [],
+    "NE": [],
+    "NV": [],
+    "NH": [],
+    "NJ": [
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-09-09T20:00:00Z",
+        "title": "Jersey City releases anticipated rent control audit , hires new housing preservation dir .",
+        "url": "https://hudsoncountyview.com/jersey-city-releases-anticipated-rent-control-audit-hires-new-housing-preservation-dir/",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "source_tier": "C",
+        "verification": "Automated discovery — verify before relying on it"
+      }
+    ],
+    "NM": [],
+    "NY": [],
+    "NC": [],
+    "ND": [],
+    "OH": [],
+    "OK": [],
+    "OR": [],
+    "PA": [],
+    "RI": [],
+    "SC": [],
+    "SD": [],
+    "TN": [],
+    "TX": [],
+    "UT": [],
+    "VT": [],
+    "VA": [],
+    "WA": [],
+    "WV": [],
+    "WI": [],
+    "WY": [],
+    "DC": []
+  },
+  "errors": [
+    {
+      "state": "AZ",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "AR",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "CA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "CT",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "FL",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "GA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "ID",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "IN",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "IA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "KS",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "KY",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "LA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "ME",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "MD",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "MA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "MI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "MN",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "MT",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "NE",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "NV",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "NH",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "NM",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "NY",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "NC",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "ND",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "OH",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "OK",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "OR",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "PA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "RI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "SC",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "TN",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "TX",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "UT",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "VT",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "VA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "WA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "WI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "DC",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "method": "GDELT DOC 2.0 state-by-state query; relevance filter; last successful state feed preserved on upstream failure."
 }
