@@ -1,0 +1,66 @@
+name: Refresh rent-regulation data and deploy monitor
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'data/baseline.json'
+      - 'data/verified_events.json'
+      - 'scripts/**'
+      - '.github/workflows/**'
+      - 'README.md'
+      - '.nojekyll'
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: rent-regulation-monitor-pages
+  cancel-in-progress: true
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Refresh 15-day discovery data
+        run: python scripts/update_live_data.py
+
+      - name: Save refreshed snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh rent-regulation discovery feed"
+            git push
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
