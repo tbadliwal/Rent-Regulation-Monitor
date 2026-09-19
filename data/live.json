@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-09-19T04:59:16.741708Z",
+  "generated_at": "2026-09-19T11:26:09.321504Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "TX",
+      "state_name": "Texas",
+      "locality": "",
+      "published": "2026-09-10T22:45:00Z",
+      "title": "Providence rent stabilization push springs back to post - primary life",
+      "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
+      "domain": "housingwire.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "source_tier": "C",
+      "verification": "Automated discovery — verify before relying on it"
+    },
     {
       "state": "NJ",
       "state_name": "New Jersey",
@@ -77,7 +91,22 @@
     "SC": [],
     "SD": [],
     "TN": [],
-    "TX": [],
+    "TX": [
+      {
+        "state": "TX",
+        "state_name": "Texas",
+        "locality": "",
+        "published": "2026-09-10T22:45:00Z",
+        "title": "Providence rent stabilization push springs back to post - primary life",
+        "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
+        "domain": "housingwire.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "source_tier": "C",
+        "verification": "Automated discovery — verify before relying on it"
+      }
+    ],
     "UT": [],
     "VT": [],
     "VA": [],
@@ -109,10 +138,6 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "CT",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "DE",
       "error": "HTTP Error 429: Too Many Requests"
     },
@@ -129,7 +154,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "ID",
+      "state": "IL",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -141,15 +166,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "KS",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "KY",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "LA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -162,10 +179,6 @@
     },
     {
       "state": "MA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "MI",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -194,10 +207,6 @@
     },
     {
       "state": "NH",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "NJ",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -238,14 +247,6 @@
     },
     {
       "state": "SD",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "TN",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "TX",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
