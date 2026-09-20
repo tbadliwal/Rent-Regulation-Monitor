@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:03:48.270935Z",
+  "generated_at": "2026-09-20T05:16:35.600356Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
@@ -15,6 +15,20 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
+      "source_tier": "C",
+      "verification": "Automated discovery — verify before relying on it"
+    },
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "Portland",
+      "published": "2026-09-10T18:15:00Z",
+      "title": "Portland council passes resolution requesting staff to fully enforce rent control",
+      "url": "https://www.pressherald.com/2026/09/10/portland-council-passes-resolution-requesting-staff-to-fully-enforce-rent-control/",
+      "domain": "pressherald.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Enacted / Effective",
       "source_tier": "C",
       "verification": "Automated discovery — verify before relying on it"
     },
@@ -52,7 +66,22 @@
     "KS": [],
     "KY": [],
     "LA": [],
-    "ME": [],
+    "ME": [
+      {
+        "state": "ME",
+        "state_name": "Maine",
+        "locality": "Portland",
+        "published": "2026-09-10T18:15:00Z",
+        "title": "Portland council passes resolution requesting staff to fully enforce rent control",
+        "url": "https://www.pressherald.com/2026/09/10/portland-council-passes-resolution-requesting-staff-to-fully-enforce-rent-control/",
+        "domain": "pressherald.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Enacted / Effective",
+        "source_tier": "C",
+        "verification": "Automated discovery — verify before relying on it"
+      }
+    ],
     "MD": [],
     "MA": [],
     "MI": [],
@@ -118,10 +147,6 @@
   },
   "errors": [
     {
-      "state": "AL",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "AK",
       "error": "HTTP Error 429: Too Many Requests"
     },
@@ -186,7 +211,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "ME",
+      "state": "LA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -210,15 +235,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "MO",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "NE",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "NV",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "NH",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -238,16 +263,8 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "ND",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "OH",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "OK",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "state": "OR",
@@ -262,6 +279,10 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "SC",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "SD",
       "error": "HTTP Error 429: Too Many Requests"
     },
@@ -270,15 +291,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "TX",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "UT",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "VT",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "VA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
