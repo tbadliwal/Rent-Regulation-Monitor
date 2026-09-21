@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-21T05:22:43.325782Z",
+  "generated_at": "2026-09-21T13:15:35.713076Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
   "articles": [
     {
-      "state": "TX",
-      "state_name": "Texas",
-      "locality": "",
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "locality": "Providence",
       "published": "2026-09-10T22:45:00Z",
       "title": "Providence rent stabilization push springs back to post - primary life",
       "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
@@ -116,7 +116,22 @@
     "OK": [],
     "OR": [],
     "PA": [],
-    "RI": [],
+    "RI": [
+      {
+        "state": "RI",
+        "state_name": "Rhode Island",
+        "locality": "Providence",
+        "published": "2026-09-10T22:45:00Z",
+        "title": "Providence rent stabilization push springs back to post - primary life",
+        "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
+        "domain": "housingwire.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "source_tier": "C",
+        "verification": "Automated discovery — verify before relying on it"
+      }
+    ],
     "SC": [],
     "SD": [],
     "TN": [],
@@ -175,7 +190,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "HI",
+      "state": "GA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -183,15 +198,11 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "IL",
+      "state": "IN",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "IA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "KS",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -200,6 +211,10 @@
     },
     {
       "state": "LA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "ME",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -251,12 +266,16 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "NC",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "ND",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "OH",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "state": "OK",
@@ -267,19 +286,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "PA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "RI",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "SC",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "SD",
+      "state": "TN",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -299,15 +306,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "WA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "WV",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "WI",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "WY",
+      "state": "DC",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
