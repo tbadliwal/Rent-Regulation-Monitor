@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:06:19.374823Z",
+  "generated_at": "2026-09-23T17:29:49.412054Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
@@ -162,12 +162,8 @@
   },
   "errors": [
     {
-      "state": "AL",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "AK",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "AZ",
@@ -194,15 +190,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "GA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "HI",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "ID",
+      "state": "FL",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -210,27 +198,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "IN",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "IA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "KY",
+      "state": "KS",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "LA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "ME",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "state": "MD",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -250,15 +226,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "MT",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "NE",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "NV",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -290,6 +258,10 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "OK",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "OR",
       "error": "HTTP Error 429: Too Many Requests"
     },
@@ -310,16 +282,12 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "TN",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "TX",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "UT",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "VT",
@@ -334,12 +302,20 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "WV",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "WI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "WY",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "DC",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "GDELT DOC 2.0 state-by-state query; relevance filter; last successful state feed preserved on upstream failure."
