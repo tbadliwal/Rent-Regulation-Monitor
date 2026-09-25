@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:52:08.290191Z",
+  "generated_at": "2026-09-25T05:21:10.970773Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
@@ -166,11 +166,11 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "AZ",
+      "state": "AR",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "AR",
+      "state": "CO",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -190,7 +190,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "ID",
+      "state": "HI",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -199,10 +199,6 @@
     },
     {
       "state": "IA",
-      "error": "Expecting value: line 1 column 1 (char 0)"
-    },
-    {
-      "state": "KS",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -222,7 +218,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "MI",
+      "state": "MN",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -242,6 +238,10 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "NH",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "NJ",
       "error": "HTTP Error 429: Too Many Requests"
     },
@@ -254,15 +254,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "NC",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "ND",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "OH",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "OK",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -274,15 +274,11 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "RI",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "SC",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "SD",
+      "state": "TX",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -294,7 +290,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "VA",
+      "state": "WA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -303,6 +299,14 @@
     },
     {
       "state": "WI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "WY",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "DC",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
