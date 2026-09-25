@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:16:10.656155Z",
+  "generated_at": "2026-09-25T17:34:26.399498Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
@@ -43,20 +43,6 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Enacted / Effective",
-      "source_tier": "C",
-      "verification": "Automated discovery — verify before relying on it"
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-09-09T20:00:00Z",
-      "title": "Jersey City releases anticipated rent control audit , hires new housing preservation dir .",
-      "url": "https://hudsoncountyview.com/jersey-city-releases-anticipated-rent-control-audit-hires-new-housing-preservation-dir/",
-      "domain": "hudsoncountyview.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
       "source_tier": "C",
       "verification": "Automated discovery — verify before relying on it"
     }
@@ -121,22 +107,7 @@
     "NE": [],
     "NV": [],
     "NH": [],
-    "NJ": [
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-09-09T20:00:00Z",
-        "title": "Jersey City releases anticipated rent control audit , hires new housing preservation dir .",
-        "url": "https://hudsoncountyview.com/jersey-city-releases-anticipated-rent-control-audit-hires-new-housing-preservation-dir/",
-        "domain": "hudsoncountyview.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "source_tier": "C",
-        "verification": "Automated discovery — verify before relying on it"
-      }
-    ],
+    "NJ": [],
     "NM": [],
     "NY": [],
     "NC": [],
@@ -199,7 +170,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "AZ",
+      "state": "AR",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -207,7 +178,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "CT",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "DE",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "GA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -216,10 +195,6 @@
     },
     {
       "state": "ID",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "IL",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -235,19 +210,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "KY",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "LA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "ME",
+      "state": "MD",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "MD",
+      "state": "MA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -283,15 +254,11 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "NJ",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "NM",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "NY",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "NC",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -303,23 +270,11 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "OK",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "OR",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "PA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "RI",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "SC",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -360,10 +315,6 @@
     },
     {
       "state": "WY",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "DC",
       "error": "HTTP Error 429: Too Many Requests"
     }
   ],
