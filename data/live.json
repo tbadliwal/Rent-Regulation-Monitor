@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-09-25T05:21:10.970773Z",
+  "generated_at": "2026-09-25T12:16:10.656155Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "locality": "",
+      "published": "2026-09-24T23:45:00Z",
+      "title": "Rent control proposals fizzling out",
+      "url": "https://www.gloucestertimes.com/news/state_news/rent-control-proposals-fizzling-out/article_0d34ddae-93c5-548c-bbf0-a4398743aaa8.html",
+      "domain": "gloucestertimes.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "source_tier": "C",
+      "verification": "Automated discovery — verify before relying on it"
+    },
     {
       "state": "RI",
       "state_name": "Rhode Island",
@@ -83,7 +97,22 @@
       }
     ],
     "MD": [],
-    "MA": [],
+    "MA": [
+      {
+        "state": "MA",
+        "state_name": "Massachusetts",
+        "locality": "",
+        "published": "2026-09-24T23:45:00Z",
+        "title": "Rent control proposals fizzling out",
+        "url": "https://www.gloucestertimes.com/news/state_news/rent-control-proposals-fizzling-out/article_0d34ddae-93c5-548c-bbf0-a4398743aaa8.html",
+        "domain": "gloucestertimes.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "source_tier": "C",
+        "verification": "Automated discovery — verify before relying on it"
+      }
+    ],
     "MI": [],
     "MN": [],
     "MS": [],
@@ -166,7 +195,11 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "AR",
+      "state": "AK",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "AZ",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -174,23 +207,19 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "CT",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "DE",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "FL",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "GA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "HI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "ID",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "IL",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -202,7 +231,15 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "KS",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "KY",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "LA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -214,7 +251,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "MA",
+      "state": "MI",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -223,6 +260,10 @@
     },
     {
       "state": "MS",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "MO",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -274,7 +315,19 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "RI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "SC",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "SD",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "TN",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -287,6 +340,10 @@
     },
     {
       "state": "VT",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "VA",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
