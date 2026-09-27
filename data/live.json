@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:44:45.119976Z",
+  "generated_at": "2026-09-27T12:27:41.095176Z",
   "status": "partial",
   "window_days": 15,
   "message": "Automated discovery feed. Items are candidates, not verified legal conclusions.",
@@ -149,19 +149,11 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "CA",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "CO",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "CT",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "DE",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -178,19 +170,11 @@
     },
     {
       "state": "ID",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "state": "IL",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "state": "IN",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "IA",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "state": "KS",
@@ -201,7 +185,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "LA",
+      "state": "ME",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -210,6 +194,10 @@
     },
     {
       "state": "MA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "MI",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -222,18 +210,14 @@
     },
     {
       "state": "MO",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "MT",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "NE",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "state": "NV",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -277,15 +261,7 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "state": "SC",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
       "state": "SD",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "state": "TN",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
@@ -301,16 +277,20 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
+      "state": "VA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "state": "WA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
       "state": "WV",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "WI",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "state": "WY",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "state": "DC",
