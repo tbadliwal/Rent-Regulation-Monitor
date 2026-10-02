@@ -1,0 +1,215 @@
+{
+  "as_of": "2026-10-02",
+  "note": "Property-coverage layer for material jurisdictions. Priority rules are checked against primary government/statutory sources; asset-level facts and local amendments still control.",
+  "states": {
+    "CA": {
+      "coverage_headline": "Most California rental housing more than 15 years old; local ordinances may be tighter",
+      "applies_to": "California's Tenant Protection Act rent cap generally applies to most rental housing more than 15 years old. Corporate/REIT-owned single-family homes and condominiums can be covered; local rent-control ordinances may cover a different subset of units.",
+      "age_test": "State TPA: housing with a certificate of occupancy issued within the previous 15 years is exempt from the statewide rent cap (rolling test).",
+      "other_exemptions": "Key statewide exemptions include certain dormitories; housing already subject to a stricter public rent/price control; qualifying separately alienable single-family homes/condos when ownership and notice requirements are satisfied; and certain owner-occupied duplexes. Local ordinances have their own coverage rules.",
+      "vacancy": "California generally permits a lawful reset of initial rent at a qualifying vacancy under Costa-Hawkins, subject to statutory/local exceptions. Subsequent increases may again be regulated.",
+      "source_label": "California DOJ — Housing / rent-cap coverage",
+      "source_url": "https://oag.ca.gov/housing",
+      "localities": {
+        "Los Angeles": {
+          "coverage": "Generally rental properties first built on or before Oct. 1, 1978; includes apartments, duplexes, certain condos/townhomes, 2+ single-family dwellings on one parcel, long-term hotel/motel/rooming-house occupancies, and some residential units attached to commercial buildings.",
+          "age_test": "City RSO generally uses an Oct. 1, 1978 construction cutoff; replacement units can also be covered.",
+          "source_url": "https://housing.lacity.gov/residents/rso-overview"
+        },
+        "San Francisco": {
+          "coverage": "Many residential units first occupied on or before June 13, 1979 are subject to local rent-increase limits; most privately rented units have separate just-cause protections even where rent control does not apply.",
+          "age_test": "New construction first receiving a certificate of occupancy after June 13, 1979 is generally exempt from local rent-increase controls, subject to exceptions.",
+          "source_url": "https://www.sf.gov/learn-about-san-francisco-rental-laws"
+        },
+        "Oakland": {
+          "coverage": "Rent Adjustment Ordinance generally covers rental units in most multifamily properties built before Jan. 1, 1983.",
+          "age_test": "Units built on/after Jan. 1, 1983 are generally exempt from RAP rent controls; single-family homes/condos can also be exempt under Costa-Hawkins.",
+          "source_url": "https://www.oaklandca.gov/Community/Housing-Programs-Support/Rent-Adjustment-Program-RAP/For-Property-Owners/Properties-Exempt-from-the-Rent-Adjustment-Program"
+        },
+        "Berkeley": {
+          "coverage": "Fully covered units include most multifamily units built before June 1980; some single-family/room-rental categories can also be fully covered.",
+          "age_test": "New-construction units with certificates of occupancy after June 1980 are generally not subject to Berkeley rent control, though they can remain partially covered by other ordinance provisions.",
+          "source_url": "https://rentboard.berkeleyca.gov/rights-responsibilities/registration"
+        },
+        "Pasadena": {
+          "coverage": "Rent stabilization generally covers multifamily rental properties such as duplexes, triplexes and apartments built before Feb. 1, 1995.",
+          "age_test": "Residential rental units built after Feb. 1, 1995 are exempt from Pasadena's rent-increase controls; single-family homes and condos are generally exempt from rent control, subject to unit/property facts.",
+          "source_url": "https://www.cityofpasadena.net/rent-stabilization/info-sheets/is-my-unit-covered/"
+        },
+        "Santa Barbara": {
+          "coverage": "Current 2026 temporary moratorium generally covers multi-unit residential rentals with a certificate of occupancy on or before Feb. 1, 1995, subject to listed exemptions. The permanent rent-stabilization ordinance introduced Sept. 29 should be re-checked after final adoption.",
+          "age_test": "Certificate of occupancy on or before Feb. 1, 1995 for the current moratorium/local Costa-Hawkins-eligible coverage; separately alienable units such as most single-family homes and condos are generally excluded from this rent-amount layer.",
+          "source_url": "https://santabarbaraca.gov/rental-ordinances"
+        },
+        "San Pablo": {
+          "coverage": "The adopted Rent Review Program applies to most rental housing when increases exceed 7% in a 12-month period, including single-family homes/condos, multifamily units, mobile-home spaces, ADUs/JADUs, duplexes and newer units. It is a review/mediation process, not a hard rent cap.",
+          "age_test": "No 15-year new-construction carveout for the Rent Review Program; the City specifically lists units built within the past 15 years as covered. Separate affordable/government/institutional exclusions apply.",
+          "source_url": "https://www.sanpabloca.gov/2953/San-Pablo-Rent-Review-Program"
+        }
+      }
+    },
+    "OR": {
+      "coverage_headline": "Most residential tenancies under ORS 90.323; new construction under 15 years is exempt from the percentage cap",
+      "applies_to": "The statewide annual-increase framework applies to most residential tenancies governed by ORS 90.323. Manufactured-dwelling and marina tenancies have separate rules under ORS 90.600/90.324.",
+      "age_test": "A landlord is exempt from the percentage cap if the dwelling unit's first certificate of occupancy was issued less than 15 years before the rent-increase notice.",
+      "other_exemptions": "Certain government-regulated/certified affordable housing increases are exempt when statutory conditions are met. ORS 90.323 also bars increases during the first year of most non-week-to-week tenancies and generally limits increases to once per 12 months.",
+      "vacancy": "The statute regulates increases during a tenancy and contains first-year/notice rules. Property-age and affordable-housing exemptions are critical to underwriting.",
+      "source_label": "Oregon Legislature — ORS 90.323 / 90.324",
+      "source_url": "https://www.oregonlegislature.gov/bills_laws/ors/ors090.html",
+      "localities": {
+        "Portland": {
+          "coverage": "State rent-amount rules govern; Oregon preempts local rent-amount controls. Portland-specific relocation and tenant-protection rules can still affect economics.",
+          "age_test": "Use the statewide 15-year certificate-of-occupancy test for the state rent cap.",
+          "source_url": "https://www.portland.gov/phb/rental-services"
+        }
+      }
+    },
+    "WA": {
+      "coverage_headline": "Covered residential tenancies under the RLTA; new units 12 years old or less are exempt from the annual cap",
+      "applies_to": "Washington's statewide limit applies to residential tenancies under RCW 59.18 unless a statutory exemption applies. A landlord may not increase rent during the first 12 months of a tenancy; after that, the annual limit applies to covered tenancies.",
+      "age_test": "A dwelling unit is exempt from the annual rent-increase limit if its first certificate of occupancy was issued 12 or less years before the rent-increase notice.",
+      "other_exemptions": "Statutory exemptions also include specified public-housing, public-development-authority, nonprofit and regulated affordable-housing situations. Manufactured/mobile-home tenancies have a separate statewide framework.",
+      "vacancy": "No increase during the first 12 months of a covered tenancy; annual limit thereafter unless an exemption applies.",
+      "source_label": "Washington Legislature — RCW 59.18.710",
+      "source_url": "https://app.leg.wa.gov/RCW/default.aspx?cite=59.18.710",
+      "localities": {
+        "Seattle": {
+          "coverage": "No separate city rent-amount cap because state law preempts local rent-amount controls; Seattle tenant protections and notice rules can still apply by property/tenancy type.",
+          "age_test": "State 12-year-or-less new-construction exemption controls the statewide rent-cap analysis.",
+          "source_url": "https://www.seattle.gov/rentinginseattle"
+        },
+        "Tacoma": {
+          "coverage": "No separate city rent-amount cap; state cap applies to covered properties while local tenant-protection requirements may add costs/notice obligations.",
+          "age_test": "State 12-year-or-less new-construction exemption controls the statewide rent-cap analysis.",
+          "source_url": "https://www.cityoftacoma.org/government/city_departments/equity_and_human_rights/landlord-tenant_program"
+        }
+      }
+    },
+    "MN": {
+      "coverage_headline": "No statewide cap; applicability is locality-specific, with Saint Paul the material active regime",
+      "applies_to": "Minnesota has no general statewide rent cap in this monitor. State law permits local rent control only through the specified voter-approved pathway. Saint Paul's ordinance is the key active rent-stabilization regime.",
+      "age_test": "Saint Paul exempts newly constructed residential rental properties with a first building certificate of occupancy after Dec. 31, 2004, and qualifying residential conversions receiving a new/renewed certificate after that date.",
+      "other_exemptions": "Saint Paul also has a low-income housing provider exception and processes for increases above the standard 3% limit, including self-certification, just-cause vacancy and reasonable-return determinations.",
+      "vacancy": "Saint Paul allows a just-cause vacancy increase of CPI + 8% under its current rules; other Minnesota localities differ.",
+      "source_label": "Saint Paul — Rent Stabilization for Landlords",
+      "source_url": "https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/rent-stabilization/landlords",
+      "localities": {
+        "Saint Paul": {
+          "coverage": "Residential rental properties subject to the ordinance unless an exception applies; current standard allowable increase is 3% in a 12-month period.",
+          "age_test": "New construction / qualifying residential conversions with certificate of occupancy after Dec. 31, 2004 are exempt from the rent-increase limitation.",
+          "source_url": "https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/rent-stabilization/landlords"
+        }
+      }
+    },
+    "NY": {
+      "coverage_headline": "No general statewide cap; NYC/ETPA rent stabilization and Good Cause cover different property sets",
+      "applies_to": "New York's material property coverage is regime-specific. NYC rent stabilization generally covers many buildings with 6+ units built before 1974, plus certain newer tax-benefit properties. Outside NYC, ETPA adoption generally targets pre-1974 buildings with 6+ units after a qualifying vacancy emergency declaration. Good Cause Eviction is separate.",
+      "age_test": "For NYC Good Cause Eviction, homes built on or after Jan. 1, 2009 are exempt until 30 years after the certificate-of-occupancy date. ETPA/rent-stabilization coverage uses different building-age/unit-count tests.",
+      "other_exemptions": "Good Cause has numerous exemptions. In New York City, a 'small landlord' generally owns 10 or fewer housing units statewide; separate exemptions include certain owner-occupied buildings, condos/co-ops, already regulated housing, certain subsidized housing, high-rent units, and specified institutional/seasonal housing. Local opt-in jurisdictions can define some parameters differently.",
+      "vacancy": "Rent-stabilized, rent-controlled, ETPA and Good Cause units have different vacancy/deregulation mechanics; unit-level status is essential.",
+      "source_label": "New York Attorney General / NYS HCR — Good Cause + rent stabilization applicability",
+      "source_url": "https://ag.ny.gov/publications/new-york-state-good-cause-eviction-law",
+      "localities": {
+        "New York City": {
+          "coverage": "Rent stabilization generally applies to buildings with 6+ units built 1947-1973, certain older buildings depending on tenancy, and some newer properties receiving tax benefits. Good Cause is a separate overlay for qualifying market-rate housing.",
+          "age_test": "Good Cause: post-Jan. 1, 2009 homes are exempt for 30 years from certificate of occupancy; rent stabilization has separate pre-1974/tax-benefit tests.",
+          "source_url": "https://hcr.ny.gov/rent-stabilization-and-emergency-tenant-protection-act"
+        }
+      }
+    },
+    "NJ": {
+      "coverage_headline": "No statewide cap; municipal ordinances determine coverage, subject to a major new-construction exemption",
+      "applies_to": "New Jersey has no statewide rent-control cap. Municipalities may enact rent-control/rent-leveling ordinances, so the covered property type must be checked city by city.",
+      "age_test": "Under the Newly Constructed Multiple Dwellings Law, qualifying newly constructed multiple dwellings can be exempt from local rent-control limits for the initial mortgage amortization period or 30 years after construction, whichever is less; without initial mortgage financing, the period is 30 years.",
+      "other_exemptions": "Municipal ordinances add their own exemptions and definitions. Do not assume a property is covered solely because it is in a rent-control municipality.",
+      "vacancy": "Vacancy treatment is municipality-specific and can differ materially across New Jersey cities.",
+      "source_label": "NJ DCA — Newly Constructed Multiple Dwellings Law",
+      "source_url": "https://www.nj.gov/dca/codes/publications/pdf_lti/new_const_m_dwell_law.pdf",
+      "localities": {
+        "Newark": {
+          "coverage": "Newark's ordinance covers defined dwelling units subject to local rules; official exemptions include public housing, transient motel/hotel space, commercial space, and qualifying newly constructed multiple dwellings, among others.",
+          "age_test": "Qualifying new multiple dwellings can receive the statutory/local exemption period; ordinance-specific filings and facts matter.",
+          "source_url": "https://ecode360.com/36623772"
+        },
+        "Jersey City": {
+          "coverage": "Municipal rent-control status is property-specific; the city's 2026 audit/property-status work is designed to identify covered properties and legal-rent issues.",
+          "age_test": "Check the New Jersey new-construction exemption plus Jersey City property status/filings.",
+          "source_url": "https://www.jerseycitynj.gov/news/residents_to_fight_illegal_rent_increases"
+        }
+      }
+    },
+    "MD": {
+      "coverage_headline": "No statewide cap; major county/city regimes use different property-age and exemption tests",
+      "applies_to": "Maryland has no general statewide rent cap. Coverage is local. Montgomery County regulates most County-licensed residential rental units that are at least 23 years old unless exempt; Prince George’s County regulates covered units under its Permanent Rent Stabilization and Protection Act; Takoma Park operates a separate city program.",
+      "age_test": "Montgomery County: generally 23 years old (for 2026, units built in or before 2003 are within the age screen, subject to exemptions). Prince George’s County: units whose construction was completed on or after Jan. 1, 2000 are exempt from PRSA. Takoma Park uses its own ordinance-specific coverage rules.",
+      "other_exemptions": "Montgomery County exemptions include, among others, certain small landlords owning two or fewer County rental units, owner-occupied duplexes, ADUs, regulated affordable housing and qualifying substantial renovations. Prince George’s County has separate statutory exemptions. Municipality must be checked before applying any formula.",
+      "vacancy": "Vacancy/turnover treatment is locality-specific. Do not apply one county’s renewal or vacancy mechanics to another Maryland jurisdiction.",
+      "source_label": "Montgomery County DHCA — Rent Stabilization; Prince George’s County PRSA",
+      "source_url": "https://www.montgomerycountymd.gov/DHCA/Tenants/RentStabilization.html",
+      "localities": {
+        "Montgomery County": {
+          "coverage": "Unless otherwise exempt, County-licensed residential rental units at least 23 years old are rent stabilized. The current 2026–27 allowance is 5.2%.",
+          "age_test": "A unit is treated as 23 years old on Jan. 1 of the 23rd year after its SDAT “Year Built”; units built in or before 2003 are within the 2026 age screen.",
+          "source_url": "https://www.montgomerycountymd.gov/DHCA/Tenants/RentStabilization.html"
+        },
+        "Prince George’s County": {
+          "coverage": "PRSA applies to regulated residential units unless an exemption applies; senior and non-senior regulated units use different annual formulas.",
+          "age_test": "A unit whose construction was completed on or after Jan. 1, 2000 is exempt from PRSA rent-increase limits.",
+          "source_url": "https://www.princegeorgescountymd.gov/departments-offices/permitting-inspections-and-enforcement/about-dpie/permanent-rent-stabilization-and-protection-act-prsa"
+        },
+        "Takoma Park": {
+          "coverage": "Local rent stabilization covers many multifamily rentals and rental condominium units, subject to city exemptions; single-family houses, accessory apartments and owner-occupied duplexes are among excluded categories.",
+          "age_test": "Takoma Park has ordinance-specific new-construction exemptions; use the City’s current exemption/registration determination for asset-level analysis.",
+          "source_url": "https://www.takomaparkmd.gov/1594/Rent-Stabilization-Rent-Increase-Allowan"
+        }
+      }
+    },
+    "DC": {
+      "coverage_headline": "District rent control applies to covered pre-1976 housing; important ownership and building-age exemptions",
+      "applies_to": "D.C. rent control applies to covered rental accommodations unless a statutory exemption applies. For Rent Control Year 2026, most rent-controlled units face a 4.1% standard annual cap; qualifying elderly/disability tenants have a 2.1% cap.",
+      "age_test": "Housing accommodations built after 1975 are generally exempt from rent control.",
+      "other_exemptions": "A major exemption covers accommodations owned by a natural person who owns no more than four rental units in the District. Housing vacant when the original Act took effect is also listed as exempt. All housing providers must register rental properties even when claiming an exemption.",
+      "vacancy": "D.C. has separate vacancy, petition, surcharge and registration mechanics; an exemption determination should be verified before modeling rent growth.",
+      "source_label": "D.C. DHCD — Rent Control",
+      "source_url": "https://dhcd.dc.gov/rentcontrol",
+      "localities": {
+        "Washington, DC": {
+          "coverage": "District-wide rent control for covered units; 2026 standard cap is 4.1%, with 2.1% for qualifying elderly/disability tenants.",
+          "age_test": "Built after 1975 is generally exempt; owner-size and other statutory exemptions also matter.",
+          "source_url": "https://dhcd.dc.gov/rentcontrol"
+        }
+      }
+    },
+    "CT": {
+      "coverage_headline": "No fixed statewide percentage cap; Fair Rent Commissions can review excessive charges across covered housing",
+      "applies_to": "Connecticut requires municipalities with populations of at least 25,000 to create Fair Rent Commissions; smaller municipalities may do so voluntarily. Commissions may receive complaints concerning rental charges on housing accommodations other than seasonal rentals, including mobile manufactured homes and mobile-home park lots.",
+      "age_test": "There is no uniform statewide building-age test because Connecticut does not impose one statewide percentage cap. Commission jurisdiction follows state statute plus each municipality’s ordinance.",
+      "other_exemptions": "Seasonal accommodations rented for periods aggregating no more than 120 days in a calendar year are excluded from the statutory Fair Rent Commission housing-accommodation definition. Local procedures and relief vary.",
+      "vacancy": "The system is complaint-based rather than a universal vacancy-control formula. A commission can reduce or phase in a charge it finds harsh and unconscionable or unfair and inequitable.",
+      "source_label": "Connecticut Department of Housing — Fair Rent Commissions",
+      "source_url": "https://portal.ct.gov/doh/doh-1/housing/fair-rent-commissions",
+      "localities": {}
+    },
+    "ME": {
+      "coverage_headline": "No statewide cap; Portland and South Portland impose materially different local regimes",
+      "applies_to": "Maine does not impose a general statewide rent cap. Portland’s local rent-control ordinance applies broadly to rental units but exempts specified categories from rent-increase limits. South Portland’s 10% cap is narrower and primarily applies to owners/affiliates with 16 or more non-exempt units.",
+      "age_test": "Portland uses its own ordinance-specific exemptions. South Portland exempts any housing unit whose first certificate of occupancy was issued on or after May 27, 2023.",
+      "other_exemptions": "Portland exemptions include owner-occupied 2–4 unit buildings, publicly controlled/subsidized units, ADUs, municipal housing authority units, certain institutional housing and specified dormitories. South Portland exempts owners/affiliates with 15 or fewer units, post-May 27 2023 construction, specified subsidized/institutional housing, certain shared-owner housing, owner-occupied single-family residences/ADUs and short-term rentals.",
+      "vacancy": "Portland permits a limited new-tenancy increase (subject to ordinance mechanics) rather than unrestricted vacancy reset. South Portland allows a base-rent reset at complete vacancy under its ordinance, while still limiting timing/mechanics.",
+      "source_label": "City of Portland Rent Control FAQ; South Portland Code Chapter 12",
+      "source_url": "https://www.portlandmaine.gov/1148/Rent-Control-Rental-Housing-Rights",
+      "localities": {
+        "Portland": {
+          "coverage": "Portland’s ordinance applies broadly to rental units; listed categories are exempt from rent-increase limits. The 2026 Allowable Increase Percentage is 2.2%; other allowed mechanisms include limited new-tenancy and banked increases, subject to the ordinance.",
+          "age_test": "No single rolling statewide-style age test; property category/exemption status must be checked under the local ordinance.",
+          "source_url": "https://www.portlandmaine.gov/1148/Rent-Control-Rental-Housing-Rights"
+        },
+        "South Portland": {
+          "coverage": "10% annual cap for non-exempt units; owners/affiliates with 15 or fewer units are exempt, along with several other categories.",
+          "age_test": "Units first receiving a certificate of occupancy on or after May 27, 2023 are exempt.",
+          "source_url": "https://www.southportland.gov/DocumentCenter/View/1074"
+        }
+      }
+    }
+  }
+}
