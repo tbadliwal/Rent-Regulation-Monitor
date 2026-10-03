@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:28:02.618985Z",
+  "generated_at": "2026-10-03T11:49:36.655622Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -76,10 +76,10 @@
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-10-02T02:07:35Z",
+      "published": "2026-10-01T20:46:52Z",
       "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEg1RHRwTTdTQy1OVTVDcEJHakRzM0JGWXQ5ck1WR3RyUk5PMTlTZjRoQkxXbFhXTm8tZzhDSW1wRnVtOGNUWlJ4MnlnSm9RQ1BYMEM4R2l5REk5Z0QzRUdmS1lWdmMwQy1SZE5wWktFdTJlamJmM1EtS1dlSkJLMWdGWUJHRHNmQmM2OS1iLXM4RFBJS3pTOV9HaFB2dGdXb25tZ1oyd9IBrAFBVV95cUxQUW9fSkpTVXBqS3NkV1haQTAzYl9DWkJyQ09sb2ZUS0pIbXlJb1V2VHBWOGhnTzNsYVpCTTV4bVdjb3NhcHdVcGxGeWQtUkJ0NU5BSzFuTXN0ZGlOdVJKbEVCQ1J1aWhqVWljV0VUQVlqcnBLWE44blVqbk5uUFNrOUNDMTNuNTQ3ZC04VWg2XzV0c3AyYVBvX0VodnJHb1dhNmtKTW81UEZaeld2?oc=5",
-      "domain": "localsyr.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
+      "domain": "news10.com",
       "source_country": "United States",
       "type": "Algorithmic Pricing",
       "status": "Litigation",
@@ -274,7 +274,8 @@
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -427,7 +428,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -632,6 +634,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "locality": "Providence",
+      "published": "2026-09-20T07:00:00Z",
+      "title": "Q&A: Where the rent control debate stands in Providence",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3YtYUNkZlVOQkRSc1U1NnoyU3M3YlBfTjNUS19CZ3ZyRGExWjNna0lnREdMOXRWcVNtXzV3cEZTMlBYNjNVMHlzT1dOZF9EbUpraVFRVWF2MEYxeWkxRzdITm9DYnZORDJDZUUzQ0stR2VRbk5lUnBxU01tM05fdzRtTHdPZllDc2lZRl9rMk9lOWR3?oc=5",
+      "domain": "wpri.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "",
@@ -697,8 +716,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "IL",
@@ -738,7 +756,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
-      "published": "2026-09-15T11:21:42Z",
+      "published": "2026-09-15T07:00:00Z",
       "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
       "domain": "tapinto.net",
@@ -755,7 +773,7 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Pasadena",
-      "published": "2026-09-14T12:37:39Z",
+      "published": "2026-09-14T07:00:00Z",
       "title": "Proposed Measure to Overhaul Pasadena Rent Control Law Could Force Sunset of Measure H",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE4xS0tTa1ZTbFhrTjlNR01FTW1iZHZpX2dZZWpTdXg5bXB6VEUyaTBHZ3pmMENJMHJPR3R5WXBmTmxwbHFpWU5SS0hQdXE2cXA2ekpodjJpUXNqMktGTlpNMUM1WmRuaE1TSkhVeDQ0N1hYUUxFTUdzUGl0WlgyV0FGeXNJS2JUNVdmNVgtRl9sU1d2bDdEbDY2cmtZSkY5YVJWZE9yN0tVSzZxOEtnbzhSNllSdw?oc=5",
       "domain": "pasadenanow.com",
@@ -1062,7 +1080,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1255,7 +1274,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-09-14T12:37:39Z",
+        "published": "2026-09-14T07:00:00Z",
         "title": "Proposed Measure to Overhaul Pasadena Rent Control Law Could Force Sunset of Measure H",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE4xS0tTa1ZTbFhrTjlNR01FTW1iZHZpX2dZZWpTdXg5bXB6VEUyaTBHZ3pmMENJMHJPR3R5WXBmTmxwbHFpWU5SS0hQdXE2cXA2ekpodjJpUXNqMktGTlpNMUM1WmRuaE1TSkhVeDQ0N1hYUUxFTUdzUGl0WlgyV0FGeXNJS2JUNVdmNVgtRl9sU1d2bDdEbDY2cmtZSkY5YVJWZE9yN0tVSzZxOEtnbzhSNllSdw?oc=5",
         "domain": "pasadenanow.com",
@@ -1349,7 +1368,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-09-15T11:21:42Z",
+        "published": "2026-09-15T07:00:00Z",
         "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
         "domain": "tapinto.net",
@@ -1437,10 +1456,10 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-02T02:07:35Z",
+        "published": "2026-10-01T20:46:52Z",
         "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEg1RHRwTTdTQy1OVTVDcEJHakRzM0JGWXQ5ck1WR3RyUk5PMTlTZjRoQkxXbFhXTm8tZzhDSW1wRnVtOGNUWlJ4MnlnSm9RQ1BYMEM4R2l5REk5Z0QzRUdmS1lWdmMwQy1SZE5wWktFdTJlamJmM1EtS1dlSkJLMWdGWUJHRHNmQmM2OS1iLXM4RFBJS3pTOV9HaFB2dGdXb25tZ1oyd9IBrAFBVV95cUxQUW9fSkpTVXBqS3NkV1haQTAzYl9DWkJyQ09sb2ZUS0pIbXlJb1V2VHBWOGhnTzNsYVpCTTV4bVdjb3NhcHdVcGxGeWQtUkJ0NU5BSzFuTXN0ZGlOdVJKbEVCQ1J1aWhqVWljV0VUQVlqcnBLWE44blVqbk5uUFNrOUNDMTNuNTQ3ZC04VWg2XzV0c3AyYVBvX0VodnJHb1dhNmtKTW81UEZaeld2?oc=5",
-        "domain": "localsyr.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
+        "domain": "news10.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
         "status": "Litigation",
@@ -1567,7 +1586,8 @@
         "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NC": [
@@ -1603,6 +1623,23 @@
         "title": "Democratic Socialist Candidate in Providence Touts Rent Control as City Flunks Housing Test",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2xENkZuOG1GaUF0SnVla3VFTlpRdVBXYkZpOWs0ZUQ5clZMRlJFVjlfbnIxME5sUTE2a29EVF9tMWY3WGtycXRrdUN3WWJOek94ajkxSjh1cmNSR0lXQXFkMVh6THRqMTM5Tl9kTDg2cG9XREpzUk03al9tdEVIUGc1Z0owRW5GQXZRbG1iXzVtNmwwYk01eEF5RzJNU0g3aXJ3aGFQS2RXUkVoaHRNeQ?oc=5",
         "domain": "realtor.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "RI",
+        "state_name": "Rhode Island",
+        "locality": "Providence",
+        "published": "2026-09-20T07:00:00Z",
+        "title": "Q&A: Where the rent control debate stands in Providence",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3YtYUNkZlVOQkRSc1U1NnoyU3M3YlBfTjNUS19CZ3ZyRGExWjNna0lnREdMOXRWcVNtXzV3cEZTMlBYNjNVMHlzT1dOZF9EbUpraVFRVWF2MEYxeWkxRzdITm9DYnZORDJDZUUzQ0stR2VRbk5lUnBxU01tM05fdzRtTHdPZllDc2lZRl9rMk9lOWR3?oc=5",
+        "domain": "wpri.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -1813,7 +1850,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1923,7 +1961,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-09-15T11:21:42Z",
+        "published": "2026-09-15T07:00:00Z",
         "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
         "domain": "tapinto.net",
@@ -1976,7 +2014,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-09-14T12:37:39Z",
+        "published": "2026-09-14T07:00:00Z",
         "title": "Proposed Measure to Overhaul Pasadena Rent Control Law Could Force Sunset of Measure H",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE4xS0tTa1ZTbFhrTjlNR01FTW1iZHZpX2dZZWpTdXg5bXB6VEUyaTBHZ3pmMENJMHJPR3R5WXBmTmxwbHFpWU5SS0hQdXE2cXA2ekpodjJpUXNqMktGTlpNMUM1WmRuaE1TSkhVeDQ0N1hYUUxFTUdzUGl0WlgyV0FGeXNJS2JUNVdmNVgtRl9sU1d2bDdEbDY2cmtZSkY5YVJWZE9yN0tVSzZxOEtnbzhSNllSdw?oc=5",
         "domain": "pasadenanow.com",
@@ -2018,6 +2056,23 @@
         "title": "Democratic Socialist Candidate in Providence Touts Rent Control as City Flunks Housing Test",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2xENkZuOG1GaUF0SnVla3VFTlpRdVBXYkZpOWs0ZUQ5clZMRlJFVjlfbnIxME5sUTE2a29EVF9tMWY3WGtycXRrdUN3WWJOek94ajkxSjh1cmNSR0lXQXFkMVh6THRqMTM5Tl9kTDg2cG9XREpzUk03al9tdEVIUGc1Z0owRW5GQXZRbG1iXzVtNmwwYk01eEF5RzJNU0g3aXJ3aGFQS2RXUkVoaHRNeQ?oc=5",
         "domain": "realtor.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "RI",
+        "state_name": "Rhode Island",
+        "locality": "Providence",
+        "published": "2026-09-20T07:00:00Z",
+        "title": "Q&A: Where the rent control debate stands in Providence",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3YtYUNkZlVOQkRSc1U1NnoyU3M3YlBfTjNUS19CZ3ZyRGExWjNna0lnREdMOXRWcVNtXzV3cEZTMlBYNjNVMHlzT1dOZF9EbUpraVFRVWF2MEYxeWkxRzdITm9DYnZORDJDZUUzQ0stR2VRbk5lUnBxU01tM05fdzRtTHdPZllDc2lZRl9rMk9lOWR3?oc=5",
+        "domain": "wpri.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2172,7 +2227,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 35,
+    "Restrictive": 36,
     "Easing": 9,
     "Neutral": 5
   },
@@ -2184,28 +2239,28 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 49
+    "retained_articles": 50
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 1,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
-      "query": 3,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
       "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 4,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 3,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
