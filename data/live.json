@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:49:36.655622Z",
+  "generated_at": "2026-10-03T16:31:42.058456Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -27,8 +27,8 @@
       "locality": "",
       "published": "2026-10-02T17:25:00Z",
       "title": "New York landlord to return all Crown Heights units to rent stabilization in first state settlement",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU19tR01qNmdtcGNRTm1EV0x6VXdPOG45R0ZqYnZCRUpSNjZWWnh2VEtQVjZMRlpBTmlpenQ3UGRuTjY2Z21ZQ002TV9Yd2VpYlBnOFlxUWgtNzBTLUR5SFNPeEJmZmI5Mm5FU2dTeEU0UjN1Ymw1cXpuems1a3RlYnBFd25ieWlwamVzOWlfbjA2TUstaXVGTDVR?oc=5",
-      "domain": "thecooldown.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUdFS041c0J1YUhXMFVWWWwtSWR0NXBuMWVfWEdvY2sxSmswZHBuRC1VampWVUQ3QVhqRDdMNmdHM0JTVGRTSGJSYUZaQ2NoNTV0V0xpdjJqdHNwZmRXUGN5SXVBZU5ZdnJ5Y1ZhREtwUXkzRjNQU2UxazhnY2tlNzBteTJveFc1LU9fVzBVcmNjZw?oc=5",
+      "domain": "yahoo.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -428,8 +428,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -483,23 +482,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Oakland",
-      "published": "2026-09-24T02:57:42Z",
-      "title": "Oakland Beats ADA Challenge To Rent Control Program",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0hYNnA4OGgzQ25uM25TRFhjT2NhMXZJeUg0ZTZWcjkycURJejl0YU52V3hFTGFuV0dRWHJIcHFoamRlbXV1SURKazNhZ01FOTJaME1mTGM4WEE3QjcyamptN1gwakxjbl9yOWYycGNYVDB1NU4zM3RuZ3lqMXB6NVQ2M3M2Nk9SSWhDR1lZUHFvRnlxSHdxcmV0R29UQmhTbHVBeWZnUmdUSU9rOERDREhBNNIBc0FVX3lxTE45cElxeTZWVy1jUWRNZHZNM3FYOFVKRW9IUlJXSG9OUGd5OTdVeElzYnZkd3JxYnU0dXlGNm9tenQ4MWNsRnBPUDBzVVZkWmQ1blNhTnJoM1g4R2dtRG5sVmdCQWxsUXU4d3pJWFBBaEFaeVU?oc=5",
-      "domain": "law360.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-09-23T19:52:12Z",
       "title": "Battle over exemptions tangles rent stabilization ordinance at Santa Barbara City Council",
@@ -512,7 +494,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -559,6 +542,23 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Oakland",
+      "published": "2026-09-23T07:00:00Z",
+      "title": "Oakland Beats ADA Challenge To Rent Control Program",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2pGTEJXTE5Eb3N3bTNTc1NHWklLSThBeHVtT0I4YUdnMUpmckE3bEhEeGppOEt6amlabGpaNVJqLTVLUnZuM29sLXpFTWhXdjZiQkdzU0ZndmctSmxNQXF4OWwtSExBYm9oTE9qbUJrNTEyWWxKSnBCRUJmTHAtU1pCRFBGdG1NMXJHTDBfNGphOWpuSXfSAVZBVV95cUxNbWRjZHFqME83U2VzS04xc0tlTHpqNUhaa3BISzZjTmdwRUlOTFhCOW1RNF9aT0EzQWp1MUxURy1Fei1Xa3lrSDhhOVRzVkRTUjRySUJGZw?oc=5",
+      "domain": "law360.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -1080,8 +1080,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1103,23 +1102,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Oakland",
-        "published": "2026-09-24T02:57:42Z",
-        "title": "Oakland Beats ADA Challenge To Rent Control Program",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0hYNnA4OGgzQ25uM25TRFhjT2NhMXZJeUg0ZTZWcjkycURJejl0YU52V3hFTGFuV0dRWHJIcHFoamRlbXV1SURKazNhZ01FOTJaME1mTGM4WEE3QjcyamptN1gwakxjbl9yOWYycGNYVDB1NU4zM3RuZ3lqMXB6NVQ2M3M2Nk9SSWhDR1lZUHFvRnlxSHdxcmV0R29UQmhTbHVBeWZnUmdUSU9rOERDREhBNNIBc0FVX3lxTE45cElxeTZWVy1jUWRNZHZNM3FYOFVKRW9IUlJXSG9OUGd5OTdVeElzYnZkd3JxYnU0dXlGNm9tenQ4MWNsRnBPUDBzVVZkWmQ1blNhTnJoM1g4R2dtRG5sVmdCQWxsUXU4d3pJWFBBaEFaeVU?oc=5",
-        "domain": "law360.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T19:52:12Z",
         "title": "Battle over exemptions tangles rent stabilization ordinance at Santa Barbara City Council",
@@ -1132,7 +1114,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1179,6 +1162,23 @@
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Oakland",
+        "published": "2026-09-23T07:00:00Z",
+        "title": "Oakland Beats ADA Challenge To Rent Control Program",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2pGTEJXTE5Eb3N3bTNTc1NHWklLSThBeHVtT0I4YUdnMUpmckE3bEhEeGppOEt6amlabGpaNVJqLTVLUnZuM29sLXpFTWhXdjZiQkdzU0ZndmctSmxNQXF4OWwtSExBYm9oTE9qbUJrNTEyWWxKSnBCRUJmTHAtU1pCRFBGdG1NMXJHTDBfNGphOWpuSXfSAVZBVV95cUxNbWRjZHFqME83U2VzS04xc0tlTHpqNUhaa3BISzZjTmdwRUlOTFhCOW1RNF9aT0EzQWp1MUxURy1Fei1Xa3lrSDhhOVRzVkRTUjRySUJGZw?oc=5",
+        "domain": "law360.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
@@ -1424,8 +1424,8 @@
         "locality": "",
         "published": "2026-10-02T17:25:00Z",
         "title": "New York landlord to return all Crown Heights units to rent stabilization in first state settlement",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU19tR01qNmdtcGNRTm1EV0x6VXdPOG45R0ZqYnZCRUpSNjZWWnh2VEtQVjZMRlpBTmlpenQ3UGRuTjY2Z21ZQ002TV9Yd2VpYlBnOFlxUWgtNzBTLUR5SFNPeEJmZmI5Mm5FU2dTeEU0UjN1Ymw1cXpuems1a3RlYnBFd25ieWlwamVzOWlfbjA2TUstaXVGTDVR?oc=5",
-        "domain": "thecooldown.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUdFS041c0J1YUhXMFVWWWwtSWR0NXBuMWVfWEdvY2sxSmswZHBuRC1VampWVUQ3QVhqRDdMNmdHM0JTVGRTSGJSYUZaQ2NoNTV0V0xpdjJqdHNwZmRXUGN5SXVBZU5ZdnJ5Y1ZhREtwUXkzRjNQU2UxazhnY2tlNzBteTJveFc1LU9fVzBVcmNjZw?oc=5",
+        "domain": "yahoo.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -1850,8 +1850,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1868,7 +1867,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2156,9 +2156,9 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Oakland",
-        "published": "2026-09-24T02:57:42Z",
+        "published": "2026-09-23T07:00:00Z",
         "title": "Oakland Beats ADA Challenge To Rent Control Program",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0hYNnA4OGgzQ25uM25TRFhjT2NhMXZJeUg0ZTZWcjkycURJejl0YU52V3hFTGFuV0dRWHJIcHFoamRlbXV1SURKazNhZ01FOTJaME1mTGM4WEE3QjcyamptN1gwakxjbl9yOWYycGNYVDB1NU4zM3RuZ3lqMXB6NVQ2M3M2Nk9SSWhDR1lZUHFvRnlxSHdxcmV0R29UQmhTbHVBeWZnUmdUSU9rOERDREhBNNIBc0FVX3lxTE45cElxeTZWVy1jUWRNZHZNM3FYOFVKRW9IUlJXSG9OUGd5OTdVeElzYnZkd3JxYnU0dXlGNm9tenQ4MWNsRnBPUDBzVVZkWmQ1blNhTnJoM1g4R2dtRG5sVmdCQWxsUXU4d3pJWFBBaEFaeVU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2pGTEJXTE5Eb3N3bTNTc1NHWklLSThBeHVtT0I4YUdnMUpmckE3bEhEeGppOEt6amlabGpaNVJqLTVLUnZuM29sLXpFTWhXdjZiQkdzU0ZndmctSmxNQXF4OWwtSExBYm9oTE9qbUJrNTEyWWxKSnBCRUJmTHAtU1pCRFBGdG1NMXJHTDBfNGphOWpuSXfSAVZBVV95cUxNbWRjZHFqME83U2VzS04xc0tlTHpqNUhaa3BISzZjTmdwRUlOTFhCOW1RNF9aT0EzQWp1MUxURy1Fei1Xa3lrSDhhOVRzVkRTUjRySUJGZw?oc=5",
         "domain": "law360.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2244,7 +2244,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2259,7 +2259,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
