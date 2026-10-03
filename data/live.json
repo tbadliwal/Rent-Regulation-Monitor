@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:21:42.079783Z",
+  "generated_at": "2026-10-03T05:28:02.618985Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -294,6 +294,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-09-30T06:52:48Z",
+      "title": "Santa Barbara City Council Votes 4-3 in Favor of Rent Stabilization Ordinance & Registry",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWlRYlZraGdVUXVpcm83bVRzRUQxdElIU1YwNzJnM1ZucTFhWWtjdmZNNWpaZmZrN1Vka3YxakU4eFdtaDB1S09mVW54LWl1ajVLejNidDdELS1WMVlzVHEwb1piT1VIdGVPMnpRMkJhYlllSDc2NmNrN19jZFBFNlpXNlpvVTI2V3d0US1nV2VSR1BhVEZaTDREZGhzRlI1blM5WGlrdEs2UmNlTU1qWWdFWnA5ZW9ZTmpvSjJwV2hOS1paWXZoYlUyTlJTOVN5ckVZ?oc=5",
+      "domain": "keyt.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
@@ -448,7 +465,7 @@
       "state": "RI",
       "state_name": "Rhode Island",
       "locality": "Providence",
-      "published": "2026-09-24T09:00:00Z",
+      "published": "2026-09-24T07:00:00Z",
       "title": "Democratic Socialist Candidate in Providence Touts Rent Control as City Flunks Housing Test",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2xENkZuOG1GaUF0SnVla3VFTlpRdVBXYkZpOWs0ZUQ5clZMRlJFVjlfbnIxME5sUTE2a29EVF9tMWY3WGtycXRrdUN3WWJOek94ajkxSjh1cmNSR0lXQXFkMVh6THRqMTM5Tl9kTDg2cG9XREpzUk03al9tdEVIUGc1Z0owRW5GQXZRbG1iXzVtNmwwYk01eEF5RzJNU0g3aXJ3aGFQS2RXUkVoaHRNeQ?oc=5",
       "domain": "realtor.com",
@@ -499,6 +516,23 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
+      "published": "2026-09-23T16:35:51Z",
+      "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
       "published": "2026-09-23T07:50:19Z",
       "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
@@ -519,23 +553,6 @@
       "published": "2026-09-23T07:00:00Z",
       "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-23T07:00:00Z",
-      "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
       "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -931,6 +948,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-09-30T06:52:48Z",
+        "title": "Santa Barbara City Council Votes 4-3 in Favor of Rent Stabilization Ordinance & Registry",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWlRYlZraGdVUXVpcm83bVRzRUQxdElIU1YwNzJnM1ZucTFhWWtjdmZNNWpaZmZrN1Vka3YxakU4eFdtaDB1S09mVW54LWl1ajVLejNidDdELS1WMVlzVHEwb1piT1VIdGVPMnpRMkJhYlllSDc2NmNrN19jZFBFNlpXNlpvVTI2V3d0US1nV2VSR1BhVEZaTDREZGhzRlI1blM5WGlrdEs2UmNlTU1qWWdFWnA5ZW9ZTmpvSjJwV2hOS1paWXZoYlUyTlJTOVN5ckVZ?oc=5",
+        "domain": "keyt.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Pasadena",
         "published": "2026-09-29T13:41:45Z",
         "title": "Pasadena’s Rent Cap for Stabilized Units Rises to 2.5% Thursday",
@@ -1085,6 +1119,23 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
+        "published": "2026-09-23T16:35:51Z",
+        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
         "published": "2026-09-23T07:50:19Z",
         "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
@@ -1105,23 +1156,6 @@
         "published": "2026-09-23T07:00:00Z",
         "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1565,7 +1599,7 @@
         "state": "RI",
         "state_name": "Rhode Island",
         "locality": "Providence",
-        "published": "2026-09-24T09:00:00Z",
+        "published": "2026-09-24T07:00:00Z",
         "title": "Democratic Socialist Candidate in Providence Touts Rent Control as City Flunks Housing Test",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2xENkZuOG1GaUF0SnVla3VFTlpRdVBXYkZpOWs0ZUQ5clZMRlJFVjlfbnIxME5sUTE2a29EVF9tMWY3WGtycXRrdUN3WWJOek94ajkxSjh1cmNSR0lXQXFkMVh6THRqMTM5Tl9kTDg2cG9XREpzUk03al9tdEVIUGc1Z0owRW5GQXZRbG1iXzVtNmwwYk01eEF5RzJNU0g3aXJ3aGFQS2RXUkVoaHRNeQ?oc=5",
         "domain": "realtor.com",
@@ -1734,6 +1768,23 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
+        "published": "2026-09-30T06:52:48Z",
+        "title": "Santa Barbara City Council Votes 4-3 in Favor of Rent Stabilization Ordinance & Registry",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWlRYlZraGdVUXVpcm83bVRzRUQxdElIU1YwNzJnM1ZucTFhWWtjdmZNNWpaZmZrN1Vka3YxakU4eFdtaDB1S09mVW54LWl1ajVLejNidDdELS1WMVlzVHEwb1piT1VIdGVPMnpRMkJhYlllSDc2NmNrN19jZFBFNlpXNlpvVTI2V3d0US1nV2VSR1BhVEZaTDREZGhzRlI1blM5WGlrdEs2UmNlTU1qWWdFWnA5ZW9ZTmpvSjJwV2hOS1paWXZoYlUyTlJTOVN5ckVZ?oc=5",
+        "domain": "keyt.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
         "published": "2026-09-28T17:30:00Z",
         "title": "Peter Rupert: Santa Barbara City Council Forgot to Connect the Dots with ‘Rent Stabilization’",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGdmOTZKc29MQ2dmb24tRFA2MzRZNkoxaWZrYVN5Y1lXZ2xwLXN3YVJxYXdaYVVvT1MzUHczejRHTnhDRHhzYmRWMzhOT0lnY3dVeU5sRWNFNUp4cHI1WE9DLUNheWVZbWZmYlJJaHpnS3dvWTl5dUhwM1QyaTdaMGZZU1JTQmJhdzBHSFJEdlBXaTQ4aUR0Y3pINnpObDdmV0ZaLUVNNFYzVUl5blhpMTBxZ3ZzS2c?oc=5",
@@ -1785,6 +1836,23 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
+        "published": "2026-09-23T16:35:51Z",
+        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
         "published": "2026-09-23T07:50:19Z",
         "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
@@ -1805,23 +1873,6 @@
         "published": "2026-09-23T07:00:00Z",
         "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1963,7 +2014,7 @@
         "state": "RI",
         "state_name": "Rhode Island",
         "locality": "Providence",
-        "published": "2026-09-24T09:00:00Z",
+        "published": "2026-09-24T07:00:00Z",
         "title": "Democratic Socialist Candidate in Providence Touts Rent Control as City Flunks Housing Test",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2xENkZuOG1GaUF0SnVla3VFTlpRdVBXYkZpOWs0ZUQ5clZMRlJFVjlfbnIxME5sUTE2a29EVF9tMWY3WGtycXRrdUN3WWJOek94ajkxSjh1cmNSR0lXQXFkMVh6THRqMTM5Tl9kTDg2cG9XREpzUk03al9tdEVIUGc1Z0owRW5GQXZRbG1iXzVtNmwwYk01eEF5RzJNU0g3aXJ3aGFQS2RXUkVoaHRNeQ?oc=5",
         "domain": "realtor.com",
@@ -2121,7 +2172,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 34,
+    "Restrictive": 35,
     "Easing": 9,
     "Neutral": 5
   },
@@ -2133,28 +2184,28 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 48
+    "retained_articles": 49
   },
   "errors": [
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
