@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:03:15.306216Z",
+  "generated_at": "2026-10-04T12:33:11.325449Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -206,7 +206,8 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -1571,7 +1572,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2286,7 +2288,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2296,7 +2298,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
