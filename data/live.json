@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-04T12:33:11.325449Z",
+  "generated_at": "2026-10-04T21:39:08.716814Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-04T14:05:47Z",
+      "title": "With the Nation Watching, Three Rent Control Battles Unfold in California",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzljNm5wamVZcWU5ZmFRNFQ4SDZKLXg4TUpCSGRIVnZSN0V1dkJvWVVZaUNpN3FrR0ZDdmNGTDYxY1dxbzJjd1gyN2QzTVpxaWZTQm1FbUFpVTJPNHZvSGxWZkFwNm1SXzAzYW9teWxjNUpjTmN0TUxydnE3dWpfeE5GOGxqX25pLWVpelpseWNtZDZvbXQyTVVBX3BqUy1Ed3VZMjZtZndtbDFq?oc=5",
+      "domain": "aidshealth.org",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "NY",
       "state_name": "New York",
@@ -189,7 +206,8 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -884,6 +902,23 @@
         "state": "CA",
         "state_name": "California",
         "locality": "",
+        "published": "2026-10-04T14:05:47Z",
+        "title": "With the Nation Watching, Three Rent Control Battles Unfold in California",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzljNm5wamVZcWU5ZmFRNFQ4SDZKLXg4TUpCSGRIVnZSN0V1dkJvWVVZaUNpN3FrR0ZDdmNGTDYxY1dxbzJjd1gyN2QzTVpxaWZTQm1FbUFpVTJPNHZvSGxWZkFwNm1SXzAzYW9teWxjNUpjTmN0TUxydnE3dWpfeE5GOGxqX25pLWVpelpseWNtZDZvbXQyTVVBX3BqUy1Ed3VZMjZtZndtbDFq?oc=5",
+        "domain": "aidshealth.org",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
         "published": "2026-10-02T13:37:42Z",
         "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
@@ -1555,7 +1590,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2266,7 +2302,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 37,
+    "Restrictive": 38,
     "Easing": 9,
     "Neutral": 5
   },
@@ -2278,12 +2314,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 51
+    "retained_articles": 52
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2293,12 +2329,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
