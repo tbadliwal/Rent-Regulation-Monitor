@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-07T06:11:24.827840Z",
+  "generated_at": "2026-10-07T13:37:15.801247Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "Wells mobile home lot",
+      "published": "2026-10-07T11:33:35Z",
+      "title": "Wells mobile home lot rent stabilization ordinance – Maine Voter Guide 2026",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDdlRGdzOVBkbG5XMnd1QVlpMnpVWHpBWWhsc3Y5dzVJU3c2S3gzbE5wbW91WlF5M2NlUlloMVJVenZ5QzR4aVRjbTJWOF91QVJZVXpBREdlM0Y2ejhUU0lEblkwUldaZVNaLVZrb1NIb3hVeUN4Wjd4Xy15S2IwYWVvV3h0N0RlRmxzWlRUVHI5czk0eVlGTUpRWktBNnRoRU1fTlFn?oc=5",
+      "domain": "pressherald.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -87,8 +104,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -414,8 +430,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -438,11 +453,11 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "",
-      "published": "2026-09-28T21:44:50Z",
-      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-      "domain": "independent.com",
+      "locality": "Santa Barbara",
+      "published": "2026-09-28T17:30:00Z",
+      "title": "Peter Rupert: Santa Barbara City Council Forgot to Connect the Dots with ‘Rent Stabilization’",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGdmOTZKc29MQ2dmb24tRFA2MzRZNkoxaWZrYVN5Y1lXZ2xwLXN3YVJxYXdaYVVvT1MzUHczejRHTnhDRHhzYmRWMzhOT0lnY3dVeU5sRWNFNUp4cHI1WE9DLUNheWVZbWZmYlJJaHpnS3dvWTl5dUhwM1QyaTdaMGZZU1JTQmJhdzBHSFJEdlBXaTQ4aUR0Y3pINnpObDdmV0ZaLUVNNFYzVUl5blhpMTBxZ3ZzS2c?oc=5",
+      "domain": "noozhawk.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -455,11 +470,11 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-28T17:30:00Z",
-      "title": "Peter Rupert: Santa Barbara City Council Forgot to Connect the Dots with ‘Rent Stabilization’",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGdmOTZKc29MQ2dmb24tRFA2MzRZNkoxaWZrYVN5Y1lXZ2xwLXN3YVJxYXdaYVVvT1MzUHczejRHTnhDRHhzYmRWMzhOT0lnY3dVeU5sRWNFNUp4cHI1WE9DLUNheWVZbWZmYlJJaHpnS3dvWTl5dUhwM1QyaTdaMGZZU1JTQmJhdzBHSFJEdlBXaTQ4aUR0Y3pINnpObDdmV0ZaLUVNNFYzVUl5blhpMTBxZ3ZzS2c?oc=5",
-      "domain": "noozhawk.com",
+      "locality": "",
+      "published": "2026-09-28T07:00:00Z",
+      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
+      "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -1110,24 +1125,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "RI",
-      "state_name": "Rhode Island",
-      "locality": "",
-      "published": "2026-09-06T07:00:00Z",
-      "title": "Morales says rent caps won't kill development. Builders disagree",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT200QXZKdVNCQnBZWE1uSEpBUHh4aDVzX19QUEx3NC1QU1plaXlWalcwUVR1eU5ldEFEX2hNQm9BdmoxNGlaNHBleVJHNkJ5MXZYWGFuZWtJeTFuUGFhbjZyZFdYUlZnTkh1S29RdGgwbjg5a3dMSXU2cFhCenQzelVlWVdJMWpVN0F2eTFhLXI0OWJRVVFJdEs1Y21qSU5QU3dmUFA5elNZUm1Bb08xRWl0TDdFRGFNSFkxVTJSYTBVVi12NHVjN0RQOEN5ZTdhaFoxOENpVGRzbF96QWk0?oc=5",
-      "domain": "providencejournal.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -1168,8 +1165,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1329,11 +1325,11 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "",
-        "published": "2026-09-28T21:44:50Z",
-        "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-        "domain": "independent.com",
+        "locality": "Santa Barbara",
+        "published": "2026-09-28T17:30:00Z",
+        "title": "Peter Rupert: Santa Barbara City Council Forgot to Connect the Dots with ‘Rent Stabilization’",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGdmOTZKc29MQ2dmb24tRFA2MzRZNkoxaWZrYVN5Y1lXZ2xwLXN3YVJxYXdaYVVvT1MzUHczejRHTnhDRHhzYmRWMzhOT0lnY3dVeU5sRWNFNUp4cHI1WE9DLUNheWVZbWZmYlJJaHpnS3dvWTl5dUhwM1QyaTdaMGZZU1JTQmJhdzBHSFJEdlBXaTQ4aUR0Y3pINnpObDdmV0ZaLUVNNFYzVUl5blhpMTBxZ3ZzS2c?oc=5",
+        "domain": "noozhawk.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -1346,11 +1342,11 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-28T17:30:00Z",
-        "title": "Peter Rupert: Santa Barbara City Council Forgot to Connect the Dots with ‘Rent Stabilization’",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGdmOTZKc29MQ2dmb24tRFA2MzRZNkoxaWZrYVN5Y1lXZ2xwLXN3YVJxYXdaYVVvT1MzUHczejRHTnhDRHhzYmRWMzhOT0lnY3dVeU5sRWNFNUp4cHI1WE9DLUNheWVZbWZmYlJJaHpnS3dvWTl5dUhwM1QyaTdaMGZZU1JTQmJhdzBHSFJEdlBXaTQ4aUR0Y3pINnpObDdmV0ZaLUVNNFYzVUl5blhpMTBxZ3ZzS2c?oc=5",
-        "domain": "noozhawk.com",
+        "locality": "",
+        "published": "2026-09-28T07:00:00Z",
+        "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
+        "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -1690,6 +1686,23 @@
       {
         "state": "ME",
         "state_name": "Maine",
+        "locality": "Wells mobile home lot",
+        "published": "2026-10-07T11:33:35Z",
+        "title": "Wells mobile home lot rent stabilization ordinance – Maine Voter Guide 2026",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDdlRGdzOVBkbG5XMnd1QVlpMnpVWHpBWWhsc3Y5dzVJU3c2S3gzbE5wbW91WlF5M2NlUlloMVJVenZ5QzR4aVRjbTJWOF91QVJZVXpBREdlM0Y2ejhUU0lEblkwUldaZVNaLVZrb1NIb3hVeUN4Wjd4Xy15S2IwYWVvV3h0N0RlRmxzWlRUVHI5czk0eVlGTUpRWktBNnRoRU1fTlFn?oc=5",
+        "domain": "pressherald.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Mobile / manufactured housing",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "ME",
+        "state_name": "Maine",
         "locality": "Bowdoin mobile home",
         "published": "2026-09-15T07:00:00Z",
         "title": "Bowdoin mobile home rent stabilization vote ends in 50-50 deadlock",
@@ -1820,8 +1833,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2233,24 +2245,6 @@
         "source_tier": "C",
         "discovery_provider": "GDELT",
         "carried_forward": true
-      },
-      {
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "locality": "",
-        "published": "2026-09-06T07:00:00Z",
-        "title": "Morales says rent caps won't kill development. Builders disagree",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT200QXZKdVNCQnBZWE1uSEpBUHh4aDVzX19QUEx3NC1QU1plaXlWalcwUVR1eU5ldEFEX2hNQm9BdmoxNGlaNHBleVJHNkJ5MXZYWGFuZWtJeTFuUGFhbjZyZFdYUlZnTkh1S29RdGgwbjg5a3dMSXU2cFhCenQzelVlWVdJMWpVN0F2eTFhLXI0OWJRVVFJdEs1Y21qSU5QU3dmUFA5elNZUm1Bb08xRWl0TDdFRGFNSFkxVTJSYTBVVi12NHVjN0RQOEN5ZTdhaFoxOENpVGRzbF96QWk0?oc=5",
-        "domain": "providencejournal.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "SC": [],
@@ -2267,6 +2261,25 @@
     "DC": []
   },
   "locality_feeds": {
+    "ME|Wells mobile home lot": [
+      {
+        "state": "ME",
+        "state_name": "Maine",
+        "locality": "Wells mobile home lot",
+        "published": "2026-10-07T11:33:35Z",
+        "title": "Wells mobile home lot rent stabilization ordinance – Maine Voter Guide 2026",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDdlRGdzOVBkbG5XMnd1QVlpMnpVWHpBWWhsc3Y5dzVJU3c2S3gzbE5wbW91WlF5M2NlUlloMVJVenZ5QzR4aVRjbTJWOF91QVJZVXpBREdlM0Y2ejhUU0lEblkwUldaZVNaLVZrb1NIb3hVeUN4Wjd4Xy15S2IwYWVvV3h0N0RlRmxzWlRUVHI5czk0eVlGTUpRWktBNnRoRU1fTlFn?oc=5",
+        "domain": "pressherald.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Mobile / manufactured housing",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "MD|Montgomery County": [
       {
         "state": "MD",
@@ -2567,8 +2580,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2916,17 +2928,17 @@
   "errors": [
     {
       "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
       "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
