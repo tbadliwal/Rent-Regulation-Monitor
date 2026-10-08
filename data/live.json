@@ -1,16 +1,50 @@
 {
-  "generated_at": "2026-10-08T13:43:48.708740Z",
+  "generated_at": "2026-10-08T23:27:18.693050Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-08T23:01:00Z",
+      "title": "Rent review – Jonathan Larson’s New York bohos move into the West End and unpack their passions",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmsxcUJfRWFJQ3ExUG1iUHZBU19KSmFfNDVxMjJha3JTYXdwR1BWMnZIazRoTGRKcUJkRWd5Z2J6cXI1VkpiNXhDWHdaTXBNRDJMeGlZUnNQRGYya3lWQTdBa1hQeHJkQnJKQ3ViZG9ZOGVyTElhOV96cVJ3OFpURW1FLWhqcWlZR1R6YUZRWWw4T3hjZktqOVcxcVMycGFJcU5JWGZ0YjRLOVA1Nkp0VmZGZDVZZzFr?oc=5",
+      "domain": "theguardian.com",
+      "source_country": "United States",
+      "type": "Rent Review / Mediation",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-08T16:19:00Z",
+      "title": "New York Good Cause Eviction Law: Will Oneonta Opt In?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGVydHg4ZVd0dTJzWGFmODN4MWRqWnpBMzY4SlZMYjFFTGxzenNFQi0ta2h1eVB6cl8xX1BUVkYzNDUzWU9FaTg5eE1FVDBDVDMteWxzelJrVy1qX3Vtb2NvTGxxQ2RxWkw0bkZFaHFxOVNsSzVBVHJuVGQzUVNHUkxRV3Nic0tjVHB2eVpZSDRUdlhmdlRzY3F6X0NxcktmVlFDbGRoY2hXUjlBMXlCTmZhOG43NG9XeG5jcTZvdUQ3NElLS2c?oc=5",
+      "domain": "wktv.com",
+      "source_country": "United States",
+      "type": "Good Cause / Just Cause",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
       "published": "2026-10-08T07:00:00Z",
       "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOS1YemZ6T2ZvNUpoZWFJeTRiSEFjaFVUc19IYV9UOUE1ZUpyd1UxdUY2a0tTQnpRQzdzbGdIWnNBbGRGYkZtaTNvazF1OUprU3ZoZTBRSHRiYUEtY2ZEMV9zY2VWR2J0Zy1MMUd5TmFRSnZkWW9BaU5XUnZocXhPZTdXUTJ5UzQxYUIxUmhVSndENklqb3paZk1tSFVhcEZ1ME5tcnlfaEttbGhoQWdYZkkzTF9NUlBZMVpaRExrWXEzOWkzMTNodlUxM0d1dERsczd4ZV9Wa2NlSlBKZTh6OWNaRGROYmFCRWNReWZkd1VmcE42aXV2d2c3cEs3YVFWcmsycTljczhzRktRcGhhV0F0cE5KVUhTbG1wVtIBnAJBVV95cUxOOS1YemZ6T2ZvNUpoZWFJeTRiSEFjaFVUc19IYV9UOUE1ZUpyd1UxdUY2a0tTQnpRQzdzbGdIWnNBbGRGYkZtaTNvazF1OUprU3ZoZTBRSHRiYUEtY2ZEMV9zY2VWR2J0Zy1MMUd5TmFRSnZkWW9BaU5XUnZocXhPZTdXUTJ5UzQxYUIxUmhVSndENklqb3paZk1tSFVhcEZ1ME5tcnlfaEttbGhoQWdYZkkzTF9NUlBZMVpaRExrWXEzOWkzMTNodlUxM0d1dERsczd4ZV9Wa2NlSlBKZTh6OWNaRGROYmFCRWNReWZkd1VmcE42aXV2d2c3cEs3YVFWcmsycTljczhzRktRcGhhV0F0cE5KVUhTbG1wVg?oc=5",
       "domain": "montereycountynow.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -214,8 +248,8 @@
       "locality": "",
       "published": "2026-10-02T17:25:00Z",
       "title": "New York landlord to return all Crown Heights units to rent stabilization in first state settlement",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU19tR01qNmdtcGNRTm1EV0x6VXdPOG45R0ZqYnZCRUpSNjZWWnh2VEtQVjZMRlpBTmlpenQ3UGRuTjY2Z21ZQ002TV9Yd2VpYlBnOFlxUWgtNzBTLUR5SFNPeEJmZmI5Mm5FU2dTeEU0UjN1Ymw1cXpuems1a3RlYnBFd25ieWlwamVzOWlfbjA2TUstaXVGTDVR?oc=5",
-      "domain": "thecooldown.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUdFS041c0J1YUhXMFVWWWwtSWR0NXBuMWVfWEdvY2sxSmswZHBuRC1VampWVUQ3QVhqRDdMNmdHM0JTVGRTSGJSYUZaQ2NoNTV0V0xpdjJqdHNwZmRXUGN5SXVBZU5ZdnJ5Y1ZhREtwUXkzRjNQU2UxazhnY2tlNzBteTJveFc1LU9fVzBVcmNjZw?oc=5",
+      "domain": "yahoo.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -307,23 +341,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-01T06:48:12Z",
-      "title": "Federal Judge Blocks New York’s First-of-Its-Kind Crackdown on Algorithmic Rent-Setting",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2VHYlRpRU9sQXBRYmlvVW9vLWF4ejFsWEoxSHgwZmllVm56OW9qb0xfUHZ4R2JrbHFvaTVVVmlVRmZaM2JNX3J3ay1tZjNEWDRpaGM4Wkg0YUhWMEc3NzhDMjlmdVB5T0hKYVlkUjB2anJHNkZEc1E2NHhtSlNhS0lZaS1GT24yMnBEazRwQUhFa2NoNFctZnZ6aWQ0Zw?oc=5",
-      "domain": "lawcommentary.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -467,6 +484,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-09-30T07:00:00Z",
+      "title": "Federal Judge Blocks New York’s First-of-Its-Kind Crackdown on Algorithmic Rent-Setting",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2VHYlRpRU9sQXBRYmlvVW9vLWF4ejFsWEoxSHgwZmllVm56OW9qb0xfUHZ4R2JrbHFvaTVVVmlVRmZaM2JNX3J3ay1tZjNEWDRpaGM4Wkg0YUhWMEc3NzhDMjlmdVB5T0hKYVlkUjB2anJHNkZEc1E2NHhtSlNhS0lZaS1GT24yMnBEazRwQUhFa2NoNFctZnZ6aWQ0Zw?oc=5",
+      "domain": "lawcommentary.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -517,8 +551,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -883,7 +916,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1209,7 +1243,7 @@
         "locality": "Salinas",
         "published": "2026-10-08T07:00:00Z",
         "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOS1YemZ6T2ZvNUpoZWFJeTRiSEFjaFVUc19IYV9UOUE1ZUpyd1UxdUY2a0tTQnpRQzdzbGdIWnNBbGRGYkZtaTNvazF1OUprU3ZoZTBRSHRiYUEtY2ZEMV9zY2VWR2J0Zy1MMUd5TmFRSnZkWW9BaU5XUnZocXhPZTdXUTJ5UzQxYUIxUmhVSndENklqb3paZk1tSFVhcEZ1ME5tcnlfaEttbGhoQWdYZkkzTF9NUlBZMVpaRExrWXEzOWkzMTNodlUxM0d1dERsczd4ZV9Wa2NlSlBKZTh6OWNaRGROYmFCRWNReWZkd1VmcE42aXV2d2c3cEs3YVFWcmsycTljczhzRktRcGhhV0F0cE5KVUhTbG1wVtIBnAJBVV95cUxOOS1YemZ6T2ZvNUpoZWFJeTRiSEFjaFVUc19IYV9UOUE1ZUpyd1UxdUY2a0tTQnpRQzdzbGdIWnNBbGRGYkZtaTNvazF1OUprU3ZoZTBRSHRiYUEtY2ZEMV9zY2VWR2J0Zy1MMUd5TmFRSnZkWW9BaU5XUnZocXhPZTdXUTJ5UzQxYUIxUmhVSndENklqb3paZk1tSFVhcEZ1ME5tcnlfaEttbGhoQWdYZkkzTF9NUlBZMVpaRExrWXEzOWkzMTNodlUxM0d1dERsczd4ZV9Wa2NlSlBKZTh6OWNaRGROYmFCRWNReWZkd1VmcE42aXV2d2c3cEs3YVFWcmsycTljczhzRktRcGhhV0F0cE5KVUhTbG1wVg?oc=5",
         "domain": "montereycountynow.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1921,8 +1955,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1983,6 +2016,40 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
+        "published": "2026-10-08T23:01:00Z",
+        "title": "Rent review – Jonathan Larson’s New York bohos move into the West End and unpack their passions",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmsxcUJfRWFJQ3ExUG1iUHZBU19KSmFfNDVxMjJha3JTYXdwR1BWMnZIazRoTGRKcUJkRWd5Z2J6cXI1VkpiNXhDWHdaTXBNRDJMeGlZUnNQRGYya3lWQTdBa1hQeHJkQnJKQ3ViZG9ZOGVyTElhOV96cVJ3OFpURW1FLWhqcWlZR1R6YUZRWWw4T3hjZktqOVcxcVMycGFJcU5JWGZ0YjRLOVA1Nkp0VmZGZDVZZzFr?oc=5",
+        "domain": "theguardian.com",
+        "source_country": "United States",
+        "type": "Rent Review / Mediation",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-10-08T16:19:00Z",
+        "title": "New York Good Cause Eviction Law: Will Oneonta Opt In?",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGVydHg4ZVd0dTJzWGFmODN4MWRqWnpBMzY4SlZMYjFFTGxzenNFQi0ta2h1eVB6cl8xX1BUVkYzNDUzWU9FaTg5eE1FVDBDVDMteWxzelJrVy1qX3Vtb2NvTGxxQ2RxWkw0bkZFaHFxOVNsSzVBVHJuVGQzUVNHUkxRV3Nic0tjVHB2eVpZSDRUdlhmdlRzY3F6X0NxcktmVlFDbGRoY2hXUjlBMXlCTmZhOG43NG9XeG5jcTZvdUQ3NElLS2c?oc=5",
+        "domain": "wktv.com",
+        "source_country": "United States",
+        "type": "Good Cause / Just Cause",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
         "published": "2026-10-05T20:26:15Z",
         "title": "Judge blocks New York rent-setting software ban",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTUtTWhPbmhsT1FTa3A0c0ZFd2R4ZGZmc2p4cE1EbnFocHRrc2lWa0JSc0t0Y0NMUTBILW1pYW1IMHY2X05ZOUNEVXYta2prTjM5ZHpJSU82UUhRVzdjenJ3Q05BMmZQcWx0V0o2VmIyajhPY25LUVpseldwRmlDbTdIRlFMRVFOZk91NlNTanRZMm5vMi1KazRrcUg5UndB?oc=5",
@@ -2019,8 +2086,8 @@
         "locality": "",
         "published": "2026-10-02T17:25:00Z",
         "title": "New York landlord to return all Crown Heights units to rent stabilization in first state settlement",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU19tR01qNmdtcGNRTm1EV0x6VXdPOG45R0ZqYnZCRUpSNjZWWnh2VEtQVjZMRlpBTmlpenQ3UGRuTjY2Z21ZQ002TV9Yd2VpYlBnOFlxUWgtNzBTLUR5SFNPeEJmZmI5Mm5FU2dTeEU0UjN1Ymw1cXpuems1a3RlYnBFd25ieWlwamVzOWlfbjA2TUstaXVGTDVR?oc=5",
-        "domain": "thecooldown.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUdFS041c0J1YUhXMFVWWWwtSWR0NXBuMWVfWEdvY2sxSmswZHBuRC1VampWVUQ3QVhqRDdMNmdHM0JTVGRTSGJSYUZaQ2NoNTV0V0xpdjJqdHNwZmRXUGN5SXVBZU5ZdnJ5Y1ZhREtwUXkzRjNQU2UxazhnY2tlNzBteTJveFc1LU9fVzBVcmNjZw?oc=5",
+        "domain": "yahoo.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2055,23 +2122,6 @@
         "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
         "domain": "news10.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-10-01T06:48:12Z",
-        "title": "Federal Judge Blocks New York’s First-of-Its-Kind Crackdown on Algorithmic Rent-Setting",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2VHYlRpRU9sQXBRYmlvVW9vLWF4ejFsWEoxSHgwZmllVm56OW9qb0xfUHZ4R2JrbHFvaTVVVmlVRmZaM2JNX3J3ay1tZjNEWDRpaGM4Wkg0YUhWMEc3NzhDMjlmdVB5T0hKYVlkUjB2anJHNkZEc1E2NHhtSlNhS0lZaS1GT24yMnBEazRwQUhFa2NoNFctZnZ6aWQ0Zw?oc=5",
-        "domain": "lawcommentary.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
         "status": "Litigation",
@@ -2168,6 +2218,23 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-09-30T07:00:00Z",
+        "title": "Federal Judge Blocks New York’s First-of-Its-Kind Crackdown on Algorithmic Rent-Setting",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2VHYlRpRU9sQXBRYmlvVW9vLWF4ejFsWEoxSHgwZmllVm56OW9qb0xfUHZ4R2JrbHFvaTVVVmlVRmZaM2JNX3J3ay1tZjNEWDRpaGM4Wkg0YUhWMEc3NzhDMjlmdVB5T0hKYVlkUjB2anJHNkZEc1E2NHhtSlNhS0lZaS1GT24yMnBEazRwQUhFa2NoNFctZnZ6aWQ0Zw?oc=5",
+        "domain": "lawcommentary.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Litigation",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       }
     ],
     "NC": [
@@ -2356,7 +2423,7 @@
         "locality": "Salinas",
         "published": "2026-10-08T07:00:00Z",
         "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOS1YemZ6T2ZvNUpoZWFJeTRiSEFjaFVUc19IYV9UOUE1ZUpyd1UxdUY2a0tTQnpRQzdzbGdIWnNBbGRGYkZtaTNvazF1OUprU3ZoZTBRSHRiYUEtY2ZEMV9zY2VWR2J0Zy1MMUd5TmFRSnZkWW9BaU5XUnZocXhPZTdXUTJ5UzQxYUIxUmhVSndENklqb3paZk1tSFVhcEZ1ME5tcnlfaEttbGhoQWdYZkkzTF9NUlBZMVpaRExrWXEzOWkzMTNodlUxM0d1dERsczd4ZV9Wa2NlSlBKZTh6OWNaRGROYmFCRWNReWZkd1VmcE42aXV2d2c3cEs3YVFWcmsycTljczhzRktRcGhhV0F0cE5KVUhTbG1wVtIBnAJBVV95cUxOOS1YemZ6T2ZvNUpoZWFJeTRiSEFjaFVUc19IYV9UOUE1ZUpyd1UxdUY2a0tTQnpRQzdzbGdIWnNBbGRGYkZtaTNvazF1OUprU3ZoZTBRSHRiYUEtY2ZEMV9zY2VWR2J0Zy1MMUd5TmFRSnZkWW9BaU5XUnZocXhPZTdXUTJ5UzQxYUIxUmhVSndENklqb3paZk1tSFVhcEZ1ME5tcnlfaEttbGhoQWdYZkkzTF9NUlBZMVpaRExrWXEzOWkzMTNodlUxM0d1dERsczd4ZV9Wa2NlSlBKZTh6OWNaRGROYmFCRWNReWZkd1VmcE42aXV2d2c3cEs3YVFWcmsycTljczhzRktRcGhhV0F0cE5KVUhTbG1wVg?oc=5",
         "domain": "montereycountynow.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2756,8 +2823,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -3050,7 +3116,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 54,
+    "Restrictive": 56,
     "Easing": 10,
     "Neutral": 5
   },
@@ -3062,14 +3128,9 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 69
+    "retained_articles": 71
   },
   "errors": [
-    {
-      "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
     {
       "provider": "GDELT",
       "query": 3,
@@ -3077,12 +3138,17 @@
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
