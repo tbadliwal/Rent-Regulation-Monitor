@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:43:54.729876Z",
+  "generated_at": "2026-10-10T21:52:25.863978Z",
   "status": "ok",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -280,7 +280,7 @@
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-10-02T19:35:32Z",
+      "published": "2026-10-02T19:34:51Z",
       "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
       "domain": "multifamilydive.com",
@@ -342,8 +342,7 @@
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -605,7 +604,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -765,6 +765,23 @@
     {
       "state": "CA",
       "state_name": "California",
+      "locality": "Oakland",
+      "published": "2026-09-24T02:57:42Z",
+      "title": "Oakland Beats ADA Challenge To Rent Control Program",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0hYNnA4OGgzQ25uM25TRFhjT2NhMXZJeUg0ZTZWcjkycURJejl0YU52V3hFTGFuV0dRWHJIcHFoamRlbXV1SURKazNhZ01FOTJaME1mTGM4WEE3QjcyamptN1gwakxjbl9yOWYycGNYVDB1NU4zM3RuZ3lqMXB6NVQ2M3M2Nk9SSWhDR1lZUHFvRnlxSHdxcmV0R29UQmhTbHVBeWZnUmdUSU9rOERDREhBNNIBc0FVX3lxTE45cElxeTZWVy1jUWRNZHZNM3FYOFVKRW9IUlJXSG9OUGd5OTdVeElzYnZkd3JxYnU0dXlGNm9tenQ4MWNsRnBPUDBzVVZkWmQ1blNhTnJoM1g4R2dtRG5sVmdCQWxsUXU4d3pJWFBBaEFaeVU?oc=5",
+      "domain": "law360.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-09-24T00:15:00Z",
       "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
@@ -834,41 +851,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Oakland",
-      "published": "2026-09-23T07:00:00Z",
-      "title": "Oakland Beats ADA Challenge To Rent Control Program",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2pGTEJXTE5Eb3N3bTNTc1NHWklLSThBeHVtT0I4YUdnMUpmckE3bEhEeGppOEt6amlabGpaNVJqLTVLUnZuM29sLXpFTWhXdjZiQkdzU0ZndmctSmxNQXF4OWwtSExBYm9oTE9qbUJrNTEyWWxKSnBCRUJmTHAtU1pCRFBGdG1NMXJHTDBfNGphOWpuSXfSAVZBVV95cUxNbWRjZHFqME83U2VzS04xc0tlTHpqNUhaa3BISzZjTmdwRUlOTFhCOW1RNF9aT0EzQWp1MUxURy1Fei1Xa3lrSDhhOVRzVkRTUjRySUJGZw?oc=5",
-      "domain": "law360.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-23T05:05:00Z",
-      "title": "Santa Barbara’s Rent Stabilization Talks Nearly Fall Apart Over Housing Exemptions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRkVFR6dVBmM1ZteVBWOWVuS3dySmphczZaY1RzbWVjcDlJa3Nva2VMMXlGQnYyT3hlaE9YTFNWOXdRQzhCVE0wZkRxRnZSV21zM0JjT1VwajJZTnNZQlQtQUt1VzFpclg1Mm1UaUFsUnktemxaeVBOTW9HZ04yaVVVNUl2eWhaa2h3QnJGV0hzbHFmWmZIbXYxMUUzeHVLc0Q5dU56NlZneU0?oc=5",
-      "domain": "noozhawk.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-09-23T01:45:00Z",
       "title": "Santa Barbara City Council introduces ordinance to establish rent stabilization",
@@ -896,6 +878,23 @@
       "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-09-22T07:00:00Z",
+      "title": "Santa Barbara’s Rent Stabilization Talks Nearly Fall Apart Over Housing Exemptions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRkVFR6dVBmM1ZteVBWOWVuS3dySmphczZaY1RzbWVjcDlJa3Nva2VMMXlGQnYyT3hlaE9YTFNWOXdRQzhCVE0wZkRxRnZSV21zM0JjT1VwajJZTnNZQlQtQUt1VzFpclg1Mm1UaUFsUnktemxaeVBOTW9HZ04yaVVVNUl2eWhaa2h3QnJGV0hzbHFmWmZIbXYxMUUzeHVLc0Q5dU56NlZneU0?oc=5",
+      "domain": "noozhawk.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -984,8 +983,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -1243,7 +1241,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "GDELT"
+      "discovery_provider": "GDELT",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -1261,24 +1260,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-09-09T20:00:00Z",
-      "title": "Jersey City releases anticipated rent control audit , hires new housing preservation dir .",
-      "url": "https://hudsoncountyview.com/jersey-city-releases-anticipated-rent-control-audit-hires-new-housing-preservation-dir/",
-      "domain": "hudsoncountyview.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "GDELT",
       "carried_forward": true
     }
   ],
@@ -1456,8 +1437,7 @@
         "direction_score": 0,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1705,6 +1685,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Oakland",
+        "published": "2026-09-24T02:57:42Z",
+        "title": "Oakland Beats ADA Challenge To Rent Control Program",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0hYNnA4OGgzQ25uM25TRFhjT2NhMXZJeUg0ZTZWcjkycURJejl0YU52V3hFTGFuV0dRWHJIcHFoamRlbXV1SURKazNhZ01FOTJaME1mTGM4WEE3QjcyamptN1gwakxjbl9yOWYycGNYVDB1NU4zM3RuZ3lqMXB6NVQ2M3M2Nk9SSWhDR1lZUHFvRnlxSHdxcmV0R29UQmhTbHVBeWZnUmdUSU9rOERDREhBNNIBc0FVX3lxTE45cElxeTZWVy1jUWRNZHZNM3FYOFVKRW9IUlJXSG9OUGd5OTdVeElzYnZkd3JxYnU0dXlGNm9tenQ4MWNsRnBPUDBzVVZkWmQ1blNhTnJoM1g4R2dtRG5sVmdCQWxsUXU4d3pJWFBBaEFaeVU?oc=5",
+        "domain": "law360.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-24T00:15:00Z",
         "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
@@ -1774,37 +1771,19 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Oakland",
-        "published": "2026-09-23T07:00:00Z",
-        "title": "Oakland Beats ADA Challenge To Rent Control Program",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2pGTEJXTE5Eb3N3bTNTc1NHWklLSThBeHVtT0I4YUdnMUpmckE3bEhEeGppOEt6amlabGpaNVJqLTVLUnZuM29sLXpFTWhXdjZiQkdzU0ZndmctSmxNQXF4OWwtSExBYm9oTE9qbUJrNTEyWWxKSnBCRUJmTHAtU1pCRFBGdG1NMXJHTDBfNGphOWpuSXfSAVZBVV95cUxNbWRjZHFqME83U2VzS04xc0tlTHpqNUhaa3BISzZjTmdwRUlOTFhCOW1RNF9aT0EzQWp1MUxURy1Fei1Xa3lrSDhhOVRzVkRTUjRySUJGZw?oc=5",
-        "domain": "law360.com",
+        "locality": "Santa Barbara",
+        "published": "2026-09-23T01:45:00Z",
+        "title": "Santa Barbara City Council introduces ordinance to establish rent stabilization",
+        "url": "https://keyt.com/lifestyle/housing/2026/09/22/santa-barbara-city-council-introduces-ordinance-to-establish-rent-stabilization/",
+        "domain": "keyt.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
-        "status": "Discovery",
+        "status": "Proposed / Process",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T05:05:00Z",
-        "title": "Santa Barbara’s Rent Stabilization Talks Nearly Fall Apart Over Housing Exemptions",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRkVFR6dVBmM1ZteVBWOWVuS3dySmphczZaY1RzbWVjcDlJa3Nva2VMMXlGQnYyT3hlaE9YTFNWOXdRQzhCVE0wZkRxRnZSV21zM0JjT1VwajJZTnNZQlQtQUt1VzFpclg1Mm1UaUFsUnktemxaeVBOTW9HZ04yaVVVNUl2eWhaa2h3QnJGV0hzbHFmWmZIbXYxMUUzeHVLc0Q5dU56NlZneU0?oc=5",
-        "domain": "noozhawk.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "GDELT"
       }
     ],
     "CO": [],
@@ -1923,7 +1902,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "GDELT"
+        "discovery_provider": "GDELT",
+        "carried_forward": true
       },
       {
         "state": "ME",
@@ -2006,7 +1986,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2024,24 +2005,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-09-09T20:00:00Z",
-        "title": "Jersey City releases anticipated rent control audit , hires new housing preservation dir .",
-        "url": "https://hudsoncountyview.com/jersey-city-releases-anticipated-rent-control-audit-hires-new-housing-preservation-dir/",
-        "domain": "hudsoncountyview.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
       }
     ],
     "NM": [],
@@ -2101,7 +2064,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-02T19:35:32Z",
+        "published": "2026-10-02T19:34:51Z",
         "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
         "domain": "multifamilydive.com",
@@ -2807,24 +2770,6 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-09-23T05:05:00Z",
-        "title": "Santa Barbara’s Rent Stabilization Talks Nearly Fall Apart Over Housing Exemptions",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRkVFR6dVBmM1ZteVBWOWVuS3dySmphczZaY1RzbWVjcDlJa3Nva2VMMXlGQnYyT3hlaE9YTFNWOXdRQzhCVE0wZkRxRnZSV21zM0JjT1VwajJZTnNZQlQtQUt1VzFpclg1Mm1UaUFsUnktemxaeVBOTW9HZ04yaVVVNUl2eWhaa2h3QnJGV0hzbHFmWmZIbXYxMUUzeHVLc0Q5dU56NlZneU0?oc=5",
-        "domain": "noozhawk.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
         "published": "2026-09-23T01:45:00Z",
         "title": "Santa Barbara City Council introduces ordinance to establish rent stabilization",
         "url": "https://keyt.com/lifestyle/housing/2026/09/22/santa-barbara-city-council-introduces-ordinance-to-establish-rent-stabilization/",
@@ -2837,6 +2782,23 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "GDELT"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-09-22T07:00:00Z",
+        "title": "Santa Barbara’s Rent Stabilization Talks Nearly Fall Apart Over Housing Exemptions",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRkVFR6dVBmM1ZteVBWOWVuS3dySmphczZaY1RzbWVjcDlJa3Nva2VMMXlGQnYyT3hlaE9YTFNWOXdRQzhCVE0wZkRxRnZSV21zM0JjT1VwajJZTnNZQlQtQUt1VzFpclg1Mm1UaUFsUnktemxaeVBOTW9HZ04yaVVVNUl2eWhaa2h3QnJGV0hzbHFmWmZIbXYxMUUzeHVLc0Q5dU56NlZneU0?oc=5",
+        "domain": "noozhawk.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2910,7 +2872,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2928,24 +2891,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-09-09T20:00:00Z",
-        "title": "Jersey City releases anticipated rent control audit , hires new housing preservation dir .",
-        "url": "https://hudsoncountyview.com/jersey-city-releases-anticipated-rent-control-audit-hires-new-housing-preservation-dir/",
-        "domain": "hudsoncountyview.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
       }
     ],
     "CA|California city approves": [
@@ -3094,9 +3039,9 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Oakland",
-        "published": "2026-09-23T07:00:00Z",
+        "published": "2026-09-24T02:57:42Z",
         "title": "Oakland Beats ADA Challenge To Rent Control Program",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS2pGTEJXTE5Eb3N3bTNTc1NHWklLSThBeHVtT0I4YUdnMUpmckE3bEhEeGppOEt6amlabGpaNVJqLTVLUnZuM29sLXpFTWhXdjZiQkdzU0ZndmctSmxNQXF4OWwtSExBYm9oTE9qbUJrNTEyWWxKSnBCRUJmTHAtU1pCRFBGdG1NMXJHTDBfNGphOWpuSXfSAVZBVV95cUxNbWRjZHFqME83U2VzS04xc0tlTHpqNUhaa3BISzZjTmdwRUlOTFhCOW1RNF9aT0EzQWp1MUxURy1Fei1Xa3lrSDhhOVRzVkRTUjRySUJGZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0hYNnA4OGgzQ25uM25TRFhjT2NhMXZJeUg0ZTZWcjkycURJejl0YU52V3hFTGFuV0dRWHJIcHFoamRlbXV1SURKazNhZ01FOTJaME1mTGM4WEE3QjcyamptN1gwakxjbl9yOWYycGNYVDB1NU4zM3RuZ3lqMXB6NVQ2M3M2Nk9SSWhDR1lZUHFvRnlxSHdxcmV0R29UQmhTbHVBeWZnUmdUSU9rOERDREhBNNIBc0FVX3lxTE45cElxeTZWVy1jUWRNZHZNM3FYOFVKRW9IUlJXSG9OUGd5OTdVeElzYnZkd3JxYnU0dXlGNm9tenQ4MWNsRnBPUDBzVVZkWmQ1blNhTnJoM1g4R2dtRG5sVmdCQWxsUXU4d3pJWFBBaEFaeVU?oc=5",
         "domain": "law360.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -3162,7 +3107,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "GDELT"
+        "discovery_provider": "GDELT",
+        "carried_forward": true
       },
       {
         "state": "ME",
@@ -3185,7 +3131,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 57,
+    "Restrictive": 56,
     "Easing": 10,
     "Neutral": 7
   },
@@ -3197,7 +3143,7 @@
       "google_news_rss": 4
     },
     "errors": 0,
-    "retained_articles": 74
+    "retained_articles": 73
   },
   "errors": [],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
