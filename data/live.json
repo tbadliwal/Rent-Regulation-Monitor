@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:45:09.697653Z",
+  "generated_at": "2026-10-10T06:02:56.033137Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -3229,7 +3229,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -3239,12 +3239,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
