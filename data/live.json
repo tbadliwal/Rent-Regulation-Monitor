@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:06:18.908687Z",
+  "generated_at": "2026-10-11T22:08:10.047068Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -346,24 +346,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-01T20:46:52Z",
-      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
-      "domain": "news10.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -397,6 +379,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
+      "domain": "news10.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -480,6 +479,23 @@
       "source_country": "United States",
       "type": "Algorithmic Pricing",
       "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-09-30T07:00:00Z",
+      "title": "Judge blocks New York rent-setting software ban By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
+      "domain": "investing.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
       "direction": "Easing",
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
@@ -605,7 +621,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -804,8 +821,8 @@
       "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-09-23T07:00:00Z",
-      "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+      "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
       "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -821,8 +838,8 @@
       "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-09-23T07:00:00Z",
-      "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
+      "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
       "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -906,7 +923,7 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
-      "published": "2026-09-20T14:00:00Z",
+      "published": "2026-09-20T07:00:00Z",
       "title": "After years of covering the politics around rent stabilization, it’s decision time in Salinas.",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZEUzMHVEUHhqWGdNTmpueWRQWS1YcXNtYWRrUHVFMTFSYTA1MDFVSHZYT0lTTlYtNjNGMFAzSUx4UFR5RVBJUnZ5ek04a1l6ZnotakI0dDFaUkVjMllsNmgxZl8zbHh4MnEtakZNOHJXWHlUQWdVVjVPU3doMVE2cnYwQmpvUm9xSFlOZENNNnhtY0pSdE1zRXY5UkQxQktOeU5iM0E5Q2NCZ1VtMzdXU0x0bjZXeS1NWDZZVU56SjlYTEJYZXNydGF4VVN4UVdfREZTaGo4bXFrazJYR0tSRURTWm82aDJWSkNLbzVlcGRJWmF2UFpsX3FTNWh5cUh6LWNtUHNTbmF1Vi1yRk9QOWpjNXdWNW5FLUhFMDhQaU7SAaYCQVVfeXFMTmtBXzlfa2IyUm56VlZCamJCSjZyanFIUi1uOUpLNzZ4UndDQXQ0Mjl3bmJ3bl9YYWhraWEySGd6Tlh5RHBNakVLWkxnVm1oYm5lcHZ0N2NxN3h1TFctVHBRUV9EeDNQV3N5VGtkMUk1NFY2bDRzUkZCZ3ZkcW16UDJvbzhLNzJsQUVqdFZOSVhLelQ3YUVhWFY1SXE2Rm05dk9ZZmVjcFk3Y1RTRkFLa3JvUk9BVE9Pb3dteEJneFNtd25sQzNwYUdCR2dJbGg4N3hIOGlqNmZ6bVR4eFhaUTNfVy0wdHNiSWhfWjRqVXJpRUR2c29iRllZQmZKN0ViQzBNZDZKNFpiUXEtc0taY1B3eFFWR0d3WTd3QVlFdk5VTkhMMVd3?oc=5",
       "domain": "montereycountynow.com",
@@ -1075,6 +1092,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-09-16T07:00:00Z",
+      "title": "Zohran Mamdani New York housing crisis rent control",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmhwZ1J6dmc4ZDBlQndiYmVwb3pUUm9PMzdPeThtNzBuN1R3alVGeWxub2dnV0VwWmNvU0FqeVhRYUhBUkZTbGpxRFpqb0taMEtrX1BpMVR1a3ZvWEVTdEtyU2dORlYtSUhheENra0dsQzlyQkwtQnBjUFNvV0xrTlVLczNFUVgxSzRUMmNwbXBTRjJzUThYZEdhZk9VTG5IMzR0aGpn?oc=5",
+      "domain": "voiceofemirates.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "Bowdoin mobile home",
@@ -1088,23 +1122,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-09-15T07:00:00Z",
-      "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
-      "domain": "tapinto.net",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1124,6 +1141,24 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-09-15T07:00:00Z",
+      "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
+      "domain": "tapinto.net",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -1225,24 +1260,6 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "GDELT",
-      "carried_forward": true
-    },
-    {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "Portland",
-      "published": "2026-09-10T18:15:00Z",
-      "title": "Portland council passes resolution requesting staff to fully enforce rent control",
-      "url": "https://www.pressherald.com/2026/09/10/portland-council-passes-resolution-requesting-staff-to-fully-enforce-rent-control/",
-      "domain": "pressherald.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Enacted / Effective",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -1712,8 +1729,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1729,8 +1746,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
+        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1877,24 +1894,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Portland",
-        "published": "2026-09-10T18:15:00Z",
-        "title": "Portland council passes resolution requesting staff to fully enforce rent control",
-        "url": "https://www.pressherald.com/2026/09/10/portland-council-passes-resolution-requesting-staff-to-fully-enforce-rent-control/",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
       }
     ],
     "MD": [
@@ -1960,7 +1959,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1977,7 +1977,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NM": [],
@@ -2088,7 +2089,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-01T20:46:52Z",
+        "published": "2026-10-01T07:00:00Z",
         "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
         "domain": "news10.com",
@@ -2099,8 +2100,7 @@
         "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2195,6 +2195,23 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
+        "title": "Judge blocks New York rent-setting software ban By Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
+        "domain": "investing.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Litigation",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-09-30T07:00:00Z",
         "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
         "domain": "hoodline.com",
@@ -2204,6 +2221,23 @@
         "direction": "Easing",
         "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-09-16T07:00:00Z",
+        "title": "Zohran Mamdani New York housing crisis rent control",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmhwZ1J6dmc4ZDBlQndiYmVwb3pUUm9PMzdPeThtNzBuN1R3alVGeWxub2dnV0VwWmNvU0FqeVhRYUhBUkZTbGpxRFpqb0taMEtrX1BpMVR1a3ZvWEVTdEtyU2dORlYtSUhheENra0dsQzlyQkwtQnBjUFNvV0xrTlVLczNFUVgxSzRUMmNwbXBTRjJzUThYZEdhZk9VTG5IMzR0aGpn?oc=5",
+        "domain": "voiceofemirates.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       }
@@ -2519,7 +2553,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Salinas",
-        "published": "2026-09-20T14:00:00Z",
+        "published": "2026-09-20T07:00:00Z",
         "title": "After years of covering the politics around rent stabilization, it’s decision time in Salinas.",
         "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZEUzMHVEUHhqWGdNTmpueWRQWS1YcXNtYWRrUHVFMTFSYTA1MDFVSHZYT0lTTlYtNjNGMFAzSUx4UFR5RVBJUnZ5ek04a1l6ZnotakI0dDFaUkVjMllsNmgxZl8zbHh4MnEtakZNOHJXWHlUQWdVVjVPU3doMVE2cnYwQmpvUm9xSFlOZENNNnhtY0pSdE1zRXY5UkQxQktOeU5iM0E5Q2NCZ1VtMzdXU0x0bjZXeS1NWDZZVU56SjlYTEJYZXNydGF4VVN4UVdfREZTaGo4bXFrazJYR0tSRURTWm82aDJWSkNLbzVlcGRJWmF2UFpsX3FTNWh5cUh6LWNtUHNTbmF1Vi1yRk9QOWpjNXdWNW5FLUhFMDhQaU7SAaYCQVVfeXFMTmtBXzlfa2IyUm56VlZCamJCSjZyanFIUi1uOUpLNzZ4UndDQXQ0Mjl3bmJ3bl9YYWhraWEySGd6Tlh5RHBNakVLWkxnVm1oYm5lcHZ0N2NxN3h1TFctVHBRUV9EeDNQV3N5VGtkMUk1NFY2bDRzUkZCZ3ZkcW16UDJvbzhLNzJsQUVqdFZOSVhLelQ3YUVhWFY1SXE2Rm05dk9ZZmVjcFk3Y1RTRkFLa3JvUk9BVE9Pb3dteEJneFNtd25sQzNwYUdCR2dJbGg4N3hIOGlqNmZ6bVR4eFhaUTNfVy0wdHNiSWhfWjRqVXJpRUR2c29iRllZQmZKN0ViQzBNZDZKNFpiUXEtc0taY1B3eFFWR0d3WTd3QVlFdk5VTkhMMVd3?oc=5",
         "domain": "montereycountynow.com",
@@ -2714,8 +2748,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2731,8 +2765,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
+        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2850,7 +2884,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2867,7 +2902,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|California city approves": [
@@ -3070,31 +3106,11 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       }
-    ],
-    "ME|Portland": [
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Portland",
-        "published": "2026-09-10T18:15:00Z",
-        "title": "Portland council passes resolution requesting staff to fully enforce rent control",
-        "url": "https://www.pressherald.com/2026/09/10/portland-council-passes-resolution-requesting-staff-to-fully-enforce-rent-control/",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
-      }
     ]
   },
   "direction_counts": {
     "Restrictive": 55,
-    "Easing": 10,
+    "Easing": 11,
     "Neutral": 7
   },
   "health": {
@@ -3105,19 +3121,9 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 72
+    "retained_articles": 73
   },
   "errors": [
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
     {
       "provider": "GDELT",
       "query": 3,
@@ -3126,6 +3132,16 @@
     {
       "provider": "GDELT",
       "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
