@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:08:10.047068Z",
+  "generated_at": "2026-10-12T06:11:08.617385Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -343,7 +343,8 @@
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -821,8 +822,8 @@
       "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-09-23T07:00:00Z",
-      "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
+      "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
       "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -838,8 +839,8 @@
       "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-09-23T07:00:00Z",
-      "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+      "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
       "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -1248,24 +1249,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "RI",
-      "state_name": "Rhode Island",
-      "locality": "Providence",
-      "published": "2026-09-10T22:45:00Z",
-      "title": "Providence rent stabilization push springs back to post - primary life",
-      "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
-      "domain": "housingwire.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "GDELT",
-      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -1443,7 +1426,8 @@
         "direction_score": 0,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1729,8 +1713,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
+        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1746,8 +1730,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2389,24 +2373,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "locality": "Providence",
-        "published": "2026-09-10T22:45:00Z",
-        "title": "Providence rent stabilization push springs back to post - primary life",
-        "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
-        "domain": "housingwire.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
       }
     ],
     "SC": [],
@@ -2748,8 +2714,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
+        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2765,8 +2731,8 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
+        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -3030,24 +2996,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "locality": "Providence",
-        "published": "2026-09-10T22:45:00Z",
-        "title": "Providence rent stabilization push springs back to post - primary life",
-        "url": "https://www.housingwire.com/articles/providence-rent-stabilization-debate/",
-        "domain": "housingwire.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
       }
     ],
     "CA|Oakland": [
@@ -3109,7 +3057,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 55,
+    "Restrictive": 54,
     "Easing": 11,
     "Neutral": 7
   },
@@ -3121,9 +3069,14 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 73
+    "retained_articles": 72
   },
   "errors": [
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
     {
       "provider": "GDELT",
       "query": 3,
@@ -3137,11 +3090,6 @@
     {
       "provider": "GDELT",
       "query": 4,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
