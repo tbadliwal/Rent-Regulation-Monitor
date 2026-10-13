@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:44:51.554846Z",
+  "generated_at": "2026-10-13T00:50:36.063502Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -314,23 +314,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-02T14:00:40Z",
-      "title": "New York Cracks Down on Landlords as First Rent Stabilization Settlement is Reached",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREtHMkIwX3RhYjJqSmx3QU9Jbkl6cks1TVh4QkV4a3lTa3NSWHZwZDlFVGlaeXVITk9SQ2JqZHhqX1lMeGZIVHBjd3EwLTk1UU5uRVRMR3V6WkkzZDF0eEM2WmRuSHhoZlNFQUhKcUV1SVlyTWFibTJqVWQyeHJETWc3ZHVfWk12WTN2SFk5TQ?oc=5",
-      "domain": "yahoo.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "",
@@ -347,6 +330,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "New York Cracks Down on Landlords as First Rent Stabilization Settlement is Reached",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREtHMkIwX3RhYjJqSmx3QU9Jbkl6cks1TVh4QkV4a3lTa3NSWHZwZDlFVGlaeXVITk9SQ2JqZHhqX1lMeGZIVHBjd3EwLTk1UU5uRVRMR3V6WkkzZDF0eEM2WmRuSHhoZlNFQUhKcUV1SVlyTWFibTJqVWQyeHJETWc3ZHVfWk12WTN2SFk5TQ?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -494,23 +494,6 @@
       "state_name": "New York",
       "locality": "",
       "published": "2026-09-30T07:00:00Z",
-      "title": "Judge blocks New York rent-setting software ban By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
-      "domain": "investing.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
       "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
       "domain": "hoodline.com",
@@ -573,6 +556,24 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-09-30T07:00:00Z",
+      "title": "Judge blocks New York rent-setting software ban By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
+      "domain": "investing.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -700,7 +701,7 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
-      "published": "2026-09-25T18:18:37Z",
+      "published": "2026-09-25T07:00:00Z",
       "title": "Santa Barbara City Council District 6 Debate Centers on Rent Control as Rivals Challenge Frontrunner Gabe Escobedo",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLVBCYkNNSUNkalIza0I4Mm9nZkZ4ek12V3ZvT0xiYXFZWFYyMXhWMm9oenpWaW5SLUlIeVFlSjMwLUFQNWMxUlRhTFV0eVhhTF83cmlhd1p5aWZya0RTVmtiMnFwVXRialZQSEtfY2dQeHhxV3ptdlRMRzlJWnc0OFRyWWY0RENxV1ZFUmoxY19RMTlYU2FOV2M2dw?oc=5",
       "domain": "edhat.com",
@@ -711,8 +712,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -1590,7 +1590,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-09-25T18:18:37Z",
+        "published": "2026-09-25T07:00:00Z",
         "title": "Santa Barbara City Council District 6 Debate Centers on Rent Control as Rivals Challenge Frontrunner Gabe Escobedo",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLVBCYkNNSUNkalIza0I4Mm9nZkZ4ek12V3ZvT0xiYXFZWFYyMXhWMm9oenpWaW5SLUlIeVFlSjMwLUFQNWMxUlRhTFV0eVhhTF83cmlhd1p5aWZya0RTVmtiMnFwVXRialZQSEtfY2dQeHhxV3ptdlRMRzlJWnc0OFRyWWY0RENxV1ZFUmoxY19RMTlYU2FOV2M2dw?oc=5",
         "domain": "edhat.com",
@@ -1601,8 +1601,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2023,7 +2022,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-02T14:00:40Z",
+        "published": "2026-10-02T07:00:00Z",
         "title": "New York Cracks Down on Landlords as First Rent Stabilization Settlement is Reached",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREtHMkIwX3RhYjJqSmx3QU9Jbkl6cks1TVh4QkV4a3lTa3NSWHZwZDlFVGlaeXVITk9SQ2JqZHhqX1lMeGZIVHBjd3EwLTk1UU5uRVRMR3V6WkkzZDF0eEM2WmRuSHhoZlNFQUhKcUV1SVlyTWFibTJqVWQyeHJETWc3ZHVfWk12WTN2SFk5TQ?oc=5",
         "domain": "yahoo.com",
@@ -2147,9 +2146,9 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
-        "title": "Judge blocks New York rent-setting software ban By Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
-        "domain": "investing.com",
+        "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
+        "domain": "hoodline.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
         "status": "Litigation",
@@ -2164,9 +2163,9 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
-        "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
-        "domain": "hoodline.com",
+        "title": "Judge blocks New York rent-setting software ban By Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
+        "domain": "investing.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
         "status": "Litigation",
@@ -2174,7 +2173,8 @@
         "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2591,7 +2591,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-09-25T18:18:37Z",
+        "published": "2026-09-25T07:00:00Z",
         "title": "Santa Barbara City Council District 6 Debate Centers on Rent Control as Rivals Challenge Frontrunner Gabe Escobedo",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLVBCYkNNSUNkalIza0I4Mm9nZkZ4ek12V3ZvT0xiYXFZWFYyMXhWMm9oenpWaW5SLUlIeVFlSjMwLUFQNWMxUlRhTFV0eVhhTF83cmlhd1p5aWZya0RTVmtiMnFwVXRialZQSEtfY2dQeHhxV3ptdlRMRzlJWnc0OFRyWWY0RENxV1ZFUmoxY19RMTlYU2FOV2M2dw?oc=5",
         "domain": "edhat.com",
@@ -2602,8 +2602,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2970,23 +2969,23 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
       "query": 4,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
-      "query": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 3,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
