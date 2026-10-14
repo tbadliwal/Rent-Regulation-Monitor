@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:21:38.333213Z",
+  "generated_at": "2026-10-14T21:48:46.326981Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -752,23 +752,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-28T07:00:00Z",
-      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -788,14 +771,14 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "California city approves",
-      "published": "2026-09-27T07:00:00Z",
-      "title": "California city approves rent stabilization after split votes, capping hikes at 3% or less",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVFHdEYyUTB6Zm5NUU5UUXpuNWNJSWdvbUxFXzdwaWZfTWhGS3dpbGpuWEZvcnZxMzZ5VVNKSTN0VEpBWkFMcmVVSU1LV24wbU5CYkdlZXpsZUkyMUdIc0Zqckg0Yi00SFVSbThWRzNWcDYtelBHdzZJc0FfSS1XeU9aOEI5UHlxWDNMcmxQamF5cll1N0JwQ1dvRzg0MHJzNnNCRTB3?oc=5",
-      "domain": "yahoo.com",
+      "locality": "",
+      "published": "2026-09-28T07:00:00Z",
+      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
+      "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
-      "status": "Proposed / Process",
+      "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -816,6 +799,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "California city approves",
+      "published": "2026-09-27T07:00:00Z",
+      "title": "California city approves rent stabilization after split votes, capping hikes at 3% or less",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVFHdEYyUTB6Zm5NUU5UUXpuNWNJSWdvbUxFXzdwaWZfTWhGS3dpbGpuWEZvcnZxMzZ5VVNKSTN0VEpBWkFMcmVVSU1LV24wbU5CYkdlZXpsZUkyMUdIc0Zqckg0Yi00SFVSbThWRzNWcDYtelBHdzZJc0FfSS1XeU9aOEI5UHlxWDNMcmxQamF5cll1N0JwQ1dvRzg0MHJzNnNCRTB3?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1252,23 +1252,6 @@
       "carried_forward": true
     },
     {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "Bowdoin mobile home",
-      "published": "2026-09-15T07:00:00Z",
-      "title": "Bowdoin mobile home rent stabilization vote ends in 50-50 deadlock",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGg0VUhTbFhmSEszMEpocnplWlhHNGJqVkQ5bXBMSkRpRVh0NVN5TksxSkM5RXZxbEtwTk1XRmhvNnVrR3Rsak5ONTI4cTNMUGhoQUVHekdYNGlpeFVqTE05a0ZMelZPd3dPeEZsU2pwQ05BNzNZd0x3SWJUZGIxMl9RbE5kTTdPLWJqVGozLTdld0Izc0I3QjVULW9MRWhTbHZrYXo1cFNYdw?oc=5",
-      "domain": "pressherald.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
@@ -1282,6 +1265,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "Bowdoin mobile home",
+      "published": "2026-09-15T07:00:00Z",
+      "title": "Bowdoin mobile home rent stabilization vote ends in 50-50 deadlock",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGg0VUhTbFhmSEszMEpocnplWlhHNGJqVkQ5bXBMSkRpRVh0NVN5TksxSkM5RXZxbEtwTk1XRmhvNnVrR3Rsak5ONTI4cTNMUGhoQUVHekdYNGlpeFVqTE05a0ZMelZPd3dPeEZsU2pwQ05BNzNZd0x3SWJUZGIxMl9RbE5kTTdPLWJqVGozLTdld0Izc0I3QjVULW9MRWhTbHZrYXo1cFNYdw?oc=5",
+      "domain": "pressherald.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1732,23 +1732,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "California city approves",
-        "published": "2026-09-27T07:00:00Z",
-        "title": "California city approves rent stabilization after split votes, capping hikes at 3% or less",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVFHdEYyUTB6Zm5NUU5UUXpuNWNJSWdvbUxFXzdwaWZfTWhGS3dpbGpuWEZvcnZxMzZ5VVNKSTN0VEpBWkFMcmVVSU1LV24wbU5CYkdlZXpsZUkyMUdIc0Zqckg0Yi00SFVSbThWRzNWcDYtelBHdzZJc0FfSS1XeU9aOEI5UHlxWDNMcmxQamF5cll1N0JwQ1dvRzg0MHJzNnNCRTB3?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "",
         "published": "2026-09-27T07:00:00Z",
         "title": "California landlords push back as new rental registry and inspections raise overreach fears",
@@ -1760,6 +1743,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "California city approves",
+        "published": "2026-09-27T07:00:00Z",
+        "title": "California city approves rent stabilization after split votes, capping hikes at 3% or less",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVFHdEYyUTB6Zm5NUU5UUXpuNWNJSWdvbUxFXzdwaWZfTWhGS3dpbGpuWEZvcnZxMzZ5VVNKSTN0VEpBWkFMcmVVSU1LV24wbU5CYkdlZXpsZUkyMUdIc0Zqckg0Yi00SFVSbThWRzNWcDYtelBHdzZJc0FfSS1XeU9aOEI5UHlxWDNMcmxQamF5cll1N0JwQ1dvRzg0MHJzNnNCRTB3?oc=5",
+        "domain": "yahoo.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -3234,12 +3234,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 1,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -3249,7 +3244,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
