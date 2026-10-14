@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-14T05:03:53.305406Z",
+  "generated_at": "2026-10-14T12:07:03.529619Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-14T11:10:59Z",
+      "title": "Rent control is on the ballot as Bay Area housing costs soar. Here’s what voters need to know",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWl5cXRuQ2xVa2M0c21IeVE5aGpsUzNFd3ZMRnZYd2NIRVQzNVpVN0h2THFwOVF2anQ4ci16ZVoweWRsYjhkczZQc2ZXd3V3VGR3REh2NkJ4VFRJblRpVEFiNnV2SFp0Vk9ZYU9wbmlrT1NLTDdFSTVLZzVIWXl2b1duMHhDSmlzNWx2SHhRUGdFNWM?oc=5",
+      "domain": "sfchronicle.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "NJ",
       "state_name": "New Jersey",
@@ -1017,8 +1034,8 @@
       "locality": "Providence",
       "published": "2026-09-18T07:00:00Z",
       "title": "Morales: Rent control in Providence could be enforced by next fall at the earliest",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFdJQ1JjUGdGS3czUHRRN0JtRng1QWUtR2Y1c1RXY1ZFd09BaXFuN0lKQWppVUpHTktCWTB1N2pXa05pejJ3T0JjUy1RV0s4ZW9TLWp3RHZGVUlYX2tKZEY5RzVGZGc3TFk5bVA4WXR4dGF0czgtZ0VjTVpRMTNPTnRVc2gzY2VQRGstNnVaUjZrVHJVeHU3UUI0XzBwUQ?oc=5",
-      "domain": "yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXpHbTN5QmVuVXYtcFFsWEZmbi1YMDE0UE1NYWVIWlphc2laZjhsZnlpSnVXZ1VMSzdhZjlQZW1pdjd5QzJWQk1PQ0ZKT2FpNnpZZVJndnU2MWYxaUt0WEpkVTFHNVdOLXhOVEhiRjFZMzdBQkJOWjdwbUVsRkxhUXFNaG5YdWIzZDBCWmx0QmlmdVZZbldLRXNsaW1KQVAwYXp2N0M4R2RLeEh3bzFGNmJTdFJtRzc0TlZ5YklBTEN4bkxqdE5yejBB0gHPAUFVX3lxTFBwVTAzal9aSUNieDBmSjdZeXBIeTAweTFwWk1iNmprTjlpcjUyeGxpMXB0czd3aVh0LVlMQmRYUmoySjdMOGEweUtfakw1ZkJ4aGF4U1hHMG85clFnOGVMY0ozdk5LX0o3Rm8xWVBqQmlJckFGSVJhM29lNTdsSUtuQ0lWU0lmZmluTHczaV9pb2c2eWpDZmhNNDJ0T2hwLXRqZUFuNFlQQ05jclhuclc0akprUXRfUWVLNHNDSjNpTjg1dHIzZi1yMTFjRks1bw?oc=5",
+      "domain": "wpri.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Enforcement / Administration",
@@ -1167,6 +1184,23 @@
       "carried_forward": true
     },
     {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-09-15T07:00:00Z",
+      "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
+      "domain": "tapinto.net",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "Bowdoin mobile home",
@@ -1194,24 +1228,6 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-09-15T07:00:00Z",
-      "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
-      "domain": "tapinto.net",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -1252,7 +1268,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1279,6 +1296,23 @@
     "AZ": [],
     "AR": [],
     "CA": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-10-14T11:10:59Z",
+        "title": "Rent control is on the ballot as Bay Area housing costs soar. Here’s what voters need to know",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWl5cXRuQ2xVa2M0c21IeVE5aGpsUzNFd3ZMRnZYd2NIRVQzNVpVN0h2THFwOVF2anQ4ci16ZVoweWRsYjhkczZQc2ZXd3V3VGR3REh2NkJ4VFRJblRpVEFiNnV2SFp0Vk9ZYU9wbmlrT1NLTDdFSTVLZzVIWXl2b1duMHhDSmlzNWx2SHhRUGdFNWM?oc=5",
+        "domain": "sfchronicle.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -1781,24 +1815,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T01:45:00Z",
-        "title": "Santa Barbara City Council introduces ordinance to establish rent stabilization",
-        "url": "https://keyt.com/lifestyle/housing/2026/09/22/santa-barbara-city-council-introduces-ordinance-to-establish-rent-stabilization/",
-        "domain": "keyt.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
       }
     ],
     "CO": [],
@@ -2021,8 +2037,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "NM": [],
@@ -2389,8 +2404,8 @@
         "locality": "Providence",
         "published": "2026-09-18T07:00:00Z",
         "title": "Morales: Rent control in Providence could be enforced by next fall at the earliest",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFdJQ1JjUGdGS3czUHRRN0JtRng1QWUtR2Y1c1RXY1ZFd09BaXFuN0lKQWppVUpHTktCWTB1N2pXa05pejJ3T0JjUy1RV0s4ZW9TLWp3RHZGVUlYX2tKZEY5RzVGZGc3TFk5bVA4WXR4dGF0czgtZ0VjTVpRMTNPTnRVc2gzY2VQRGstNnVaUjZrVHJVeHU3UUI0XzBwUQ?oc=5",
-        "domain": "yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXpHbTN5QmVuVXYtcFFsWEZmbi1YMDE0UE1NYWVIWlphc2laZjhsZnlpSnVXZ1VMSzdhZjlQZW1pdjd5QzJWQk1PQ0ZKT2FpNnpZZVJndnU2MWYxaUt0WEpkVTFHNVdOLXhOVEhiRjFZMzdBQkJOWjdwbUVsRkxhUXFNaG5YdWIzZDBCWmx0QmlmdVZZbldLRXNsaW1KQVAwYXp2N0M4R2RLeEh3bzFGNmJTdFJtRzc0TlZ5YklBTEN4bkxqdE5yejBB0gHPAUFVX3lxTFBwVTAzal9aSUNieDBmSjdZeXBIeTAweTFwWk1iNmprTjlpcjUyeGxpMXB0czd3aVh0LVlMQmRYUmoySjdMOGEweUtfakw1ZkJ4aGF4U1hHMG85clFnOGVMY0ozdk5LX0o3Rm8xWVBqQmlJckFGSVJhM29lNTdsSUtuQ0lWU0lmZmluTHczaV9pb2c2eWpDZmhNNDJ0T2hwLXRqZUFuNFlQQ05jclhuclc0akprUXRfUWVLNHNDSjNpTjg1dHIzZi1yMTFjRks1bw?oc=5",
+        "domain": "wpri.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Enforcement / Administration",
@@ -2571,7 +2586,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Berkeley": [
@@ -2912,8 +2928,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|California city approves": [
@@ -2977,8 +2992,8 @@
         "locality": "Providence",
         "published": "2026-09-18T07:00:00Z",
         "title": "Morales: Rent control in Providence could be enforced by next fall at the earliest",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFdJQ1JjUGdGS3czUHRRN0JtRng1QWUtR2Y1c1RXY1ZFd09BaXFuN0lKQWppVUpHTktCWTB1N2pXa05pejJ3T0JjUy1RV0s4ZW9TLWp3RHZGVUlYX2tKZEY5RzVGZGc3TFk5bVA4WXR4dGF0czgtZ0VjTVpRMTNPTnRVc2gzY2VQRGstNnVaUjZrVHJVeHU3UUI0XzBwUQ?oc=5",
-        "domain": "yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXpHbTN5QmVuVXYtcFFsWEZmbi1YMDE0UE1NYWVIWlphc2laZjhsZnlpSnVXZ1VMSzdhZjlQZW1pdjd5QzJWQk1PQ0ZKT2FpNnpZZVJndnU2MWYxaUt0WEpkVTFHNVdOLXhOVEhiRjFZMzdBQkJOWjdwbUVsRkxhUXFNaG5YdWIzZDBCWmx0QmlmdVZZbldLRXNsaW1KQVAwYXp2N0M4R2RLeEh3bzFGNmJTdFJtRzc0TlZ5YklBTEN4bkxqdE5yejBB0gHPAUFVX3lxTFBwVTAzal9aSUNieDBmSjdZeXBIeTAweTFwWk1iNmprTjlpcjUyeGxpMXB0czd3aVh0LVlMQmRYUmoySjdMOGEweUtfakw1ZkJ4aGF4U1hHMG85clFnOGVMY0ozdk5LX0o3Rm8xWVBqQmlJckFGSVJhM29lNTdsSUtuQ0lWU0lmZmluTHczaV9pb2c2eWpDZmhNNDJ0T2hwLXRqZUFuNFlQQ05jclhuclc0akprUXRfUWVLNHNDSjNpTjg1dHIzZi1yMTFjRks1bw?oc=5",
+        "domain": "wpri.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Enforcement / Administration",
@@ -3065,7 +3080,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 53,
+    "Restrictive": 54,
     "Easing": 11,
     "Neutral": 9
   },
@@ -3077,14 +3092,9 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 73
+    "retained_articles": 74
   },
   "errors": [
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
     {
       "provider": "GDELT",
       "query": 1,
@@ -3093,6 +3103,11 @@
     {
       "provider": "GDELT",
       "query": 4,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
