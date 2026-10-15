@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:11:01.534377Z",
+  "generated_at": "2026-10-15T21:32:03.273457Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -105,7 +105,8 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "DE",
@@ -476,23 +477,6 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
-      "published": "2026-10-01T15:22:02Z",
-      "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
-      "domain": "yahoo.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Enacted / Effective",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
       "published": "2026-10-01T15:03:25Z",
       "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
@@ -506,6 +490,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Enacted / Effective",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -1581,23 +1582,6 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-10-01T15:22:02Z",
-        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
         "published": "2026-10-01T15:03:25Z",
         "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
@@ -1611,6 +1595,23 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-01T07:00:00Z",
+        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
+        "domain": "yahoo.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Enacted / Effective",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2095,7 +2096,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2597,23 +2599,6 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-10-01T15:22:02Z",
-        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
         "published": "2026-10-01T15:03:25Z",
         "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
@@ -2627,6 +2612,23 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-01T07:00:00Z",
+        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
+        "domain": "yahoo.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Enacted / Effective",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -3211,12 +3213,12 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
