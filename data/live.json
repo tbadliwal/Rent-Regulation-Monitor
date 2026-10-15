@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:48:46.326981Z",
+  "generated_at": "2026-10-15T04:52:41.520340Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -66,6 +66,24 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-13T23:38:00Z",
+      "title": "Some California homeowners push for rent cap as house prices surge",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUlqT3VkWFc2Wl9PclA2R2lka0UyQ3hiSi03bmM2OWlWaWUzRjBya19qbDR3ZFEyVjE5XzVLZ1d0MzhiV1pIc3dTakh4c3M2QzJKT3hEUE1tbTNqQy1rVFlaQVM5WFdXR25veXJXRTFiaGZXbEloME1Ed2VmdjUyUl85aE1vYUNOUXZkWl9Dc3RxLUdlUjJaVFdBY0tiM1NkVGxsdUZ6U1p5YjBlX0hNTVozWS1sM1hrU0dqelhtWDlwSHRad0NWcThyUkxBRDFCWmZTSENCcThKY0V3clR3Z1dtQ0tYM1pUdWpHaW5ITQ?oc=5",
+      "domain": "cbs8.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -328,7 +346,8 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1396,6 +1415,24 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-10-13T23:38:00Z",
+        "title": "Some California homeowners push for rent cap as house prices surge",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUlqT3VkWFc2Wl9PclA2R2lka0UyQ3hiSi03bmM2OWlWaWUzRjBya19qbDR3ZFEyVjE5XzVLZ1d0MzhiV1pIc3dTakh4c3M2QzJKT3hEUE1tbTNqQy1rVFlaQVM5WFdXR25veXJXRTFiaGZXbEloME1Ed2VmdjUyUl85aE1vYUNOUXZkWl9Dc3RxLUdlUjJaVFdBY0tiM1NkVGxsdUZ6U1p5YjBlX0hNTVozWS1sM1hrU0dqelhtWDlwSHRad0NWcThyUkxBRDFCWmZTSENCcThKY0V3clR3Z1dtQ0tYM1pUdWpHaW5ITQ?oc=5",
+        "domain": "cbs8.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
       {
@@ -1858,23 +1895,6 @@
         "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
         "domain": "keyt.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
-        "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Proposed / Process",
@@ -2479,7 +2499,8 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "RI": [
@@ -3217,7 +3238,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 56,
+    "Restrictive": 57,
     "Easing": 12,
     "Neutral": 10
   },
@@ -3229,7 +3250,7 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 78
+    "retained_articles": 79
   },
   "errors": [
     {
@@ -3244,12 +3265,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
