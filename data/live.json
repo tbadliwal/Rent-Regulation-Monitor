@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:52:41.520340Z",
+  "generated_at": "2026-10-15T11:43:50.869908Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -70,8 +70,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -145,10 +144,10 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Pasadena",
-      "published": "2026-10-09T20:02:26Z",
+      "published": "2026-10-09T20:02:03Z",
       "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
-      "domain": "pasadenastarnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+      "domain": "dailynews.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -241,7 +240,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -346,8 +346,7 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -382,7 +381,8 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -403,23 +403,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-02T19:34:51Z",
-      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
-      "domain": "multifamilydive.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "",
@@ -436,6 +419,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -1285,7 +1285,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -1302,7 +1303,8 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1336,42 +1338,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Pasadena",
-      "published": "2026-09-14T07:00:00Z",
-      "title": "Proposed Measure to Overhaul Pasadena Rent Control Law Could Force Sunset of Measure H",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE4xS0tTa1ZTbFhrTjlNR01FTW1iZHZpX2dZZWpTdXg5bXB6VEUyaTBHZ3pmMENJMHJPR3R5WXBmTmxwbHFpWU5SS0hQdXE2cXA2ekpodjJpUXNqMktGTlpNMUM1WmRuaE1TSkhVeDQ0N1hYUUxFTUdzUGl0WlgyV0FGeXNJS2JUNVdmNVgtRl9sU1d2bDdEbDY2cmtZSkY5YVJWZE9yN0tVSzZxOEtnbzhSNllSdw?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-14T07:00:00Z",
-      "title": "San Pablo: 2 Ballot Measures On Citys November Ballot: Sales Tax, Rent Control Initiative",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW9USGw1ZmJOY3RtM3VUTlR0Zl9Db1hnOG9RMkRORV83eVZrZE93cHF3WTgtdHY0ajhKUTNmVlhpcUhmR0N6QmVSN2p4UjBsOHhfZm90cXNFbnFJeWZPLVB2Y1ZUUzJOWWxEdlZFaFJfRTVjaWhMWE45SDBUcVRhbVFOaXFPaU5iTFE3bUdXUWlUbllMcTVhRzVaWXZDSWZ4a05OcQ?oc=5",
-      "domain": "sfgate.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
@@ -1415,8 +1381,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1456,10 +1421,10 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-10-09T20:02:26Z",
+        "published": "2026-10-09T20:02:03Z",
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
-        "domain": "pasadenastarnews.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+        "domain": "dailynews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -1518,7 +1483,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2041,7 +2007,8 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "ME",
@@ -2078,7 +2045,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MA": [
@@ -2160,7 +2128,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NM": [],
@@ -2237,7 +2206,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-02T19:34:51Z",
+        "published": "2026-10-02T07:00:00Z",
         "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
         "domain": "multifamilydive.com",
@@ -2499,8 +2468,7 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "RI": [
@@ -2909,10 +2877,10 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-10-09T20:02:26Z",
+        "published": "2026-10-09T20:02:03Z",
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
-        "domain": "pasadenastarnews.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+        "domain": "dailynews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2937,7 +2905,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2970,24 +2939,6 @@
         "status": "Discovery",
         "direction": "Easing",
         "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-09-14T07:00:00Z",
-        "title": "Proposed Measure to Overhaul Pasadena Rent Control Law Could Force Sunset of Measure H",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUE4xS0tTa1ZTbFhrTjlNR01FTW1iZHZpX2dZZWpTdXg5bXB6VEUyaTBHZ3pmMENJMHJPR3R5WXBmTmxwbHFpWU5SS0hQdXE2cXA2ekpodjJpUXNqMktGTlpNMUM1WmRuaE1TSkhVeDQ0N1hYUUxFTUdzUGl0WlgyV0FGeXNJS2JUNVdmNVgtRl9sU1d2bDdEbDY2cmtZSkY5YVJWZE9yN0tVSzZxOEtnbzhSNllSdw?oc=5",
-        "domain": "pasadenanow.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
@@ -3049,7 +3000,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NJ|Jersey City": [
@@ -3086,7 +3038,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|California city approves": [
@@ -3233,12 +3186,13 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ]
   },
   "direction_counts": {
-    "Restrictive": 57,
+    "Restrictive": 55,
     "Easing": 12,
     "Neutral": 10
   },
@@ -3250,28 +3204,28 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 79
+    "retained_articles": 77
   },
   "errors": [
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
