@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:43:43.116197Z",
+  "generated_at": "2026-10-16T11:37:19.698699Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -382,8 +382,7 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -476,23 +475,6 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
-      "published": "2026-10-01T15:22:02Z",
-      "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
-      "domain": "yahoo.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Enacted / Effective",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
       "published": "2026-10-01T15:03:25Z",
       "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
@@ -506,6 +488,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Enacted / Effective",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -1200,7 +1199,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -1217,7 +1217,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NC",
@@ -1234,7 +1235,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -1251,7 +1253,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1267,78 +1270,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-09-15T07:00:00Z",
-      "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
-      "domain": "tapinto.net",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "Bowdoin mobile home",
-      "published": "2026-09-15T07:00:00Z",
-      "title": "Bowdoin mobile home rent stabilization vote ends in 50-50 deadlock",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGg0VUhTbFhmSEszMEpocnplWlhHNGJqVkQ5bXBMSkRpRVh0NVN5TksxSkM5RXZxbEtwTk1XRmhvNnVrR3Rsak5ONTI4cTNMUGhoQUVHekdYNGlpeFVqTE05a0ZMelZPd3dPeEZsU2pwQ05BNzNZd0x3SWJUZGIxMl9RbE5kTTdPLWJqVGozLTdld0Izc0I3QjVULW9MRWhTbHZrYXo1cFNYdw?oc=5",
-      "domain": "pressherald.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-15T07:00:00Z",
-      "title": "Santa Barbara Talks: District 4 candidates debate housing, rent stabilization, budget, civility",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1d2ZWSXdVMU5ueXRCV040b0xLTkpfSmpuMGxuMnQwMUh3VFpWdDBIVEF0REJnNllfT0ZNa2t3TEtuUlpCYjFXczJoTm9qU2l6ajdRSVdEVVNIUXhq?oc=5",
-      "domain": "youtu.be",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "",
-      "published": "2026-09-15T07:00:00Z",
-      "title": "Saco City Council approves mobile home lot rent stabilization ordinance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkYyVkYyYTBSbHU1bk10MXJLMEJUOXpTSVYydEZlcHFEazVlWHBpb0FIVFk4NUo4TWY2R01jLUJkSjVTdWdQMTNBOGd3YzhhNHBzRTA5ZVpjVi00UUhOWXZVS0ZETmFCazlpYW1iN0tCVmNJenFmaEtjekxVaWc4SElYQkJHbEpUM2xPZnhyb01pdmtEZjFPZUJvbVhqaW83NmZJc1Z6c0hMYUZidHBQcw?oc=5",
-      "domain": "pressherald.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
@@ -1580,23 +1511,6 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-10-01T15:22:02Z",
-        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
         "published": "2026-10-01T15:03:25Z",
         "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
@@ -1610,6 +1524,23 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-01T07:00:00Z",
+        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
+        "domain": "yahoo.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Enacted / Effective",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1931,7 +1862,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "IN": [],
@@ -1991,41 +1923,6 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Bowdoin mobile home",
-        "published": "2026-09-15T07:00:00Z",
-        "title": "Bowdoin mobile home rent stabilization vote ends in 50-50 deadlock",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGg0VUhTbFhmSEszMEpocnplWlhHNGJqVkQ5bXBMSkRpRVh0NVN5TksxSkM5RXZxbEtwTk1XRmhvNnVrR3Rsak5ONTI4cTNMUGhoQUVHekdYNGlpeFVqTE05a0ZMelZPd3dPeEZsU2pwQ05BNzNZd0x3SWJUZGIxMl9RbE5kTTdPLWJqVGozLTdld0Izc0I3QjVULW9MRWhTbHZrYXo1cFNYdw?oc=5",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "",
-        "published": "2026-09-15T07:00:00Z",
-        "title": "Saco City Council approves mobile home lot rent stabilization ordinance",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUkYyVkYyYTBSbHU1bk10MXJLMEJUOXpTSVYydEZlcHFEazVlWHBpb0FIVFk4NUo4TWY2R01jLUJkSjVTdWdQMTNBOGd3YzhhNHBzRTA5ZVpjVi00UUhOWXZVS0ZETmFCazlpYW1iN0tCVmNJenFmaEtjekxVaWc4SElYQkJHbEpUM2xPZnhyb01pdmtEZjFPZUJvbVhqaW83NmZJc1Z6c0hMYUZidHBQcw?oc=5",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
       }
@@ -2046,8 +1943,7 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "MA": [
@@ -2108,24 +2004,6 @@
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Litigation",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-09-15T07:00:00Z",
-        "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
-        "domain": "tapinto.net",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
@@ -2428,7 +2306,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NC": [
@@ -2447,7 +2326,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "ND": [],
@@ -2597,23 +2477,6 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-10-01T15:22:02Z",
-        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
         "published": "2026-10-01T15:03:25Z",
         "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
@@ -2627,6 +2490,23 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-01T07:00:00Z",
+        "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
+        "domain": "yahoo.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Enacted / Effective",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2801,24 +2681,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-15T07:00:00Z",
-        "title": "Santa Barbara Talks: District 4 candidates debate housing, rent stabilization, budget, civility",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1d2ZWSXdVMU5ueXRCV040b0xLTkpfSmpuMGxuMnQwMUh3VFpWdDBIVEF0REJnNllfT0ZNa2t3TEtuUlpCYjFXczJoTm9qU2l6ajdRSVdEVVNIUXhq?oc=5",
-        "domain": "youtu.be",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CA|Salinas": [
@@ -3002,8 +2864,7 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "NJ|Jersey City": [
@@ -3018,24 +2879,6 @@
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Litigation",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-09-15T07:00:00Z",
-        "title": "Jersey City Councilman Jake Ephros Says Rent Control Audit ‘A Great Step’",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDBvdkJwRnRFX2xudkQyd3JzSDl1MV9rcERrT3ZPUlVpUDJMem96Y1g2WDY2dVlxYTFXWDJ5VV9MbkFXQ0RrNV85dFYtZVpyb3ptSjFPek01eElER3VwODQwbWVFSkFKUm8zaWJneEpBTlJhNzFUcWhuV1BBa1BzVkFDcGR4MFlqaURxcHhaemJrOHFrNnhQVkRnXzRrR040c0Jja1pXblQyOHVTRDRkS0pFWjFZQXFzQ1BOeHZYRVp3VnFVNm5UdTVIeFplN0c2OVZfRFVPWmN2dw?oc=5",
-        "domain": "tapinto.net",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
@@ -3169,32 +3012,13 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
-    "ME|Bowdoin mobile home": [
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Bowdoin mobile home",
-        "published": "2026-09-15T07:00:00Z",
-        "title": "Bowdoin mobile home rent stabilization vote ends in 50-50 deadlock",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGg0VUhTbFhmSEszMEpocnplWlhHNGJqVkQ5bXBMSkRpRVh0NVN5TksxSkM5RXZxbEtwTk1XRmhvNnVrR3Rsak5ONTI4cTNMUGhoQUVHekdYNGlpeFVqTE05a0ZMelZPd3dPeEZsU2pwQ05BNzNZd0x3SWJUZGIxMl9RbE5kTTdPLWJqVGozLTdld0Izc0I3QjVULW9MRWhTbHZrYXo1cFNYdw?oc=5",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
       }
     ]
   },
   "direction_counts": {
-    "Restrictive": 55,
+    "Restrictive": 51,
     "Easing": 12,
     "Neutral": 10
   },
@@ -3206,9 +3030,14 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 77
+    "retained_articles": 73
   },
   "errors": [
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
     {
       "provider": "GDELT",
       "query": 3,
@@ -3222,11 +3051,6 @@
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
