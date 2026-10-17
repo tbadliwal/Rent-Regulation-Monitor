@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-16T21:22:51.455386Z",
+  "generated_at": "2026-10-17T04:41:11.094276Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-16T21:21:31Z",
+      "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
+      "domain": "noozhawk.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -348,8 +365,7 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -405,24 +421,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-02T13:37:42Z",
-      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -436,6 +434,23 @@
       "direction": "Easing",
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -733,8 +748,7 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NJ",
@@ -768,8 +782,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -802,6 +815,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "OR",
+      "state_name": "Oregon",
+      "locality": "Portland",
+      "published": "2026-09-28T07:00:00Z",
+      "title": "Oregon Rent Caps Jump Back to 10% in 2027, Squeezing Portland Landlords Too",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWF6Y0duXzhSSmtITzljbnVnOVlyM0tVbW4xSnhGQjBpTkRjcjJKVGdvTndrcmtmOU82eXVhZ0trb1lsaGxtX2ZlM3B5VVctUV9IQURoeThKRlJmRFRLUDRMOC1zUllIc251dlo3S0l6RVM2NmQ5Z0pRZ21BYnNPTlRZM0Rpb05jM2FyRU9IbkdSaU8yb3RndUJxNHR6MGc0MFZjeGZR?oc=5",
+      "domain": "hoodline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1100,6 +1130,23 @@
       "carried_forward": true
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-18T07:00:00Z",
+      "title": "Opinion: Vote Yes on Measure X for a more efficient Rent Board",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNG5fODdsV1FiQXRocjNfaXQzY1JTR0hNcS0xaVExSVF3QXU5dzhncUE0MkUxQ2RpX1F4VDNTZnRRZ1hIZnYtMGIyVC1DdmNWVU5YTTZ3dDJGcnIwemMxdTFmR29rMFR1RzIwRVZwM091cW1Vektlcl92QUJBU2JhbVJwVFk4WXVMUWRrN1U5R0ZFQnAwMXdHaTlXVTAyVjJyTHc0?oc=5",
+      "domain": "berkeleyside.org",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "RI",
       "state_name": "Rhode Island",
       "locality": "Providence",
@@ -1149,24 +1196,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-18T07:00:00Z",
-      "title": "Opinion: Vote Yes on Measure X for a more efficient Rent Board",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNG5fODdsV1FiQXRocjNfaXQzY1JTR0hNcS0xaVExSVF3QXU5dzhncUE0MkUxQ2RpX1F4VDNTZnRRZ1hIZnYtMGIyVC1DdmNWVU5YTTZ3dDJGcnIwemMxdTFmR29rMFR1RzIwRVZwM091cW1Vektlcl92QUJBU2JhbVJwVFk4WXVMUWRrN1U5R0ZFQnAwMXdHaTlXVTAyVjJyTHc0?oc=5",
-      "domain": "berkeleyside.org",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1282,6 +1311,23 @@
     "AZ": [],
     "AR": [],
     "CA": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-16T21:21:31Z",
+        "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
+        "domain": "noozhawk.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -1495,7 +1541,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "",
-        "published": "2026-10-02T13:37:42Z",
+        "published": "2026-10-02T07:00:00Z",
         "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
         "domain": "pasadenanow.com",
@@ -1506,8 +1552,7 @@
         "direction_score": 0,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1628,8 +1673,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1646,8 +1690,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1777,23 +1820,6 @@
         "published": "2026-09-23T07:00:00Z",
         "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
         "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2334,7 +2360,25 @@
     "ND": [],
     "OH": [],
     "OK": [],
-    "OR": [],
+    "OR": [
+      {
+        "state": "OR",
+        "state_name": "Oregon",
+        "locality": "Portland",
+        "published": "2026-09-28T07:00:00Z",
+        "title": "Oregon Rent Caps Jump Back to 10% in 2027, Squeezing Portland Landlords Too",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWF6Y0duXzhSSmtITzljbnVnOVlyM0tVbW4xSnhGQjBpTkRjcjJKVGdvTndrcmtmOU82eXVhZ0trb1lsaGxtX2ZlM3B5VVctUV9IQURoeThKRlJmRFRLUDRMOC1zUllIc251dlo3S0l6RVM2NmQ5Z0pRZ21BYnNPTlRZM0Rpb05jM2FyRU9IbkdSaU8yb3RndUJxNHR6MGc0MFZjeGZR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "PA": [
       {
         "state": "PA",
@@ -2351,8 +2395,7 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "RI": [
@@ -2441,6 +2484,23 @@
   },
   "locality_feeds": {
     "CA|Santa Barbara": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-16T21:21:31Z",
+        "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
+        "domain": "noozhawk.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -2561,8 +2621,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2808,8 +2867,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Berkeley": [
@@ -2885,6 +2943,25 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
+    "OR|Portland": [
+      {
+        "state": "OR",
+        "state_name": "Oregon",
+        "locality": "Portland",
+        "published": "2026-09-28T07:00:00Z",
+        "title": "Oregon Rent Caps Jump Back to 10% in 2027, Squeezing Portland Landlords Too",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWF6Y0duXzhSSmtITzljbnVnOVlyM0tVbW4xSnhGQjBpTkRjcjJKVGdvTndrcmtmOU82eXVhZ0trb1lsaGxtX2ZlM3B5VVctUV9IQURoeThKRlJmRFRLUDRMOC1zUllIc251dlo3S0l6RVM2NmQ5Z0pRZ21BYnNPTlRZM0Rpb05jM2FyRU9IbkdSaU8yb3RndUJxNHR6MGc0MFZjeGZR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       }
@@ -3020,7 +3097,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 51,
+    "Restrictive": 53,
     "Easing": 12,
     "Neutral": 10
   },
@@ -3032,28 +3109,28 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 73
+    "retained_articles": 75
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "query": 4,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
