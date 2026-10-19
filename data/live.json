@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-10-19T04:54:57.666898Z",
+  "generated_at": "2026-10-19T13:37:59.906780Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
     {
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "Montgomery County",
+      "published": "2026-10-19T09:08:09Z",
+      "title": "Montgomery County considers rules on algorithmic rent tools",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzJfMVR4Xy1ZWEpuRW5qU2VHRHc4SmNDa2RKbXlFT1BlVERGTWlpV3hSaGY5eWk1eEJFRjZGY3BtU1k0YmZhaGpOMzVBdlVWQ3FmTVg5U3NSb1BQZHhXeTBpdkxXanZBWVN0MjhvSjdiQW5wWmRIVmJxLUNKQ2RGVnBpVE9VMk5lY3JfLQ?oc=5",
+      "domain": "thedailyrecord.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NV",
       "state_name": "Nevada",
       "locality": "",
-      "published": "2026-10-18T04:02:59Z",
+      "published": "2026-10-18T04:02:00Z",
       "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPUGJzNkV6cE95OG4tZE1lbTNiRlRRVS0tRXNCSGFpaFVfSkNVZDYta3ZGeHV3ZlpydDkyTUNueUdzOGk5Rk9wRkFJT09TZjQ0cmhxSC1fYzhFVmtXSzJnUk41MUYwV28wR1hyT0xWSFExMHQ5bkNnSUpuSW81ckpFWi1OdFRLRWhjc2dGS2VkUGFpY2l5cE42aUN0V1FlajFWSnFLUkhwZU4yTFhCbnZyRzk4WDdqOG1iQW9UQ3RhRUFvYzhvdXdtY3ZEODlPcTlXNE9WQUdaMmRCejE0ckdzT1hRdEJKM3daWE5tUVI0QWVoRTdZS283djhYTWZvYjkzdy0tOG1EbkZmaTVNNENXWVFVcXJLTEYtcWI1dktxZzlIZ1JCZDNmS3RoeTZCZm9ETzFMUkEwaExPQk45Q2ZnRk54dnBhMG16blBuMk5mUXZyN3Nmb2QzaGpOeGxSRG9taFlwYjYwNHlJYnNWX2c?oc=5",
       "domain": "reviewjournal.com",
@@ -178,23 +195,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "",
-      "published": "2026-10-09T08:35:00Z",
-      "title": "California rent board delays landlord penalty plan after staff warns it needs more hires",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNclZHMEd2a2I5ZF9uSk5mb3VSNVE1NUhFYmdhQ09vUEtrTU1xLUhQUnY4VzBjdm1FWDhLZDNOMXRzZEpaQ0FpeDdQMUdEaFk0bzdFSEhYRlkxN1ROMDFwUGJuaW9kbncxWDF2ZnhrR0Z0QU91cFNONjZrVkNBNW1hNTNPMEJoRHF0VlJ2a1hiUmZrTlAwV0E?oc=5",
-      "domain": "yahoo.com",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "Berkeley",
       "published": "2026-10-09T07:00:00Z",
       "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -206,6 +206,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-09T07:00:00Z",
+      "title": "California rent board delays landlord penalty plan after staff warns it needs more hires",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNclZHMEd2a2I5ZF9uSk5mb3VSNVE1NUhFYmdhQ09vUEtrTU1xLUhQUnY4VzBjdm1FWDhLZDNOMXRzZEpaQ0FpeDdQMUdEaFk0bzdFSEhYRlkxN1ROMDFwUGJuaW9kbncxWDF2ZnhrR0Z0QU91cFNONjZrVkNBNW1hNTNPMEJoRHF0VlJ2a1hiUmZrTlAwV0E?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -258,8 +275,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -277,41 +293,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Pasadena",
-      "published": "2026-10-07T21:03:58Z",
-      "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
-      "domain": "coloradoboulevard.net",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-07T18:42:37Z",
-      "title": "After Sneddon's failed attempt to change ordinance again, City Council formally approves rent stabilization in Santa Barbara",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFVNUkcwNXhsbHJxN2M4UVh0OVlDQnRwWGFTZ0JzMmJKWWF3RmViUEl6X1BTbGtjU3NEbkJzcDFOMHB3NlpIMlgwQVlBT1lPSmRRSllQLWRFN3Q2Y1RTYVFvWnRBTXZNVzd1cVRlaUgxeFltWXMwcU1oNWl0VUk3LXczRTBLUGNZcXptZERyei1OTG14eEVqTVNGZnN3ZDJja3J2TGdJWGsyaUhoZFJteW5TSFJIWTRRVXhuNFdrdXZ1RURWdDhYUHRIY05PUUIwbGRrT2JDcHo4X1hxTTVkNFlrWUtzUnlYazdBajNKNk91Zw?oc=5",
-      "domain": "newspress.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     },
     {
       "state": "ME",
@@ -348,6 +329,40 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-07T07:00:00Z",
+      "title": "After Sneddon's failed attempt to change ordinance again, City Council formally approves rent stabilization in Santa Barbara",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFVNUkcwNXhsbHJxN2M4UVh0OVlDQnRwWGFTZ0JzMmJKWWF3RmViUEl6X1BTbGtjU3NEbkJzcDFOMHB3NlpIMlgwQVlBT1lPSmRRSllQLWRFN3Q2Y1RTYVFvWnRBTXZNVzd1cVRlaUgxeFltWXMwcU1oNWl0VUk3LXczRTBLUGNZcXptZERyei1OTG14eEVqTVNGZnN3ZDJja3J2TGdJWGsyaUhoZFJteW5TSFJIWTRRVXhuNFdrdXZ1RURWdDhYUHRIY05PUUIwbGRrT2JDcHo4X1hxTTVkNFlrWUtzUnlYazdBajNKNk91Zw?oc=5",
+      "domain": "newspress.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Pasadena",
+      "published": "2026-10-07T07:00:00Z",
+      "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
+      "domain": "coloradoboulevard.net",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -450,7 +465,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -1174,78 +1190,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-18T07:00:00Z",
-      "title": "Opinion: Vote Yes on Measure X for a more efficient Rent Board",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNG5fODdsV1FiQXRocjNfaXQzY1JTR0hNcS0xaVExSVF3QXU5dzhncUE0MkUxQ2RpX1F4VDNTZnRRZ1hIZnYtMGIyVC1DdmNWVU5YTTZ3dDJGcnIwemMxdTFmR29rMFR1RzIwRVZwM091cW1Vektlcl92QUJBU2JhbVJwVFk4WXVMUWRrN1U5R0ZFQnAwMXdHaTlXVTAyVjJyTHc0?oc=5",
-      "domain": "berkeleyside.org",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "RI",
-      "state_name": "Rhode Island",
-      "locality": "Providence",
-      "published": "2026-09-18T07:00:00Z",
-      "title": "Morales: Rent control in Providence could be enforced by next fall at the earliest",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXpHbTN5QmVuVXYtcFFsWEZmbi1YMDE0UE1NYWVIWlphc2laZjhsZnlpSnVXZ1VMSzdhZjlQZW1pdjd5QzJWQk1PQ0ZKT2FpNnpZZVJndnU2MWYxaUt0WEpkVTFHNVdOLXhOVEhiRjFZMzdBQkJOWjdwbUVsRkxhUXFNaG5YdWIzZDBCWmx0QmlmdVZZbldLRXNsaW1KQVAwYXp2N0M4R2RLeEh3bzFGNmJTdFJtRzc0TlZ5YklBTEN4bkxqdE5yejBB0gHPAUFVX3lxTFBwVTAzal9aSUNieDBmSjdZeXBIeTAweTFwWk1iNmprTjlpcjUyeGxpMXB0czd3aVh0LVlMQmRYUmoySjdMOGEweUtfakw1ZkJ4aGF4U1hHMG85clFnOGVMY0ozdk5LX0o3Rm8xWVBqQmlJckFGSVJhM29lNTdsSUtuQ0lWU0lmZmluTHczaV9pb2c2eWpDZmhNNDJ0T2hwLXRqZUFuNFlQQ05jclhuclc0akprUXRfUWVLNHNDSjNpTjg1dHIzZi1yMTFjRks1bw?oc=5",
-      "domain": "wpri.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "RI",
-      "state_name": "Rhode Island",
-      "locality": "Providence",
-      "published": "2026-09-18T07:00:00Z",
-      "title": "Where incoming Providence city councilors stand on rent control",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjFXc2dUdVhrcUdBZEpkUGRCbnZwaUl5UUNnZERVUkZadzc1OE50S2RMQllqVmFMQXk2UDRSR2R5VHN1WV9sNGp1OWdCSFY3dTF6RmVRMXVscTdaWWQwdFZDWVBNbklzeGxaMUl4SzM5NnVVSFZGemcxaXo2Rml4bW5JendvaVg5TVYzakpCY2xES3ZPRmRkM1hDNWx6ZE02RGNr?oc=5",
-      "domain": "yahoo.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "US",
-      "state_name": "United States",
-      "locality": "",
-      "published": "2026-09-18T07:00:00Z",
-      "title": "‘You gave us GH¢60,000 to run 66 offices nationwide and expect us to function?’ – Rent Control Boss questions Ato Forson",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUxRcGdYUzhMdDBMSUNmbHl1d1BuNlhmMlczeExYd0NvT2tkeWF1NzVnek4tckVsRS0zY3dBb1NqU3FodjZLOGU3T05ubEdPVy1FUzdBN3dtellHY1pLSnRNNlZvNVgzSXZrWHpXMDJTcFIzNXdxRndFa3VibUFyZFhFdzJzeEhVQmc3NzNEbFE0anp4VVdoZtIBlwFBVV95cUxNQVFocVNNamJ3bDJIQ2l2YTdQaF82MVdRNjUwQnpoWEI4VldIU1dtQWZYdEJPSVlxWDV3THNwR1Q2TXZ1T2w0MHFmTG04TW1IQXRIZ01xbHJFU3U1anp0N3FBcHRRUkVzMnBTZnJNVS1qUzZkSE9XS2hUY1NPT1VWLWZ4UE5wZmZTbHBpUzJvZEE2cDlLazVr?oc=5",
-      "domain": "modernghana.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -1342,23 +1286,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "",
-        "published": "2026-10-09T08:35:00Z",
-        "title": "California rent board delays landlord penalty plan after staff warns it needs more hires",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNclZHMEd2a2I5ZF9uSk5mb3VSNVE1NUhFYmdhQ09vUEtrTU1xLUhQUnY4VzBjdm1FWDhLZDNOMXRzZEpaQ0FpeDdQMUdEaFk0bzdFSEhYRlkxN1ROMDFwUGJuaW9kbncxWDF2ZnhrR0Z0QU91cFNONjZrVkNBNW1hNTNPMEJoRHF0VlJ2a1hiUmZrTlAwV0E?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-10-09T07:00:00Z",
         "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -1370,6 +1297,23 @@
         "direction": "Neutral",
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-10-09T07:00:00Z",
+        "title": "California rent board delays landlord penalty plan after staff warns it needs more hires",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNclZHMEd2a2I5ZF9uSk5mb3VSNVE1NUhFYmdhQ09vUEtrTU1xLUhQUnY4VzBjdm1FWDhLZDNOMXRzZEpaQ0FpeDdQMUdEaFk0bzdFSEhYRlkxN1ROMDFwUGJuaW9kbncxWDF2ZnhrR0Z0QU91cFNONjZrVkNBNW1hNTNPMEJoRHF0VlJ2a1hiUmZrTlAwV0E?oc=5",
+        "domain": "yahoo.com",
+        "source_country": "United States",
+        "type": "Tenant / Rental Policy",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1410,8 +1354,25 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-07T07:00:00Z",
+        "title": "After Sneddon's failed attempt to change ordinance again, City Council formally approves rent stabilization in Santa Barbara",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFVNUkcwNXhsbHJxN2M4UVh0OVlDQnRwWGFTZ0JzMmJKWWF3RmViUEl6X1BTbGtjU3NEbkJzcDFOMHB3NlpIMlgwQVlBT1lPSmRRSllQLWRFN3Q2Y1RTYVFvWnRBTXZNVzd1cVRlaUgxeFltWXMwcU1oNWl0VUk3LXczRTBLUGNZcXptZERyei1OTG14eEVqTVNGZnN3ZDJja3J2TGdJWGsyaUhoZFJteW5TSFJIWTRRVXhuNFdrdXZ1RURWdDhYUHRIY05PUUIwbGRrT2JDcHo4X1hxTTVkNFlrWUtzUnlYazdBajNKNk91Zw?oc=5",
+        "domain": "newspress.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-10-07T21:03:58Z",
+        "published": "2026-10-07T07:00:00Z",
         "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
         "domain": "coloradoboulevard.net",
@@ -1423,24 +1384,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-10-07T18:42:37Z",
-        "title": "After Sneddon's failed attempt to change ordinance again, City Council formally approves rent stabilization in Santa Barbara",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFVNUkcwNXhsbHJxN2M4UVh0OVlDQnRwWGFTZ0JzMmJKWWF3RmViUEl6X1BTbGtjU3NEbkJzcDFOMHB3NlpIMlgwQVlBT1lPSmRRSllQLWRFN3Q2Y1RTYVFvWnRBTXZNVzd1cVRlaUgxeFltWXMwcU1oNWl0VUk3LXczRTBLUGNZcXptZERyei1OTG14eEVqTVNGZnN3ZDJja3J2TGdJWGsyaUhoZFJteW5TSFJIWTRRVXhuNFdrdXZ1RURWdDhYUHRIY05PUUIwbGRrT2JDcHo4X1hxTTVkNFlrWUtzUnlYazdBajNKNk91Zw?oc=5",
-        "domain": "newspress.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1492,7 +1435,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1861,6 +1805,23 @@
         "state": "MD",
         "state_name": "Maryland",
         "locality": "Montgomery County",
+        "published": "2026-10-19T09:08:09Z",
+        "title": "Montgomery County considers rules on algorithmic rent tools",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzJfMVR4Xy1ZWEpuRW5qU2VHRHc4SmNDa2RKbXlFT1BlVERGTWlpV3hSaGY5eWk1eEJFRjZGY3BtU1k0YmZhaGpOMzVBdlVWQ3FmTVg5U3NSb1BQZHhXeTBpdkxXanZBWVN0MjhvSjdiQW5wWmRIVmJxLUNKQ2RGVnBpVE9VMk5lY3JfLQ?oc=5",
+        "domain": "thedailyrecord.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Proposed / Process",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Montgomery County",
         "published": "2026-10-05T07:00:00Z",
         "title": "Montgomery County Committee Backs Ban on Algorithmic Rent Pricing",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblFwQTk5ZVZ5al9YM0pTdHVyTkZlR21naDV4WmdWOTVPMnNRc2I1dTV2am5tRzRraC1Id1h2X0ROV21vZmxHbTRuNGtGLXBwb1NvdVpwWjA4UzV2Zm9lWmlhdWRrMkpabzZCd1ZIOUFobDd4a0c3bWsybXI0QWFXUE5obFpiT0dOT29aUkcxakJoenZHYTAtYlA5VEV2aU0?oc=5",
@@ -1923,7 +1884,7 @@
         "state": "NV",
         "state_name": "Nevada",
         "locality": "",
-        "published": "2026-10-18T04:02:59Z",
+        "published": "2026-10-18T04:02:00Z",
         "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
         "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPUGJzNkV6cE95OG4tZE1lbTNiRlRRVS0tRXNCSGFpaFVfSkNVZDYta3ZGeHV3ZlpydDkyTUNueUdzOGk5Rk9wRkFJT09TZjQ0cmhxSC1fYzhFVmtXSzJnUk41MUYwV28wR1hyT0xWSFExMHQ5bkNnSUpuSW81ckpFWi1OdFRLRWhjc2dGS2VkUGFpY2l5cE42aUN0V1FlajFWSnFLUkhwZU4yTFhCbnZyRzk4WDdqOG1iQW9UQ3RhRUFvYzhvdXdtY3ZEODlPcTlXNE9WQUdaMmRCejE0ckdzT1hRdEJKM3daWE5tUVI0QWVoRTdZS283djhYTWZvYjkzdy0tOG1EbkZmaTVNNENXWVFVcXJLTEYtcWI1dktxZzlIZ1JCZDNmS3RoeTZCZm9ETzFMUkEwaExPQk45Q2ZnRk54dnBhMG16blBuMk5mUXZyN3Nmb2QzaGpOeGxSRG9taFlwYjYwNHlJYnNWX2c?oc=5",
         "domain": "reviewjournal.com",
@@ -2026,8 +1987,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2332,42 +2292,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "locality": "Providence",
-        "published": "2026-09-18T07:00:00Z",
-        "title": "Morales: Rent control in Providence could be enforced by next fall at the earliest",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXpHbTN5QmVuVXYtcFFsWEZmbi1YMDE0UE1NYWVIWlphc2laZjhsZnlpSnVXZ1VMSzdhZjlQZW1pdjd5QzJWQk1PQ0ZKT2FpNnpZZVJndnU2MWYxaUt0WEpkVTFHNVdOLXhOVEhiRjFZMzdBQkJOWjdwbUVsRkxhUXFNaG5YdWIzZDBCWmx0QmlmdVZZbldLRXNsaW1KQVAwYXp2N0M4R2RLeEh3bzFGNmJTdFJtRzc0TlZ5YklBTEN4bkxqdE5yejBB0gHPAUFVX3lxTFBwVTAzal9aSUNieDBmSjdZeXBIeTAweTFwWk1iNmprTjlpcjUyeGxpMXB0czd3aVh0LVlMQmRYUmoySjdMOGEweUtfakw1ZkJ4aGF4U1hHMG85clFnOGVMY0ozdk5LX0o3Rm8xWVBqQmlJckFGSVJhM29lNTdsSUtuQ0lWU0lmZmluTHczaV9pb2c2eWpDZmhNNDJ0T2hwLXRqZUFuNFlQQ05jclhuclc0akprUXRfUWVLNHNDSjNpTjg1dHIzZi1yMTFjRks1bw?oc=5",
-        "domain": "wpri.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "locality": "Providence",
-        "published": "2026-09-18T07:00:00Z",
-        "title": "Where incoming Providence city councilors stand on rent control",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjFXc2dUdVhrcUdBZEpkUGRCbnZwaUl5UUNnZERVUkZadzc1OE50S2RMQllqVmFMQXk2UDRSR2R5VHN1WV9sNGp1OWdCSFY3dTF6RmVRMXVscTdaWWQwdFZDWVBNbklzeGxaMUl4SzM5NnVVSFZGemcxaXo2Rml4bW5JendvaVg5TVYzakpCY2xES3ZPRmRkM1hDNWx6ZE02RGNr?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "SC": [],
@@ -2384,6 +2308,42 @@
     "DC": []
   },
   "locality_feeds": {
+    "MD|Montgomery County": [
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Montgomery County",
+        "published": "2026-10-19T09:08:09Z",
+        "title": "Montgomery County considers rules on algorithmic rent tools",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzJfMVR4Xy1ZWEpuRW5qU2VHRHc4SmNDa2RKbXlFT1BlVERGTWlpV3hSaGY5eWk1eEJFRjZGY3BtU1k0YmZhaGpOMzVBdlVWQ3FmTVg5U3NSb1BQZHhXeTBpdkxXanZBWVN0MjhvSjdiQW5wWmRIVmJxLUNKQ2RGVnBpVE9VMk5lY3JfLQ?oc=5",
+        "domain": "thedailyrecord.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Proposed / Process",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Montgomery County",
+        "published": "2026-10-05T07:00:00Z",
+        "title": "Montgomery County Committee Backs Ban on Algorithmic Rent Pricing",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblFwQTk5ZVZ5al9YM0pTdHVyTkZlR21naDV4WmdWOTVPMnNRc2I1dTV2am5tRzRraC1Id1h2X0ROV21vZmxHbTRuNGtGLXBwb1NvdVpwWjA4UzV2Zm9lWmlhdWRrMkpabzZCd1ZIOUFobDd4a0c3bWsybXI0QWFXUE5obFpiT0dOT29aUkcxakJoenZHYTAtYlA5VEV2aU0?oc=5",
+        "domain": "mocoshow.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "CA|Santa Barbara": [
       {
         "state": "CA",
@@ -2423,7 +2383,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-10-07T18:42:37Z",
+        "published": "2026-10-07T07:00:00Z",
         "title": "After Sneddon's failed attempt to change ordinance again, City Council formally approves rent stabilization in Santa Barbara",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFVNUkcwNXhsbHJxN2M4UVh0OVlDQnRwWGFTZ0JzMmJKWWF3RmViUEl6X1BTbGtjU3NEbkJzcDFOMHB3NlpIMlgwQVlBT1lPSmRRSllQLWRFN3Q2Y1RTYVFvWnRBTXZNVzd1cVRlaUgxeFltWXMwcU1oNWl0VUk3LXczRTBLUGNZcXptZERyei1OTG14eEVqTVNGZnN3ZDJja3J2TGdJWGsyaUhoZFJteW5TSFJIWTRRVXhuNFdrdXZ1RURWdDhYUHRIY05PUUIwbGRrT2JDcHo4X1hxTTVkNFlrWUtzUnlYazdBajNKNk91Zw?oc=5",
         "domain": "newspress.com",
@@ -2434,8 +2394,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2685,7 +2644,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-10-07T21:03:58Z",
+        "published": "2026-10-07T07:00:00Z",
         "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
         "domain": "coloradoboulevard.net",
@@ -2713,7 +2672,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2787,25 +2747,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      }
-    ],
-    "MD|Montgomery County": [
-      {
-        "state": "MD",
-        "state_name": "Maryland",
-        "locality": "Montgomery County",
-        "published": "2026-10-05T07:00:00Z",
-        "title": "Montgomery County Committee Backs Ban on Algorithmic Rent Pricing",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblFwQTk5ZVZ5al9YM0pTdHVyTkZlR21naDV4WmdWOTVPMnNRc2I1dTV2am5tRzRraC1Id1h2X0ROV21vZmxHbTRuNGtGLXBwb1NvdVpwWjA4UzV2Zm9lWmlhdWRrMkpabzZCd1ZIOUFobDd4a0c3bWsybXI0QWFXUE5obFpiT0dOT29aUkcxakJoenZHYTAtYlA5VEV2aU0?oc=5",
-        "domain": "mocoshow.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
       }
     ],
     "NJ|Jersey City": [
@@ -2900,42 +2841,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "locality": "Providence",
-        "published": "2026-09-18T07:00:00Z",
-        "title": "Morales: Rent control in Providence could be enforced by next fall at the earliest",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUXpHbTN5QmVuVXYtcFFsWEZmbi1YMDE0UE1NYWVIWlphc2laZjhsZnlpSnVXZ1VMSzdhZjlQZW1pdjd5QzJWQk1PQ0ZKT2FpNnpZZVJndnU2MWYxaUt0WEpkVTFHNVdOLXhOVEhiRjFZMzdBQkJOWjdwbUVsRkxhUXFNaG5YdWIzZDBCWmx0QmlmdVZZbldLRXNsaW1KQVAwYXp2N0M4R2RLeEh3bzFGNmJTdFJtRzc0TlZ5YklBTEN4bkxqdE5yejBB0gHPAUFVX3lxTFBwVTAzal9aSUNieDBmSjdZeXBIeTAweTFwWk1iNmprTjlpcjUyeGxpMXB0czd3aVh0LVlMQmRYUmoySjdMOGEweUtfakw1ZkJ4aGF4U1hHMG85clFnOGVMY0ozdk5LX0o3Rm8xWVBqQmlJckFGSVJhM29lNTdsSUtuQ0lWU0lmZmluTHczaV9pb2c2eWpDZmhNNDJ0T2hwLXRqZUFuNFlQQ05jclhuclc0akprUXRfUWVLNHNDSjNpTjg1dHIzZi1yMTFjRks1bw?oc=5",
-        "domain": "wpri.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "RI",
-        "state_name": "Rhode Island",
-        "locality": "Providence",
-        "published": "2026-09-18T07:00:00Z",
-        "title": "Where incoming Providence city councilors stand on rent control",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjFXc2dUdVhrcUdBZEpkUGRCbnZwaUl5UUNnZERVUkZadzc1OE50S2RMQllqVmFMQXk2UDRSR2R5VHN1WV9sNGp1OWdCSFY3dTF6RmVRMXVscTdaWWQwdFZDWVBNbklzeGxaMUl4SzM5NnVVSFZGemcxaXo2Rml4bW5JendvaVg5TVYzakpCY2xES3ZPRmRkM1hDNWx6ZE02RGNr?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CA|Oakland": [
@@ -2978,7 +2883,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 50,
+    "Restrictive": 47,
     "Easing": 12,
     "Neutral": 10
   },
@@ -2990,7 +2895,7 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 72
+    "retained_articles": 69
   },
   "errors": [
     {
