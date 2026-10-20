@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T17:20:36.242103Z",
-  "status": "partial",
+  "generated_at": "2026-10-20T21:44:06.467585Z",
+  "status": "ok",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
@@ -229,6 +229,23 @@
     {
       "state": "CA",
       "state_name": "California",
+      "locality": "Pasadena",
+      "published": "2026-10-09T07:00:00Z",
+      "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+      "domain": "dailynews.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
       "locality": "Berkeley",
       "published": "2026-10-09T07:00:00Z",
       "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -261,23 +278,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Pasadena",
-      "published": "2026-10-09T07:00:00Z",
-      "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
-      "domain": "pasadenastarnews.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -296,23 +296,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-08T07:00:00Z",
-      "title": "New York Good Cause Eviction Law: Will Oneonta Opt In?",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGVydHg4ZVd0dTJzWGFmODN4MWRqWnpBMzY4SlZMYjFFTGxzenNFQi0ta2h1eVB6cl8xX1BUVkYzNDUzWU9FaTg5eE1FVDBDVDMteWxzelJrVy1qX3Vtb2NvTGxxQ2RxWkw0bkZFaHFxOVNsSzVBVHJuVGQzUVNHUkxRV3Nic0tjVHB2eVpZSDRUdlhmdlRzY3F6X0NxcktmVlFDbGRoY2hXUjlBMXlCTmZhOG43NG9XeG5jcTZvdUQ3NElLS2c?oc=5",
-      "domain": "wktv.com",
-      "source_country": "United States",
-      "type": "Good Cause / Just Cause",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
@@ -323,6 +306,23 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-08T07:00:00Z",
+      "title": "New York Good Cause Eviction Law: Will Oneonta Opt In?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGVydHg4ZVd0dTJzWGFmODN4MWRqWnpBMzY4SlZMYjFFTGxzenNFQi0ta2h1eVB6cl8xX1BUVkYzNDUzWU9FaTg5eE1FVDBDVDMteWxzelJrVy1qX3Vtb2NvTGxxQ2RxWkw0bkZFaHFxOVNsSzVBVHJuVGQzUVNHUkxRV3Nic0tjVHB2eVpZSDRUdlhmdlRzY3F6X0NxcktmVlFDbGRoY2hXUjlBMXlCTmZhOG43NG9XeG5jcTZvdUQ3NElLS2c?oc=5",
+      "domain": "wktv.com",
+      "source_country": "United States",
+      "type": "Good Cause / Just Cause",
+      "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -452,23 +452,6 @@
       "carried_forward": true
     },
     {
-      "state": "MD",
-      "state_name": "Maryland",
-      "locality": "Montgomery County",
-      "published": "2026-10-05T07:00:00Z",
-      "title": "Montgomery County Committee Backs Ban on Algorithmic Rent Pricing",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblFwQTk5ZVZ5al9YM0pTdHVyTkZlR21naDV4WmdWOTVPMnNRc2I1dTV2am5tRzRraC1Id1h2X0ROV21vZmxHbTRuNGtGLXBwb1NvdVpwWjA4UzV2Zm9lWmlhdWRrMkpabzZCd1ZIOUFobDd4a0c3bWsybXI0QWFXUE5obFpiT0dOT29aUkcxakJoenZHYTAtYlA5VEV2aU0?oc=5",
-      "domain": "mocoshow.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "PA",
       "state_name": "Pennsylvania",
       "locality": "",
@@ -482,6 +465,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "Montgomery County",
+      "published": "2026-10-05T07:00:00Z",
+      "title": "Montgomery County Committee Backs Ban on Algorithmic Rent Pricing",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblFwQTk5ZVZ5al9YM0pTdHVyTkZlR21naDV4WmdWOTVPMnNRc2I1dTV2am5tRzRraC1Id1h2X0ROV21vZmxHbTRuNGtGLXBwb1NvdVpwWjA4UzV2Zm9lWmlhdWRrMkpabzZCd1ZIOUFobDd4a0c3bWsybXI0QWFXUE5obFpiT0dOT29aUkcxakJoenZHYTAtYlA5VEV2aU0?oc=5",
+      "domain": "mocoshow.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -502,40 +502,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
-      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
-      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
-      "domain": "multifamilydive.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -568,6 +534,40 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -624,6 +624,23 @@
       "carried_forward": true
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-30T21:45:00Z",
+      "title": "Something Rotten at City Hall : How District Elections Skewed Big Vote on Rent Control ; Winners & Losers",
+      "url": "https://www.independent.com/2026/09/30/something-rotten-at-city-hall-how-district-elections-skewed-big-vote-on-rent-control-winners-losers/",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "GDELT"
+    },
+    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -658,6 +675,40 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-09-30T07:00:00Z",
+      "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0dNcnBhak0tdUprZ0NNLXpmci1ZSkZpQXVUaG1xUUROSzB6Ui1mdWI0M0M4VHQwbFBxa0tmNm95Y1NzRHdUdFFsOXNnLTBEaXFQOXRZdkRXN1dwY2FlVkZ6VW1DMV9Sc3AxTmVhd3FvOEVKa2g5N0xwZkhXamFsWDhCbXVfNlAzbGYtZXVoSkpGUE5YNDBKOW85a2xKYVltRmE0SENfY1JRNExzNV9RTXhpZ1Z2S1dPaV9obUhsYmFBQQ?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Enacted / Effective",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-30T07:00:00Z",
+      "title": "Meet the Manic Pixel Dream Girl: She’s hot, hates rent control, and isn’t real",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM3hMVXVyQ0hpUml6blF0RnZhUTlWTE9Wa01TQUplM182Ri1VeTY0YlRwcmphSElHTzFKUTdwU0FFZ1I0c3RwYUdNVi1mSWJ2V3dqUGVNUXBSUXpkM0VfT1ZjLXNxNkxyZ1ZZZA?oc=5",
+      "domain": "sfstandard.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -724,57 +775,6 @@
       "direction": "Easing",
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0dNcnBhak0tdUprZ0NNLXpmci1ZSkZpQXVUaG1xUUROSzB6Ui1mdWI0M0M4VHQwbFBxa0tmNm95Y1NzRHdUdFFsOXNnLTBEaXFQOXRZdkRXN1dwY2FlVkZ6VW1DMV9Sc3AxTmVhd3FvOEVKa2g5N0xwZkhXamFsWDhCbXVfNlAzbGYtZXVoSkpGUE5YNDBKOW85a2xKYVltRmE0SENfY1JRNExzNV9RTXhpZ1Z2S1dPaV9obUhsYmFBQQ?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Enacted / Effective",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Something Rotten at City Hall: How District Elections Skewed Big Vote on Rent Control; Winners & Losers",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2R0d1Ata0hVaVBZdG1xTjJCLV94dnVmdG5GcnNUVFpjcGVtc2VoS21WTTh5VkZvTmx2Q3YxV0pLWHhuZUZRZUptaEFFTzVqVXA2elF1UUVSdm5DSUpBb3phZHdVc3ZQaF93R09YRTRVVk5JekpydzNYZXRibXpVMkJZVEJnM08tYnQydzJkS0U4QmxHdFg0YWdLTXdRVUFXcUlpaDNUM3FxTWpfaWZQdmx3djFab09CcVRUU0o5bDh2d2wtbkdfWnY3R05zZWE5czF1NlZ3?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Meet the Manic Pixel Dream Girl: She’s hot, hates rent control, and isn’t real",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM3hMVXVyQ0hpUml6blF0RnZhUTlWTE9Wa01TQUplM182Ri1VeTY0YlRwcmphSElHTzFKUTdwU0FFZ1I0c3RwYUdNVi1mSWJ2V3dqUGVNUXBSUXpkM0VfT1ZjLXNxNkxyZ1ZZZA?oc=5",
-      "domain": "sfstandard.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -865,6 +865,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-28T07:00:00Z",
+      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -899,23 +916,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-28T07:00:00Z",
-      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "OR",
       "state_name": "Oregon",
       "locality": "Portland",
@@ -930,7 +930,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -981,8 +982,7 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "GDELT",
-      "carried_forward": true
+      "discovery_provider": "GDELT"
     },
     {
       "state": "CA",
@@ -999,8 +999,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "GDELT",
-      "carried_forward": true
+      "discovery_provider": "GDELT"
     },
     {
       "state": "RI",
@@ -1040,6 +1039,23 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
+      "published": "2026-09-24T00:15:00Z",
+      "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+      "url": "https://www.independent.com/2026/09/23/santa-barbara-rent-control-ordinance-moves-forward-despite-many-unknown-costs/",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "GDELT"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
       "published": "2026-09-23T19:52:12Z",
       "title": "Battle over exemptions tangles rent stabilization ordinance at Santa Barbara City Council",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVlNY1U4dVEwazNrSXh0SnZUX25DWHNjR3RLX0FtZEVDc2lmWmJWNEh6Y2E1aGhLWnlOOVlkRXRab1kzOVpHdEZpS1d3b1hRNlI5T2I3aXBlQ2Q3X1MtOVU4VGZpc05MZnYzbEV6TkIyTFdlODJSOGdnc3FrVnllbF9iVkZ0Y1BHTDdUaElTRXBYZEsxcjRfQURjWjE2M1M2dUp3ZHdMS0RaLU1vSXJWcEpUR2k0Qk5XTWduMVBmNEdTQnZ6X2c?oc=5",
@@ -1060,23 +1076,6 @@
       "published": "2026-09-23T07:00:00Z",
       "title": "Santa Barbara City Council Split, but Rent Stabilization Ordinance Moves Forward",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmkzazZkS0RtMTFjZlg5R29LT3R2VUZ4TFVuNEdFc2xLNFQtV2lmVl9VMUF0OW5TbXgwR0Q5WVdwY1M1TzJ5RHphVEpUVm5TR2tfaHRhRWYtQmdtYlM1TDludTB5NklrNTJFMExiaF9xTUVWekFyQldsSi1QRmQ2UnlhTmZIcWp2Q1RhRFlDcDJEbEd2NnFMQnJvU0RQR01wWWlNQnNUemVkWXpUYU5ZQm10YmY?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-23T07:00:00Z",
-      "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
       "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -1119,8 +1118,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "GDELT",
-      "carried_forward": true
+      "discovery_provider": "GDELT"
     },
     {
       "state": "MD",
@@ -1142,14 +1140,14 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Santa Barbara",
+      "locality": "",
       "published": "2026-09-22T07:00:00Z",
-      "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
-      "domain": "keyt.com",
+      "title": "Rent Control: A Really Dumb Idea",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2RTc5cXl5M2J2a3hvdTRJVzZRTHpxQ0FZWGxGMzBPWERrRm1UVjRqUTRkWlRZdnAtemlBMi1IMGI1b01IUmoxNFRQWFZBZ0JESV92UkQxMVJJUVQxSXpHdU9halJfbGxkNUR6SkFVRlpBYVo0U1VnbGFEOA?oc=5",
+      "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
-      "status": "Proposed / Process",
+      "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -1159,14 +1157,14 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "",
+      "locality": "Santa Barbara",
       "published": "2026-09-22T07:00:00Z",
-      "title": "Rent Control: A Really Dumb Idea",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2RTc5cXl5M2J2a3hvdTRJVzZRTHpxQ0FZWGxGMzBPWERrRm1UVjRqUTRkWlRZdnAtemlBMi1IMGI1b01IUmoxNFRQWFZBZ0JESV92UkQxMVJJUVQxSXpHdU9halJfbGxkNUR6SkFVRlpBYVo0U1VnbGFEOA?oc=5",
-      "domain": "independent.com",
+      "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
+      "domain": "keyt.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
-      "status": "Discovery",
+      "status": "Proposed / Process",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -1321,6 +1319,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-09T07:00:00Z",
+        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+        "domain": "dailynews.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-10-09T07:00:00Z",
         "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -1349,23 +1364,6 @@
         "direction": "Neutral",
         "direction_score": 0,
         "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-10-09T07:00:00Z",
-        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
-        "domain": "pasadenastarnews.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1528,6 +1526,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "",
+        "published": "2026-09-30T21:45:00Z",
+        "title": "Something Rotten at City Hall : How District Elections Skewed Big Vote on Rent Control ; Winners & Losers",
+        "url": "https://www.independent.com/2026/09/30/something-rotten-at-city-hall-how-district-elections-skewed-big-vote-on-rent-control-winners-losers/",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "GDELT"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-09-30T07:00:00Z",
         "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
@@ -1536,23 +1551,6 @@
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Something Rotten at City Hall: How District Elections Skewed Big Vote on Rent Control; Winners & Losers",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2R0d1Ata0hVaVBZdG1xTjJCLV94dnVmdG5GcnNUVFpjcGVtc2VoS21WTTh5VkZvTmx2Q3YxV0pLWHhuZUZRZUptaEFFTzVqVXA2elF1UUVSdm5DSUpBb3phZHdVc3ZQaF93R09YRTRVVk5JekpydzNYZXRibXpVMkJZVEJnM08tYnQydzJkS0U4QmxHdFg0YWdLTXdRVUFXcUlpaDNUM3FxTWpfaWZQdmx3djFab09CcVRUU0o5bDh2d2wtbkdfWnY3R05zZWE5czF1NlZ3?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
@@ -1632,23 +1630,6 @@
         "state_name": "California",
         "locality": "",
         "published": "2026-09-28T07:00:00Z",
-        "title": "California landlords push back as new rental registry and inspections raise overreach fears",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHFmX3JpMHphR0kwRGVacDR0MzFnOTRDZXJVRVJnZGtoYXhWUjFYSWY3WWdkYzZrZFJTSWdlZnRUNXNqOUlfV2Uwa2FRak03cmtvTE1MQVo3OUVxbHFNaTQ1S2p5ZG1ReFJVOW5TWF9JSVlHRVJZV2p4Ni1qZXpaZnJDWjVhM3ROYkRBbTNMRWRYWkw1Ymc?oc=5",
-        "domain": "thecooldown.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-28T07:00:00Z",
         "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
         "domain": "independent.com",
@@ -1658,6 +1639,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-09-28T07:00:00Z",
+        "title": "California landlords push back as new rental registry and inspections raise overreach fears",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHFmX3JpMHphR0kwRGVacDR0MzFnOTRDZXJVRVJnZGtoYXhWUjFYSWY3WWdkYzZrZFJTSWdlZnRUNXNqOUlfV2Uwa2FRak03cmtvTE1MQVo3OUVxbHFNaTQ1S2p5ZG1ReFJVOW5TWF9JSVlHRVJZV2p4Ni1qZXpaZnJDWjVhM3ROYkRBbTNMRWRYWkw1Ymc?oc=5",
+        "domain": "thecooldown.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1710,8 +1708,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
+        "discovery_provider": "GDELT"
       },
       {
         "state": "CA",
@@ -1734,10 +1731,10 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-09-23T19:52:12Z",
-        "title": "Battle over exemptions tangles rent stabilization ordinance at Santa Barbara City Council",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVlNY1U4dVEwazNrSXh0SnZUX25DWHNjR3RLX0FtZEVDc2lmWmJWNEh6Y2E1aGhLWnlOOVlkRXRab1kzOVpHdEZpS1d3b1hRNlI5T2I3aXBlQ2Q3X1MtOVU4VGZpc05MZnYzbEV6TkIyTFdlODJSOGdnc3FrVnllbF9iVkZ0Y1BHTDdUaElTRXBYZEsxcjRfQURjWjE2M1M2dUp3ZHdMS0RaLU1vSXJWcEpUR2k0Qk5XTWduMVBmNEdTQnZ6X2c?oc=5",
-        "domain": "newspress.com",
+        "published": "2026-09-24T00:15:00Z",
+        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+        "url": "https://www.independent.com/2026/09/23/santa-barbara-rent-control-ordinance-moves-forward-despite-many-unknown-costs/",
+        "domain": "independent.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Proposed / Process",
@@ -1745,7 +1742,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "GDELT"
       }
     ],
     "CO": [],
@@ -1904,8 +1901,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
+        "discovery_provider": "GDELT"
       }
     ],
     "MI": [],
@@ -2081,23 +2077,6 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-10-02T07:00:00Z",
-        "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
-        "domain": "multifamilydive.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-10-02T07:00:00Z",
         "title": "New York Cracks Down on Landlords as First Rent Stabilization Settlement is Reached",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREtHMkIwX3RhYjJqSmx3QU9Jbkl6cks1TVh4QkV4a3lTa3NSWHZwZDlFVGlaeXVITk9SQ2JqZHhqX1lMeGZIVHBjd3EwLTk1UU5uRVRMR3V6WkkzZDF0eEM2WmRuSHhoZlNFQUhKcUV1SVlyTWFibTJqVWQyeHJETWc3ZHVfWk12WTN2SFk5TQ?oc=5",
         "domain": "yahoo.com",
@@ -2124,6 +2103,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-10-02T07:00:00Z",
+        "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
+        "domain": "multifamilydive.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Discovery",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -2304,7 +2300,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "PA": [
@@ -2608,6 +2605,23 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
+        "published": "2026-09-24T00:15:00Z",
+        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
+        "url": "https://www.independent.com/2026/09/23/santa-barbara-rent-control-ordinance-moves-forward-despite-many-unknown-costs/",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "GDELT"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
         "published": "2026-09-23T19:52:12Z",
         "title": "Battle over exemptions tangles rent stabilization ordinance at Santa Barbara City Council",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVlNY1U4dVEwazNrSXh0SnZUX25DWHNjR3RLX0FtZEVDc2lmWmJWNEh6Y2E1aGhLWnlOOVlkRXRab1kzOVpHdEZpS1d3b1hRNlI5T2I3aXBlQ2Q3X1MtOVU4VGZpc05MZnYzbEV6TkIyTFdlODJSOGdnc3FrVnllbF9iVkZ0Y1BHTDdUaElTRXBYZEsxcjRfQURjWjE2M1M2dUp3ZHdMS0RaLU1vSXJWcEpUR2k0Qk5XTWduMVBmNEdTQnZ6X2c?oc=5",
@@ -2642,23 +2656,6 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-09-23T07:00:00Z",
-        "title": "Santa Barbara Rent Control Ordinance Moves Forward Despite Many Unknown Costs",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtyRDg2X0xhbTUyWHM0aWNaUkMxdmRXWWR0QmNoXzlKd2VFaDM2OHY2SE9YRTJuRTBnOTlJRmZCU0pGMHdqbWJmajZSX3RiVWktZjZFRGc4a05kS1lCZEN3OXJqeWdaX3ZQNlJWZmVJWEF2ejFqN3JEVXVfN3dLNTF5R3k0Y3A4YXVDazBjMDU2VTVCWlk3MmxtLTJrNEt2SVdWS3JpWWR2cFpsOFZhVENsamdlcHpj?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
         "published": "2026-09-23T01:45:00Z",
         "title": "Santa Barbara City Council introduces ordinance to establish rent stabilization",
         "url": "https://keyt.com/lifestyle/housing/2026/09/22/santa-barbara-city-council-introduces-ordinance-to-establish-rent-stabilization/",
@@ -2670,8 +2667,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
+        "discovery_provider": "GDELT"
       },
       {
         "state": "CA",
@@ -2708,25 +2704,6 @@
         "discovery_provider": "Google News RSS"
       }
     ],
-    "CA|Berkeley": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-10-09T07:00:00Z",
-        "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXVBZVlua0VpMngxREVmdFRWVnh1YllwOEJVeEs4czZ0X2lxYU5xSUhOTUhGMzRHRkxzZ3lKaFRXLXhWTE1BWlJ4N2lpTlJTTjJZQ242bFVyOWUyYndPRnBrbEM5LTNhaW9hZmZMb2ZaTVNiaWVXc1BjZFZtdHhXazF2a01QMDQzcmM3TVVVLW0?oc=5",
-        "domain": "berkeleyside.org",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
     "CA|Pasadena": [
       {
         "state": "CA",
@@ -2734,8 +2711,8 @@
         "locality": "Pasadena",
         "published": "2026-10-09T07:00:00Z",
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
-        "domain": "pasadenastarnews.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+        "domain": "dailynews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2793,6 +2770,25 @@
         "status": "Discovery",
         "direction": "Easing",
         "direction_score": -1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
+    "CA|Berkeley": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Berkeley",
+        "published": "2026-10-09T07:00:00Z",
+        "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXVBZVlua0VpMngxREVmdFRWVnh1YllwOEJVeEs4czZ0X2lxYU5xSUhOTUhGMzRHRkxzZ3lKaFRXLXhWTE1BWlJ4N2lpTlJTTjJZQ242bFVyOWUyYndPRnBrbEM5LTNhaW9hZmZMb2ZaTVNiaWVXc1BjZFZtdHhXazF2a01QMDQzcmM3TVVVLW0?oc=5",
+        "domain": "berkeleyside.org",
+        "source_country": "United States",
+        "type": "Tenant / Rental Policy",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -2871,7 +2867,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|California city approves": [
@@ -2976,35 +2973,14 @@
   },
   "health": {
     "queries": 8,
-    "successful_queries": 4,
+    "successful_queries": 8,
     "provider_success": {
-      "gdelt": 0,
+      "gdelt": 4,
       "google_news_rss": 4
     },
-    "errors": 4,
+    "errors": 0,
     "retained_articles": 71
   },
-  "errors": [
-    {
-      "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 3,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    }
-  ],
+  "errors": [],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
 }
