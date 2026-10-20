@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-10-20T11:51:25.129329Z",
+  "generated_at": "2026-10-20T17:20:36.242103Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
     {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-10-20T10:57:27Z",
+      "title": "Ephros & Little propose Jersey City ordinance ‘in an effort to expand rent control’",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1JVcklEWnlkN29FQ0w2cDA5OHNsYzE2OVhHcWlLLVdkRUxRLWtza0RGSldZbW40cWc3VEtxMHBpU0RxM2pfTWFGYl9aRE9PQ19tV1l0aFRqNHhlWEJLdV9uM3FhSkdfS0c0bDhJc2xKSUtyY0x5dVlUUHlwTkZsYktqQlBPVzhSSEh5ZGJtaUdpNC16QXFlUFNVN1pCUGRFeHVxRDBpaVZfZVdlM3c?oc=5",
+      "domain": "hudsoncountyview.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-10-19T20:21:19Z",
+      "published": "2026-10-19T20:19:00Z",
       "title": "Opinion | Tighter Rent Control Robs New York Tenants",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
       "domain": "wsj.com",
@@ -249,8 +266,8 @@
       "locality": "Pasadena",
       "published": "2026-10-09T07:00:00Z",
       "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
-      "domain": "dailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
+      "domain": "pasadenastarnews.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -577,7 +594,7 @@
       "locality": "",
       "published": "2026-10-01T07:00:00Z",
       "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
       "domain": "news10.com",
       "source_country": "United States",
       "type": "Algorithmic Pricing",
@@ -1341,8 +1358,8 @@
         "locality": "Pasadena",
         "published": "2026-10-09T07:00:00Z",
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
-        "domain": "dailynews.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
+        "domain": "pasadenastarnews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -1921,6 +1938,23 @@
       {
         "state": "NJ",
         "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T10:57:27Z",
+        "title": "Ephros & Little propose Jersey City ordinance ‘in an effort to expand rent control’",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1JVcklEWnlkN29FQ0w2cDA5OHNsYzE2OVhHcWlLLVdkRUxRLWtza0RGSldZbW40cWc3VEtxMHBpU0RxM2pfTWFGYl9aRE9PQ19tV1l0aFRqNHhlWEJLdV9uM3FhSkdfS0c0bDhJc2xKSUtyY0x5dVlUUHlwTkZsYktqQlBPVzhSSEh5ZGJtaUdpNC16QXFlUFNVN1pCUGRFeHVxRDBpaVZfZVdlM3c?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
         "locality": "",
         "published": "2026-10-13T19:40:59Z",
         "title": "New Jersey Signs Landmark Laws Targeting Algorithmic Rent And Surveillance Pricing Practices",
@@ -1960,7 +1994,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-19T20:21:19Z",
+        "published": "2026-10-19T20:19:00Z",
         "title": "Opinion | Tighter Rent Control Robs New York Tenants",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
         "domain": "wsj.com",
@@ -2099,7 +2133,7 @@
         "locality": "",
         "published": "2026-10-01T07:00:00Z",
         "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
         "domain": "news10.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
@@ -2343,6 +2377,42 @@
     "DC": []
   },
   "locality_feeds": {
+    "NJ|Jersey City": [
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T10:57:27Z",
+        "title": "Ephros & Little propose Jersey City ordinance ‘in an effort to expand rent control’",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1JVcklEWnlkN29FQ0w2cDA5OHNsYzE2OVhHcWlLLVdkRUxRLWtza0RGSldZbW40cWc3VEtxMHBpU0RxM2pfTWFGYl9aRE9PQ19tV1l0aFRqNHhlWEJLdV9uM3FhSkdfS0c0bDhJc2xKSUtyY0x5dVlUUHlwTkZsYktqQlBPVzhSSEh5ZGJtaUdpNC16QXFlUFNVN1pCUGRFeHVxRDBpaVZfZVdlM3c?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-09-29T07:00:00Z",
+        "title": "Federal judge overturns Jersey City board’s rent control ruling for Portside Towers",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFN2NUlxc1lhTEs0SFF3Nzh5aDdSQW93cDViRldtQ25GNTV5WGJXU1FaUFFDLTk0SnZWeGUxYlNjVnlCTDU1LXpyaGpOQnlwYlBpVzk5RVVBbGVhQldpaTczRldRbDdaQUoyTWw0NnhxVmxoUnBLVUFHdlJRTkg5MWtFdUdKV2wzUEs0b3FTM2pwVFlaRXVFMkNONHJWUzZQZGlCejFFc3B3OHUtenBUcU1B?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Litigation",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "MD|Montgomery County": [
       {
         "state": "MD",
@@ -2664,8 +2734,8 @@
         "locality": "Pasadena",
         "published": "2026-10-09T07:00:00Z",
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
-        "domain": "dailynews.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
+        "domain": "pasadenastarnews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2785,25 +2855,6 @@
         "carried_forward": true
       }
     ],
-    "NJ|Jersey City": [
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-09-29T07:00:00Z",
-        "title": "Federal judge overturns Jersey City board’s rent control ruling for Portside Towers",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFN2NUlxc1lhTEs0SFF3Nzh5aDdSQW93cDViRldtQ25GNTV5WGJXU1FaUFFDLTk0SnZWeGUxYlNjVnlCTDU1LXpyaGpOQnlwYlBpVzk5RVVBbGVhQldpaTczRldRbDdaQUoyTWw0NnhxVmxoUnBLVUFHdlJRTkg5MWtFdUdKV2wzUEs0b3FTM2pwVFlaRXVFMkNONHJWUzZQZGlCejFFc3B3OHUtenBUcU1B?oc=5",
-        "domain": "hudsoncountyview.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Litigation",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
     "OR|Portland": [
       {
         "state": "OR",
@@ -2919,7 +2970,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 48,
+    "Restrictive": 49,
     "Easing": 12,
     "Neutral": 10
   },
@@ -2931,12 +2982,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 70
+    "retained_articles": 71
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2946,12 +2997,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
