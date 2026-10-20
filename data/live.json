@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:01:39.813571Z",
+  "generated_at": "2026-10-20T11:51:25.129329Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -8,7 +8,7 @@
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-10-19T20:19:00Z",
+      "published": "2026-10-19T20:21:19Z",
       "title": "Opinion | Tighter Rent Control Robs New York Tenants",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
       "domain": "wsj.com",
@@ -44,7 +44,7 @@
       "locality": "",
       "published": "2026-10-18T04:02:00Z",
       "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPUGJzNkV6cE95OG4tZE1lbTNiRlRRVS0tRXNCSGFpaFVfSkNVZDYta3ZGeHV3ZlpydDkyTUNueUdzOGk5Rk9wRkFJT09TZjQ0cmhxSC1fYzhFVmtXSzJnUk41MUYwV28wR1hyT0xWSFExMHQ5bkNnSUpuSW81ckpFWi1OdFRLRWhjc2dGS2VkUGFpY2l5cE42aUN0V1FlajFWSnFLUkhwZU4yTFhCbnZyRzk4WDdqOG1iQW9UQ3RhRUFvYzhvdXdtY3ZEODlPcTlXNE9WQUdaMmRCejE0ckdzT1hRdEJKM3daWE5tUVI0QWVoRTdZS283djhYTWZvYjkzdy0tOG1EbkZmaTVNNENXWVFVcXJLTEYtcWI1dktxZzlIZ1JCZDNmS3RoeTZCZm9ETzFMUkEwaExPQk45Q2ZnRk54dnBhMG16blBuMk5mUXZyN3Nmb2QzaGpOeGxSRG9taFlwYjYwNHlJYnNWX2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGpISVM4RlFxWEZzOGE3RzhqZzJRZnFSdEJIRGdWQ3RQZ3NhYXdyZWUzeW0xMFVVVm55Nk5qN0dZeHc1WTlyRjR4TXhranZLZ0xXVTJtSm5xQWxLRUhqTVdaT1VucjdveXVXdURwOHI0Qjk2UUdDeS1WdnpyS3pXcVlhdVFzczVKSHhtdmtuR2JKNjNaWTJiREM4TEd6UTJtaW9KWQ?oc=5",
       "domain": "reviewjournal.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -282,7 +282,7 @@
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-10-08T16:19:00Z",
+      "published": "2026-10-08T07:00:00Z",
       "title": "New York Good Cause Eviction Law: Will Oneonta Opt In?",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGVydHg4ZVd0dTJzWGFmODN4MWRqWnpBMzY4SlZMYjFFTGxzenNFQi0ta2h1eVB6cl8xX1BUVkYzNDUzWU9FaTg5eE1FVDBDVDMteWxzelJrVy1qX3Vtb2NvTGxxQ2RxWkw0bkZFaHFxOVNsSzVBVHJuVGQzUVNHUkxRV3Nic0tjVHB2eVpZSDRUdlhmdlRzY3F6X0NxcktmVlFDbGRoY2hXUjlBMXlCTmZhOG43NG9XeG5jcTZvdUQ3NElLS2c?oc=5",
       "domain": "wktv.com",
@@ -293,8 +293,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -488,23 +487,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
-      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
-      "domain": "multifamilydive.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "",
@@ -518,6 +500,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -556,23 +555,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-01T07:00:00Z",
-      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD?oc=5",
-      "domain": "news10.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -586,6 +568,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD?oc=5",
+      "domain": "news10.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1189,7 +1188,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "RI",
@@ -1904,7 +1904,7 @@
         "locality": "",
         "published": "2026-10-18T04:02:00Z",
         "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
-        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPUGJzNkV6cE95OG4tZE1lbTNiRlRRVS0tRXNCSGFpaFVfSkNVZDYta3ZGeHV3ZlpydDkyTUNueUdzOGk5Rk9wRkFJT09TZjQ0cmhxSC1fYzhFVmtXSzJnUk41MUYwV28wR1hyT0xWSFExMHQ5bkNnSUpuSW81ckpFWi1OdFRLRWhjc2dGS2VkUGFpY2l5cE42aUN0V1FlajFWSnFLUkhwZU4yTFhCbnZyRzk4WDdqOG1iQW9UQ3RhRUFvYzhvdXdtY3ZEODlPcTlXNE9WQUdaMmRCejE0ckdzT1hRdEJKM3daWE5tUVI0QWVoRTdZS283djhYTWZvYjkzdy0tOG1EbkZmaTVNNENXWVFVcXJLTEYtcWI1dktxZzlIZ1JCZDNmS3RoeTZCZm9ETzFMUkEwaExPQk45Q2ZnRk54dnBhMG16blBuMk5mUXZyN3Nmb2QzaGpOeGxSRG9taFlwYjYwNHlJYnNWX2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGpISVM4RlFxWEZzOGE3RzhqZzJRZnFSdEJIRGdWQ3RQZ3NhYXdyZWUzeW0xMFVVVm55Nk5qN0dZeHc1WTlyRjR4TXhranZLZ0xXVTJtSm5xQWxLRUhqTVdaT1VucjdveXVXdURwOHI0Qjk2UUdDeS1WdnpyS3pXcVlhdVFzczVKSHhtdmtuR2JKNjNaWTJiREM4TEd6UTJtaW9KWQ?oc=5",
         "domain": "reviewjournal.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1960,7 +1960,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-19T20:19:00Z",
+        "published": "2026-10-19T20:21:19Z",
         "title": "Opinion | Tighter Rent Control Robs New York Tenants",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
         "domain": "wsj.com",
@@ -2012,7 +2012,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-08T16:19:00Z",
+        "published": "2026-10-08T07:00:00Z",
         "title": "New York Good Cause Eviction Law: Will Oneonta Opt In?",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGVydHg4ZVd0dTJzWGFmODN4MWRqWnpBMzY4SlZMYjFFTGxzenNFQi0ta2h1eVB6cl8xX1BUVkYzNDUzWU9FaTg5eE1FVDBDVDMteWxzelJrVy1qX3Vtb2NvTGxxQ2RxWkw0bkZFaHFxOVNsSzVBVHJuVGQzUVNHUkxRV3Nic0tjVHB2eVpZSDRUdlhmdlRzY3F6X0NxcktmVlFDbGRoY2hXUjlBMXlCTmZhOG43NG9XeG5jcTZvdUQ3NElLS2c?oc=5",
         "domain": "wktv.com",
@@ -2023,8 +2023,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2762,7 +2761,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "ME|Wells mobile home lot": [
@@ -2936,7 +2936,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2946,12 +2946,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
