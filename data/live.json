@@ -1,9 +1,60 @@
 {
-  "generated_at": "2026-10-21T12:02:58.821218Z",
+  "generated_at": "2026-10-21T17:22:53.674415Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-21T16:41:28Z",
+      "title": "Rent review: ‘Brimful of New York’s life-affirming and, through its composer, Jewish energy’★★★★★",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTR2aS13cXNNNVZMR1pJcm4zQ2dDeEV6TERzUDBjN05QblphazdWUHBjSlNTUE5zcUVhRFNWZ2xrY2x2c0dTMU9OMlVLTmt4V25WUkJFTDVHQ1NCQlpJQVdtUjZKRzJ3aHZ0TjIzbTRiTnBiZ1ZWOFA5RE5kb0NMeURzMk02Z1Y0aEZJRTFEQlU2cHpnSHBvV1MxWEN5VmZodnVuSXhld2dZcXNlMDBxN19yWURLSU92a1E2bndyVVNVUUp4U2c?oc=5",
+      "domain": "thejc.com",
+      "source_country": "United States",
+      "type": "Rent Review / Mediation",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Los Angeles County",
+      "published": "2026-10-21T16:30:40Z",
+      "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEcyaHlXbDRVbEVhV2dObTdCTmI5TncwMi1YWGROTjUyS2p1aVNwZWtDelJpMjFSSllpd1YwazU4ejR6MXhiWEFiTmFuOXNWWnA2MWVGc1hxSUFXTWs3NnR6cUE3OWtLUC1jTG5nd3h3eE9IQk13V1ZnaFA5MExFczU2M1BwcU53NXEyU1RRNUg4TWdnZWc3VEk4MExvcUFSeTJVc2VxbDVGX1dFay1hSVZTY2pmYkpIc01PX0k5RlBtOTJ4T25URlFqaTJqVWQ4MzFkRGxHd1VUYXc?oc=5",
+      "domain": "facebook.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-21T13:05:49Z",
+      "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "NJ",
       "state_name": "New Jersey",
@@ -189,7 +240,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -224,7 +276,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -275,7 +328,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -327,7 +381,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -380,7 +435,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -397,7 +453,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -414,7 +471,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -451,23 +509,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "MD",
-      "state_name": "Maryland",
-      "locality": "Montgomery County",
-      "published": "2026-10-05T07:00:00Z",
-      "title": "Montgomery County Committee Backs Ban on Algorithmic Rent Pricing",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblFwQTk5ZVZ5al9YM0pTdHVyTkZlR21naDV4WmdWOTVPMnNRc2I1dTV2am5tRzRraC1Id1h2X0ROV21vZmxHbTRuNGtGLXBwb1NvdVpwWjA4UzV2Zm9lWmlhdWRrMkpabzZCd1ZIOUFobDd4a0c3bWsybXI0QWFXUE5obFpiT0dOT29aUkcxakJoenZHYTAtYlA5VEV2aU0?oc=5",
-      "domain": "mocoshow.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "PA",
       "state_name": "Pennsylvania",
       "locality": "",
@@ -481,6 +522,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "Montgomery County",
+      "published": "2026-10-05T07:00:00Z",
+      "title": "Montgomery County Committee Backs Ban on Algorithmic Rent Pricing",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblFwQTk5ZVZ5al9YM0pTdHVyTkZlR21naDV4WmdWOTVPMnNRc2I1dTV2am5tRzRraC1Id1h2X0ROV21vZmxHbTRuNGtGLXBwb1NvdVpwWjA4UzV2Zm9lWmlhdWRrMkpabzZCd1ZIOUFobDd4a0c3bWsybXI0QWFXUE5obFpiT0dOT29aUkcxakJoenZHYTAtYlA5VEV2aU0?oc=5",
+      "domain": "mocoshow.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -551,7 +609,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -568,7 +627,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -584,6 +644,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Santa Barbara Rent Control Vote: 4-3 City Council Approval Sparks Debate",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnpZMDFsaFgwX0lZUWlIdDk5cUpTbDdPdVRUUDJicVFYMmNUdzduUkxZZmdwZzlROXJFOFB1NW13bWtlNHNCZElkVFZwdjU4NjRWb0RKbW5yUTlMZE1kdHluN2xpNDZhWnZGVmVPM2xOTW9OR2ZWZmR5cl9zcllrU0lXSE1YMVNn?oc=5",
+      "domain": "edhat.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -659,6 +736,40 @@
       "carried_forward": true
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-09-30T07:00:00Z",
+      "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0dNcnBhak0tdUprZ0NNLXpmci1ZSkZpQXVUaG1xUUROSzB6Ui1mdWI0M0M4VHQwbFBxa0tmNm95Y1NzRHdUdFFsOXNnLTBEaXFQOXRZdkRXN1dwY2FlVkZ6VW1DMV9Sc3AxTmVhd3FvOEVKa2g5N0xwZkhXamFsWDhCbXVfNlAzbGYtZXVoSkpGUE5YNDBKOW85a2xKYVltRmE0SENfY1JRNExzNV9RTXhpZ1Z2S1dPaV9obUhsYmFBQQ?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Enacted / Effective",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-30T07:00:00Z",
+      "title": "Meet the Manic Pixel Dream Girl: She’s hot, hates rent control, and isn’t real",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM3hMVXVyQ0hpUml6blF0RnZhUTlWTE9Wa01TQUplM182Ri1VeTY0YlRwcmphSElHTzFKUTdwU0FFZ1I0c3RwYUdNVi1mSWJ2V3dqUGVNUXBSUXpkM0VfT1ZjLXNxNkxyZ1ZZZA?oc=5",
+      "domain": "sfstandard.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -729,23 +840,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0dNcnBhak0tdUprZ0NNLXpmci1ZSkZpQXVUaG1xUUROSzB6Ui1mdWI0M0M4VHQwbFBxa0tmNm95Y1NzRHdUdFFsOXNnLTBEaXFQOXRZdkRXN1dwY2FlVkZ6VW1DMV9Sc3AxTmVhd3FvOEVKa2g5N0xwZkhXamFsWDhCbXVfNlAzbGYtZXVoSkpGUE5YNDBKOW85a2xKYVltRmE0SENfY1JRNExzNV9RTXhpZ1Z2S1dPaV9obUhsYmFBQQ?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Enacted / Effective",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "",
       "published": "2026-09-30T07:00:00Z",
       "title": "Something Rotten at City Hall: How District Elections Skewed Big Vote on Rent Control; Winners & Losers",
@@ -758,24 +852,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Meet the Manic Pixel Dream Girl: She’s hot, hates rent control, and isn’t real",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM3hMVXVyQ0hpUml6blF0RnZhUTlWTE9Wa01TQUplM182Ri1VeTY0YlRwcmphSElHTzFKUTdwU0FFZ1I0c3RwYUdNVi1mSWJ2V3dqUGVNUXBSUXpkM0VfT1ZjLXNxNkxyZ1ZZZA?oc=5",
-      "domain": "sfstandard.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -810,7 +888,8 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -861,6 +940,24 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-28T07:00:00Z",
+      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
     {
@@ -898,23 +995,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-28T07:00:00Z",
-      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "OR",
       "state_name": "Oregon",
       "locality": "Portland",
@@ -947,7 +1027,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -964,7 +1045,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MA",
@@ -1017,7 +1099,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1034,7 +1117,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1102,7 +1186,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1137,7 +1222,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1188,7 +1274,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -1197,6 +1284,40 @@
     "AZ": [],
     "AR": [],
     "CA": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Los Angeles County",
+        "published": "2026-10-21T16:30:40Z",
+        "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEcyaHlXbDRVbEVhV2dObTdCTmI5TncwMi1YWGROTjUyS2p1aVNwZWtDelJpMjFSSllpd1YwazU4ejR6MXhiWEFiTmFuOXNWWnA2MWVGc1hxSUFXTWs3NnR6cUE3OWtLUC1jTG5nd3h3eE9IQk13V1ZnaFA5MExFczU2M1BwcU53NXEyU1RRNUg4TWdnZWc3VEk4MExvcUFSeTJVc2VxbDVGX1dFay1hSVZTY2pmYkpIc01PX0k5RlBtOTJ4T25URlFqaTJqVWQ4MzFkRGxHd1VUYXc?oc=5",
+        "domain": "facebook.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-10-21T13:05:49Z",
+        "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
+        "domain": "pasadenanow.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -1280,7 +1401,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1331,7 +1453,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1348,7 +1471,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1365,7 +1489,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1382,7 +1507,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1399,7 +1525,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1475,6 +1602,23 @@
         "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-10-01T07:00:00Z",
+        "title": "Santa Barbara Rent Control Vote: 4-3 City Council Approval Sparks Debate",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnpZMDFsaFgwX0lZUWlIdDk5cUpTbDdPdVRUUDJicVFYMmNUdzduUkxZZmdwZzlROXJFOFB1NW13bWtlNHNCZElkVFZwdjU4NjRWb0RKbW5yUTlMZE1kdHluN2xpNDZhWnZGVmVPM2xOTW9OR2ZWZmR5cl9zcllrU0lXSE1YMVNn?oc=5",
+        "domain": "edhat.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-01T07:00:00Z",
         "title": "Santa Barbara Passes Historic Rent Stabilization Ordinance in Narrow Vote",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZG9XcWZhSTh3dnp5OGJnYkRBbGdwNzNySjkteWJUTHRrWnVuSlBkRGkyWFFGdk1VemJhajlPSkFadGxzb0g1T05jYmYydExGTXNMeHBtZElJRGNvRGdTV3lHQmNkTV91MmplZFFUYWVJdEplLWFPUml2NGVMbmpLSlFSU2F0RnRnSThB?oc=5",
         "domain": "yahoo.com",
@@ -1510,23 +1654,6 @@
         "state_name": "California",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
-        "title": "Something Rotten at City Hall: How District Elections Skewed Big Vote on Rent Control; Winners & Losers",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2R0d1Ata0hVaVBZdG1xTjJCLV94dnVmdG5GcnNUVFpjcGVtc2VoS21WTTh5VkZvTmx2Q3YxV0pLWHhuZUZRZUptaEFFTzVqVXA2elF1UUVSdm5DSUpBb3phZHdVc3ZQaF93R09YRTRVVk5JekpydzNYZXRibXpVMkJZVEJnM08tYnQydzJkS0U4QmxHdFg0YWdLTXdRVUFXcUlpaDNUM3FxTWpfaWZQdmx3djFab09CcVRUU0o5bDh2d2wtbkdfWnY3R05zZWE5czF1NlZ3?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
         "title": "Meet the Manic Pixel Dream Girl: She’s hot, hates rent control, and isn’t real",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM3hMVXVyQ0hpUml6blF0RnZhUTlWTE9Wa01TQUplM182Ri1VeTY0YlRwcmphSElHTzFKUTdwU0FFZ1I0c3RwYUdNVi1mSWJ2V3dqUGVNUXBSUXpkM0VfT1ZjLXNxNkxyZ1ZZZA?oc=5",
         "domain": "sfstandard.com",
@@ -1538,6 +1665,24 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-09-30T07:00:00Z",
+        "title": "Something Rotten at City Hall: How District Elections Skewed Big Vote on Rent Control; Winners & Losers",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2R0d1Ata0hVaVBZdG1xTjJCLV94dnVmdG5GcnNUVFpjcGVtc2VoS21WTTh5VkZvTmx2Q3YxV0pLWHhuZUZRZUptaEFFTzVqVXA2elF1UUVSdm5DSUpBb3phZHdVc3ZQaF93R09YRTRVVk5JekpydzNYZXRibXpVMkJZVEJnM08tYnQydzJkS0U4QmxHdFg0YWdLTXdRVUFXcUlpaDNUM3FxTWpfaWZQdmx3djFab09CcVRUU0o5bDh2d2wtbkdfWnY3R05zZWE5czF1NlZ3?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1554,7 +1699,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1588,6 +1734,24 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-09-28T07:00:00Z",
+        "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
       {
@@ -1610,23 +1774,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "",
-        "published": "2026-09-28T07:00:00Z",
-        "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "California city approves",
         "published": "2026-09-27T07:00:00Z",
         "title": "California city approves rent stabilization after split votes, capping hikes at 3% or less",
@@ -1639,7 +1786,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1656,59 +1804,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-24T19:15:00Z",
-        "title": "New Coalition Wants Voters to Decide on City Rent Control Law",
-        "url": "https://www.noozhawk.com/new-coalition-wants-voters-to-decide-on-santa-barbara-rent-control-law/",
-        "domain": "noozhawk.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
+        "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-24T07:00:00Z",
-        "title": "With National Implications, Corporate Landlords Take Aim at Three Pro-Rent Control Campaigns in California",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMHE1dTZnbUd1aUVvaU1LMmljV3VUUERUSk03cXM2cERQODd6Wl94NllwSlljb1pLdE9VUzVJai1Vd2hmSUt1WUx5aFVyNkdZdjRHRGM1enFxM2JreTlyeGJ4QzhXdHNsVFA5clYtRlpEYmVUWVBrSnh6MXRjTmthRXdKS3Awc0Y4ZTd0MGRFN1FpVDhrb1JkeW9WUEdMclRJZ015em1OTGpuUEQ1ZklNTllXYUwzcGVxMzItWFdud25LNEJ3YTJNLXowQnpZbzQ5MG81UHd1d1RYMEk5bTdDRQ?oc=5",
-        "domain": "citywatchla.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T19:52:12Z",
-        "title": "Battle over exemptions tangles rent stabilization ordinance at Santa Barbara City Council",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVlNY1U4dVEwazNrSXh0SnZUX25DWHNjR3RLX0FtZEVDc2lmWmJWNEh6Y2E1aGhLWnlOOVlkRXRab1kzOVpHdEZpS1d3b1hRNlI5T2I3aXBlQ2Q3X1MtOVU4VGZpc05MZnYzbEV6TkIyTFdlODJSOGdnc3FrVnllbF9iVkZ0Y1BHTDdUaElTRXBYZEsxcjRfQURjWjE2M1M2dUp3ZHdMS0RaLU1vSXJWcEpUR2k0Qk5XTWduMVBmNEdTQnZ6X2c?oc=5",
-        "domain": "newspress.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
       }
     ],
     "CO": [],
@@ -1729,7 +1826,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "FL": [
@@ -1848,7 +1946,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MA": [
@@ -1953,6 +2052,23 @@
     ],
     "NM": [],
     "NY": [
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-10-21T16:41:28Z",
+        "title": "Rent review: ‘Brimful of New York’s life-affirming and, through its composer, Jewish energy’★★★★★",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTR2aS13cXNNNVZMR1pJcm4zQ2dDeEV6TERzUDBjN05QblphazdWUHBjSlNTUE5zcUVhRFNWZ2xrY2x2c0dTMU9OMlVLTmt4V25WUkJFTDVHQ1NCQlpJQVdtUjZKRzJ3aHZ0TjIzbTRiTnBiZ1ZWOFA5RE5kb0NMeURzMk02Z1Y0aEZJRTFEQlU2cHpnSHBvV1MxWEN5VmZodnVuSXhld2dZcXNlMDBxN19yWURLSU92a1E2bndyVVNVUUp4U2c?oc=5",
+        "domain": "thejc.com",
+        "source_country": "United States",
+        "type": "Rent Review / Mediation",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "NY",
         "state_name": "New York",
@@ -2071,7 +2187,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2088,7 +2205,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2306,7 +2424,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "SC": [],
@@ -2323,6 +2442,25 @@
     "DC": []
   },
   "locality_feeds": {
+    "CA|Los Angeles County": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Los Angeles County",
+        "published": "2026-10-21T16:30:40Z",
+        "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEcyaHlXbDRVbEVhV2dObTdCTmI5TncwMi1YWGROTjUyS2p1aVNwZWtDelJpMjFSSllpd1YwazU4ejR6MXhiWEFiTmFuOXNWWnA2MWVGc1hxSUFXTWs3NnR6cUE3OWtLUC1jTG5nd3h3eE9IQk13V1ZnaFA5MExFczU2M1BwcU53NXEyU1RRNUg4TWdnZWc3VEk4MExvcUFSeTJVc2VxbDVGX1dFay1hSVZTY2pmYkpIc01PX0k5RlBtOTJ4T25URlFqaTJqVWQ4MzFkRGxHd1VUYXc?oc=5",
+        "domain": "facebook.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "NJ|Jersey City": [
       {
         "state": "NJ",
@@ -2445,7 +2583,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2461,6 +2600,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-01T07:00:00Z",
+        "title": "Santa Barbara Rent Control Vote: 4-3 City Council Approval Sparks Debate",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnpZMDFsaFgwX0lZUWlIdDk5cUpTbDdPdVRUUDJicVFYMmNUdzduUkxZZmdwZzlROXJFOFB1NW13bWtlNHNCZElkVFZwdjU4NjRWb0RKbW5yUTlMZE1kdHluN2xpNDZhWnZGVmVPM2xOTW9OR2ZWZmR5cl9zcllrU0lXSE1YMVNn?oc=5",
+        "domain": "edhat.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -2514,7 +2670,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2531,7 +2688,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2548,7 +2706,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2651,7 +2810,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Berkeley": [
@@ -2689,7 +2849,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2706,7 +2867,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2760,7 +2922,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "ME|Wells mobile home lot": [
@@ -2819,7 +2982,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "RI|Providence": [
@@ -2838,7 +3002,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Oakland": [
@@ -2857,7 +3022,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MD|Takoma Park": [
@@ -2876,12 +3042,13 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ]
   },
   "direction_counts": {
-    "Restrictive": 47,
+    "Restrictive": 51,
     "Easing": 12,
     "Neutral": 10
   },
@@ -2893,28 +3060,28 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 69
+    "retained_articles": 73
   },
   "errors": [
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 4,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
