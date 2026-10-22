@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-10-22T12:06:19.417137Z",
+  "generated_at": "2026-10-22T17:20:05.616339Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Pasadena",
+      "published": "2026-10-22T13:06:18Z",
+      "title": "Pasadena Rent Registry Office to Close Ahead of Oct. 31 Deadline",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlLUGY0ZWlrZjZhMG81N3ZYRkhaVXdBTG82Tjg0R2QybU9zS2dCa0swM1JlaUgxcmM4d1RNaEhpNzJMRXdGQk1DUjJMdG4zbEpRR1g3R2ZzR0xnOFE5cEhrTHlBNGJkMWdMdWZ2STY5YnpmbVVsV3A2ZFdEcWp3SHphaUJnSHNROGx5Sm5HekNEYktJRi0w?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Salinas",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
+      "domain": "montereycountynow.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "NY",
       "state_name": "New York",
@@ -555,23 +589,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
-      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
-      "domain": "multifamilydive.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "",
@@ -585,6 +602,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -623,23 +657,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-01T07:00:00Z",
-      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
-      "domain": "news10.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -653,6 +670,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
+      "domain": "news10.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1273,6 +1307,40 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-22T13:06:18Z",
+        "title": "Pasadena Rent Registry Office to Close Ahead of Oct. 31 Deadline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlLUGY0ZWlrZjZhMG81N3ZYRkhaVXdBTG82Tjg0R2QybU9zS2dCa0swM1JlaUgxcmM4d1RNaEhpNzJMRXdGQk1DUjJMdG4zbEpRR1g3R2ZzR0xnOFE5cEhrTHlBNGJkMWdMdWZ2STY5YnpmbVVsV3A2ZFdEcWp3SHphaUJnSHNROGx5Sm5HekNEYktJRi0w?oc=5",
+        "domain": "pasadenanow.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-10-22T07:00:00Z",
+        "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Los Angeles County",
         "published": "2026-10-21T16:30:40Z",
         "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
@@ -1740,40 +1808,6 @@
         "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
         "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "California city approves",
-        "published": "2026-09-27T07:00:00Z",
-        "title": "California city approves rent stabilization after split votes, capping hikes at 3% or less",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVFHdEYyUTB6Zm5NUU5UUXpuNWNJSWdvbUxFXzdwaWZfTWhGS3dpbGpuWEZvcnZxMzZ5VVNKSTN0VEpBWkFMcmVVSU1LV24wbU5CYkdlZXpsZUkyMUdIc0Zqckg0Yi00SFVSbThWRzNWcDYtelBHdzZJc0FfSS1XeU9aOEI5UHlxWDNMcmxQamF5cll1N0JwQ1dvRzg0MHJzNnNCRTB3?oc=5",
-        "domain": "yahoo.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-25T07:00:00Z",
-        "title": "Santa Barbara City Council District 6 Debate Centers on Rent Control as Rivals Challenge Frontrunner Gabe Escobedo",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLVBCYkNNSUNkalIza0I4Mm9nZkZ4ek12V3ZvT0xiYXFZWFYyMXhWMm9oenpWaW5SLUlIeVFlSjMwLUFQNWMxUlRhTFV0eVhhTF83cmlhd1p5aWZya0RTVmtiMnFwVXRialZQSEtfY2dQeHhxV3ptdlRMRzlJWnc0OFRyWWY0RENxV1ZFUmoxY19RMTlYU2FOV2M2dw?oc=5",
-        "domain": "edhat.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2414,6 +2448,130 @@
     "DC": []
   },
   "locality_feeds": {
+    "CA|Pasadena": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-22T13:06:18Z",
+        "title": "Pasadena Rent Registry Office to Close Ahead of Oct. 31 Deadline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlLUGY0ZWlrZjZhMG81N3ZYRkhaVXdBTG82Tjg0R2QybU9zS2dCa0swM1JlaUgxcmM4d1RNaEhpNzJMRXdGQk1DUjJMdG4zbEpRR1g3R2ZzR0xnOFE5cEhrTHlBNGJkMWdMdWZ2STY5YnpmbVVsV3A2ZFdEcWp3SHphaUJnSHNROGx5Sm5HekNEYktJRi0w?oc=5",
+        "domain": "pasadenanow.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-09T07:00:00Z",
+        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+        "domain": "dailynews.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-07T07:00:00Z",
+        "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
+        "domain": "coloradoboulevard.net",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-04T07:00:00Z",
+        "title": "Free Pasadena Rent Stabilization Monthly Workshop",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUhFOWRBWElwdDJXNW5mczdJeEl4N05ULTBTV2U3UERQaURvbmdWNmZ0c2hGOVZvajJ1VVhBYmJJWVdGWVF0M2VodjlRM3VYdk9DRlhRc0N6M0JzMHdIX015U09mZmx4NDJKeVR3LXZUenJkR0VoODRxRjJhb202VWVtTzlBcTVyOGxoWkIyQ19iME1YQ0tXUlMtTVBrbm1mSHpWdQ?oc=5",
+        "domain": "coloradoboulevard.net",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-09-29T07:00:00Z",
+        "title": "Pasadena’s Rent Cap for Stabilized Units Rises to 2.5% Thursday",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0xpR2dpTW13S0JPaWEwREV4SE9URGpIOERjMngwdUtJVDhBenNaQi1qVG9qY2ViRUR5Rlc5eEQyNUVpdkFmWEEzZDNnNkZ1TGhmQUZFR1ptX2JwdEdETFgtUHQxUWFpZDV6bE9IMFYxaVprYk44TnhfSDdBZzZSazkyTXJQV0p3b1BObFREVkJiMGlV?oc=5",
+        "domain": "pasadenanow.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
+    "CA|Salinas": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-10-22T07:00:00Z",
+        "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-10-09T20:48:00Z",
+        "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZ9IBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "CA|Los Angeles County": [
       {
         "state": "CA",
@@ -2784,25 +2942,6 @@
         "carried_forward": true
       }
     ],
-    "CA|Salinas": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-10-09T20:48:00Z",
-        "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZ9IBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
-        "domain": "montereycountynow.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
     "CA|Berkeley": [
       {
         "state": "CA",
@@ -2817,77 +2956,6 @@
         "status": "Discovery",
         "direction": "Neutral",
         "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
-    "CA|Pasadena": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-10-09T07:00:00Z",
-        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
-        "domain": "dailynews.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-10-07T07:00:00Z",
-        "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
-        "domain": "coloradoboulevard.net",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-10-04T07:00:00Z",
-        "title": "Free Pasadena Rent Stabilization Monthly Workshop",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUhFOWRBWElwdDJXNW5mczdJeEl4N05ULTBTV2U3UERQaURvbmdWNmZ0c2hGOVZvajJ1VVhBYmJJWVdGWVF0M2VodjlRM3VYdk9DRlhRc0N6M0JzMHdIX015U09mZmx4NDJKeVR3LXZUenJkR0VoODRxRjJhb202VWVtTzlBcTVyOGxoWkIyQ19iME1YQ0tXUlMtTVBrbm1mSHpWdQ?oc=5",
-        "domain": "coloradoboulevard.net",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-09-29T07:00:00Z",
-        "title": "Pasadena’s Rent Cap for Stabilized Units Rises to 2.5% Thursday",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0xpR2dpTW13S0JPaWEwREV4SE9URGpIOERjMngwdUtJVDhBenNaQi1qVG9qY2ViRUR5Rlc5eEQyNUVpdkFmWEEzZDNnNkZ1TGhmQUZFR1ptX2JwdEdETFgtUHQxUWFpZDV6bE9IMFYxaVprYk44TnhfSDdBZzZSazkyTXJQV0p3b1BObFREVkJiMGlV?oc=5",
-        "domain": "pasadenanow.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -3011,7 +3079,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 51,
+    "Restrictive": 53,
     "Easing": 12,
     "Neutral": 10
   },
@@ -3023,12 +3091,17 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 73
+    "retained_articles": 75
   },
   "errors": [
     {
       "provider": "GDELT",
       "query": 4,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -3039,11 +3112,6 @@
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
