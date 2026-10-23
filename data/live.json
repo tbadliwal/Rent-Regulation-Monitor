@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:45:17.620049Z",
+  "generated_at": "2026-10-23T05:03:29.357677Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -8,7 +8,7 @@
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-10-22T20:04:06Z",
+      "published": "2026-10-22T20:22:35Z",
       "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
       "domain": "jdsupra.com",
@@ -331,6 +331,23 @@
     {
       "state": "CA",
       "state_name": "California",
+      "locality": "Salinas",
+      "published": "2026-10-09T20:48:00Z",
+      "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZ9IBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
+      "domain": "montereycountynow.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
       "locality": "Berkeley",
       "published": "2026-10-09T07:00:00Z",
       "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -396,23 +413,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Salinas",
-      "published": "2026-10-08T07:00:00Z",
-      "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
-      "domain": "montereycountynow.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -1006,23 +1006,6 @@
       "state_name": "California",
       "locality": "",
       "published": "2026-09-28T07:00:00Z",
-      "title": "California landlords push back as new rental registry and inspections raise overreach fears",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHFmX3JpMHphR0kwRGVacDR0MzFnOTRDZXJVRVJnZGtoYXhWUjFYSWY3WWdkYzZrZFJTSWdlZnRUNXNqOUlfV2Uwa2FRak03cmtvTE1MQVo3OUVxbHFNaTQ1S2p5ZG1ReFJVOW5TWF9JSVlHRVJZV2p4Ni1qZXpaZnJDWjVhM3ROYkRBbTNMRWRYWkw1Ymc?oc=5",
-      "domain": "thecooldown.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-28T07:00:00Z",
       "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
       "domain": "independent.com",
@@ -1050,8 +1033,24 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-27T07:00:00Z",
+      "title": "California landlords push back as new rental registry and inspections raise overreach fears",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHVMNWFubmxiZGkxbjBiRWxVbDREOUZpT0FTd3E4aHhUbkhGcTZRSmlfTi1XV1duWW1ra24tOWhiSW5LUmpDNmhlZU5WUVNCdkVvNzMwck1rMm5sdlV4Sl84MHFLY1dRNkZNZmpVNUVBRGZNTHFRMkNLc2dRUUQ3ZGU3UjlhZERyaW9ia0Fkdmt1NWRGcmc?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -1478,6 +1477,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-10-09T20:48:00Z",
+        "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZ9IBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-10-09T07:00:00Z",
         "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -1520,23 +1536,6 @@
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-10-08T07:00:00Z",
-        "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
-        "domain": "montereycountynow.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
@@ -1806,23 +1805,6 @@
         "state_name": "California",
         "locality": "",
         "published": "2026-09-28T07:00:00Z",
-        "title": "California landlords push back as new rental registry and inspections raise overreach fears",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHFmX3JpMHphR0kwRGVacDR0MzFnOTRDZXJVRVJnZGtoYXhWUjFYSWY3WWdkYzZrZFJTSWdlZnRUNXNqOUlfV2Uwa2FRak03cmtvTE1MQVo3OUVxbHFNaTQ1S2p5ZG1ReFJVOW5TWF9JSVlHRVJZV2p4Ni1qZXpaZnJDWjVhM3ROYkRBbTNMRWRYWkw1Ymc?oc=5",
-        "domain": "thecooldown.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-28T07:00:00Z",
         "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
         "domain": "independent.com",
@@ -1832,6 +1814,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-09-27T07:00:00Z",
+        "title": "California landlords push back as new rental registry and inspections raise overreach fears",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHVMNWFubmxiZGkxbjBiRWxVbDREOUZpT0FTd3E4aHhUbkhGcTZRSmlfTi1XV1duWW1ra24tOWhiSW5LUmpDNmhlZU5WUVNCdkVvNzMwck1rMm5sdlV4Sl84MHFLY1dRNkZNZmpVNUVBRGZNTHFRMkNLc2dRUUQ3ZGU3UjlhZERyaW9ia0Fkdmt1NWRGcmc?oc=5",
+        "domain": "yahoo.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       }
@@ -2083,7 +2082,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-22T20:04:06Z",
+        "published": "2026-10-22T20:22:35Z",
         "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
         "domain": "jdsupra.com",
@@ -2428,8 +2427,7 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "PA": [
@@ -2594,9 +2592,9 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Salinas",
-        "published": "2026-10-08T07:00:00Z",
+        "published": "2026-10-09T20:48:00Z",
         "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZ9IBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
         "domain": "montereycountynow.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -3033,8 +3031,7 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|California city approves": [
@@ -3133,12 +3130,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -3148,7 +3140,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 3,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
