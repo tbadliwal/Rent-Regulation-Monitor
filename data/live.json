@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-10-23T05:03:29.357677Z",
+  "generated_at": "2026-10-23T11:50:39.712188Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "locality": "",
+      "published": "2026-10-23T07:00:00Z",
+      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
+      "domain": "bizjournals.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "NY",
       "state_name": "New York",
@@ -348,6 +365,23 @@
     {
       "state": "CA",
       "state_name": "California",
+      "locality": "Pasadena",
+      "published": "2026-10-09T20:03:29Z",
+      "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0VWald6dzR0b1RUQ0RxY2FrbFlnSWswZmRaYkJubmVmXzNnT1EwdENjYks5dG1sTXl2TDhSb3VLekZnejJwcDVvZ1RQc1IzTE1xbUdKaWlvVE5WVWFfYTU1bXN3TTVDYTVjcndldXJ4UXVreWpRaWFGMGdNQ1ltRF84QzFFdElHeXlUWTBkZGVuX1hnUm9YSE9TNVdwMmlleVlQNWFVUzdXVE9jZy1PVVJUTjdHTVdhNmo4V3Vfaw?oc=5",
+      "domain": "whittierdailynews.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
       "locality": "Berkeley",
       "published": "2026-10-09T07:00:00Z",
       "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -376,23 +410,6 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Pasadena",
-      "published": "2026-10-09T07:00:00Z",
-      "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
-      "domain": "dailynews.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1171,7 +1188,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1188,7 +1206,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1205,7 +1224,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1222,7 +1242,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1255,60 +1276,6 @@
       "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-22T07:00:00Z",
-      "title": "Rent Control: A Really Dumb Idea",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2RTc5cXl5M2J2a3hvdTRJVzZRTHpxQ0FZWGxGMzBPWERrRm1UVjRqUTRkWlRZdnAtemlBMi1IMGI1b01IUmoxNFRQWFZBZ0JESV92UkQxMVJJUVQxSXpHdU9halJfbGxkNUR6SkFVRlpBYVo0U1VnbGFEOA?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-22T07:00:00Z",
-      "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
-      "domain": "keyt.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-22T07:00:00Z",
-      "title": "Santa Barbara’s Rent Stabilization Talks Nearly Fall Apart Over Housing Exemptions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRkVFR6dVBmM1ZteVBWOWVuS3dySmphczZaY1RzbWVjcDlJa3Nva2VMMXlGQnYyT3hlaE9YTFNWOXdRQzhCVE0wZkRxRnZSV21zM0JjT1VwajJZTnNZQlQtQUt1VzFpclg1Mm1UaUFsUnktemxaeVBOTW9HZ04yaVVVNUl2eWhaa2h3QnJGV0hzbHFmWmZIbXYxMUUzeHVLc0Q5dU56NlZneU0?oc=5",
-      "domain": "noozhawk.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
@@ -1494,6 +1461,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-09T20:03:29Z",
+        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0VWald6dzR0b1RUQ0RxY2FrbFlnSWswZmRaYkJubmVmXzNnT1EwdENjYks5dG1sTXl2TDhSb3VLekZnejJwcDVvZ1RQc1IzTE1xbUdKaWlvVE5WVWFfYTU1bXN3TTVDYTVjcndldXJ4UXVreWpRaWFGMGdNQ1ltRF84QzFFdElHeXlUWTBkZGVuX1hnUm9YSE9TNVdwMmlleVlQNWFVUzdXVE9jZy1PVVJUTjdHTVdhNmo4V3Vfaw?oc=5",
+        "domain": "whittierdailynews.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-10-09T07:00:00Z",
         "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -1522,23 +1506,6 @@
         "direction": "Neutral",
         "direction_score": 0,
         "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-10-09T07:00:00Z",
-        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
-        "domain": "dailynews.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1977,6 +1944,23 @@
       }
     ],
     "MA": [
+      {
+        "state": "MA",
+        "state_name": "Massachusetts",
+        "locality": "",
+        "published": "2026-10-23T07:00:00Z",
+        "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
+        "domain": "bizjournals.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "MA",
         "state_name": "Massachusetts",
@@ -2504,10 +2488,10 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-10-09T07:00:00Z",
+        "published": "2026-10-09T20:03:29Z",
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
-        "domain": "dailynews.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0VWald6dzR0b1RUQ0RxY2FrbFlnSWswZmRaYkJubmVmXzNnT1EwdENjYks5dG1sTXl2TDhSb3VLekZnejJwcDVvZ1RQc1IzTE1xbUdKaWlvVE5WVWFfYTU1bXN3TTVDYTVjcndldXJ4UXVreWpRaWFGMGdNQ1ltRF84QzFFdElHeXlUWTBkZGVuX1hnUm9YSE9TNVdwMmlleVlQNWFVUzdXVE9jZy1PVVJUTjdHTVdhNmo4V3Vfaw?oc=5",
+        "domain": "whittierdailynews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2885,7 +2869,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2902,7 +2887,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2919,7 +2905,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2937,42 +2924,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "GDELT",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-22T07:00:00Z",
-        "title": "Santa Barbara City Council delays Rent Stabilization Ordinance Vote",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSm9WTTc2bFRac2dCU2ZQTk1FU0IzUWdfUGNQTlV3U2Q1NnpYa0ZTdFgtWEFKWTdOQlJKWGFYenZQa1RDb0NpUVNKaGhWak85aDFMblkwaUFwNzdYeE1LVmNuNVNBazIyYlhxVWJHdUI1clRWaTJIUS10YUNYcjFIX1R1Z29CemFXWlA2SW5WUjUwZ3BzOUZIbFRWLXBKdDRpNE85OU9adHE4MkVEWDhKTWFmQzdOSEdPcnUyUGh6cVNxUWlM?oc=5",
-        "domain": "keyt.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-22T07:00:00Z",
-        "title": "Santa Barbara’s Rent Stabilization Talks Nearly Fall Apart Over Housing Exemptions",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmRkVFR6dVBmM1ZteVBWOWVuS3dySmphczZaY1RzbWVjcDlJa3Nva2VMMXlGQnYyT3hlaE9YTFNWOXdRQzhCVE0wZkRxRnZSV21zM0JjT1VwajJZTnNZQlQtQUt1VzFpclg1Mm1UaUFsUnktemxaeVBOTW9HZ04yaVVVNUl2eWhaa2h3QnJGV0hzbHFmWmZIbXYxMUUzeHVLc0Q5dU56NlZneU0?oc=5",
-        "domain": "noozhawk.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
         "carried_forward": true
       }
     ],
@@ -3088,7 +3039,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MD|Takoma Park": [
@@ -3113,9 +3065,9 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 54,
-    "Easing": 12,
-    "Neutral": 10
+    "Restrictive": 52,
+    "Easing": 11,
+    "Neutral": 11
   },
   "health": {
     "queries": 8,
@@ -3125,12 +3077,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 76
+    "retained_articles": 74
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -3140,12 +3092,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
