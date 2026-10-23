@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:17:32.222987Z",
+  "generated_at": "2026-10-23T21:31:01.719076Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -172,7 +172,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -808,8 +809,7 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -868,14 +868,14 @@
       "state_name": "New York",
       "locality": "",
       "published": "2026-09-30T07:00:00Z",
-      "title": "RealPage Wins Preliminary Injunction Against New York Algorithmic Rent-Setting Ban",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkh2UUhqQnk5SDN6bmQ2OGxjWVJPRFFSOTh1TnkyZ0gyZXpoUXNxV2Y1VDMtazVWRFNpdExQdVNsOTE0OVZNcHVDU1ZrRUYteXRtLW55SHZvcmFhRjFhQ2E1TFBQNGdyNXVuelNYOEJ0VWhZZ1ZJd3JVTldfVnpjZ1BFdTgydWE1bm9YeXh4bVFtT001YUNPTTlISGU4SlgzVUtQa2lSLVhpa1JzQUJycTFBSlRsWFk?oc=5",
-      "domain": "pymnts.com",
+      "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
+      "domain": "hoodline.com",
       "source_country": "United States",
       "type": "Algorithmic Pricing",
       "status": "Litigation",
-      "direction": "Neutral",
-      "direction_score": 0,
+      "direction": "Easing",
+      "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -885,14 +885,14 @@
       "state_name": "New York",
       "locality": "",
       "published": "2026-09-30T07:00:00Z",
-      "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
-      "domain": "hoodline.com",
+      "title": "RealPage Wins Preliminary Injunction Against New York Algorithmic Rent-Setting Ban",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkh2UUhqQnk5SDN6bmQ2OGxjWVJPRFFSOTh1TnkyZ0gyZXpoUXNxV2Y1VDMtazVWRFNpdExQdVNsOTE0OVZNcHVDU1ZrRUYteXRtLW55SHZvcmFhRjFhQ2E1TFBQNGdyNXVuelNYOEJ0VWhZZ1ZJd3JVTldfVnpjZ1BFdTgydWE1bm9YeXh4bVFtT001YUNPTTlISGU4SlgzVUtQa2lSLVhpa1JzQUJycTFBSlRsWFk?oc=5",
+      "domain": "pymnts.com",
       "source_country": "United States",
       "type": "Algorithmic Pricing",
       "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
+      "direction": "Neutral",
+      "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -1294,24 +1294,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "GDELT",
-      "carried_forward": true
-    },
-    {
-      "state": "MD",
-      "state_name": "Maryland",
-      "locality": "Takoma Park",
-      "published": "2026-09-22T19:26:03Z",
-      "title": "Speak Up: Takoma Park Rent Stabilization is Under Threat",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTUJoNzV1XzEycFZ0bkJpMk5URnd3akk0V1lmYUZ4ZGlhTVlPdWpySWcyX1JoVGVnaUZ6VXJidG9Oa0xBZERPbU85X3ptQk81Tmd5Qzdwd3ZkYnhENHBrUXpyWklzRzJ0bkpiS0tQNFBUbXRNR0NkcVZua0h4M0Y5aU9pUVhndTlNM2EzVTUyVlRjNmE3UElzejFBWi1MVnUtUHFMU1lPamFNcFVxeFF5VU5xci1VQ01MMDBLUjJGelR6bEszTnlpSFdpOW9TZEw1SnlkNndwbG8tUnlqenF1Qk9IZGkxYXM0U1BCTEVEczYxc0R2eW15OXR1R2pfN0VwSXJFOUhTUVFfYVBiTUNwUU9yNzNUdExRSXZEejJuMVlONmJIZ1pMWFBmYjFJcEw1M0R4T0tSVzJpejR4RjdSTHJLVGg3WDByWWJzOEtlWl9OcUZrNkRv?oc=5",
-      "domain": "actionnetwork.org",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
       "carried_forward": true
     }
   ],
@@ -1973,24 +1955,6 @@
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "MD",
-        "state_name": "Maryland",
-        "locality": "Takoma Park",
-        "published": "2026-09-22T19:26:03Z",
-        "title": "Speak Up: Takoma Park Rent Stabilization is Under Threat",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTUJoNzV1XzEycFZ0bkJpMk5URnd3akk0V1lmYUZ4ZGlhTVlPdWpySWcyX1JoVGVnaUZ6VXJidG9Oa0xBZERPbU85X3ptQk81Tmd5Qzdwd3ZkYnhENHBrUXpyWklzRzJ0bkpiS0tQNFBUbXRNR0NkcVZua0h4M0Y5aU9pUVhndTlNM2EzVTUyVlRjNmE3UElzejFBWi1MVnUtUHFMU1lPamFNcFVxeFF5VU5xci1VQ01MMDBLUjJGelR6bEszTnlpSFdpOW9TZEw1SnlkNndwbG8tUnlqenF1Qk9IZGkxYXM0U1BCTEVEczYxc0R2eW15OXR1R2pfN0VwSXJFOUhTUVFfYVBiTUNwUU9yNzNUdExRSXZEejJuMVlONmJIZ1pMWFBmYjFJcEw1M0R4T0tSVzJpejR4RjdSTHJLVGg3WDByWWJzOEtlWl9OcUZrNkRv?oc=5",
-        "domain": "actionnetwork.org",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "MA": [
@@ -2072,7 +2036,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2315,8 +2280,7 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2375,14 +2339,14 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
-        "title": "RealPage Wins Preliminary Injunction Against New York Algorithmic Rent-Setting Ban",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkh2UUhqQnk5SDN6bmQ2OGxjWVJPRFFSOTh1TnkyZ0gyZXpoUXNxV2Y1VDMtazVWRFNpdExQdVNsOTE0OVZNcHVDU1ZrRUYteXRtLW55SHZvcmFhRjFhQ2E1TFBQNGdyNXVuelNYOEJ0VWhZZ1ZJd3JVTldfVnpjZ1BFdTgydWE1bm9YeXh4bVFtT001YUNPTTlISGU4SlgzVUtQa2lSLVhpa1JzQUJycTFBSlRsWFk?oc=5",
-        "domain": "pymnts.com",
+        "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
+        "domain": "hoodline.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
         "status": "Litigation",
-        "direction": "Neutral",
-        "direction_score": 0,
+        "direction": "Easing",
+        "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -2392,14 +2356,14 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
-        "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
-        "domain": "hoodline.com",
+        "title": "RealPage Wins Preliminary Injunction Against New York Algorithmic Rent-Setting Ban",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkh2UUhqQnk5SDN6bmQ2OGxjWVJPRFFSOTh1TnkyZ0gyZXpoUXNxV2Y1VDMtazVWRFNpdExQdVNsOTE0OVZNcHVDU1ZrRUYteXRtLW55SHZvcmFhRjFhQ2E1TFBQNGdyNXVuelNYOEJ0VWhZZ1ZJd3JVTldfVnpjZ1BFdTgydWE1bm9YeXh4bVFtT001YUNPTTlISGU4SlgzVUtQa2lSLVhpa1JzQUJycTFBSlRsWFk?oc=5",
+        "domain": "pymnts.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
         "status": "Litigation",
-        "direction": "Easing",
-        "direction_score": -1,
+        "direction": "Neutral",
+        "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -2729,7 +2693,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -3127,30 +3092,10 @@
         "discovery_provider": "Google News RSS",
         "carried_forward": true
       }
-    ],
-    "MD|Takoma Park": [
-      {
-        "state": "MD",
-        "state_name": "Maryland",
-        "locality": "Takoma Park",
-        "published": "2026-09-22T19:26:03Z",
-        "title": "Speak Up: Takoma Park Rent Stabilization is Under Threat",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTUJoNzV1XzEycFZ0bkJpMk5URnd3akk0V1lmYUZ4ZGlhTVlPdWpySWcyX1JoVGVnaUZ6VXJidG9Oa0xBZERPbU85X3ptQk81Tmd5Qzdwd3ZkYnhENHBrUXpyWklzRzJ0bkpiS0tQNFBUbXRNR0NkcVZua0h4M0Y5aU9pUVhndTlNM2EzVTUyVlRjNmE3UElzejFBWi1MVnUtUHFMU1lPamFNcFVxeFF5VU5xci1VQ01MMDBLUjJGelR6bEszTnlpSFdpOW9TZEw1SnlkNndwbG8tUnlqenF1Qk9IZGkxYXM0U1BCTEVEczYxc0R2eW15OXR1R2pfN0VwSXJFOUhTUVFfYVBiTUNwUU9yNzNUdExRSXZEejJuMVlONmJIZ1pMWFBmYjFJcEw1M0R4T0tSVzJpejR4RjdSTHJLVGg3WDByWWJzOEtlWl9OcUZrNkRv?oc=5",
-        "domain": "actionnetwork.org",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
     ]
   },
   "direction_counts": {
-    "Restrictive": 52,
+    "Restrictive": 51,
     "Easing": 11,
     "Neutral": 13
   },
@@ -3162,17 +3107,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 76
+    "retained_articles": 75
   },
   "errors": [
     {
       "provider": "GDELT",
       "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -3183,6 +3123,11 @@
     {
       "provider": "GDELT",
       "query": 3,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
