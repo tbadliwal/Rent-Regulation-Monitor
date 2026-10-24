@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:31:01.719076Z",
+  "generated_at": "2026-10-24T04:48:08.435775Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -95,7 +95,7 @@
       "locality": "Salinas",
       "published": "2026-10-22T07:00:00Z",
       "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMzlvYm11RUdmRGhKMlZybjVTSnRtSHU0RkJkNUVOMDZvSUxiTlFxendRM0dTdUsteTVuUUFmbEVEa2xTY05iTHZxcUdpTTZaQ1djUllDalRidjB3U05GaktFT1N4Wk1jNWJJYkNuZDdyZ2JKWHEzZUJIX1NKSU5KRk53akl5YmZGRVdjQ0dXSXVZVjE3MnloNWtDbnBjY09vald1UWJFVG1QVUNjMnhzd2J5TWVmVjdqVktqcFJiNE5lYVUtdDhScnNfU2ZDTEl1N1FhczFCT1Z0U2FOeVFma3RreXpNVmpwV1BsODZpRGhWY3ViX1VZdmpxSG9fZFlTekMxYkppakdkSy1GY0E0c0xMeVfSAZQCQVVfeXFMUDM5b2JtdUVHZkRoSjJWcm41U0p0bUh1NEZCZDVFTjA2b0lMYk5RcXp3UTNHU3VLLXk1blFBZmxFRGtsU2NOYkx2cXFHaU02WkNXY1JZQ2pUYnYwd1NORmpLRU9TeFpNYzViSWJDbmQ3cmdiSlhxM2VCSF9TSklOSkZOd2pJeWJmRkVXY0NHV0l1WVYxNzJ5aDVrQ25wY2NPb2pXdVFiRVRtUFVDYzJ4c3dieU1lZlY3alZLanBSYjROZWFVLXQ4UnJzX1NmQ0xJdTdRYXMxQk9WdFNhTnlRZmt0a3l6TVZqcFdQbDg2aURoVmN1Yl9VWXZqcUhvX2RZU3pDMWJKaWpHZEstRmNBNHNMTHlX?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
       "domain": "montereycountynow.com",
       "source_country": "United States",
       "type": "Registry / Enforcement",
@@ -207,7 +207,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MD",
@@ -309,7 +310,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -343,7 +345,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -378,7 +381,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -412,7 +416,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -534,7 +539,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -551,7 +557,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -568,7 +575,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -657,6 +665,23 @@
       "carried_forward": true
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "",
@@ -678,23 +703,6 @@
       "state_name": "New York",
       "locality": "",
       "published": "2026-10-02T07:00:00Z",
-      "title": "RealPage wins pause on New York’s algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSDBTTVgxMUpEV3NiRVREZVltT2M4c0pBMldTdEh4OGVSOERWMG5VRmlWYnZtZE80bF8yT3BnNF9JRDJxNEt0UW4xa0VQR1J5V0Q3YjZvaG9UYjk5cHVzSUFfd3JKTWFiREtRaF8zSHp5a3VWekxuT1dYYVN4UlNEUlZIelZva0NlTmhRdXprMnFsdHZjMnB4bWRDUWhYOEFkODNtMw?oc=5",
-      "domain": "multifamilydive.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
       "title": "New York Cracks Down on Landlords as First Rent Stabilization Settlement is Reached",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREtHMkIwX3RhYjJqSmx3QU9Jbkl6cks1TVh4QkV4a3lTa3NSWHZwZDlFVGlaeXVITk9SQ2JqZHhqX1lMeGZIVHBjd3EwLTk1UU5uRVRMR3V6WkkzZDF0eEM2WmRuSHhoZlNFQUhKcUV1SVlyTWFibTJqVWQyeHJETWc3ZHVfWk12WTN2SFk5TQ?oc=5",
       "domain": "yahoo.com",
@@ -705,7 +713,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -721,6 +730,24 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
+      "domain": "news10.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -738,23 +765,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-01T07:00:00Z",
-      "title": "Federal judge blocks New York’s ban on algorithmic rent pricing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
-      "domain": "news10.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -868,6 +878,23 @@
       "state_name": "New York",
       "locality": "",
       "published": "2026-09-30T07:00:00Z",
+      "title": "Judge blocks New York rent-setting software ban By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
+      "domain": "investing.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-09-30T07:00:00Z",
       "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
       "domain": "hoodline.com",
@@ -946,23 +973,6 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Judge blocks New York rent-setting software ban By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
-      "domain": "investing.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
     },
@@ -981,7 +991,8 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -998,7 +1009,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1015,7 +1027,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1025,6 +1038,24 @@
       "title": "Peter Rupert: Santa Barbara City Council Forgot to Connect the Dots with ‘Rent Stabilization’",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGdmOTZKc29MQ2dmb24tRFA2MzRZNkoxaWZrYVN5Y1lXZ2xwLXN3YVJxYXdaYVVvT1MzUHczejRHTnhDRHhzYmRWMzhOT0lnY3dVeU5sRWNFNUp4cHI1WE9DLUNheWVZbWZmYlJJaHpnS3dvWTl5dUhwM1QyaTdaMGZZU1JTQmJhdzBHSFJEdlBXaTQ4aUR0Y3pINnpObDdmV0ZaLUVNNFYzVUl5blhpMTBxZ3ZzS2c?oc=5",
       "domain": "noozhawk.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-28T07:00:00Z",
+      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
+      "domain": "independent.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -1049,24 +1080,8 @@
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-28T07:00:00Z",
-      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "OR",
@@ -1083,7 +1098,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1117,7 +1133,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1134,7 +1151,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MA",
@@ -1187,7 +1205,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1204,7 +1223,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1277,24 +1297,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-23T01:45:00Z",
-      "title": "Santa Barbara City Council introduces ordinance to establish rent stabilization",
-      "url": "https://keyt.com/lifestyle/housing/2026/09/22/santa-barbara-city-council-introduces-ordinance-to-establish-rent-stabilization/",
-      "domain": "keyt.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "GDELT",
-      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -1343,7 +1345,7 @@
         "locality": "Salinas",
         "published": "2026-10-22T07:00:00Z",
         "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMzlvYm11RUdmRGhKMlZybjVTSnRtSHU0RkJkNUVOMDZvSUxiTlFxendRM0dTdUsteTVuUUFmbEVEa2xTY05iTHZxcUdpTTZaQ1djUllDalRidjB3U05GaktFT1N4Wk1jNWJJYkNuZDdyZ2JKWHEzZUJIX1NKSU5KRk53akl5YmZGRVdjQ0dXSXVZVjE3MnloNWtDbnBjY09vald1UWJFVG1QVUNjMnhzd2J5TWVmVjdqVktqcFJiNE5lYVUtdDhScnNfU2ZDTEl1N1FhczFCT1Z0U2FOeVFma3RreXpNVmpwV1BsODZpRGhWY3ViX1VZdmpxSG9fZFlTekMxYkppakdkSy1GY0E0c0xMeVfSAZQCQVVfeXFMUDM5b2JtdUVHZkRoSjJWcm41U0p0bUh1NEZCZDVFTjA2b0lMYk5RcXp3UTNHU3VLLXk1blFBZmxFRGtsU2NOYkx2cXFHaU02WkNXY1JZQ2pUYnYwd1NORmpLRU9TeFpNYzViSWJDbmQ3cmdiSlhxM2VCSF9TSklOSkZOd2pJeWJmRkVXY0NHV0l1WVYxNzJ5aDVrQ25wY2NPb2pXdVFiRVRtUFVDYzJ4c3dieU1lZlY3alZLanBSYjROZWFVLXQ4UnJzX1NmQ0xJdTdRYXMxQk9WdFNhTnlRZmt0a3l6TVZqcFdQbDg2aURoVmN1Yl9VWXZqcUhvX2RZU3pDMWJKaWpHZEstRmNBNHNMTHlX?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
         "domain": "montereycountynow.com",
         "source_country": "United States",
         "type": "Registry / Enforcement",
@@ -1471,7 +1473,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1505,7 +1508,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1556,7 +1560,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1573,7 +1578,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1590,7 +1596,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1746,7 +1753,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1763,7 +1771,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1780,7 +1789,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1797,7 +1807,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1835,7 +1846,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "FL": [
@@ -1854,7 +1866,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "GA": [],
@@ -2016,7 +2029,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NH": [],
@@ -2072,7 +2086,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NM": [],
@@ -2229,7 +2244,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2246,7 +2262,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2339,6 +2356,23 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
+        "title": "Judge blocks New York rent-setting software ban By Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
+        "domain": "investing.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Litigation",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-09-30T07:00:00Z",
         "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
         "domain": "hoodline.com",
@@ -2372,24 +2406,6 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Judge blocks New York rent-setting software ban By Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
-        "domain": "investing.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
         "published": "2026-09-28T07:00:00Z",
         "title": "NYC landlord rep accuses rent board of crossing a 'legal line' — quits ahead of major vote",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xxMjYxaHN0LUs2UjI1Q203ZG1INUxXeEJLQXlYUF96NGhJRmpuWDZxMTczekgyVmljajlNODM3Wks0TTV0UWZHOFVFNlBmMHFzMVdpZWJfNlJKckotRmY5WEtXbUs0WjNEMU5PVkJQTDNmS2RiNjY3UWhLVm5odWlmckVKME53Y28zVk5Uenh1QmRqekVvYmRKdGxUYXFta3JuZnN3Qm5WQmVnRFk1bjhPdw?oc=5",
@@ -2401,7 +2417,8 @@
         "direction_score": 0,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NC": [],
@@ -2424,7 +2441,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "PA": [
@@ -2462,7 +2480,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "SC": [],
@@ -2567,7 +2586,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2584,7 +2604,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2619,7 +2640,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Salinas": [
@@ -2629,7 +2651,7 @@
         "locality": "Salinas",
         "published": "2026-10-22T07:00:00Z",
         "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMzlvYm11RUdmRGhKMlZybjVTSnRtSHU0RkJkNUVOMDZvSUxiTlFxendRM0dTdUsteTVuUUFmbEVEa2xTY05iTHZxcUdpTTZaQ1djUllDalRidjB3U05GaktFT1N4Wk1jNWJJYkNuZDdyZ2JKWHEzZUJIX1NKSU5KRk53akl5YmZGRVdjQ0dXSXVZVjE3MnloNWtDbnBjY09vald1UWJFVG1QVUNjMnhzd2J5TWVmVjdqVktqcFJiNE5lYVUtdDhScnNfU2ZDTEl1N1FhczFCT1Z0U2FOeVFma3RreXpNVmpwV1BsODZpRGhWY3ViX1VZdmpxSG9fZFlTekMxYkppakdkSy1GY0E0c0xMeVfSAZQCQVVfeXFMUDM5b2JtdUVHZkRoSjJWcm41U0p0bUh1NEZCZDVFTjA2b0lMYk5RcXp3UTNHU3VLLXk1blFBZmxFRGtsU2NOYkx2cXFHaU02WkNXY1JZQ2pUYnYwd1NORmpLRU9TeFpNYzViSWJDbmQ3cmdiSlhxM2VCSF9TSklOSkZOd2pJeWJmRkVXY0NHV0l1WVYxNzJ5aDVrQ25wY2NPb2pXdVFiRVRtUFVDYzJ4c3dieU1lZlY3alZLanBSYjROZWFVLXQ4UnJzX1NmQ0xJdTdRYXMxQk9WdFNhTnlRZmt0a3l6TVZqcFdQbDg2aURoVmN1Yl9VWXZqcUhvX2RZU3pDMWJKaWpHZEstRmNBNHNMTHlX?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
         "domain": "montereycountynow.com",
         "source_country": "United States",
         "type": "Registry / Enforcement",
@@ -2711,7 +2733,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MD|Montgomery County": [
@@ -2800,7 +2823,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2887,7 +2911,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2904,7 +2929,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2921,7 +2947,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2976,24 +3003,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-23T01:45:00Z",
-        "title": "Santa Barbara City Council introduces ordinance to establish rent stabilization",
-        "url": "https://keyt.com/lifestyle/housing/2026/09/22/santa-barbara-city-council-introduces-ordinance-to-establish-rent-stabilization/",
-        "domain": "keyt.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
       }
     ],
     "ME|Wells mobile home lot": [
@@ -3032,7 +3041,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|California city approves": [
@@ -3051,7 +3061,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "RI|Providence": [
@@ -3070,7 +3081,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Oakland": [
@@ -3095,7 +3107,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 51,
+    "Restrictive": 50,
     "Easing": 11,
     "Neutral": 13
   },
@@ -3107,7 +3119,7 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 75
+    "retained_articles": 74
   },
   "errors": [
     {
@@ -3117,7 +3129,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -3127,7 +3139,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
