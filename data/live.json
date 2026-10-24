@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:04:55.775412Z",
+  "generated_at": "2026-10-24T20:58:35.939276Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -210,24 +210,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NV",
-      "state_name": "Nevada",
-      "locality": "",
-      "published": "2026-10-19T16:03:40Z",
-      "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPUGJzNkV6cE95OG4tZE1lbTNiRlRRVS0tRXNCSGFpaFVfSkNVZDYta3ZGeHV3ZlpydDkyTUNueUdzOGk5Rk9wRkFJT09TZjQ0cmhxSC1fYzhFVmtXSzJnUk41MUYwV28wR1hyT0xWSFExMHQ5bkNnSUpuSW81ckpFWi1OdFRLRWhjc2dGS2VkUGFpY2l5cE42aUN0V1FlajFWSnFLUkhwZU4yTFhCbnZyRzk4WDdqOG1iQW9UQ3RhRUFvYzhvdXdtY3ZEODlPcTlXNE9WQUdaMmRCejE0ckdzT1hRdEJKM3daWE5tUVI0QWVoRTdZS283djhYTWZvYjkzdy0tOG1EbkZmaTVNNENXWVFVcXJLTEYtcWI1dktxZzlIZ1JCZDNmS3RoeTZCZm9ETzFMUkEwaExPQk45Q2ZnRk54dnBhMG16blBuMk5mUXZyN3Nmb2QzaGpOeGxSRG9taFlwYjYwNHlJYnNWX2c?oc=5",
-      "domain": "reviewjournal.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -241,6 +223,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NV",
+      "state_name": "Nevada",
+      "locality": "",
+      "published": "2026-10-18T04:02:00Z",
+      "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGpISVM4RlFxWEZzOGE3RzhqZzJRZnFSdEJIRGdWQ3RQZ3NhYXdyZWUzeW0xMFVVVm55Nk5qN0dZeHc1WTlyRjR4TXhranZLZ0xXVTJtSm5xQWxLRUhqTVdaT1VucjdveXVXdURwOHI0Qjk2UUdDeS1WdnpyS3pXcVlhdVFzczVKSHhtdmtuR2JKNjNaWTJiREM4TEd6UTJtaW9KWQ?oc=5",
+      "domain": "reviewjournal.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -265,7 +264,7 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
-      "published": "2026-10-16T21:21:31Z",
+      "published": "2026-10-16T07:00:00Z",
       "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
       "domain": "noozhawk.com",
@@ -568,8 +567,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -1339,7 +1337,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-10-16T21:21:31Z",
+        "published": "2026-10-16T07:00:00Z",
         "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
         "domain": "noozhawk.com",
@@ -1503,8 +1501,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1936,9 +1933,9 @@
         "state": "NV",
         "state_name": "Nevada",
         "locality": "",
-        "published": "2026-10-19T16:03:40Z",
+        "published": "2026-10-18T04:02:00Z",
         "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
-        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPUGJzNkV6cE95OG4tZE1lbTNiRlRRVS0tRXNCSGFpaFVfSkNVZDYta3ZGeHV3ZlpydDkyTUNueUdzOGk5Rk9wRkFJT09TZjQ0cmhxSC1fYzhFVmtXSzJnUk41MUYwV28wR1hyT0xWSFExMHQ5bkNnSUpuSW81ckpFWi1OdFRLRWhjc2dGS2VkUGFpY2l5cE42aUN0V1FlajFWSnFLUkhwZU4yTFhCbnZyRzk4WDdqOG1iQW9UQ3RhRUFvYzhvdXdtY3ZEODlPcTlXNE9WQUdaMmRCejE0ckdzT1hRdEJKM3daWE5tUVI0QWVoRTdZS283djhYTWZvYjkzdy0tOG1EbkZmaTVNNENXWVFVcXJLTEYtcWI1dktxZzlIZ1JCZDNmS3RoeTZCZm9ETzFMUkEwaExPQk45Q2ZnRk54dnBhMG16blBuMk5mUXZyN3Nmb2QzaGpOeGxSRG9taFlwYjYwNHlJYnNWX2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGpISVM4RlFxWEZzOGE3RzhqZzJRZnFSdEJIRGdWQ3RQZ3NhYXdyZWUzeW0xMFVVVm55Nk5qN0dZeHc1WTlyRjR4TXhranZLZ0xXVTJtSm5xQWxLRUhqTVdaT1VucjdveXVXdURwOHI0Qjk2UUdDeS1WdnpyS3pXcVlhdVFzczVKSHhtdmtuR2JKNjNaWTJiREM4TEd6UTJtaW9KWQ?oc=5",
         "domain": "reviewjournal.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1947,8 +1944,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "NH": [],
@@ -2533,8 +2529,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2722,7 +2717,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-10-16T21:21:31Z",
+        "published": "2026-10-16T07:00:00Z",
         "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
         "domain": "noozhawk.com",
@@ -2988,7 +2983,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2998,7 +2993,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
