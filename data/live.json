@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:58:35.939276Z",
+  "generated_at": "2026-10-25T04:56:36.788893Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -417,23 +417,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Pasadena",
-      "published": "2026-10-09T20:03:29Z",
-      "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0VWald6dzR0b1RUQ0RxY2FrbFlnSWswZmRaYkJubmVmXzNnT1EwdENjYks5dG1sTXl2TDhSb3VLekZnejJwcDVvZ1RQc1IzTE1xbUdKaWlvVE5WVWFfYTU1bXN3TTVDYTVjcndldXJ4UXVreWpRaWFGMGdNQ1ltRF84QzFFdElHeXlUWTBkZGVuX1hnUm9YSE9TNVdwMmlleVlQNWFVUzdXVE9jZy1PVVJUTjdHTVdhNmo4V3Vfaw?oc=5",
-      "domain": "whittierdailynews.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "Berkeley",
       "published": "2026-10-09T07:00:00Z",
       "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -444,6 +427,40 @@
       "status": "Discovery",
       "direction": "Neutral",
       "direction_score": 0,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-09T07:00:00Z",
+      "title": "Rent review – Jonathan Larson’s New York bohos move into the West End and unpack their passions",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmsxcUJfRWFJQ3ExUG1iUHZBU19KSmFfNDVxMjJha3JTYXdwR1BWMnZIazRoTGRKcUJkRWd5Z2J6cXI1VkpiNXhDWHdaTXBNRDJMeGlZUnNQRGYya3lWQTdBa1hQeHJkQnJKQ3ViZG9ZOGVyTElhOV96cVJ3OFpURW1FLWhqcWlZR1R6YUZRWWw4T3hjZktqOVcxcVMycGFJcU5JWGZ0YjRLOVA1Nkp0VmZGZDVZZzFr?oc=5",
+      "domain": "theguardian.com",
+      "source_country": "United States",
+      "type": "Rent Review / Mediation",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Pasadena",
+      "published": "2026-10-09T07:00:00Z",
+      "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+      "domain": "dailynews.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -462,23 +479,6 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-09T07:00:00Z",
-      "title": "Rent review – Jonathan Larson’s New York bohos move into the West End and unpack their passions",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmsxcUJfRWFJQ3ExUG1iUHZBU19KSmFfNDVxMjJha3JTYXdwR1BWMnZIazRoTGRKcUJkRWd5Z2J6cXI1VkpiNXhDWHdaTXBNRDJMeGlZUnNQRGYya3lWQTdBa1hQeHJkQnJKQ3ViZG9ZOGVyTElhOV96cVJ3OFpURW1FLWhqcWlZR1R6YUZRWWw4T3hjZktqOVcxcVMycGFJcU5JWGZ0YjRLOVA1Nkp0VmZGZDVZZzFr?oc=5",
-      "domain": "theguardian.com",
-      "source_country": "United States",
-      "type": "Rent Review / Mediation",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -567,7 +567,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -690,23 +691,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
-      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -736,6 +720,23 @@
       "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -1104,23 +1105,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "",
-      "published": "2026-09-27T07:00:00Z",
-      "title": "California landlords push back as new rental registry and inspections raise overreach fears",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHVMNWFubmxiZGkxbjBiRWxVbDREOUZpT0FTd3E4aHhUbkhGcTZRSmlfTi1XV1duWW1ra24tOWhiSW5LUmpDNmhlZU5WUVNCdkVvNzMwck1rMm5sdlV4Sl84MHFLY1dRNkZNZmpVNUVBRGZNTHFRMkNLc2dRUUQ3ZGU3UjlhZERyaW9ia0Fkdmt1NWRGcmc?oc=5",
-      "domain": "yahoo.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "California city approves",
       "published": "2026-09-27T07:00:00Z",
       "title": "California city approves rent stabilization after split votes, capping hikes at 3% or less",
@@ -1132,6 +1116,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-09-27T07:00:00Z",
+      "title": "California landlords push back as new rental registry and inspections raise overreach fears",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHVMNWFubmxiZGkxbjBiRWxVbDREOUZpT0FTd3E4aHhUbkhGcTZRSmlfTi1XV1duWW1ra24tOWhiSW5LUmpDNmhlZU5WUVNCdkVvNzMwck1rMm5sdlV4Sl84MHFLY1dRNkZNZmpVNUVBRGZNTHFRMkNLc2dRUUQ3ZGU3UjlhZERyaW9ia0Fkdmt1NWRGcmc?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1421,23 +1422,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-10-09T20:03:29Z",
-        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0VWald6dzR0b1RUQ0RxY2FrbFlnSWswZmRaYkJubmVmXzNnT1EwdENjYks5dG1sTXl2TDhSb3VLekZnejJwcDVvZ1RQc1IzTE1xbUdKaWlvVE5WVWFfYTU1bXN3TTVDYTVjcndldXJ4UXVreWpRaWFGMGdNQ1ltRF84QzFFdElHeXlUWTBkZGVuX1hnUm9YSE9TNVdwMmlleVlQNWFVUzdXVE9jZy1PVVJUTjdHTVdhNmo4V3Vfaw?oc=5",
-        "domain": "whittierdailynews.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-10-09T07:00:00Z",
         "title": "Meet the 6 candidates vying for 5 seats on Berkeley’s rent board",
@@ -1448,6 +1432,23 @@
         "status": "Discovery",
         "direction": "Neutral",
         "direction_score": 0,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Pasadena",
+        "published": "2026-10-09T07:00:00Z",
+        "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+        "domain": "dailynews.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -1501,7 +1502,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2501,10 +2503,10 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Pasadena",
-        "published": "2026-10-09T20:03:29Z",
+        "published": "2026-10-09T07:00:00Z",
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0VWald6dzR0b1RUQ0RxY2FrbFlnSWswZmRaYkJubmVmXzNnT1EwdENjYks5dG1sTXl2TDhSb3VLekZnejJwcDVvZ1RQc1IzTE1xbUdKaWlvVE5WVWFfYTU1bXN3TTVDYTVjcndldXJ4UXVreWpRaWFGMGdNQ1ltRF84QzFFdElHeXlUWTBkZGVuX1hnUm9YSE9TNVdwMmlleVlQNWFVUzdXVE9jZy1PVVJUTjdHTVdhNmo4V3Vfaw?oc=5",
-        "domain": "whittierdailynews.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGVwbmhtb0tBa19WUTFfTnpsOHV2dnpyNTlQYTFlUEVGdHdBNlZaam9iR1hQYmxMTzllZzdfcVdMbnY3TjVvZjJ2SWQ1c0gySUU1QUhCaHc2R0pEeVp3TjBIMFZOTkRLanV6Q1kzTXlpWEZwenFZODlsd1BETWRycEdKbDh0ZWpuLTU0SGZWTkp1NGhrLU1TQ2VwQkxDU1Q0el9ULWZxSDdwekswMmxmME80b0Y?oc=5",
+        "domain": "dailynews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2529,7 +2531,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2983,12 +2986,12 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2998,7 +3001,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
