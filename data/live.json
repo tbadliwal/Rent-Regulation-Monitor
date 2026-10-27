@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-10-27T12:27:02.489534Z",
+  "generated_at": "2026-10-27T22:25:20.843467Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-27T13:43:20Z",
+      "title": "Charter Amendment Petition to Repeal and Replace Rent Stabilization,Eviction Protections Falls 135 Signatures Short",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVlFLWprRTRZZEs4dmRHUGw2SE9idERCNUZSOThyU2lCOHZxc2ZVdkQxSHB6a0lDOC1NVlJvSlhIZ3lwNGlZQTJJOUZNY3JvZWsxSFlnd3I0c3hJQVB4Uk9XbE9BbFJQbjM0aDl6WkhlVzNEMlgta1AzbnUyZjVfcG5sVXNKd0I3ek9tMEJKcVIyUTQxbkdtUEduaEtTSHF1QnBVY1lVaDdUYnBrRVpIek5RQ19FWTZOZUFGZElpTHM1Wk9PbHE5VTRrM3pnNGRWOGFoNC1ZOUdKU3M?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "",
+      "published": "2026-10-27T13:06:18Z",
+      "title": "Montgomery Becomes First Maryland County to Ban Algorithmic Rent-Setting",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0Rub0ZrMmJhc3dNbzhwRTRoTTd5azVaTl9OOG1XZzhjTkUtdlQya0FqTS1qRXlzR2FrUl9MNVItbnBEcDNyQk0zZjVWSC1kakJnX3dRVVpaWUxJdGlOeXY1cWVLUDItbDR5N3p2VFJYay1RM3hheGY3RHBqbTdEWXRULWlia0NIWDltZ3JDdmh4R3VJU1FPc0ZPRDRBU01NU2o1b3dQZGEtMjJiR2lGQVlFQVdFa01LWkhjUnFn?oc=5",
+      "domain": "conduitstreet.mdcounties.org",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -105,8 +139,7 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -564,8 +597,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -1170,6 +1202,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "",
+        "published": "2026-10-27T13:43:20Z",
+        "title": "Charter Amendment Petition to Repeal and Replace Rent Stabilization,Eviction Protections Falls 135 Signatures Short",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVlFLWprRTRZZEs4dmRHUGw2SE9idERCNUZSOThyU2lCOHZxc2ZVdkQxSHB6a0lDOC1NVlJvSlhIZ3lwNGlZQTJJOUZNY3JvZWsxSFlnd3I0c3hJQVB4Uk9XbE9BbFJQbjM0aDl6WkhlVzNEMlgta1AzbnUyZjVfcG5sVXNKd0I3ek9tMEJKcVIyUTQxbkdtUEduaEtTSHF1QnBVY1lVaDdUYnBrRVpIek5RQ19FWTZOZUFGZElpTHM1Wk9PbHE5VTRrM3pnNGRWOGFoNC1ZOUdKU3M?oc=5",
+        "domain": "pasadenanow.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-10-23T15:00:00Z",
         "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
@@ -1216,8 +1265,7 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1425,8 +1473,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1673,23 +1720,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-28T07:00:00Z",
-        "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
       }
     ],
     "CO": [],
@@ -1799,6 +1829,23 @@
       }
     ],
     "MD": [
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "",
+        "published": "2026-10-27T13:06:18Z",
+        "title": "Montgomery Becomes First Maryland County to Ban Algorithmic Rent-Setting",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0Rub0ZrMmJhc3dNbzhwRTRoTTd5azVaTl9OOG1XZzhjTkUtdlQya0FqTS1qRXlzR2FrUl9MNVItbnBEcDNyQk0zZjVWSC1kakJnX3dRVVpaWUxJdGlOeXY1cWVLUDItbDR5N3p2VFJYay1RM3hheGY3RHBqbTdEWXRULWlia0NIWDltZ3JDdmh4R3VJU1FPc0ZPRDRBU01NU2o1b3dQZGEtMjJiR2lGQVlFQVdFa01LWkhjUnFn?oc=5",
+        "domain": "conduitstreet.mdcounties.org",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "MD",
         "state_name": "Maryland",
@@ -2507,8 +2554,7 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2689,8 +2735,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2861,8 +2906,8 @@
   },
   "direction_counts": {
     "Restrictive": 42,
-    "Easing": 11,
-    "Neutral": 13
+    "Easing": 12,
+    "Neutral": 14
   },
   "health": {
     "queries": 8,
@@ -2872,14 +2917,9 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 66
+    "retained_articles": 68
   },
   "errors": [
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
     {
       "provider": "GDELT",
       "query": 1,
@@ -2893,6 +2933,11 @@
     {
       "provider": "GDELT",
       "query": 3,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
