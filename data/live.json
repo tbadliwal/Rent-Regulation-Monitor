@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:00:47.200176Z",
+  "generated_at": "2026-10-29T13:20:18.579712Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -257,6 +257,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-10-20T20:48:05Z",
+      "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+      "domain": "hoodline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -553,23 +570,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Salinas",
-      "published": "2026-10-09T07:00:00Z",
-      "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUW9xcDRSRnBxYV93Tmd5WUtTMkhZNmNEbXNCOUxQbmczUlpTQ1hwYTRUUjdkZmhzSkZOS19fRXd6ZGZIeDdlMGxLQVVRa2RUNFFwam8tc21kMTdxLVJzNjhJWXowcnJBTExGVE42dXJTY1Uzck9yRy1UWktpclJiWWJiWkhEeTJpSHNVeWp5VUhCcHg1UlJyZlZNa1pfcm03Q2xXUUxpRmxOdjdmRmFGamRVX1hnNDM5RmF4d3RwN1N0ajJrMWJRR1lSZTN4YnZpcjRaYjNoOFJFb0p1MEJxUlp0ajE0clZ6RlhWVkMteUU2OXJEd1MtUmtNUVgzMURGWEhoMEp2WXhxUmdISmNDcNIBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
-      "domain": "montereycountynow.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -580,6 +580,23 @@
       "source_country": "United States",
       "type": "Rent Review / Mediation",
       "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Salinas",
+      "published": "2026-10-09T07:00:00Z",
+      "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUW9xcDRSRnBxYV93Tmd5WUtTMkhZNmNEbXNCOUxQbmczUlpTQ1hwYTRUUjdkZmhzSkZOS19fRXd6ZGZIeDdlMGxLQVVRa2RUNFFwam8tc21kMTdxLVJzNjhJWXowcnJBTExGVE42dXJTY1Uzck9yRy1UWktpclJiWWJiWkhEeTJpSHNVeWp5VUhCcHg1UlJyZlZNa1pfcm03Q2xXUUxpRmxOdjdmRmFGamRVX1hnNDM5RmF4d3RwN1N0ajJrMWJRR1lSZTN4YnZpcjRaYjNoOFJFb0p1MEJxUlp0ajE0clZ6RlhWVkMteUU2OXJEd1MtUmtNUVgzMURGWEhoMEp2WXhxUmdISmNDcNIBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
+      "domain": "montereycountynow.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -1102,7 +1119,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1119,7 +1137,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1153,60 +1172,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-28T07:00:00Z",
-      "title": "Rent Stabilization Is Coming. We Must Get the Details Right.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NoSUNwY29DUU43c2xaMXpZd0NhSHJrUGxHX0QzRUlIaXZNSVBFZE1MY1ItZTdCRmhBT1I5bC13bHdJTngwSlJIaXpiVWFNaDRNa3l1OVA0T3ZuS0M3SU1JZno3XzU3cGdqUWJ5YkozeW1hRkc2eThQQ0U2b25sdFVQS05jWHlobW5kSlZHcGF0bFJqRFZ3ZjJac2xraDA?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "OR",
-      "state_name": "Oregon",
-      "locality": "Portland",
-      "published": "2026-09-28T07:00:00Z",
-      "title": "Oregon Rent Caps Jump Back to 10% in 2027, Squeezing Portland Landlords Too",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWF6Y0duXzhSSmtITzljbnVnOVlyM0tVbW4xSnhGQjBpTkRjcjJKVGdvTndrcmtmOU82eXVhZ0trb1lsaGxtX2ZlM3B5VVctUV9IQURoeThKRlJmRFRLUDRMOC1zUllIc251dlo3S0l6RVM2NmQ5Z0pRZ21BYnNPTlRZM0Rpb05jM2FyRU9IbkdSaU8yb3RndUJxNHR6MGc0MFZjeGZR?oc=5",
-      "domain": "hoodline.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-28T07:00:00Z",
-      "title": "NYC landlord rep accuses rent board of crossing a 'legal line' — quits ahead of major vote",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xxMjYxaHN0LUs2UjI1Q203ZG1INUxXeEJLQXlYUF96NGhJRmpuWDZxMTczekgyVmljajlNODM3Wks0TTV0UWZHOFVFNlBmMHFzMVdpZWJfNlJKckotRmY5WEtXbUs0WjNEMU5PVkJQTDNmS2RiNjY3UWhLVm5odWlmckVKME53Y28zVk5Uenh1QmRqekVvYmRKdGxUYXFta3JuZnN3Qm5WQmVnRFk1bjhPdw?oc=5",
-      "domain": "gothamist.com",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
@@ -1730,7 +1695,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CO": [],
@@ -1959,6 +1925,23 @@
         "state_name": "New Jersey",
         "locality": "Jersey City",
         "published": "2026-10-20T20:48:05Z",
+        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T20:48:05Z",
         "title": "Jersey City Weighs Rent Control Exemption Reform",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
         "domain": "hoodline.com",
@@ -2022,7 +2005,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NM": [],
@@ -2352,50 +2336,13 @@
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-09-28T07:00:00Z",
-        "title": "NYC landlord rep accuses rent board of crossing a 'legal line' — quits ahead of major vote",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xxMjYxaHN0LUs2UjI1Q203ZG1INUxXeEJLQXlYUF96NGhJRmpuWDZxMTczekgyVmljajlNODM3Wks0TTV0UWZHOFVFNlBmMHFzMVdpZWJfNlJKckotRmY5WEtXbUs0WjNEMU5PVkJQTDNmS2RiNjY3UWhLVm5odWlmckVKME53Y28zVk5Uenh1QmRqekVvYmRKdGxUYXFta3JuZnN3Qm5WQmVnRFk1bjhPdw?oc=5",
-        "domain": "gothamist.com",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Proposed / Process",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "NC": [],
     "ND": [],
     "OH": [],
     "OK": [],
-    "OR": [
-      {
-        "state": "OR",
-        "state_name": "Oregon",
-        "locality": "Portland",
-        "published": "2026-09-28T07:00:00Z",
-        "title": "Oregon Rent Caps Jump Back to 10% in 2027, Squeezing Portland Landlords Too",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWF6Y0duXzhSSmtITzljbnVnOVlyM0tVbW4xSnhGQjBpTkRjcjJKVGdvTndrcmtmOU82eXVhZ0trb1lsaGxtX2ZlM3B5VVctUV9IQURoeThKRlJmRFRLUDRMOC1zUllIc251dlo3S0l6RVM2NmQ5Z0pRZ21BYnNPTlRZM0Rpb05jM2FyRU9IbkdSaU8yb3RndUJxNHR6MGc0MFZjeGZR?oc=5",
-        "domain": "hoodline.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
-    ],
+    "OR": [],
     "PA": [
       {
         "state": "PA",
@@ -2747,7 +2694,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Salinas": [
@@ -2811,6 +2759,23 @@
         "state_name": "New Jersey",
         "locality": "Jersey City",
         "published": "2026-10-20T20:48:05Z",
+        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T20:48:05Z",
         "title": "Jersey City Weighs Rent Control Exemption Reform",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
         "domain": "hoodline.com",
@@ -2856,7 +2821,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MD|Montgomery County": [
@@ -2914,32 +2880,12 @@
         "discovery_provider": "Google News RSS",
         "carried_forward": true
       }
-    ],
-    "OR|Portland": [
-      {
-        "state": "OR",
-        "state_name": "Oregon",
-        "locality": "Portland",
-        "published": "2026-09-28T07:00:00Z",
-        "title": "Oregon Rent Caps Jump Back to 10% in 2027, Squeezing Portland Landlords Too",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWF6Y0duXzhSSmtITzljbnVnOVlyM0tVbW4xSnhGQjBpTkRjcjJKVGdvTndrcmtmOU82eXVhZ0trb1lsaGxtX2ZlM3B5VVctUV9IQURoeThKRlJmRFRLUDRMOC1zUllIc251dlo3S0l6RVM2NmQ5Z0pRZ21BYnNPTlRZM0Rpb05jM2FyRU9IbkdSaU8yb3RndUJxNHR6MGc0MFZjeGZR?oc=5",
-        "domain": "hoodline.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
     ]
   },
   "direction_counts": {
-    "Restrictive": 43,
+    "Restrictive": 42,
     "Easing": 12,
-    "Neutral": 15
+    "Neutral": 14
   },
   "health": {
     "queries": 8,
@@ -2949,12 +2895,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 70
+    "retained_articles": 68
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2964,12 +2910,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 3,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
