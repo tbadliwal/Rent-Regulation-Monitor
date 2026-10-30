@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:52:13.735597Z",
+  "generated_at": "2026-10-30T06:01:57.119158Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -36,7 +36,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -121,8 +122,7 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "MD",
@@ -259,8 +259,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -301,24 +300,6 @@
       "state_name": "New Jersey",
       "locality": "Jersey City",
       "published": "2026-10-20T20:48:05Z",
-      "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
-      "domain": "hoodline.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-10-20T20:48:05Z",
       "title": "Jersey City Weighs Rent Control Exemption Reform",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
       "domain": "hoodline.com",
@@ -347,8 +328,24 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-10-20T07:00:00Z",
+      "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+      "domain": "hoodline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "MD",
@@ -385,6 +382,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-17T07:00:00Z",
+      "title": "Special Recruitment for the Rent Stabilization Board",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVORFJaa1AzRzZEZnNvM1BFQ3h1UDV3NkJGMmtmY25lN25fRTFkNDVkaUVMNmZsR1hzbzB1YzdjUEJaVjVuS1FzeTV0N3VQd0N4VHVEaHZWREdmUV96UDIyWUQzM3hEZUNzbUZ3d21NcVRoY0lSZXhOdVBiWXVwSzk1YVZTbDBNd2QzV2NYbnVrY3lYNzU4?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NV",
       "state_name": "Nevada",
       "locality": "",
@@ -400,24 +414,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-17T07:00:00Z",
-      "title": "Special Recruitment for the Rent Stabilization Board",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVORFJaa1AzRzZEZnNvM1BFQ3h1UDV3NkJGMmtmY25lN25fRTFkNDVkaUVMNmZsR1hzbzB1YzdjUEJaVjVuS1FzeTV0N3VQd0N4VHVEaHZWREdmUV96UDIyWUQzM3hEZUNzbUZ3d21NcVRoY0lSZXhOdVBiWXVwSzk1YVZTbDBNd2QzV2NYbnVrY3lYNzU4?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     },
     {
       "state": "CA",
@@ -485,8 +481,7 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -539,8 +534,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -557,8 +551,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -575,8 +568,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -627,8 +619,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -645,8 +636,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -752,8 +742,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -890,8 +879,7 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -908,8 +896,7 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -1021,14 +1008,14 @@
       "state_name": "New York",
       "locality": "",
       "published": "2026-09-30T07:00:00Z",
-      "title": "RealPage Gets Pause on New York Algorithmic Rent Pricing Law",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGRFa1pVSnlqdUVzWGk3WEthdHZsaVZZbXpWSWNVcG10QnozS0s3bTlPa1lxbzZPRVhUZjlNeXVyUmNMZzQwU0pUeG9QYlFlQ1ZsMUZMcXl0OGRSX3dkZGcyOTczWXFpODFtT1NZMmJLZkJJTDF2ek9MMmRvYWI5MWtMRTFnOWhXeWdab3hpVjhKMDU2aF91aTVIczhTYlN2TkFz?oc=5",
-      "domain": "news.bloomberglaw.com",
+      "title": "CPI | Judge Halts New York Ban on Algorithmic Rent-Setting Software",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnpxY3FaTkRwYmRzMmZyeVFuQ1dHblBvODNZZDM2R1lkMlRkOTIxcFdYcUcxZG9ldVUybS1wdzhNNW5ULXZVSVpJWnJ2VjlKbFItcjFEdWh6WEpWNXF5eGN6Wk05ZjZxUkxGbllKVFZHN29vUnAxQjhEdTNPZ3dHYlpHSENnUUVoY2sweGNldTZFUUVMOUMyOWtnMA?oc=5",
+      "domain": "pymnts.com",
       "source_country": "United States",
       "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
+      "status": "Litigation",
+      "direction": "Neutral",
+      "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -1038,14 +1025,14 @@
       "state_name": "New York",
       "locality": "",
       "published": "2026-09-30T07:00:00Z",
-      "title": "CPI | Judge Halts New York Ban on Algorithmic Rent-Setting Software",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnpxY3FaTkRwYmRzMmZyeVFuQ1dHblBvODNZZDM2R1lkMlRkOTIxcFdYcUcxZG9ldVUybS1wdzhNNW5ULXZVSVpJWnJ2VjlKbFItcjFEdWh6WEpWNXF5eGN6Wk05ZjZxUkxGbllKVFZHN29vUnAxQjhEdTNPZ3dHYlpHSENnUUVoY2sweGNldTZFUUVMOUMyOWtnMA?oc=5",
-      "domain": "pymnts.com",
+      "title": "RealPage Gets Pause on New York Algorithmic Rent Pricing Law",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGRFa1pVSnlqdUVzWGk3WEthdHZsaVZZbXpWSWNVcG10QnozS0s3bTlPa1lxbzZPRVhUZjlNeXVyUmNMZzQwU0pUeG9QYlFlQ1ZsMUZMcXl0OGRSX3dkZGcyOTczWXFpODFtT1NZMmJLZkJJTDF2ek9MMmRvYWI5MWtMRTFnOWhXeWdab3hpVjhKMDU2aF91aTVIczhTYlN2TkFz?oc=5",
+      "domain": "news.bloomberglaw.com",
       "source_country": "United States",
       "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Neutral",
-      "direction_score": 0,
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -1150,8 +1137,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NJ",
@@ -1246,7 +1232,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1297,8 +1284,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1400,8 +1386,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1469,8 +1454,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1487,8 +1471,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1539,8 +1522,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1592,8 +1574,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1753,8 +1734,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "FL": [
@@ -1773,8 +1753,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "GA": [],
@@ -1963,24 +1942,6 @@
         "state_name": "New Jersey",
         "locality": "Jersey City",
         "published": "2026-10-20T20:48:05Z",
-        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
-        "domain": "hoodline.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-10-20T20:48:05Z",
         "title": "Jersey City Weighs Rent Control Exemption Reform",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
         "domain": "hoodline.com",
@@ -2009,8 +1970,24 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T07:00:00Z",
+        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2100,8 +2077,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2153,8 +2129,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2223,8 +2198,7 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2241,8 +2215,7 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2301,14 +2274,14 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
-        "title": "RealPage Gets Pause on New York Algorithmic Rent Pricing Law",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGRFa1pVSnlqdUVzWGk3WEthdHZsaVZZbXpWSWNVcG10QnozS0s3bTlPa1lxbzZPRVhUZjlNeXVyUmNMZzQwU0pUeG9QYlFlQ1ZsMUZMcXl0OGRSX3dkZGcyOTczWXFpODFtT1NZMmJLZkJJTDF2ek9MMmRvYWI5MWtMRTFnOWhXeWdab3hpVjhKMDU2aF91aTVIczhTYlN2TkFz?oc=5",
-        "domain": "news.bloomberglaw.com",
+        "title": "CPI | Judge Halts New York Ban on Algorithmic Rent-Setting Software",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnpxY3FaTkRwYmRzMmZyeVFuQ1dHblBvODNZZDM2R1lkMlRkOTIxcFdYcUcxZG9ldVUybS1wdzhNNW5ULXZVSVpJWnJ2VjlKbFItcjFEdWh6WEpWNXF5eGN6Wk05ZjZxUkxGbllKVFZHN29vUnAxQjhEdTNPZ3dHYlpHSENnUUVoY2sweGNldTZFUUVMOUMyOWtnMA?oc=5",
+        "domain": "pymnts.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
+        "status": "Litigation",
+        "direction": "Neutral",
+        "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -2318,14 +2291,14 @@
         "state_name": "New York",
         "locality": "",
         "published": "2026-09-30T07:00:00Z",
-        "title": "CPI | Judge Halts New York Ban on Algorithmic Rent-Setting Software",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnpxY3FaTkRwYmRzMmZyeVFuQ1dHblBvODNZZDM2R1lkMlRkOTIxcFdYcUcxZG9ldVUybS1wdzhNNW5ULXZVSVpJWnJ2VjlKbFItcjFEdWh6WEpWNXF5eGN6Wk05ZjZxUkxGbllKVFZHN29vUnAxQjhEdTNPZ3dHYlpHSENnUUVoY2sweGNldTZFUUVMOUMyOWtnMA?oc=5",
-        "domain": "pymnts.com",
+        "title": "RealPage Gets Pause on New York Algorithmic Rent Pricing Law",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGRFa1pVSnlqdUVzWGk3WEthdHZsaVZZbXpWSWNVcG10QnozS0s3bTlPa1lxbzZPRVhUZjlNeXVyUmNMZzQwU0pUeG9QYlFlQ1ZsMUZMcXl0OGRSX3dkZGcyOTczWXFpODFtT1NZMmJLZkJJTDF2ek9MMmRvYWI5MWtMRTFnOWhXeWdab3hpVjhKMDU2aF91aTVIczhTYlN2TkFz?oc=5",
+        "domain": "news.bloomberglaw.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Neutral",
-        "direction_score": 0,
+        "status": "Discovery",
+        "direction": "Easing",
+        "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -2684,8 +2657,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2775,8 +2747,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Los Angeles County": [
@@ -2799,24 +2770,6 @@
       }
     ],
     "NJ|Jersey City": [
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-10-20T20:48:05Z",
-        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
-        "domain": "hoodline.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
       {
         "state": "NJ",
         "state_name": "New Jersey",
@@ -2850,8 +2803,24 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T07:00:00Z",
+        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2948,22 +2917,22 @@
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 4,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
