@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:29:21.633850Z",
+  "generated_at": "2026-10-31T05:57:15.992860Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -71,7 +71,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -122,8 +123,7 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "MD",
@@ -352,23 +352,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-19T07:00:00Z",
-      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
-      "domain": "wsj.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -382,6 +365,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
+      "domain": "wsj.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -774,23 +774,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "locality": "",
-      "published": "2026-10-05T07:00:00Z",
-      "title": "Lancaster County residents feel trapped in manufactured homes as rent control bills sit in Pa. Senate",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNN0tWYngzdGtSdERTRVJrQUppU3VhdjA4U3d4clNPUlVnZFduWTZLUnNpUGhuSXROSGR0eG5qMVVYRkprcVBIRFhyVEduZjAtNVVUQ1I1VTJ3YXlLMWpuRDZhZ0FtRE9ZYTlqcmtGUjhzcmlQUXcxUkVpazgwNWlBYnhiQ3YwbEFVU3pMcVNBOUZ5aGlvbEthOW9UcG5USzhNVzF3bTI1TEUyZkZtVjdWZE96ZDBxT1lZdF9BZ1FURUdzdGVZZVQ4OW5JelliS245OVZDWmdUb2VyYldLZTYxNVJMdzRoWF9yTGJxQkhvcFdybkR1VlJNOE5fWU9pTGI1c1pqQ2xKUnAyZ1lCdno0amMzQQ?oc=5",
-      "domain": "lancasteronline.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -825,6 +808,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "locality": "",
+      "published": "2026-10-05T07:00:00Z",
+      "title": "Lancaster County residents feel trapped in manufactured homes as rent control bills sit in Pa. Senate",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNN0tWYngzdGtSdERTRVJrQUppU3VhdjA4U3d4clNPUlVnZFduWTZLUnNpUGhuSXROSGR0eG5qMVVYRkprcVBIRFhyVEduZjAtNVVUQ1I1VTJ3YXlLMWpuRDZhZ0FtRE9ZYTlqcmtGUjhzcmlQUXcxUkVpazgwNWlBYnhiQ3YwbEFVU3pMcVNBOUZ5aGlvbEthOW9UcG5USzhNVzF3bTI1TEUyZkZtVjdWZE96ZDBxT1lZdF9BZ1FURUdzdGVZZVQ4OW5JelliS245OVZDWmdUb2VyYldLZTYxNVJMdzRoWF9yTGJxQkhvcFdybkR1VlJNOE5fWU9pTGI1c1pqQ2xKUnAyZ1lCdno0amMzQQ?oc=5",
+      "domain": "lancasteronline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Pasadena",
@@ -843,23 +843,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
-      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -873,6 +856,23 @@
       "direction": "Easing",
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -913,23 +913,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-01T07:00:00Z",
-      "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
-      "domain": "edhat.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -943,6 +926,23 @@
       "direction": "Easing",
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-01T07:00:00Z",
+      "title": "Santa Barbara City Council Approves First Rent Stabilization and Rental Registry Programs in 4-3 Vote",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaF8xbmcxRG5ya3JNcS1qODNkdWtuYmVoNW9sZmNnTUJ0dXNNOVFTaE91TDVXSjI1RXQ5SlVTU1NNclJWc2oxUU9JZnAtZWZ6SVF4a1UxOVkzZERRcDRJMzFCYm1PSi1TXzZ0X1ZZb2pSalRkOEpFNWY0MVZzZzlJNmdxT1MzVmRMcWhyNlJBc1hjSThuWS05N05MUVJrcTc5ZFlIb0I4TjhEVktRNDdELXFQcDRVd1RySWY1cE5vRkJBLU9ZZERNYw?oc=5",
+      "domain": "edhat.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1236,7 +1236,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1253,8 +1254,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2840,23 +2840,23 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
-      "query": 1,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
       "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
