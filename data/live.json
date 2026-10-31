@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:57:15.992860Z",
+  "generated_at": "2026-10-31T12:47:52.465490Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -175,7 +175,8 @@
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MA",
@@ -927,7 +928,8 @@
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -944,7 +946,8 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -996,168 +999,6 @@
       "direction": "Easing",
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Federal Judge Blocks New York’s First-of-Its-Kind Crackdown on Algorithmic Rent-Setting",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2VHYlRpRU9sQXBRYmlvVW9vLWF4ejFsWEoxSHgwZmllVm56OW9qb0xfUHZ4R2JrbHFvaTVVVmlVRmZaM2JNX3J3ay1tZjNEWDRpaGM4Wkg0YUhWMEc3NzhDMjlmdVB5T0hKYVlkUjB2anJHNkZEc1E2NHhtSlNhS0lZaS1GT24yMnBEazRwQUhFa2NoNFctZnZ6aWQ0Zw?oc=5",
-      "domain": "lawcommentary.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "CPI | Judge Halts New York Ban on Algorithmic Rent-Setting Software",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnpxY3FaTkRwYmRzMmZyeVFuQ1dHblBvODNZZDM2R1lkMlRkOTIxcFdYcUcxZG9ldVUybS1wdzhNNW5ULXZVSVpJWnJ2VjlKbFItcjFEdWh6WEpWNXF5eGN6Wk05ZjZxUkxGbllKVFZHN29vUnAxQjhEdTNPZ3dHYlpHSENnUUVoY2sweGNldTZFUUVMOUMyOWtnMA?oc=5",
-      "domain": "pymnts.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "RealPage Gets Pause on New York Algorithmic Rent Pricing Law",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGRFa1pVSnlqdUVzWGk3WEthdHZsaVZZbXpWSWNVcG10QnozS0s3bTlPa1lxbzZPRVhUZjlNeXVyUmNMZzQwU0pUeG9QYlFlQ1ZsMUZMcXl0OGRSX3dkZGcyOTczWXFpODFtT1NZMmJLZkJJTDF2ek9MMmRvYWI5MWtMRTFnOWhXeWdab3hpVjhKMDU2aF91aTVIczhTYlN2TkFz?oc=5",
-      "domain": "news.bloomberglaw.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Judge blocks New York rent-setting software ban By Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
-      "domain": "investing.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
-      "domain": "hoodline.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "RealPage Wins Preliminary Injunction Against New York Algorithmic Rent-Setting Ban",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkh2UUhqQnk5SDN6bmQ2OGxjWVJPRFFSOTh1TnkyZ0gyZXpoUXNxV2Y1VDMtazVWRFNpdExQdVNsOTE0OVZNcHVDU1ZrRUYteXRtLW55SHZvcmFhRjFhQ2E1TFBQNGdyNXVuelNYOEJ0VWhZZ1ZJd3JVTldfVnpjZ1BFdTgydWE1bm9YeXh4bVFtT001YUNPTTlISGU4SlgzVUtQa2lSLVhpa1JzQUJycTFBSlRsWFk?oc=5",
-      "domain": "pymnts.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0dNcnBhak0tdUprZ0NNLXpmci1ZSkZpQXVUaG1xUUROSzB6Ui1mdWI0M0M4VHQwbFBxa0tmNm95Y1NzRHdUdFFsOXNnLTBEaXFQOXRZdkRXN1dwY2FlVkZ6VW1DMV9Sc3AxTmVhd3FvOEVKa2g5N0xwZkhXamFsWDhCbXVfNlAzbGYtZXVoSkpGUE5YNDBKOW85a2xKYVltRmE0SENfY1JRNExzNV9RTXhpZ1Z2S1dPaV9obUhsYmFBQQ?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Enacted / Effective",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Something Rotten at City Hall: How District Elections Skewed Big Vote on Rent Control; Winners & Losers",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2R0d1Ata0hVaVBZdG1xTjJCLV94dnVmdG5GcnNUVFpjcGVtc2VoS21WTTh5VkZvTmx2Q3YxV0pLWHhuZUZRZUptaEFFTzVqVXA2elF1UUVSdm5DSUpBb3phZHdVc3ZQaF93R09YRTRVVk5JekpydzNYZXRibXpVMkJZVEJnM08tYnQydzJkS0U4QmxHdFg0YWdLTXdRVUFXcUlpaDNUM3FxTWpfaWZQdmx3djFab09CcVRUU0o5bDh2d2wtbkdfWnY3R05zZWE5czF1NlZ3?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-09-30T07:00:00Z",
-      "title": "Meet the Manic Pixel Dream Girl: She’s hot, hates rent control, and isn’t real",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEM3hMVXVyQ0hpUml6blF0RnZhUTlWTE9Wa01TQUplM182Ri1VeTY0YlRwcmphSElHTzFKUTdwU0FFZ1I0c3RwYUdNVi1mSWJ2V3dqUGVNUXBSUXpkM0VfT1ZjLXNxNkxyZ1ZZZA?oc=5",
-      "domain": "sfstandard.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
@@ -1618,7 +1459,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1649,42 +1491,6 @@
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0dNcnBhak0tdUprZ0NNLXpmci1ZSkZpQXVUaG1xUUROSzB6Ui1mdWI0M0M4VHQwbFBxa0tmNm95Y1NzRHdUdFFsOXNnLTBEaXFQOXRZdkRXN1dwY2FlVkZ6VW1DMV9Sc3AxTmVhd3FvOEVKa2g5N0xwZkhXamFsWDhCbXVfNlAzbGYtZXVoSkpGUE5YNDBKOW85a2xKYVltRmE0SENfY1JRNExzNV9RTXhpZ1Z2S1dPaV9obUhsYmFBQQ?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Something Rotten at City Hall: How District Elections Skewed Big Vote on Rent Control; Winners & Losers",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2R0d1Ata0hVaVBZdG1xTjJCLV94dnVmdG5GcnNUVFpjcGVtc2VoS21WTTh5VkZvTmx2Q3YxV0pLWHhuZUZRZUptaEFFTzVqVXA2elF1UUVSdm5DSUpBb3phZHdVc3ZQaF93R09YRTRVVk5JekpydzNYZXRibXpVMkJZVEJnM08tYnQydzJkS0U4QmxHdFg0YWdLTXdRVUFXcUlpaDNUM3FxTWpfaWZQdmx3djFab09CcVRUU0o5bDh2d2wtbkdfWnY3R05zZWE5czF1NlZ3?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
@@ -1777,7 +1583,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "ME",
@@ -2199,7 +2006,8 @@
         "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2214,114 +2022,6 @@
         "status": "Litigation",
         "direction": "Easing",
         "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Federal Judge Blocks New York’s First-of-Its-Kind Crackdown on Algorithmic Rent-Setting",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2VHYlRpRU9sQXBRYmlvVW9vLWF4ejFsWEoxSHgwZmllVm56OW9qb0xfUHZ4R2JrbHFvaTVVVmlVRmZaM2JNX3J3ay1tZjNEWDRpaGM4Wkg0YUhWMEc3NzhDMjlmdVB5T0hKYVlkUjB2anJHNkZEc1E2NHhtSlNhS0lZaS1GT24yMnBEazRwQUhFa2NoNFctZnZ6aWQ0Zw?oc=5",
-        "domain": "lawcommentary.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "CPI | Judge Halts New York Ban on Algorithmic Rent-Setting Software",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnpxY3FaTkRwYmRzMmZyeVFuQ1dHblBvODNZZDM2R1lkMlRkOTIxcFdYcUcxZG9ldVUybS1wdzhNNW5ULXZVSVpJWnJ2VjlKbFItcjFEdWh6WEpWNXF5eGN6Wk05ZjZxUkxGbllKVFZHN29vUnAxQjhEdTNPZ3dHYlpHSENnUUVoY2sweGNldTZFUUVMOUMyOWtnMA?oc=5",
-        "domain": "pymnts.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "RealPage Gets Pause on New York Algorithmic Rent Pricing Law",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGRFa1pVSnlqdUVzWGk3WEthdHZsaVZZbXpWSWNVcG10QnozS0s3bTlPa1lxbzZPRVhUZjlNeXVyUmNMZzQwU0pUeG9QYlFlQ1ZsMUZMcXl0OGRSX3dkZGcyOTczWXFpODFtT1NZMmJLZkJJTDF2ek9MMmRvYWI5MWtMRTFnOWhXeWdab3hpVjhKMDU2aF91aTVIczhTYlN2TkFz?oc=5",
-        "domain": "news.bloomberglaw.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Judge blocks New York rent-setting software ban By Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVB5UUgtbGNtaXY4dzlrYzE4VFRUemJwQ0l5UjhELXhtaUpieU40dzk3NVMwNHl5Zkk1Q3gzUHNhUzVhb3gtYmlQU1JBQW92eHh4Snh5UDRwM0k0OHRpamwtMzZncjliQmRsYVRaMktFNlVac0pUYXI5MzZ3TGZuU1g0em1COUlUbk00UjJNc2pXaDBYQWI2STRNWWVaeU0?oc=5",
-        "domain": "investing.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Federal Judge Blocks New York's Algorithmic Rent-Setting Ban, Sides With RealPage",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEVWR082eU5kbmJmZG05OWthQUxoT0hYa2YyT3FBeW9BZmwySHROUmVTbnVrNEN6bm9yMW5GNWk5Tm01UlNBaUw1dVM0Nk5rZjNHT0l6U1IwY3dhVUpXbm1yTk12NFhQLTZlb0VqLWw2UkhMYjNkYVdfR3Npcm1jRGxtY0YwRFZVOXprcVBBZE9mUUJqZnNRSE9scFRLSHF2dnY0UzJ6M0czZEQ2VnFZ?oc=5",
-        "domain": "hoodline.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "RealPage Wins Preliminary Injunction Against New York Algorithmic Rent-Setting Ban",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkh2UUhqQnk5SDN6bmQ2OGxjWVJPRFFSOTh1TnkyZ0gyZXpoUXNxV2Y1VDMtazVWRFNpdExQdVNsOTE0OVZNcHVDU1ZrRUYteXRtLW55SHZvcmFhRjFhQ2E1TFBQNGdyNXVuelNYOEJ0VWhZZ1ZJd3JVTldfVnpjZ1BFdTgydWE1bm9YeXh4bVFtT001YUNPTTlISGU4SlgzVUtQa2lSLVhpa1JzQUJycTFBSlRsWFk?oc=5",
-        "domain": "pymnts.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Litigation",
-        "direction": "Neutral",
-        "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
@@ -2504,7 +2204,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2541,24 +2242,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-09-30T07:00:00Z",
-        "title": "Santa Barbara City Council Adopts Rent Stabilization Ordinance in Milestone 4-3 Vote",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0dNcnBhak0tdUprZ0NNLXpmci1ZSkZpQXVUaG1xUUROSzB6Ui1mdWI0M0M4VHQwbFBxa0tmNm95Y1NzRHdUdFFsOXNnLTBEaXFQOXRZdkRXN1dwY2FlVkZ6VW1DMV9Sc3AxTmVhd3FvOEVKa2g5N0xwZkhXamFsWDhCbXVfNlAzbGYtZXVoSkpGUE5YNDBKOW85a2xKYVltRmE0SENfY1JRNExzNV9RTXhpZ1Z2S1dPaV9obUhsYmFBQQ?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enacted / Effective",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "ME|Portland": [
@@ -2577,7 +2260,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Pasadena": [
@@ -2823,9 +2507,9 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 40,
-    "Easing": 11,
-    "Neutral": 15
+    "Restrictive": 37,
+    "Easing": 7,
+    "Neutral": 13
   },
   "health": {
     "queries": 8,
@@ -2835,12 +2519,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 66
+    "retained_articles": 57
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 1,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2855,7 +2539,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
