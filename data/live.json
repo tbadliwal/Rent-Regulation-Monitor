@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:44:35.598659Z",
+  "generated_at": "2026-11-01T06:25:19.331740Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -123,7 +123,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MD",
@@ -148,7 +149,7 @@
       "state_name": "California",
       "locality": "Berkeley",
       "published": "2026-10-23T15:00:00Z",
-      "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
+      "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
       "domain": "dailycal.org",
       "source_country": "United States",
@@ -159,6 +160,24 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Berkeley",
+      "published": "2026-10-23T15:00:00Z",
+      "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
+      "domain": "dailycal.org",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -193,7 +212,8 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -299,6 +319,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-21T07:00:00Z",
+      "title": "NYC landlord rep accuses rent board of crossing a 'legal line' — quits ahead of major vote",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xxMjYxaHN0LUs2UjI1Q203ZG1INUxXeEJLQXlYUF96NGhJRmpuWDZxMTczekgyVmljajlNODM3Wks0TTV0UWZHOFVFNlBmMHFzMVdpZWJfNlJKckotRmY5WEtXbUs0WjNEMU5PVkJQTDNmS2RiNjY3UWhLVm5odWlmckVKME53Y28zVk5Uenh1QmRqekVvYmRKdGxUYXFta3JuZnN3Qm5WQmVnRFk1bjhPdw?oc=5",
+      "domain": "gothamist.com",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
@@ -353,23 +390,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-19T07:00:00Z",
-      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
-      "domain": "wsj.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -383,6 +403,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
+      "domain": "wsj.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -775,23 +812,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "PA",
-      "state_name": "Pennsylvania",
-      "locality": "",
-      "published": "2026-10-05T07:00:00Z",
-      "title": "Lancaster County residents feel trapped in manufactured homes as rent control bills sit in Pa. Senate",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNN0tWYngzdGtSdERTRVJrQUppU3VhdjA4U3d4clNPUlVnZFduWTZLUnNpUGhuSXROSGR0eG5qMVVYRkprcVBIRFhyVEduZjAtNVVUQ1I1VTJ3YXlLMWpuRDZhZ0FtRE9ZYTlqcmtGUjhzcmlQUXcxUkVpazgwNWlBYnhiQ3YwbEFVU3pMcVNBOUZ5aGlvbEthOW9UcG5USzhNVzF3bTI1TEUyZkZtVjdWZE96ZDBxT1lZdF9BZ1FURUdzdGVZZVQ4OW5JelliS245OVZDWmdUb2VyYldLZTYxNVJMdzRoWF9yTGJxQkhvcFdybkR1VlJNOE5fWU9pTGI1c1pqQ2xKUnAyZ1lCdno0amMzQQ?oc=5",
-      "domain": "lancasteronline.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -826,6 +846,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "PA",
+      "state_name": "Pennsylvania",
+      "locality": "",
+      "published": "2026-10-05T07:00:00Z",
+      "title": "Lancaster County residents feel trapped in manufactured homes as rent control bills sit in Pa. Senate",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNN0tWYngzdGtSdERTRVJrQUppU3VhdjA4U3d4clNPUlVnZFduWTZLUnNpUGhuSXROSGR0eG5qMVVYRkprcVBIRFhyVEduZjAtNVVUQ1I1VTJ3YXlLMWpuRDZhZ0FtRE9ZYTlqcmtGUjhzcmlQUXcxUkVpazgwNWlBYnhiQ3YwbEFVU3pMcVNBOUZ5aGlvbEthOW9UcG5USzhNVzF3bTI1TEUyZkZtVjdWZE96ZDBxT1lZdF9BZ1FURUdzdGVZZVQ4OW5JelliS245OVZDWmdUb2VyYldLZTYxNVJMdzRoWF9yTGJxQkhvcFdybkR1VlJNOE5fWU9pTGI1c1pqQ2xKUnAyZ1lCdno0amMzQQ?oc=5",
+      "domain": "lancasteronline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Pasadena",
@@ -844,23 +881,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-02T07:00:00Z",
-      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -874,6 +894,23 @@
       "direction": "Easing",
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-02T07:00:00Z",
+      "title": "Rent Board Holds Off on Fining Landlords, Citing Staffing Costs and Rare Use Elsewhere",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNSdGVwdGthM0t4a2NEQVMwN3dZb1kxSHk4eDFkNENjaFBkWWVXZ3IxNG9vci1PQlI0ODk1Mk9HM1UybDQ1dEhTR08xR2h4S29abER0RkFhYmYwUl8zQUlVV0wxVG44VDlUSDNQMHZiRWxONldKZTFndkRNSUwxN1lXcU5DSmVaWUNuQkxNSXVkM0gxUFV2SHNDb3BjX2U4bl9OSTEyVDJZaGxtQUxhZ1hyYnRYYnMya1M4ZmdDVVk?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1077,6 +1114,24 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Berkeley",
+        "published": "2026-10-23T15:00:00Z",
+        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
+        "domain": "dailycal.org",
+        "source_country": "United States",
+        "type": "Tenant / Rental Policy",
+        "status": "Proposed / Process",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
       {
@@ -1094,7 +1149,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1675,7 +1731,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MI": [],
@@ -1831,6 +1888,23 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-10-21T07:00:00Z",
+        "title": "NYC landlord rep accuses rent board of crossing a 'legal line' — quits ahead of major vote",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xxMjYxaHN0LUs2UjI1Q203ZG1INUxXeEJLQXlYUF96NGhJRmpuWDZxMTczekgyVmljajlNODM3Wks0TTV0UWZHOFVFNlBmMHFzMVdpZWJfNlJKckotRmY5WEtXbUs0WjNEMU5PVkJQTDNmS2RiNjY3UWhLVm5odWlmckVKME53Y28zVk5Uenh1QmRqekVvYmRKdGxUYXFta3JuZnN3Qm5WQmVnRFk1bjhPdw?oc=5",
+        "domain": "gothamist.com",
+        "source_country": "United States",
+        "type": "Tenant / Rental Policy",
+        "status": "Proposed / Process",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -2054,7 +2128,7 @@
         "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-10-23T15:00:00Z",
-        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
+        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
         "domain": "dailycal.org",
         "source_country": "United States",
@@ -2065,6 +2139,24 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Berkeley",
+        "published": "2026-10-23T15:00:00Z",
+        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
+        "domain": "dailycal.org",
+        "source_country": "United States",
+        "type": "Tenant / Rental Policy",
+        "status": "Proposed / Process",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2473,33 +2565,38 @@
   "direction_counts": {
     "Restrictive": 37,
     "Easing": 6,
-    "Neutral": 13
+    "Neutral": 15
   },
   "health": {
     "queries": 8,
-    "successful_queries": 5,
+    "successful_queries": 4,
     "provider_success": {
-      "gdelt": 1,
+      "gdelt": 0,
       "google_news_rss": 4
     },
-    "errors": 3,
-    "retained_articles": 56
+    "errors": 4,
+    "retained_articles": 58
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "query": 4,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "The read operation timed out"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
