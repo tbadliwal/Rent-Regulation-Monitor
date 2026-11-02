@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-01T22:11:42.354465Z",
+  "generated_at": "2026-11-02T06:26:44.418887Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "West Hollywood",
+      "published": "2026-11-02T02:00:26Z",
+      "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
+      "domain": "wehoonline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -945,6 +962,23 @@
     "AZ": [],
     "AR": [],
     "CA": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "West Hollywood",
+        "published": "2026-11-02T02:00:26Z",
+        "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
+        "domain": "wehoonline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -1937,6 +1971,25 @@
     "DC": []
   },
   "locality_feeds": {
+    "CA|West Hollywood": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "West Hollywood",
+        "published": "2026-11-02T02:00:26Z",
+        "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
+        "domain": "wehoonline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "CA|Berkeley": [
       {
         "state": "CA",
@@ -2335,7 +2388,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 34,
+    "Restrictive": 35,
     "Easing": 5,
     "Neutral": 15
   },
@@ -2347,12 +2400,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 54
+    "retained_articles": 55
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 4,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
@@ -2367,7 +2420,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
