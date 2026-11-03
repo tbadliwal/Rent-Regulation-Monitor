@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-03T06:59:33.983635Z",
+  "generated_at": "2026-11-03T19:38:33.022213Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Berkeley",
+      "published": "2026-11-03T13:30:00Z",
+      "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+      "domain": "dailycal.org",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -141,7 +158,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MD",
@@ -211,7 +229,8 @@
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MA",
@@ -235,7 +254,7 @@
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-10-22T20:22:35Z",
+      "published": "2026-10-22T07:00:00Z",
       "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
       "domain": "jdsupra.com",
@@ -251,11 +270,11 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Salinas",
+      "locality": "Pasadena",
       "published": "2026-10-22T07:00:00Z",
-      "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
-      "domain": "montereycountynow.com",
+      "title": "Pasadena Rent Registry Office to Close Ahead of Oct. 31 Deadline",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlLUGY0ZWlrZjZhMG81N3ZYRkhaVXdBTG82Tjg0R2QybU9zS2dCa0swM1JlaUgxcmM4d1RNaEhpNzJMRXdGQk1DUjJMdG4zbEpRR1g3R2ZzR0xnOFE5cEhrTHlBNGJkMWdMdWZ2STY5YnpmbVVsV3A2ZFdEcWp3SHphaUJnSHNROGx5Sm5HekNEYktJRi0w?oc=5",
+      "domain": "pasadenanow.com",
       "source_country": "United States",
       "type": "Registry / Enforcement",
       "status": "Enforcement / Administration",
@@ -268,11 +287,11 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Pasadena",
+      "locality": "Salinas",
       "published": "2026-10-22T07:00:00Z",
-      "title": "Pasadena Rent Registry Office to Close Ahead of Oct. 31 Deadline",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlLUGY0ZWlrZjZhMG81N3ZYRkhaVXdBTG82Tjg0R2QybU9zS2dCa0swM1JlaUgxcmM4d1RNaEhpNzJMRXdGQk1DUjJMdG4zbEpRR1g3R2ZzR0xnOFE5cEhrTHlBNGJkMWdMdWZ2STY5YnpmbVVsV3A2ZFdEcWp3SHphaUJnSHNROGx5Sm5HekNEYktJRi0w?oc=5",
-      "domain": "pasadenanow.com",
+      "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
+      "domain": "montereycountynow.com",
       "source_country": "United States",
       "type": "Registry / Enforcement",
       "status": "Enforcement / Administration",
@@ -348,7 +367,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -383,7 +403,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -400,7 +421,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MD",
@@ -536,7 +558,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -589,7 +612,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -606,7 +630,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -657,7 +682,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -674,15 +700,16 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
-      "published": "2026-10-09T07:00:00Z",
+      "published": "2026-10-08T07:00:00Z",
       "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUW9xcDRSRnBxYV93Tmd5WUtTMkhZNmNEbXNCOUxQbmczUlpTQ1hwYTRUUjdkZmhzSkZOS19fRXd6ZGZIeDdlMGxLQVVRa2RUNFFwam8tc21kMTdxLVJzNjhJWXowcnJBTExGVE42dXJTY1Uzck9yRy1UWktpclJiWWJiWkhEeTJpSHNVeWp5VUhCcHg1UlJyZlZNa1pfcm03Q2xXUUxpRmxOdjdmRmFGamRVX1hnNDM5RmF4d3RwN1N0ajJrMWJRR1lSZTN4YnZpcjRaYjNoOFJFb0p1MEJxUlp0ajE0clZ6RlhWVkMteUU2OXJEd1MtUmtNUVgzMURGWEhoMEp2WXhxUmdISmNDcNIBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
       "domain": "montereycountynow.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -796,7 +823,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -891,6 +919,23 @@
     "AZ": [],
     "AR": [],
     "CA": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Berkeley",
+        "published": "2026-11-03T13:30:00Z",
+        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+        "domain": "dailycal.org",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -993,7 +1038,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1033,11 +1079,11 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Salinas",
+        "locality": "Pasadena",
         "published": "2026-10-22T07:00:00Z",
-        "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
-        "domain": "montereycountynow.com",
+        "title": "Pasadena Rent Registry Office to Close Ahead of Oct. 31 Deadline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlLUGY0ZWlrZjZhMG81N3ZYRkhaVXdBTG82Tjg0R2QybU9zS2dCa0swM1JlaUgxcmM4d1RNaEhpNzJMRXdGQk1DUjJMdG4zbEpRR1g3R2ZzR0xnOFE5cEhrTHlBNGJkMWdMdWZ2STY5YnpmbVVsV3A2ZFdEcWp3SHphaUJnSHNROGx5Sm5HekNEYktJRi0w?oc=5",
+        "domain": "pasadenanow.com",
         "source_country": "United States",
         "type": "Registry / Enforcement",
         "status": "Enforcement / Administration",
@@ -1050,11 +1096,11 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Pasadena",
+        "locality": "Salinas",
         "published": "2026-10-22T07:00:00Z",
-        "title": "Pasadena Rent Registry Office to Close Ahead of Oct. 31 Deadline",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlLUGY0ZWlrZjZhMG81N3ZYRkhaVXdBTG82Tjg0R2QybU9zS2dCa0swM1JlaUgxcmM4d1RNaEhpNzJMRXdGQk1DUjJMdG4zbEpRR1g3R2ZzR0xnOFE5cEhrTHlBNGJkMWdMdWZ2STY5YnpmbVVsV3A2ZFdEcWp3SHphaUJnSHNROGx5Sm5HekNEYktJRi0w?oc=5",
-        "domain": "pasadenanow.com",
+        "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
+        "domain": "montereycountynow.com",
         "source_country": "United States",
         "type": "Registry / Enforcement",
         "status": "Enforcement / Administration",
@@ -1181,7 +1227,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1232,15 +1279,16 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
         "state_name": "California",
         "locality": "Salinas",
-        "published": "2026-10-09T07:00:00Z",
+        "published": "2026-10-08T07:00:00Z",
         "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUW9xcDRSRnBxYV93Tmd5WUtTMkhZNmNEbXNCOUxQbmczUlpTQ1hwYTRUUjdkZmhzSkZOS19fRXd6ZGZIeDdlMGxLQVVRa2RUNFFwam8tc21kMTdxLVJzNjhJWXowcnJBTExGVE42dXJTY1Uzck9yRy1UWktpclJiWWJiWkhEeTJpSHNVeWp5VUhCcHg1UlJyZlZNa1pfcm03Q2xXUUxpRmxOdjdmRmFGamRVX1hnNDM5RmF4d3RwN1N0ajJrMWJRR1lSZTN4YnZpcjRaYjNoOFJFb0p1MEJxUlp0ajE0clZ6RlhWVkMteUU2OXJEd1MtUmtNUVgzMURGWEhoMEp2WXhxUmdISmNDcNIBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
         "domain": "montereycountynow.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1301,7 +1349,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1357,7 +1406,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "FL": [
@@ -1376,7 +1426,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "GA": [],
@@ -1421,7 +1472,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "ME",
@@ -1593,7 +1645,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1610,7 +1663,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1655,7 +1709,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-22T20:22:35Z",
+        "published": "2026-10-22T07:00:00Z",
         "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
         "domain": "jdsupra.com",
@@ -1700,7 +1754,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -1752,7 +1807,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -1829,26 +1885,24 @@
     "DC": []
   },
   "locality_feeds": {
-    "CA|West Hollywood": [
+    "CA|Berkeley": [
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "West Hollywood",
-        "published": "2026-11-02T02:04:38Z",
-        "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
-        "domain": "wehoonline.com",
+        "locality": "Berkeley",
+        "published": "2026-11-03T13:30:00Z",
+        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+        "domain": "dailycal.org",
         "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
         "direction": "Restrictive",
         "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
+        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      }
-    ],
-    "CA|Berkeley": [
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -1914,6 +1968,25 @@
         "status": "Discovery",
         "direction": "Neutral",
         "direction_score": 0,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
+    "CA|West Hollywood": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "West Hollywood",
+        "published": "2026-11-02T02:04:38Z",
+        "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
+        "domain": "wehoonline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -2005,43 +2078,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
-    "CA|Salinas": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-10-22T07:00:00Z",
-        "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
-        "domain": "montereycountynow.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Registered rental units; ordinance-specific coverage",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-10-09T07:00:00Z",
-        "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUW9xcDRSRnBxYV93Tmd5WUtTMkhZNmNEbXNCOUxQbmczUlpTQ1hwYTRUUjdkZmhzSkZOS19fRXd6ZGZIeDdlMGxLQVVRa2RUNFFwam8tc21kMTdxLVJzNjhJWXowcnJBTExGVE42dXJTY1Uzck9yRy1UWktpclJiWWJiWkhEeTJpSHNVeWp5VUhCcHg1UlJyZlZNa1pfcm03Q2xXUUxpRmxOdjdmRmFGamRVX1hnNDM5RmF4d3RwN1N0ajJrMWJRR1lSZTN4YnZpcjRaYjNoOFJFb0p1MEJxUlp0ajE0clZ6RlhWVkMteUU2OXJEd1MtUmtNUVgzMURGWEhoMEp2WXhxUmdISmNDcNIBlgJBVV95cUxQUHRQS0JJX2N6eDlYME1oMEloa3htd2g5b3VjQ0d0SHNhU09USllfaUg4RXpYLWxPejJrc216dDNtUVdhMWUybEwxbHRaUzNrWFVPTy1LSW1lXzVGTzJIN3lQVGVpZXJIbHlHWXk4QWJ3RmZwSXlOZV8xMHVhMmVGdFhkVUNudER2VFJTdTI1NkZOZUZuUUg5YXo1UG11VWdycFMyaFB6emg1YUFTeXJIWXdRNmlWLWozLUpMZG95dnlyZDBreVktZjJvZkQ5d3JjbWc3TUpZVHBMblYwTWdHOE41dFE0bnp0MmZWSVFmWUZGanFCalpkNHdXc1FQYUFZOVQxWTA4aTFHYkE3X183c1ZLRkZvZw?oc=5",
-        "domain": "montereycountynow.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Pasadena": [
@@ -2077,7 +2115,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2114,6 +2153,42 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      }
+    ],
+    "CA|Salinas": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-10-22T07:00:00Z",
+        "title": "Despite claims of privacy violations, Salinas’ rental registry is held in confidence.",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOU9WbWNxaUdqOENqWlhCNmNaaks2SGt6LXFpYnJCNG1zSmZRM2ZyVmxZbnE3cGxJUjNvX0wtX2J2TmFTQ1I1SkloazdiT2dxamU1OXlDeHF5S1dETnZvNmVSQmdqcXM1Tzl4VmtNbUE4Tmp3V2hlV05acDJENjMwUFFVRGVoTzZfYmtQU2tEN0RwWGl0TVFVTDBUU2stTVBweDNrWmx5cXdSamc4ZG4xMEZVSjdyMTZUX293dFhKczV0eExDUG16LWJKcHI0azJMMUVFU0lqMTRwb3UtMWdRNG5aaU9xQ1F2QkM3Q2xZd3pqWlo4d0dYSDNSenZIamtjYk5sbDFCckp1bkNvVjNF0gGUAkFVX3lxTFAzOW9ibXVFR2ZEaEoyVnJuNVNKdG1IdTRGQmQ1RU4wNm9JTGJOUXF6d1EzR1N1Sy15NW5RQWZsRURrbFNjTmJMdnFxR2lNNlpDV2NSWUNqVGJ2MHdTTkZqS0VPU3haTWM1YkliQ25kN3JnYkpYcTNlQkhfU0pJTkpGTndqSXliZkZFV2NDR1dJdVlWMTcyeWg1a0NucGNjT29qV3VRYkVUbVBVQ2MyeHN3YnlNZWZWN2pWS2pwUmI0TmVhVS10OFJyc19TZkNMSXU3UWFzMUJPVnRTYU55UWZrdGt5ek1WanBXUGw4NmlEaFZjdWJfVVl2anFIb19kWVN6QzFiSmlqR2RLLUZjQTRzTEx5Vw?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-10-08T07:00:00Z",
+        "title": "Fierce battle to sway voters continues in Salinas over rent stabilization ballot measure.",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX1V2MjB3VVp2Sk9vOUJlMWVrRnZsajc0bkwwa3lWMVYwLUFJekEwUG9rSWFGRkE1QXFiZU5ZODRJd0hXTy1welN4SEZiVmZLbnRsQU85ak5sRGZpU0dPWlA3Z3owd1JfZkFULXlFTmtwUkhVZU9NLTJjSFFpYk8xY1ZNMXRtaTFkUDBvcTZfUEozYkp1TjRzcEY0eVhnRDhWQ2IyLUxsaFU2Rm1oSzRjYTVBZmZjZ2pvd0Zsb1ZrUHlxVVQyNFp3azNCNFFoRG1TalhPWlFTNWZIek92bTZCdVQyM0pWSXYwUUJObmNpaHVQVkRxVVNIejBOUGZxUDA1eEhvTUFYQWJMazNSMmNKaVVuZk5vbVHSAZwCQVVfeXFMTjktWHpmek9mbzVKaGVhSXk0YkhBY2hVVHNfSGFfVDlBNWVKcndVMXVGNmtLU0J6UUM3c2xnSFpzQWxkRmJGbWkzb2sxdTlKa1N2aGUwUUh0YmFBLWNmRDFfc2NlVkdidGctTDFHeU5hUUp2ZFlvQWlOV1J2aHF4T2U3V1EyeVM0MWFCMVJoVUp3RDZJam96WmZNbUhVYXBGdTBObXJ5X2hLbWxoaEFnWGZJM0xfTVJQWTFaWkRMa1lxMzlpMzEzaHZVMTNHdXREbHM3eGVfVmtjZUpQSmU4ejljWkRkTmJhQkVjUXlmZHdVZnBONml1dndnN3BLN2FRVnJrMnE5Y3M4c0ZLUXBoYVdBdHBOSlVIU2xtcFY?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Los Angeles County": [
@@ -2169,7 +2244,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2186,7 +2262,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MD|Montgomery County": [
@@ -2246,7 +2323,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 33,
+    "Restrictive": 34,
     "Easing": 4,
     "Neutral": 14
   },
@@ -2258,19 +2335,9 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 51
+    "retained_articles": 52
   },
   "errors": [
-    {
-      "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
     {
       "provider": "GDELT",
       "query": 4,
@@ -2278,7 +2345,17 @@
     },
     {
       "provider": "GDELT",
+      "query": 1,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
       "query": 3,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
