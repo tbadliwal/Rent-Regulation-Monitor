@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:06:43.335257Z",
+  "generated_at": "2026-11-06T07:00:19.550904Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -9,7 +9,7 @@
       "state_name": "California",
       "locality": "",
       "published": "2026-11-05T15:00:00Z",
-      "title": "Rent Control Makes Moderate Gains Across The Bay Area in Early Voting Returns",
+      "title": "Rent Control Makes Moderate Gains Across the Bay Area in Early Voting Returns",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUoxQ0ZUYjgyVDBwcGxuRl9BMTh2ZG9BenZzbnBBNEZrOE1mUjkyZUw3TDhhWEItSE10ampNeDZ2RE91UXdzdnlXLVptYnVibWY4M0oxWE5hMWhjTHM4RlRidDliTnhEd2xGT2sxQWhIQU53Q1lMZ3VPOHFTMmFXRUR2dFZRcG5SR0lWbXF4SlhDWmdPcU54V0hHWmlFMGhQWHdBemh1cHNLdGxpOXBhOC1n?oc=5",
       "domain": "kqed.org",
       "source_country": "United States",
@@ -191,8 +191,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -215,9 +214,9 @@
       "state": "NY",
       "state_name": "New York",
       "locality": "",
-      "published": "2026-11-03T21:46:00Z",
+      "published": "2026-11-03T21:46:41Z",
       "title": "New York AG pushes for reconsideration of injunction on algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Tc1N4Tmx5a3l2S2JkTDZHNXhoWWM5Q3diSFY1Y1NsY3ZOU1Y2dU1fYkJJa01nMFVKYWxaMlllaTNvdU15YnlBeHVrdW0yazh2TElBYWY0OHgxUdIBWkFVX3lxTE9Tc1N4Tmx5a3l2S2JkTDZHNXhoWWM5Q3diSFY1Y1NsY3ZOU1Y2dU1fYkJJa01nMFVKYWxaMlllaTNvdU15YnlBeHVrdW0yazh2TElBYWY0OHgxUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDNwX3ZfY0c1UENOWnhNTnBNdTlrdmxWdjFHd0FTYTEwU1dLNFNmLW9IM29nTTZFbjF0VkRERV84MlJrWjBmd001RnRlTnQxdTd6YUtrc01hRUVqdi1GYkwxMUpJYlYxcHk1RFFuc3hVdnY1OGdyNmhycU5JajVkXzlzaWdId2NzN3ctaXNyZ3ZFRVV3YkFGS3E4dFJtdDJEaFhRb0duaUYzVGRhaEpPUFo4YTI4MmgyYTFQcmFfcXhNaGNQTnfSAVpBVV95cUxPU3NTeE5seWt5dktiZEw2RzV4aFljOUN3YkhWNWNTbGN2TlNWNnVNX2JCSWtNZzBVSmFsWjJZZWkzb3VNeWJ5QXh1a3VtMms4dkxJQWFmNDh4MVE?oc=5",
       "domain": "mlex.com",
       "source_country": "United States",
       "type": "Algorithmic Pricing",
@@ -475,6 +474,23 @@
       "carried_forward": true
     },
     {
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "locality": "",
+      "published": "2026-10-23T07:00:00Z",
+      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
+      "domain": "bizjournals.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "Portland",
@@ -491,41 +507,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "MA",
-      "state_name": "Massachusetts",
-      "locality": "",
-      "published": "2026-10-23T07:00:00Z",
-      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
-      "domain": "bizjournals.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -558,6 +539,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -685,23 +683,6 @@
       "carried_forward": true
     },
     {
-      "state": "MD",
-      "state_name": "Maryland",
-      "locality": "Montgomery County",
-      "published": "2026-10-19T07:00:00Z",
-      "title": "Montgomery County considers rules on algorithmic rent tools",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzJfMVR4Xy1ZWEpuRW5qU2VHRHc4SmNDa2RKbXlFT1BlVERGTWlpV3hSaGY5eWk1eEJFRjZGY3BtU1k0YmZhaGpOMzVBdlVWQ3FmTVg5U3NSb1BQZHhXeTBpdkxXanZBWVN0MjhvSjdiQW5wWmRIVmJxLUNKQ2RGVnBpVE9VMk5lY3JfLQ?oc=5",
-      "domain": "thedailyrecord.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -715,6 +696,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "Montgomery County",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Montgomery County considers rules on algorithmic rent tools",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzJfMVR4Xy1ZWEpuRW5qU2VHRHc4SmNDa2RKbXlFT1BlVERGTWlpV3hSaGY5eWk1eEJFRjZGY3BtU1k0YmZhaGpOMzVBdlVWQ3FmTVg5U3NSb1BQZHhXeTBpdkxXanZBWVN0MjhvSjdiQW5wWmRIVmJxLUNKQ2RGVnBpVE9VMk5lY3JfLQ?oc=5",
+      "domain": "thedailyrecord.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1099,7 +1097,7 @@
         "state_name": "California",
         "locality": "",
         "published": "2026-11-05T15:00:00Z",
-        "title": "Rent Control Makes Moderate Gains Across The Bay Area in Early Voting Returns",
+        "title": "Rent Control Makes Moderate Gains Across the Bay Area in Early Voting Returns",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUoxQ0ZUYjgyVDBwcGxuRl9BMTh2ZG9BenZzbnBBNEZrOE1mUjkyZUw3TDhhWEItSE10ampNeDZ2RE91UXdzdnlXLVptYnVibWY4M0oxWE5hMWhjTHM4RlRidDliTnhEd2xGT2sxQWhIQU53Q1lMZ3VPOHFTMmFXRUR2dFZRcG5SR0lWbXF4SlhDWmdPcU54V0hHWmlFMGhQWHdBemh1cHNLdGxpOXBhOC1n?oc=5",
         "domain": "kqed.org",
         "source_country": "United States",
@@ -1808,8 +1806,7 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "MI": [],
@@ -1953,9 +1950,9 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-11-03T21:46:00Z",
+        "published": "2026-11-03T21:46:41Z",
         "title": "New York AG pushes for reconsideration of injunction on algorithmic rent-setting ban",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Tc1N4Tmx5a3l2S2JkTDZHNXhoWWM5Q3diSFY1Y1NsY3ZOU1Y2dU1fYkJJa01nMFVKYWxaMlllaTNvdU15YnlBeHVrdW0yazh2TElBYWY0OHgxUdIBWkFVX3lxTE9Tc1N4Tmx5a3l2S2JkTDZHNXhoWWM5Q3diSFY1Y1NsY3ZOU1Y2dU1fYkJJa01nMFVKYWxaMlllaTNvdU15YnlBeHVrdW0yazh2TElBYWY0OHgxUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDNwX3ZfY0c1UENOWnhNTnBNdTlrdmxWdjFHd0FTYTEwU1dLNFNmLW9IM29nTTZFbjF0VkRERV84MlJrWjBmd001RnRlTnQxdTd6YUtrc01hRUVqdi1GYkwxMUpJYlYxcHk1RFFuc3hVdnY1OGdyNmhycU5JajVkXzlzaWdId2NzN3ctaXNyZ3ZFRVV3YkFGS3E4dFJtdDJEaFhRb0duaUYzVGRhaEpPUFo4YTI4MmgyYTFQcmFfcXhNaGNQTnfSAVpBVV95cUxPU3NTeE5seWt5dktiZEw2RzV4aFljOUN3YkhWNWNTbGN2TlNWNnVNX2JCSWtNZzBVSmFsWjJZZWkzb3VNeWJ5QXh1a3VtMms4dkxJQWFmNDh4MVE?oc=5",
         "domain": "mlex.com",
         "source_country": "United States",
         "type": "Algorithmic Pricing",
@@ -2164,8 +2161,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "SC": [],
@@ -2752,7 +2748,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 3,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2762,7 +2758,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 1,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
