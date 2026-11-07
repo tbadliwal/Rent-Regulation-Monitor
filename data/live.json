@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-07T06:14:08.334010Z",
-  "status": "ok",
+  "generated_at": "2026-11-07T13:17:48.675180Z",
+  "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "Portland",
+      "published": "2026-11-07T09:55:00Z",
+      "title": "Rent control in Portland has created a problem for realtors | Opinion",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zUXZZalNaLUo3eFlIdUREOUJMOEIxaU1Zd1FSMXVaSVFHTzBYSUh1S1RzNkNoX1RHY0czdVRHbUpHUnpLUUJreUxDa0Q0Wk0?oc=5",
+      "domain": "pressherald.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -514,6 +531,23 @@
       "carried_forward": true
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
@@ -548,23 +582,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Los Angeles County",
@@ -572,23 +589,6 @@
       "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEcyaHlXbDRVbEVhV2dObTdCTmI5TncwMi1YWGROTjUyS2p1aVNwZWtDelJpMjFSSllpd1YwazU4ejR6MXhiWEFiTmFuOXNWWnA2MWVGc1hxSUFXTWs3NnR6cUE3OWtLUC1jTG5nd3h3eE9IQk13V1ZnaFA5MExFczU2M1BwcU53NXEyU1RRNUg4TWdnZWc3VEk4MExvcUFSeTJVc2VxbDVGX1dFay1hSVZTY2pmYkpIc01PX0k5RlBtOTJ4T25URlFqaTJqVWQ4MzFkRGxHd1VUYXc?oc=5",
       "domain": "facebook.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-21T15:33:34Z",
-      "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
-      "domain": "pasadenanow.com",
       "source_country": "United States",
       "type": "Registry / Enforcement",
       "status": "Enforcement / Administration",
@@ -611,6 +611,23 @@
       "status": "Proposed / Process",
       "direction": "Neutral",
       "direction_score": 0,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-21T07:00:00Z",
+      "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -688,23 +705,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-19T07:00:00Z",
-      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
-      "domain": "wsj.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -718,6 +718,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
+      "domain": "wsj.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -995,78 +1012,6 @@
       "domain": "wktv.com",
       "source_country": "United States",
       "type": "Good Cause / Just Cause",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "",
-      "published": "2026-10-07T11:39:36Z",
-      "title": "Farmington mobile home park lot rent stabilization – Maine Voter Guide 2026",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRDBpR0VJX0ljaWVqYUp4R2hSV0hoeUNyVjJubFBBSjZOa254MjIxbVc1R0JsTkhLNS15S0pYaF8wYVFLT0tPMHFaSjl0cy1ycS1NYWtxN2RBaFgxLUdKRlhZODBIWW5ZM3hUdk5ncUI1aXF1eVVYcTVELWc2R2d4RUx0ME11ZjlRbmhydEFXeWVtaDQzczU2OEN5T1k1eW05WF9mYTN3?oc=5",
-      "domain": "pressherald.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "Wells mobile home lot",
-      "published": "2026-10-07T11:33:35Z",
-      "title": "Wells mobile home lot rent stabilization ordinance – Maine Voter Guide 2026",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDdlRGdzOVBkbG5XMnd1QVlpMnpVWHpBWWhsc3Y5dzVJU3c2S3gzbE5wbW91WlF5M2NlUlloMVJVenZ5QzR4aVRjbTJWOF91QVJZVXpBREdlM0Y2ejhUU0lEblkwUldaZVNaLVZrb1NIb3hVeUN4Wjd4Xy15S2IwYWVvV3h0N0RlRmxzWlRUVHI5czk0eVlGTUpRWktBNnRoRU1fTlFn?oc=5",
-      "domain": "pressherald.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-07T07:00:00Z",
-      "title": "After Sneddon's failed attempt to change ordinance again, City Council formally approves rent stabilization in Santa Barbara",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFVNUkcwNXhsbHJxN2M4UVh0OVlDQnRwWGFTZ0JzMmJKWWF3RmViUEl6X1BTbGtjU3NEbkJzcDFOMHB3NlpIMlgwQVlBT1lPSmRRSllQLWRFN3Q2Y1RTYVFvWnRBTXZNVzd1cVRlaUgxeFltWXMwcU1oNWl0VUk3LXczRTBLUGNZcXptZERyei1OTG14eEVqTVNGZnN3ZDJja3J2TGdJWGsyaUhoZFJteW5TSFJIWTRRVXhuNFdrdXZ1RURWdDhYUHRIY05PUUIwbGRrT2JDcHo4X1hxTTVkNFlrWUtzUnlYazdBajNKNk91Zw?oc=5",
-      "domain": "newspress.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Pasadena",
-      "published": "2026-10-07T07:00:00Z",
-      "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
-      "domain": "coloradoboulevard.net",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
       "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
@@ -1435,7 +1380,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "",
-        "published": "2026-10-21T15:33:34Z",
+        "published": "2026-10-21T07:00:00Z",
         "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
         "domain": "pasadenanow.com",
@@ -1661,6 +1606,23 @@
       {
         "state": "ME",
         "state_name": "Maine",
+        "locality": "Portland",
+        "published": "2026-11-07T09:55:00Z",
+        "title": "Rent control in Portland has created a problem for realtors | Opinion",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zUXZZalNaLUo3eFlIdUREOUJMOEIxaU1Zd1FSMXVaSVFHTzBYSUh1S1RzNkNoX1RHY0czdVRHbUpHUnpLUUJreUxDa0Q0Wk0?oc=5",
+        "domain": "pressherald.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "ME",
+        "state_name": "Maine",
         "locality": "",
         "published": "2026-11-04T05:13:09Z",
         "title": "Standish voters pass mobile home rent control, split on charter changes",
@@ -1706,42 +1668,6 @@
         "direction": "Neutral",
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "",
-        "published": "2026-10-07T11:39:36Z",
-        "title": "Farmington mobile home park lot rent stabilization – Maine Voter Guide 2026",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRDBpR0VJX0ljaWVqYUp4R2hSV0hoeUNyVjJubFBBSjZOa254MjIxbVc1R0JsTkhLNS15S0pYaF8wYVFLT0tPMHFaSjl0cy1ycS1NYWtxN2RBaFgxLUdKRlhZODBIWW5ZM3hUdk5ncUI1aXF1eVVYcTVELWc2R2d4RUx0ME11ZjlRbmhydEFXeWVtaDQzczU2OEN5T1k1eW05WF9mYTN3?oc=5",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Wells mobile home lot",
-        "published": "2026-10-07T11:33:35Z",
-        "title": "Wells mobile home lot rent stabilization ordinance – Maine Voter Guide 2026",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDdlRGdzOVBkbG5XMnd1QVlpMnpVWHpBWWhsc3Y5dzVJU3c2S3gzbE5wbW91WlF5M2NlUlloMVJVenZ5QzR4aVRjbTJWOF91QVJZVXpBREdlM0Y2ejhUU0lEblkwUldaZVNaLVZrb1NIb3hVeUN4Wjd4Xy15S2IwYWVvV3h0N0RlRmxzWlRUVHI5czk0eVlGTUpRWktBNnRoRU1fTlFn?oc=5",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
@@ -2175,6 +2101,43 @@
     "DC": []
   },
   "locality_feeds": {
+    "ME|Portland": [
+      {
+        "state": "ME",
+        "state_name": "Maine",
+        "locality": "Portland",
+        "published": "2026-11-07T09:55:00Z",
+        "title": "Rent control in Portland has created a problem for realtors | Opinion",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zUXZZalNaLUo3eFlIdUREOUJMOEIxaU1Zd1FSMXVaSVFHTzBYSUh1S1RzNkNoX1RHY0czdVRHbUpHUnpLUUJreUxDa0Q0Wk0?oc=5",
+        "domain": "pressherald.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "ME",
+        "state_name": "Maine",
+        "locality": "Portland",
+        "published": "2026-10-23T07:00:00Z",
+        "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
+        "domain": "timesofindia.indiatimes.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      }
+    ],
     "CA|Salinas": [
       {
         "state": "CA",
@@ -2478,24 +2441,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-10-07T07:00:00Z",
-        "title": "After Sneddon's failed attempt to change ordinance again, City Council formally approves rent stabilization in Santa Barbara",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUFVNUkcwNXhsbHJxN2M4UVh0OVlDQnRwWGFTZ0JzMmJKWWF3RmViUEl6X1BTbGtjU3NEbkJzcDFOMHB3NlpIMlgwQVlBT1lPSmRRSllQLWRFN3Q2Y1RTYVFvWnRBTXZNVzd1cVRlaUgxeFltWXMwcU1oNWl0VUk3LXczRTBLUGNZcXptZERyei1OTG14eEVqTVNGZnN3ZDJja3J2TGdJWGsyaUhoZFJteW5TSFJIWTRRVXhuNFdrdXZ1RURWdDhYUHRIY05PUUIwbGRrT2JDcHo4X1hxTTVkNFlrWUtzUnlYazdBajNKNk91Zw?oc=5",
-        "domain": "newspress.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "NJ|Jersey City": [
@@ -2592,26 +2537,6 @@
         "carried_forward": true
       }
     ],
-    "ME|Portland": [
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Portland",
-        "published": "2026-10-23T07:00:00Z",
-        "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
-        "domain": "timesofindia.indiatimes.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
-    ],
     "CA|Pasadena": [
       {
         "state": "CA",
@@ -2638,24 +2563,6 @@
         "title": "Pasadena Rent Stabilization Department hosting workshop on security deposits",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1JCWW85UkdoQlh0Yl81QWVTY1NQMWJNVlBhOUtsM2xwa1hQUUlHbWdhYlBpRWI4VXJoU2tqczBYNFZJRFV6RkY1OVVlWktUdGszQ2o2MHhpNWgzcHNLRTlSclpLWExsM3ROV0RzUHkyQWFDYzYzUUFUY2I5STVPblMyVW1weFhHNllkNlRKaTRsN2V4WDloV1RlUllyU0N1VUhWaFZwVjJESllRSDk5MkxuZy0wZ1dYbkkzQ1pB?oc=5",
         "domain": "pasadenastarnews.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Pasadena",
-        "published": "2026-10-07T07:00:00Z",
-        "title": "Pasadena Rent Stabilization Workshop to Explain Security Deposit Rules",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0twQjc3NnVpcW50NlR5c3ZLSWkwSHh5Mkw1QVZaMTdTMjljWU5XMHVBXzg1MllYQTl1dkE3allacDcxV29FM09MN29mWjZKUllzN2pRd1IyYWVPWDZpelppdGpkdXNOV0N2NGE4eHdWeEwwWVpyR3d4NzhKb1AyaGJNejUwRk9VQW5TaDJITTlpa2kwT0x6a2ZIU25xZHUxbDZsVlVqNjE?oc=5",
-        "domain": "coloradoboulevard.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
@@ -2704,43 +2611,44 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       }
-    ],
-    "ME|Wells mobile home lot": [
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Wells mobile home lot",
-        "published": "2026-10-07T11:33:35Z",
-        "title": "Wells mobile home lot rent stabilization ordinance – Maine Voter Guide 2026",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDdlRGdzOVBkbG5XMnd1QVlpMnpVWHpBWWhsc3Y5dzVJU3c2S3gzbE5wbW91WlF5M2NlUlloMVJVenZ5QzR4aVRjbTJWOF91QVJZVXpBREdlM0Y2ejhUU0lEblkwUldaZVNaLVZrb1NIb3hVeUN4Wjd4Xy15S2IwYWVvV3h0N0RlRmxzWlRUVHI5czk0eVlGTUpRWktBNnRoRU1fTlFn?oc=5",
-        "domain": "pressherald.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
     ]
   },
   "direction_counts": {
-    "Restrictive": 42,
+    "Restrictive": 39,
     "Easing": 5,
     "Neutral": 14
   },
   "health": {
     "queries": 8,
-    "successful_queries": 8,
+    "successful_queries": 4,
     "provider_success": {
-      "gdelt": 4,
+      "gdelt": 0,
       "google_news_rss": 4
     },
-    "errors": 0,
-    "retained_articles": 61
+    "errors": 4,
+    "retained_articles": 58
   },
-  "errors": [],
+  "errors": [
+    {
+      "provider": "GDELT",
+      "query": 4,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 3,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    }
+  ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
 }
