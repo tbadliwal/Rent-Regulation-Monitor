@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:17:48.675180Z",
+  "generated_at": "2026-11-07T22:00:30.758923Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -53,7 +53,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -402,8 +403,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -599,6 +599,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-21T15:33:34Z",
+      "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -611,23 +628,6 @@
       "status": "Proposed / Process",
       "direction": "Neutral",
       "direction_score": 0,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-21T07:00:00Z",
-      "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -1059,7 +1059,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1269,8 +1270,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1380,7 +1380,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "",
-        "published": "2026-10-21T07:00:00Z",
+        "published": "2026-10-21T15:33:34Z",
         "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGJLcjdsdVVBSm5UejA5T01ESTFycXBNdjd3ZFdraEkySEdoVDlyR21KM0tEaEp4NVV6SWFBWFd5ZjFlNWhQa1lUdGwwV28yRVBHaFpUX1EwQTZ0bW5IT0h5eTBIVkZ1Nmp2Q3VGdzNYbkNqejdCb3ZPTUl5Z2FTTGlOTnR2QWRNVVZobnRkQmhWc05RaC1VRHI1dkxfUjFYQ0ljdXdfdi1tcF9Rc1E?oc=5",
         "domain": "pasadenanow.com",
@@ -2154,7 +2154,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2405,8 +2406,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2631,12 +2631,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 1,
+      "query": 3,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2646,7 +2641,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 1,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
