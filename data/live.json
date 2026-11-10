@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:31:30.409676Z",
+  "generated_at": "2026-11-10T07:30:16.673629Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -25,7 +25,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
-      "published": "2026-11-08T08:00:00Z",
+      "published": "2026-11-09T15:44:27Z",
       "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
       "domain": "hudsoncountyview.com",
@@ -140,8 +140,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "RI",
@@ -564,6 +563,23 @@
       "carried_forward": true
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
@@ -594,23 +610,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -738,23 +737,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-19T07:00:00Z",
-      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
-      "domain": "wsj.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -768,6 +750,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
+      "domain": "wsj.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -824,6 +823,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-14T07:00:00Z",
+      "title": "New York AG asks judge to reconsider injunction against algorithmic rent-setting ban",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODFvN3NRWGEzMklkdHRIZkVaRVdJenlOVkx2Um5GUTY4ZWNjN1J4ZFFiMVdvMlNLYjVjZzVxWVN6TzVxV1JjTTR0UnRCSlFGZGs2dHo1Z2NhM25tRFc0eVFaOC05V0QtXzF1NEJGSXNGYkFCQ3Ixei1RcE9Jb0xHYlcyNTZEVnFGUHU1QlNpY0FoQ0FXV0VxcUgzcWlWLVFSLWZZUFRTc0pzSnE2ZW5LWmhWOEp1TjBCX0N0UmYtblhZdE42eGfSAVpBVV95cUxPOUIyQ0Z3QjRsMlJwVk1OR21NUk1vY09xNnJGdXVKNzEyb0lhSmM1Z2wtbmx6SUJKQldsNXZvWThaWnl6S0U5Nzd0TnlhTVFwdVNMRmNPXzQtZFE?oc=5",
+      "domain": "mlex.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -854,23 +870,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-14T07:00:00Z",
-      "title": "New York AG asks judge to reconsider injunction against algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODFvN3NRWGEzMklkdHRIZkVaRVdJenlOVkx2Um5GUTY4ZWNjN1J4ZFFiMVdvMlNLYjVjZzVxWVN6TzVxV1JjTTR0UnRCSlFGZGs2dHo1Z2NhM25tRFc0eVFaOC05V0QtXzF1NEJGSXNGYkFCQ3Ixei1RcE9Jb0xHYlcyNTZEVnFGUHU1QlNpY0FoQ0FXV0VxcUgzcWlWLVFSLWZZUFRTc0pzSnE2ZW5LWmhWOEp1TjBCX0N0UmYtblhZdE42eGfSAVpBVV95cUxPOUIyQ0Z3QjRsMlJwVk1OR21NUk1vY09xNnJGdXVKNzEyb0lhSmM1Z2wtbmx6SUJKQldsNXZvWThaWnl6S0U5Nzd0TnlhTVFwdVNMRmNPXzQtZFE?oc=5",
-      "domain": "mlex.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1037,8 +1036,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1633,7 +1631,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-08T08:00:00Z",
+        "published": "2026-11-09T15:44:27Z",
         "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
         "domain": "hudsoncountyview.com",
@@ -2064,7 +2062,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-08T08:00:00Z",
+        "published": "2026-11-09T15:44:27Z",
         "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
         "domain": "hudsoncountyview.com",
@@ -2220,8 +2218,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2465,12 +2462,12 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2480,7 +2477,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
