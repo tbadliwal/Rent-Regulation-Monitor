@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-10T07:30:16.673629Z",
+  "generated_at": "2026-11-10T19:52:03.179194Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-11-10T14:36:10Z",
+      "title": "Jersey City Council reviews rent control expansion & Newport PILOT at caucus",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUF9OMTdyOER5UFVud1Jlb3BXZXZDa0RPTVppRk42VTRHOXVqalN4dWJtNWdnaTJBTUhHRzZvR2ZLMkFlLVYzb3VpWjhVb0s2TkY1Tng0aEpxTDZfM2RsT1dQOW9mS2ZQM0tLVmQ1RWxsck95M1psUHNuRWNUV212dFhuV3ZIb29vbWpEd0xGdGVTbURvOURjRGNLT1dqenFfeGRxWWxURQ?oc=5",
+      "domain": "hudsoncountyview.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -227,7 +244,8 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "RI",
@@ -628,7 +646,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -1089,7 +1108,8 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1315,7 +1335,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1627,6 +1648,23 @@
     ],
     "NH": [],
     "NJ": [
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-10T14:36:10Z",
+        "title": "Jersey City Council reviews rent control expansion & Newport PILOT at caucus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUF9OMTdyOER5UFVud1Jlb3BXZXZDa0RPTVppRk42VTRHOXVqalN4dWJtNWdnaTJBTUhHRzZvR2ZLMkFlLVYzb3VpWjhVb0s2TkY1Tng0aEpxTDZfM2RsT1dQOW9mS2ZQM0tLVmQ1RWxsck95M1psUHNuRWNUV212dFhuV3ZIb29vbWpEd0xGdGVTbURvOURjRGNLT1dqenFfeGRxWWxURQ?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "NJ",
         "state_name": "New Jersey",
@@ -1951,6 +1989,114 @@
     "DC": []
   },
   "locality_feeds": {
+    "NJ|Jersey City": [
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-10T14:36:10Z",
+        "title": "Jersey City Council reviews rent control expansion & Newport PILOT at caucus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUF9OMTdyOER5UFVud1Jlb3BXZXZDa0RPTVppRk42VTRHOXVqalN4dWJtNWdnaTJBTUhHRzZvR2ZLMkFlLVYzb3VpWjhVb0s2TkY1Tng0aEpxTDZfM2RsT1dQOW9mS2ZQM0tLVmQ1RWxsck95M1psUHNuRWNUV212dFhuV3ZIb29vbWpEd0xGdGVTbURvOURjRGNLT1dqenFfeGRxWWxURQ?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-09T15:44:27Z",
+        "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-03T15:53:48Z",
+        "title": "LETTER: Jersey City’s ‘rent control laws hurt the small homeowner’",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVJUeVk2NXNjeVlXYjBMQ3kzZktEc0cyWGEwYTNEeWtzeC1CNWpIOFZ3TnE1WEFoUFJuVHNWY1dNajNwTjlaRmlxd0dGSm5FNWtxWXdtMElfeGdZWGVyR0hpWEdDLVBzb3JtNXFwd2lISFpIN1VQREZYN0xNZVhiMXZ5NnUtZC1CQXRmcUtVNHk5NUw1OHh3?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T20:48:05Z",
+        "title": "Jersey City Weighs Rent Control Exemption Reform",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T07:00:00Z",
+        "title": "Ephros & Little propose Jersey City ordinance ‘in an effort to expand rent control’",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1JVcklEWnlkN29FQ0w2cDA5OHNsYzE2OVhHcWlLLVdkRUxRLWtza0RGSldZbW40cWc3VEtxMHBpU0RxM2pfTWFGYl9aRE9PQ19tV1l0aFRqNHhlWEJLdV9uM3FhSkdfS0c0bDhJc2xKSUtyY0x5dVlUUHlwTkZsYktqQlBPVzhSSEh5ZGJtaUdpNC16QXFlUFNVN1pCUGRFeHVxRDBpaVZfZVdlM3c?oc=5",
+        "domain": "hudsoncountyview.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-10-20T07:00:00Z",
+        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      }
+    ],
     "CA|Berkeley": [
       {
         "state": "CA",
@@ -2055,97 +2201,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      }
-    ],
-    "NJ|Jersey City": [
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-11-09T15:44:27Z",
-        "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
-        "domain": "hudsoncountyview.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-11-03T15:53:48Z",
-        "title": "LETTER: Jersey City’s ‘rent control laws hurt the small homeowner’",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVJUeVk2NXNjeVlXYjBMQ3kzZktEc0cyWGEwYTNEeWtzeC1CNWpIOFZ3TnE1WEFoUFJuVHNWY1dNajNwTjlaRmlxd0dGSm5FNWtxWXdtMElfeGdZWGVyR0hpWEdDLVBzb3JtNXFwd2lISFpIN1VQREZYN0xNZVhiMXZ5NnUtZC1CQXRmcUtVNHk5NUw1OHh3?oc=5",
-        "domain": "hudsoncountyview.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-10-20T20:48:05Z",
-        "title": "Jersey City Weighs Rent Control Exemption Reform",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
-        "domain": "hoodline.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-10-20T07:00:00Z",
-        "title": "Ephros & Little propose Jersey City ordinance ‘in an effort to expand rent control’",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1JVcklEWnlkN29FQ0w2cDA5OHNsYzE2OVhHcWlLLVdkRUxRLWtza0RGSldZbW40cWc3VEtxMHBpU0RxM2pfTWFGYl9aRE9PQ19tV1l0aFRqNHhlWEJLdV9uM3FhSkdfS0c0bDhJc2xKSUtyY0x5dVlUUHlwTkZsYktqQlBPVzhSSEh5ZGJtaUdpNC16QXFlUFNVN1pCUGRFeHVxRDBpaVZfZVdlM3c?oc=5",
-        "domain": "hudsoncountyview.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "NJ",
-        "state_name": "New Jersey",
-        "locality": "Jersey City",
-        "published": "2026-10-20T07:00:00Z",
-        "title": "Jersey City Council Weighs Closing Rent Control Loophole For New Towers",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmc1UDRKZVF5dTVFTUFORUViX0VLRGNUeDF6ZDdPNW9FVTREN2xlbkZKU1NXRkxzTXpldkE2WXRuaEFpMnpnNjZhS2dlaGNtUDV2dGhMWDh0a19QSDVtNlZjOEJ2SE5oMC1YdGQxcWtEWEJZN1JuZjNrM24wQUlQWGZCdVBXVEkxc2pnT0xzQkdfOU1UQzA2Rzl5QmcxdlpTMzNR?oc=5",
-        "domain": "hoodline.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "ME|Portland": [
@@ -2293,7 +2348,8 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Santa Barbara": [
@@ -2421,7 +2477,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MD|Montgomery County": [
@@ -2445,7 +2502,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 37,
+    "Restrictive": 38,
     "Easing": 5,
     "Neutral": 12
   },
@@ -2457,17 +2514,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 54
+    "retained_articles": 55
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2477,7 +2529,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
