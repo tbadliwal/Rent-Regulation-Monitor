@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:52:03.179194Z",
+  "generated_at": "2026-11-11T06:47:22.216354Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -209,8 +209,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "ME",
@@ -244,8 +243,7 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "RI",
@@ -262,8 +260,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -424,23 +421,6 @@
       "carried_forward": true
     },
     {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Strimling: All around Maine, mobile home rent control is on the ballot",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcElwRDVlOW5kZDkxTW5xbzFBRTNRc0w5V3o4aUlmMktzallsVTZSVXlaTElQNS1IT3R1N2I1di1hY2piSlNDNExPcGhpTGxTemtwQVZ4OE01OEtDQ2VsSlZ1cVFFMkpJMjdQVmloUEMtYnpmejdVeWh6bzNPWTdlOF9zUlJialhiS0tueTZQbWpHQzJWM2lZSQ?oc=5",
-      "domain": "mainebeacon.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -454,6 +434,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "",
+      "published": "2026-10-28T07:00:00Z",
+      "title": "Strimling: All around Maine, mobile home rent control is on the ballot",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcElwRDVlOW5kZDkxTW5xbzFBRTNRc0w5V3o4aUlmMktzallsVTZSVXlaTElQNS1IT3R1N2I1di1hY2piSlNDNExPcGhpTGxTemtwQVZ4OE01OEtDQ2VsSlZ1cVFFMkpJMjdQVmloUEMtYnpmejdVeWh6bzNPWTdlOF9zUlJialhiS0tueTZQbWpHQzJWM2lZSQ?oc=5",
+      "domain": "mainebeacon.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -790,6 +787,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-10-17T07:00:00Z",
+      "title": "Special Recruitment for the Rent Stabilization Board",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVORFJaa1AzRzZEZnNvM1BFQ3h1UDV3NkJGMmtmY25lN25fRTFkNDVkaUVMNmZsR1hzbzB1YzdjUEJaVjVuS1FzeTV0N3VQd0N4VHVEaHZWREdmUV96UDIyWUQzM3hEZUNzbUZ3d21NcVRoY0lSZXhOdVBiWXVwSzk1YVZTbDBNd2QzV2NYbnVrY3lYNzU4?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NV",
       "state_name": "Nevada",
       "locality": "",
@@ -805,24 +819,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-17T07:00:00Z",
-      "title": "Special Recruitment for the Rent Stabilization Board",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVORFJaa1AzRzZEZnNvM1BFQ3h1UDV3NkJGMmtmY25lN25fRTFkNDVkaUVMNmZsR1hzbzB1YzdjUEJaVjVuS1FzeTV0N3VQd0N4VHVEaHZWREdmUV96UDIyWUQzM3hEZUNzbUZ3d21NcVRoY0lSZXhOdVBiWXVwSzk1YVZTbDBNd2QzV2NYbnVrY3lYNzU4?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1090,8 +1086,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1108,8 +1103,7 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1370,8 +1364,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1971,8 +1964,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "SC": [],
@@ -2130,8 +2122,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2348,8 +2339,7 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Santa Barbara": [
@@ -2519,7 +2509,7 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2529,12 +2519,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
