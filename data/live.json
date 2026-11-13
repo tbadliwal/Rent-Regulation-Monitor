@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-12T20:08:01.563506Z",
+  "generated_at": "2026-11-13T06:57:28.009275Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "FL",
+      "state_name": "Florida",
+      "locality": "",
+      "published": "2026-11-12T20:27:00Z",
+      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
+      "domain": "wlrn.org",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "MD",
       "state_name": "Maryland",
@@ -27,7 +44,7 @@
       "locality": "Berkeley",
       "published": "2026-11-11T14:35:19Z",
       "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
       "domain": "tapinto.net",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -53,7 +70,8 @@
       "direction_score": -1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -525,7 +543,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -599,23 +618,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Berkeley",
-      "published": "2026-10-23T07:00:00Z",
-      "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
-      "domain": "dailycal.org",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MA",
       "state_name": "Massachusetts",
       "locality": "",
@@ -629,6 +631,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Berkeley",
+      "published": "2026-10-23T07:00:00Z",
+      "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
+      "domain": "dailycal.org",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -649,6 +668,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -681,23 +717,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -790,23 +809,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-20T07:00:00Z",
-      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
-      "domain": "wsj.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
@@ -856,6 +858,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
+      "domain": "wsj.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1046,7 +1065,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T14:35:19Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1318,7 +1337,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1556,6 +1576,23 @@
         "state": "FL",
         "state_name": "Florida",
         "locality": "",
+        "published": "2026-11-12T20:27:00Z",
+        "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
+        "domain": "wlrn.org",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "FL",
+        "state_name": "Florida",
+        "locality": "",
         "published": "2026-10-14T07:00:00Z",
         "title": "Group that lobbied to ban rent control in Florida wants you to vote ‘yes’ on Amendment 3",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUpZb0t1ellxenpaMEEtMlVBR2tJTmM4eU04RkdTUWE2bTE0Ql9FaHpOOWlYQllsN04xeFVjTW9uX05yeE1vMUZ5MTFDRE1kM280MnowQ2tROUFpcmlxUkxpSzVJUE5ibjJmOXRDN1FrWWJyal94dm1nV21NcjhjSVFkamdiLWFZRlZEOEpjSDJrVHRwckEyWUlOYlFSdjlTZ29JLXM1YXhpVTl1eVZtMzB0Z19OZzNVNzBQa09yQlBOUUFIMXlFRDE5MGJ0M0Fr?oc=5",
@@ -1783,7 +1820,8 @@
         "direction_score": -1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2039,7 +2077,7 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
-        "published": "2026-10-20T07:00:00Z",
+        "published": "2026-10-19T07:00:00Z",
         "title": "Opinion | Tighter Rent Control Robs New York Tenants",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
         "domain": "wsj.com",
@@ -2153,7 +2191,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T14:35:19Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2560,7 +2598,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2677,7 +2716,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 39,
+    "Restrictive": 40,
     "Easing": 8,
     "Neutral": 12
   },
@@ -2689,12 +2728,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 59
+    "retained_articles": 60
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 1,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2709,7 +2748,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
