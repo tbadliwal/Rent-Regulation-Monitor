@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:52:37.532694Z",
+  "generated_at": "2026-11-14T06:44:12.801274Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -53,7 +53,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -87,8 +88,7 @@
       "direction_score": -1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NJ",
@@ -337,24 +337,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Oakland",
-      "published": "2026-11-04T04:04:19Z",
-      "title": "Oakland voters approve mobile home rent stabilization ordinance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
-      "domain": "centralmaine.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
       "state": "RI",
       "state_name": "Rhode Island",
       "locality": "",
@@ -438,6 +420,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Oakland",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "Oakland voters approve mobile home rent stabilization ordinance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
+      "domain": "centralmaine.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -636,23 +635,6 @@
       "carried_forward": true
     },
     {
-      "state": "MA",
-      "state_name": "Massachusetts",
-      "locality": "",
-      "published": "2026-10-23T07:00:00Z",
-      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
-      "domain": "bizjournals.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Berkeley",
@@ -666,6 +648,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "locality": "",
+      "published": "2026-10-23T07:00:00Z",
+      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
+      "domain": "bizjournals.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -686,23 +685,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -735,6 +717,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1171,24 +1170,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Oakland",
-        "published": "2026-11-04T04:04:19Z",
-        "title": "Oakland voters approve mobile home rent stabilization ordinance",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
-        "domain": "centralmaine.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "Berkeley",
         "published": "2026-11-03T08:00:00Z",
         "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
@@ -1217,6 +1198,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Oakland",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Oakland voters approve mobile home rent stabilization ordinance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
+        "domain": "centralmaine.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1655,7 +1653,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "MD",
@@ -1770,8 +1769,7 @@
         "direction_score": -1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2239,7 +2237,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Berkeley": [
@@ -2497,26 +2496,6 @@
         "discovery_provider": "Google News RSS"
       }
     ],
-    "CA|Oakland": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Oakland",
-        "published": "2026-11-04T04:04:19Z",
-        "title": "Oakland voters approve mobile home rent stabilization ordinance",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
-        "domain": "centralmaine.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
-    ],
     "CA|Santa Barbara": [
       {
         "state": "CA",
@@ -2586,6 +2565,25 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      }
+    ],
+    "CA|Oakland": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Oakland",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Oakland voters approve mobile home rent stabilization ordinance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
+        "domain": "centralmaine.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Mobile / manufactured housing",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|West Hollywood": [
@@ -2685,23 +2683,23 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
       "query": 2,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 4,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 3,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
