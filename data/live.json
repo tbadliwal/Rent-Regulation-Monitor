@@ -1,9 +1,77 @@
 {
-  "generated_at": "2026-11-16T06:49:03.887227Z",
+  "generated_at": "2026-11-16T22:20:08.493418Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-11-16T19:52:43Z",
+      "title": "Local Investor Pays Nearly $12 Million for 40-Unit Santa Barbara Apartment Property Amid Rent Control Uncertainty",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN1h0bF83TmY5TVptT0JCS0d6d2wxMkdyRWNCemhVeWx2VlA1dWpyWUpvMkg3M0pfZGJvRGluOWpGZWE1dUhvZ2NBaXpyMWFVUEZPV0FtMzZzWlJOWjdLdkRMUWJHYWpyYVV0SUZ2MFZWMnhRV2JsX1ZxdThaZHdPeEdNNzdQWEIyMkZxOXZNbHJRZWF1MU1OX2duMjM4eU1reGZWTW4zdWRPT0R5UmxXTl9VMnp6ejdaUlUwQlFxeG5meklkc0JXd2tQNjZGa3dSaC1wY292ak5QMjhVOWsxYTduWkQ0SkE?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-11-16T17:25:09Z",
+      "title": "Jersey City Rejects Rent Control Expansion, Launches Parking Cameras + More November 2026 Updates",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdWZDYVhUellBSTFXX2kxT0szOGVkY1BHb2J4Q2FTREREZFBjTWxIOWNzc2tJX3k5SExybUtwODhKdWNxWEhaRThEUVpaMGZzTXlUMVFIaGpEY1Q0UFhuOGhWWk10WmlrTERQcUtWMWxNZVU?oc=5",
+      "domain": "hobokengirl.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-11-16T15:24:06Z",
+      "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Oakland",
+      "published": "2026-11-16T11:36:55Z",
+      "title": "A mandatory rental registry could improve housing in Oakland, experts say",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VdIBvwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VQ?oc=5",
+      "domain": "pittnews.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "NJ",
       "state_name": "New Jersey",
@@ -53,8 +121,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -166,7 +233,7 @@
       "state": "ME",
       "state_name": "Maine",
       "locality": "Portland",
-      "published": "2026-11-07T09:55:00Z",
+      "published": "2026-11-07T08:00:00Z",
       "title": "Rent control in Portland has created a problem for realtors | Opinion",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zUXZZalNaLUo3eFlIdUREOUJMOEIxaU1Zd1FSMXVaSVFHTzBYSUh1S1RzNkNoX1RHY0czdVRHbUpHUnpLUUJreUxDa0Q0Wk0?oc=5",
       "domain": "pressherald.com",
@@ -393,23 +460,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Berkeley",
-      "published": "2026-11-03T08:00:00Z",
-      "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
-      "domain": "dailycal.org",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-11-03T08:00:00Z",
       "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
@@ -438,6 +488,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Berkeley",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+      "domain": "dailycal.org",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -531,23 +598,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Good Cause / Just Cause",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "",
@@ -561,6 +611,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-28T07:00:00Z",
+      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Good Cause / Just Cause",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -636,19 +703,19 @@
       "carried_forward": true
     },
     {
-      "state": "MA",
-      "state_name": "Massachusetts",
-      "locality": "",
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "Portland",
       "published": "2026-10-23T07:00:00Z",
-      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
-      "domain": "bizjournals.com",
+      "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
+      "domain": "timesofindia.indiatimes.com",
       "source_country": "United States",
-      "type": "Algorithmic Pricing",
+      "type": "Rent Amount Control",
       "status": "Discovery",
       "direction": "Neutral",
       "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -670,35 +737,18 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "Portland",
+      "state": "MA",
+      "state_name": "Massachusetts",
+      "locality": "",
       "published": "2026-10-23T07:00:00Z",
-      "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
-      "domain": "timesofindia.indiatimes.com",
+      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
+      "domain": "bizjournals.com",
       "source_country": "United States",
-      "type": "Rent Amount Control",
+      "type": "Algorithmic Pricing",
       "status": "Discovery",
       "direction": "Neutral",
       "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
@@ -734,6 +784,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -862,23 +929,6 @@
       "carried_forward": true
     },
     {
-      "state": "MD",
-      "state_name": "Maryland",
-      "locality": "Montgomery County",
-      "published": "2026-10-19T07:00:00Z",
-      "title": "Montgomery County considers rules on algorithmic rent tools",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzJfMVR4Xy1ZWEpuRW5qU2VHRHc4SmNDa2RKbXlFT1BlVERGTWlpV3hSaGY5eWk1eEJFRjZGY3BtU1k0YmZhaGpOMzVBdlVWQ3FmTVg5U3NSb1BQZHhXeTBpdkxXanZBWVN0MjhvSjdiQW5wWmRIVmJxLUNKQ2RGVnBpVE9VMk5lY3JfLQ?oc=5",
-      "domain": "thedailyrecord.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NY",
       "state_name": "New York",
       "locality": "",
@@ -892,6 +942,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "Montgomery County",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Montgomery County considers rules on algorithmic rent tools",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzJfMVR4Xy1ZWEpuRW5qU2VHRHc4SmNDa2RKbXlFT1BlVERGTWlpV3hSaGY5eWk1eEJFRjZGY3BtU1k0YmZhaGpOMzVBdlVWQ3FmTVg5U3NSb1BQZHhXeTBpdkxXanZBWVN0MjhvSjdiQW5wWmRIVmJxLUNKQ2RGVnBpVE9VMk5lY3JfLQ?oc=5",
+      "domain": "thedailyrecord.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -910,7 +977,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NV",
@@ -929,24 +997,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-16T07:00:00Z",
-      "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
-      "domain": "noozhawk.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -955,6 +1005,40 @@
     "AZ": [],
     "AR": [],
     "CA": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-11-16T19:52:43Z",
+        "title": "Local Investor Pays Nearly $12 Million for 40-Unit Santa Barbara Apartment Property Amid Rent Control Uncertainty",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN1h0bF83TmY5TVptT0JCS0d6d2wxMkdyRWNCemhVeWx2VlA1dWpyWUpvMkg3M0pfZGJvRGluOWpGZWE1dUhvZ2NBaXpyMWFVUEZPV0FtMzZzWlJOWjdLdkRMUWJHYWpyYVV0SUZ2MFZWMnhRV2JsX1ZxdThaZHdPeEdNNzdQWEIyMkZxOXZNbHJRZWF1MU1OX2duMjM4eU1reGZWTW4zdWRPT0R5UmxXTl9VMnp6ejdaUlUwQlFxeG5meklkc0JXd2tQNjZGa3dSaC1wY292ak5QMjhVOWsxYTduWkQ0SkE?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Oakland",
+        "published": "2026-11-16T11:36:55Z",
+        "title": "A mandatory rental registry could improve housing in Oakland, experts say",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VdIBvwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VQ?oc=5",
+        "domain": "pittnews.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -1099,23 +1183,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-11-03T08:00:00Z",
-        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
-        "domain": "dailycal.org",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-11-03T08:00:00Z",
         "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
@@ -1144,6 +1211,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Berkeley",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+        "domain": "dailycal.org",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1372,23 +1456,6 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-10-16T07:00:00Z",
-        "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
-        "domain": "noozhawk.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
       }
@@ -1447,7 +1514,7 @@
         "state": "ME",
         "state_name": "Maine",
         "locality": "Portland",
-        "published": "2026-11-07T09:55:00Z",
+        "published": "2026-11-07T08:00:00Z",
         "title": "Rent control in Portland has created a problem for realtors | Opinion",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zUXZZalNaLUo3eFlIdUREOUJMOEIxaU1Zd1FSMXVaSVFHTzBYSUh1S1RzNkNoX1RHY0czdVRHbUpHUnpLUUJreUxDa0Q0Wk0?oc=5",
         "domain": "pressherald.com",
@@ -1528,8 +1595,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "MD",
@@ -1613,6 +1679,23 @@
     ],
     "NH": [],
     "NJ": [
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-16T17:25:09Z",
+        "title": "Jersey City Rejects Rent Control Expansion, Launches Parking Cameras + More November 2026 Updates",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdWZDYVhUellBSTFXX2kxT0szOGVkY1BHb2J4Q2FTREREZFBjTWxIOWNzc2tJX3k5SExybUtwODhKdWNxWEhaRThEUVpaMGZzTXlUMVFIaGpEY1Q0UFhuOGhWWk10WmlrTERQcUtWMWxNZVU?oc=5",
+        "domain": "hobokengirl.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "NJ",
         "state_name": "New Jersey",
@@ -1776,6 +1859,23 @@
     ],
     "NM": [],
     "NY": [
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-11-16T15:24:06Z",
+        "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
+        "domain": "multifamilydive.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Litigation",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "NY",
         "state_name": "New York",
@@ -1956,7 +2056,77 @@
     "DC": []
   },
   "locality_feeds": {
+    "CA|Santa Barbara": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-11-16T19:52:43Z",
+        "title": "Local Investor Pays Nearly $12 Million for 40-Unit Santa Barbara Apartment Property Amid Rent Control Uncertainty",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN1h0bF83TmY5TVptT0JCS0d6d2wxMkdyRWNCemhVeWx2VlA1dWpyWUpvMkg3M0pfZGJvRGluOWpGZWE1dUhvZ2NBaXpyMWFVUEZPV0FtMzZzWlJOWjdLdkRMUWJHYWpyYVV0SUZ2MFZWMnhRV2JsX1ZxdThaZHdPeEdNNzdQWEIyMkZxOXZNbHJRZWF1MU1OX2duMjM4eU1reGZWTW4zdWRPT0R5UmxXTl9VMnp6ejdaUlUwQlFxeG5meklkc0JXd2tQNjZGa3dSaC1wY292ak5QMjhVOWsxYTduWkQ0SkE?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa19ENTVlZXY0OHdyTmhjQmFmdFFKR295U3F3V1FpLVd3UjVoQmFzajRZd3ZtMXdDT3lBaVZZa2tPTVFYc01lMENnNHRUQTVrM2haSXdiUzJKcllGdUg0ekpySnU2RW1VYmpSWHhYTzZ2SWNBbGdaUVN0dHBGanNwenRzak11MzkyaEJReHpsdFNSU0JfcVpjWHRTa2g1X3lPMXNULUFUMFp4RmM?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-10-28T07:00:00Z",
+        "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
+        "domain": "independent.com",
+        "source_country": "United States",
+        "type": "Good Cause / Just Cause",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "NJ|Jersey City": [
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-16T17:25:09Z",
+        "title": "Jersey City Rejects Rent Control Expansion, Launches Parking Cameras + More November 2026 Updates",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdWZDYVhUellBSTFXX2kxT0szOGVkY1BHb2J4Q2FTREREZFBjTWxIOWNzc2tJX3k5SExybUtwODhKdWNxWEhaRThEUVpaMGZzTXlUMVFIaGpEY1Q0UFhuOGhWWk10WmlrTERQcUtWMWxNZVU?oc=5",
+        "domain": "hobokengirl.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "NJ",
         "state_name": "New Jersey",
@@ -2082,6 +2252,42 @@
         "carried_forward": true
       }
     ],
+    "CA|Oakland": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Oakland",
+        "published": "2026-11-16T11:36:55Z",
+        "title": "A mandatory rental registry could improve housing in Oakland, experts say",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VdIBvwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VQ?oc=5",
+        "domain": "pittnews.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Oakland",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Oakland voters approve mobile home rent stabilization ordinance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
+        "domain": "centralmaine.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Mobile / manufactured housing",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "MD|Frederick": [
       {
         "state": "MD",
@@ -2098,8 +2304,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Berkeley": [
@@ -2230,7 +2435,7 @@
         "state": "ME",
         "state_name": "Maine",
         "locality": "Portland",
-        "published": "2026-11-07T09:55:00Z",
+        "published": "2026-11-07T08:00:00Z",
         "title": "Rent control in Portland has created a problem for realtors | Opinion",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zUXZZalNaLUo3eFlIdUREOUJMOEIxaU1Zd1FSMXVaSVFHTzBYSUh1S1RzNkNoX1RHY0czdVRHbUpHUnpLUUJreUxDa0Q0Wk0?oc=5",
         "domain": "pressherald.com",
@@ -2355,79 +2560,6 @@
         "discovery_provider": "Google News RSS"
       }
     ],
-    "CA|Santa Barbara": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-11-03T08:00:00Z",
-        "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa19ENTVlZXY0OHdyTmhjQmFmdFFKR295U3F3V1FpLVd3UjVoQmFzajRZd3ZtMXdDT3lBaVZZa2tPTVFYc01lMENnNHRUQTVrM2haSXdiUzJKcllGdUg0ekpySnU2RW1VYmpSWHhYTzZ2SWNBbGdaUVN0dHBGanNwenRzak11MzkyaEJReHpsdFNSU0JfcVpjWHRTa2g1X3lPMXNULUFUMFp4RmM?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-10-28T07:00:00Z",
-        "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Good Cause / Just Cause",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-10-16T07:00:00Z",
-        "title": "Petitions Circulate to Put State Street, Rent Control in Santa Barbara Voters’ Hands",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOTRVSkRON25QdlRFeEJqNnNyWVdQVjFBclV2bkdKQTFySHh5RmNVV2d1TVNhOG43OU9GcVBEd0NwaE9Fbll0dzVVN3RHY0h5ODlxY2RDcFV2RFpkUTRjaGpfU3lHSVdJVmItZFJXWVBtV0dVZ2pmcGxaa1pxN3hRR1EwbnZYYzJHczdxanpfd3JLX1dTYlVzc1VROXVCYWdkMXpBaVQ0amNDOTBp?oc=5",
-        "domain": "noozhawk.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
-    ],
-    "CA|Oakland": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Oakland",
-        "published": "2026-11-03T08:00:00Z",
-        "title": "Oakland voters approve mobile home rent stabilization ordinance",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWdZVWlzOHZISWVDZW5WNUpwdm5vNHZRZTh5cXREWXJGZVBwR1FUTURxZV9aa0drOGYzSGZLbE5jYmVzMGs1Yl95VmxrLS1tazV1SjBDWjBzaTFtZkozQ3ozZi1mU1k0c3FNRDhSeHlnWGF0STFUbVhfQUw2SzVUeXRycDQwdkxQMklwVU5FeUFzMFBTZW5aak5lNzNacGY1NXVJMEJ5aw?oc=5",
-        "domain": "centralmaine.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
     "CA|West Hollywood": [
       {
         "state": "CA",
@@ -2508,9 +2640,9 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 37,
+    "Restrictive": 39,
     "Easing": 7,
-    "Neutral": 10
+    "Neutral": 11
   },
   "health": {
     "queries": 8,
@@ -2520,17 +2652,17 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 54
+    "retained_articles": 57
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 3,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2540,7 +2672,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
