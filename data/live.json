@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:20:08.493418Z",
+  "generated_at": "2026-11-17T08:08:27.318056Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -129,7 +129,7 @@
       "locality": "Berkeley",
       "published": "2026-11-11T14:35:19Z",
       "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
       "domain": "tapinto.net",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -460,6 +460,23 @@
     {
       "state": "CA",
       "state_name": "California",
+      "locality": "Berkeley",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+      "domain": "dailycal.org",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-11-03T08:00:00Z",
       "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
@@ -488,23 +505,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Berkeley",
-      "published": "2026-11-03T08:00:00Z",
-      "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
-      "domain": "dailycal.org",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -703,23 +703,6 @@
       "carried_forward": true
     },
     {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "Portland",
-      "published": "2026-10-23T07:00:00Z",
-      "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
-      "domain": "timesofindia.indiatimes.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Berkeley",
@@ -730,6 +713,23 @@
       "source_country": "United States",
       "type": "Tenant / Rental Policy",
       "status": "Proposed / Process",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "Portland",
+      "published": "2026-10-23T07:00:00Z",
+      "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
+      "domain": "timesofindia.indiatimes.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
@@ -961,42 +961,6 @@
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-17T07:00:00Z",
-      "title": "Special Recruitment for the Rent Stabilization Board",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVORFJaa1AzRzZEZnNvM1BFQ3h1UDV3NkJGMmtmY25lN25fRTFkNDVkaUVMNmZsR1hzbzB1YzdjUEJaVjVuS1FzeTV0N3VQd0N4VHVEaHZWREdmUV96UDIyWUQzM3hEZUNzbUZ3d21NcVRoY0lSZXhOdVBiWXVwSzk1YVZTbDBNd2QzV2NYbnVrY3lYNzU4?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NV",
-      "state_name": "Nevada",
-      "locality": "",
-      "published": "2026-10-17T07:00:00Z",
-      "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGpISVM4RlFxWEZzOGE3RzhqZzJRZnFSdEJIRGdWQ3RQZ3NhYXdyZWUzeW0xMFVVVm55Nk5qN0dZeHc1WTlyRjR4TXhranZLZ0xXVTJtSm5xQWxLRUhqTVdaT1VucjdveXVXdURwOHI0Qjk2UUdDeS1WdnpyS3pXcVlhdVFzczVKSHhtdmtuR2JKNjNaWTJiREM4TEd6UTJtaW9KWQ?oc=5",
-      "domain": "reviewjournal.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -1045,7 +1009,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T14:35:19Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1183,6 +1147,23 @@
       {
         "state": "CA",
         "state_name": "California",
+        "locality": "Berkeley",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+        "domain": "dailycal.org",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-11-03T08:00:00Z",
         "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
@@ -1211,23 +1192,6 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-11-03T08:00:00Z",
-        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
-        "domain": "dailycal.org",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1440,24 +1404,6 @@
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-10-17T07:00:00Z",
-        "title": "Special Recruitment for the Rent Stabilization Board",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXVORFJaa1AzRzZEZnNvM1BFQ3h1UDV3NkJGMmtmY25lN25fRTFkNDVkaUVMNmZsR1hzbzB1YzdjUEJaVjVuS1FzeTV0N3VQd0N4VHVEaHZWREdmUV96UDIyWUQzM3hEZUNzbUZ3d21NcVRoY0lSZXhOdVBiWXVwSzk1YVZTbDBNd2QzV2NYbnVrY3lYNzU4?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CO": [],
@@ -1657,26 +1603,7 @@
     "MO": [],
     "MT": [],
     "NE": [],
-    "NV": [
-      {
-        "state": "NV",
-        "state_name": "Nevada",
-        "locality": "",
-        "published": "2026-10-17T07:00:00Z",
-        "title": "NEVADA VIEWS: Rent control won’t fix Nevada housing costs",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGpISVM4RlFxWEZzOGE3RzhqZzJRZnFSdEJIRGdWQ3RQZ3NhYXdyZWUzeW0xMFVVVm55Nk5qN0dZeHc1WTlyRjR4TXhranZLZ0xXVTJtSm5xQWxLRUhqTVdaT1VucjdveXVXdURwOHI0Qjk2UUdDeS1WdnpyS3pXcVlhdVFzczVKSHhtdmtuR2JKNjNaWTJiREM4TEd6UTJtaW9KWQ?oc=5",
-        "domain": "reviewjournal.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
-    ],
+    "NV": [],
     "NH": [],
     "NJ": [
       {
@@ -2314,7 +2241,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T14:35:19Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2640,7 +2567,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 39,
+    "Restrictive": 37,
     "Easing": 7,
     "Neutral": 11
   },
@@ -2652,12 +2579,17 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 57
+    "retained_articles": 55
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2667,12 +2599,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
