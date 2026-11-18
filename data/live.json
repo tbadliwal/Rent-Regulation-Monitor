@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-18T07:42:50.755395Z",
+  "generated_at": "2026-11-18T20:42:37.561340Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-11-18T11:49:33Z",
+      "title": "Santa Barbara extends rent freeze until June vote on rent stabilization ordinance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm16dU9xWEZOWkxUNHNsNmVDanpfeWd6VWRvYlNwWEpSbDM2ZV80Z2gwSG1XNHRON0VFTXpnTVBzRHM3WnhHSVBIOXFPZU9XSHFFZU9sOFMtb2paSk1oazJqWnMyLUVYeDVQY2NySnhrN21Wb3dmcmo2V3ZWeHoxTmxXYWFIaGpmZXdvcksxaFJkSUNsSkZUb1lnNzhKb1d4c0pvTEo1aUhyVjE1MS1rNWg5UTc0Q0JoNEFj?oc=5",
+      "domain": "newspress.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -210,7 +227,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -757,23 +775,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
@@ -804,6 +805,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -946,7 +964,8 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -963,7 +982,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -972,6 +992,23 @@
     "AZ": [],
     "AR": [],
     "CA": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-11-18T11:49:33Z",
+        "title": "Santa Barbara extends rent freeze until June vote on rent stabilization ordinance",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm16dU9xWEZOWkxUNHNsNmVDanpfeWd6VWRvYlNwWEpSbDM2ZV80Z2gwSG1XNHRON0VFTXpnTVBzRHM3WnhHSVBIOXFPZU9XSHFFZU9sOFMtb2paSk1oazJqWnMyLUVYeDVQY2NySnhrN21Wb3dmcmo2V3ZWeHoxTmxXYWFIaGpmZXdvcksxaFJkSUNsSkZUb1lnNzhKb1d4c0pvTEo1aUhyVjE1MS1rNWg5UTc0Q0JoNEFj?oc=5",
+        "domain": "newspress.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -1580,7 +1617,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MA": [
@@ -1697,7 +1735,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1929,7 +1968,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NC": [],
@@ -1990,6 +2030,23 @@
   },
   "locality_feeds": {
     "CA|Santa Barbara": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Barbara",
+        "published": "2026-11-18T11:49:33Z",
+        "title": "Santa Barbara extends rent freeze until June vote on rent stabilization ordinance",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm16dU9xWEZOWkxUNHNsNmVDanpfeWd6VWRvYlNwWEpSbDM2ZV80Z2gwSG1XNHRON0VFTXpnTVBzRHM3WnhHSVBIOXFPZU9XSHFFZU9sOFMtb2paSk1oazJqWnMyLUVYeDVQY2NySnhrN21Wb3dmcmo2V3ZWeHoxTmxXYWFIaGpmZXdvcksxaFJkSUNsSkZUb1lnNzhKb1d4c0pvTEo1aUhyVjE1MS1rNWg5UTc0Q0JoNEFj?oc=5",
+        "domain": "newspress.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "CA",
         "state_name": "California",
@@ -2110,7 +2167,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2570,12 +2628,13 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ]
   },
   "direction_counts": {
-    "Restrictive": 37,
+    "Restrictive": 38,
     "Easing": 7,
     "Neutral": 11
   },
@@ -2587,28 +2646,28 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 55
+    "retained_articles": 56
   },
   "errors": [
     {
       "provider": "GDELT",
+      "query": 4,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
       "query": 3,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 2,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
