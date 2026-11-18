@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:05:44.109529Z",
+  "generated_at": "2026-11-18T07:42:50.755395Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -19,8 +19,7 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NJ",
@@ -600,23 +599,6 @@
       "carried_forward": true
     },
     {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Strimling: All around Maine, mobile home rent control is on the ballot",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcElwRDVlOW5kZDkxTW5xbzFBRTNRc0w5V3o4aUlmMktzallsVTZSVXlaTElQNS1IT3R1N2I1di1hY2piSlNDNExPcGhpTGxTemtwQVZ4OE01OEtDQ2VsSlZ1cVFFMkpJMjdQVmloUEMtYnpmejdVeWh6bzNPWTdlOF9zUlJialhiS0tueTZQbWpHQzJWM2lZSQ?oc=5",
-      "domain": "mainebeacon.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -630,6 +612,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "",
+      "published": "2026-10-28T07:00:00Z",
+      "title": "Strimling: All around Maine, mobile home rent control is on the ballot",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcElwRDVlOW5kZDkxTW5xbzFBRTNRc0w5V3o4aUlmMktzallsVTZSVXlaTElQNS1IT3R1N2I1di1hY2piSlNDNExPcGhpTGxTemtwQVZ4OE01OEtDQ2VsSlZ1cVFFMkpJMjdQVmloUEMtYnpmejdVeWh6bzNPWTdlOF9zUlJialhiS0tueTZQbWpHQzJWM2lZSQ?oc=5",
+      "domain": "mainebeacon.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -736,7 +735,8 @@
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -755,6 +755,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -787,23 +804,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -932,23 +932,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-19T07:00:00Z",
-      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
-      "domain": "wsj.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "Montgomery County",
@@ -962,6 +945,23 @@
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-19T07:00:00Z",
+      "title": "Opinion | Tighter Rent Control Robs New York Tenants",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWQ5NEQwdXNCUzFaeU1TNW92VFNIdTdxQnN3emJXY3NKSFN4R3ZfV2RjYUVmSEVLQUFJbGJWMnRBQXR4YzJsYW82dTN2aWxrVFRrT2VvS0U1UEYzV2psVUhrU04yNzVDRUtUbFJOSXF4VXptOUMzZVdIbnkwZWJEZ19iLWVndw?oc=5",
+      "domain": "wsj.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     }
@@ -987,8 +987,7 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1600,7 +1599,8 @@
         "direction_score": 0,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "MI": [],
@@ -2005,8 +2005,7 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2593,22 +2592,22 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
       "query": 3,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 1,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
