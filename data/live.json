@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-19T07:39:15.134592Z",
+  "generated_at": "2026-11-19T20:48:21.481286Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "Frederick",
+      "published": "2026-11-19T12:57:15Z",
+      "title": "Nana Aba Anamoah Names Rent Control Boss Frederick Opoku Her Man of the Year After UG Hostel Clash",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmJCcnZIdXRKOHdWd1RBQld1NGxHNkN3Qm0zbjhjRXhNSXBEcmVrZ0FVLUVNcU5IaEgyaXZNc0k4bEJLZW0xTDZ3V1B1UHdfY21GWEtYdzJWd2R1SkRnTWVOQVZZc2VzdHFFZW14ODVPU1JoUEEyYlBiU1FKM19ES2VKdzgzQzNuWm9GWGJxU0VFOV9Uak45UXpOUjlfOWZJc0FvVndGX2ktSTlZSnI2a213Qk5RX0VBT0VZajR6aFcyc0lId3I5cVZfVEFnZjA?oc=5",
+      "domain": "yen.com.gh",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -53,7 +70,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -617,23 +635,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Good Cause / Just Cause",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "",
@@ -649,6 +650,24 @@
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-28T07:00:00Z",
+      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Good Cause / Just Cause",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -775,6 +794,23 @@
       "carried_forward": true
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
@@ -805,23 +841,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -875,7 +894,8 @@
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -928,7 +948,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -1302,7 +1323,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1424,7 +1446,8 @@
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CO": [],
@@ -1552,6 +1575,23 @@
         "state": "MD",
         "state_name": "Maryland",
         "locality": "Frederick",
+        "published": "2026-11-19T12:57:15Z",
+        "title": "Nana Aba Anamoah Names Rent Control Boss Frederick Opoku Her Man of the Year After UG Hostel Clash",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmJCcnZIdXRKOHdWd1RBQld1NGxHNkN3Qm0zbjhjRXhNSXBEcmVrZ0FVLUVNcU5IaEgyaXZNc0k4bEJLZW0xTDZ3V1B1UHdfY21GWEtYdzJWd2R1SkRnTWVOQVZZc2VzdHFFZW14ODVPU1JoUEEyYlBiU1FKM19ES2VKdzgzQzNuWm9GWGJxU0VFOV9Uak45UXpOUjlfOWZJc0FvVndGX2ktSTlZSnI2a213Qk5RX0VBT0VZajR6aFcyc0lId3I5cVZfVEFnZjA?oc=5",
+        "domain": "yen.com.gh",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Frederick",
         "published": "2026-11-12T08:18:48Z",
         "title": "From 'Toothless Bulldog' to Rent Control Enforcer: Frederick Opoku's battle to regulate rents in Ghana",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVlwcXU2M1ZRc3lSQzBhUjcwZXRkLWZtSEhoN3ZJRmZtRURnaHdoWTltRU1mZ3QzeUwwUnkyMGlwZklzUVhnZmV5eU83ZkZUcEtYeThELTBob2tnVy1ZcTMzZjRpWUxvYU16ODhMcDdLNFp4dHFrYllXU1ZYZF92ZldzMFVXZjh4ZzJMLS1LcHJ3Wk04MmF2NHNta2x2MkgzWjQzbm9BeHdVNElVSkZWRTNVRTZ6Tk5qbUlGRzhoMkhLVUlITU9FWHBBVEhzNDVjWnJJYTJXTFRfdWszeC1hX3FEdnRhSk8tTnJxeDVfMA?oc=5",
@@ -1628,7 +1668,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1931,7 +1972,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NC": [],
@@ -1991,6 +2033,43 @@
     "DC": []
   },
   "locality_feeds": {
+    "MD|Frederick": [
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Frederick",
+        "published": "2026-11-19T12:57:15Z",
+        "title": "Nana Aba Anamoah Names Rent Control Boss Frederick Opoku Her Man of the Year After UG Hostel Clash",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmJCcnZIdXRKOHdWd1RBQld1NGxHNkN3Qm0zbjhjRXhNSXBEcmVrZ0FVLUVNcU5IaEgyaXZNc0k4bEJLZW0xTDZ3V1B1UHdfY21GWEtYdzJWd2R1SkRnTWVOQVZZc2VzdHFFZW14ODVPU1JoUEEyYlBiU1FKM19ES2VKdzgzQzNuWm9GWGJxU0VFOV9Uak45UXpOUjlfOWZJc0FvVndGX2ktSTlZSnI2a213Qk5RX0VBT0VZajR6aFcyc0lId3I5cVZfVEFnZjA?oc=5",
+        "domain": "yen.com.gh",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Frederick",
+        "published": "2026-11-12T08:18:48Z",
+        "title": "From 'Toothless Bulldog' to Rent Control Enforcer: Frederick Opoku's battle to regulate rents in Ghana",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVlwcXU2M1ZRc3lSQzBhUjcwZXRkLWZtSEhoN3ZJRmZtRURnaHdoWTltRU1mZ3QzeUwwUnkyMGlwZklzUVhnZmV5eU83ZkZUcEtYeThELTBob2tnVy1ZcTMzZjRpWUxvYU16ODhMcDdLNFp4dHFrYllXU1ZYZF92ZldzMFVXZjh4ZzJMLS1LcHJ3Wk04MmF2NHNta2x2MkgzWjQzbm9BeHdVNElVSkZWRTNVRTZ6Tk5qbUlGRzhoMkhLVUlITU9FWHBBVEhzNDVjWnJJYTJXTFRfdWszeC1hX3FEdnRhSk8tTnJxeDVfMA?oc=5",
+        "domain": "ghanaweb.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
+      }
+    ],
     "CA|Santa Barbara": [
       {
         "state": "CA",
@@ -2058,7 +2137,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NJ|Jersey City": [
@@ -2077,7 +2157,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2239,26 +2320,6 @@
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      }
-    ],
-    "MD|Frederick": [
-      {
-        "state": "MD",
-        "state_name": "Maryland",
-        "locality": "Frederick",
-        "published": "2026-11-12T08:18:48Z",
-        "title": "From 'Toothless Bulldog' to Rent Control Enforcer: Frederick Opoku's battle to regulate rents in Ghana",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVlwcXU2M1ZRc3lSQzBhUjcwZXRkLWZtSEhoN3ZJRmZtRURnaHdoWTltRU1mZ3QzeUwwUnkyMGlwZklzUVhnZmV5eU83ZkZUcEtYeThELTBob2tnVy1ZcTMzZjRpWUxvYU16ODhMcDdLNFp4dHFrYllXU1ZYZF92ZldzMFVXZjh4ZzJMLS1LcHJ3Wk04MmF2NHNta2x2MkgzWjQzbm9BeHdVNElVSkZWRTNVRTZ6Tk5qbUlGRzhoMkhLVUlITU9FWHBBVEhzNDVjWnJJYTJXTFRfdWszeC1hX3FEdnRhSk8tTnJxeDVfMA?oc=5",
-        "domain": "ghanaweb.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CA|Berkeley": [
@@ -2576,7 +2637,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 38,
+    "Restrictive": 39,
     "Easing": 7,
     "Neutral": 10
   },
@@ -2588,12 +2649,17 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 55
+    "retained_articles": 56
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 4,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2603,12 +2669,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 4,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
+      "query": 3,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
