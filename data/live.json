@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-20T07:30:01.083302Z",
+  "generated_at": "2026-11-20T20:32:34.011200Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "US",
+      "state_name": "United States",
+      "locality": "",
+      "published": "2026-11-20T14:10:28Z",
+      "title": "Rent Control to recruit 2,000 officers to enforce rent laws nationwide",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWRVUTRndDcwYktLOEo1b2tsUGl0bk5DcXhwdV9CX2gzeDJ5cjdOeEZKTDdEUmUyWmlIV2g3aHM5ZHRVMWdkeExWajZRZnhia2xzZGpaWThHXzVXQmxmeTlDMGxqVkhmUnZwV1RWd19vbXhVVURJQVBHN3JWaElETFdrWGlSNXRVQ1M1WnA5bDUwTDUzMlE?oc=5",
+      "domain": "3news.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "MD",
       "state_name": "Maryland",
@@ -70,8 +87,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -105,7 +121,8 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -115,23 +132,6 @@
       "title": "Jersey City Council rejects proposal to expand rent control to luxury housing",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNENoRWJBanFrVW84X0hjTHAtWGNMZ1JVSS1OYjBvNWN2dmdWUmpabkdhNDZ3OXhiQUxsaldSR3dkSEMyc2VFRHZpRW5GNFdwMUg3YVhweGEyOW44Vi1VQmxwUTFMN2ptX0dyTG0xSlhwd0FQZG9CenotTWdwM25fWmVURTR6T1NPX0ptTi1ZNTRuck1qMnowMXVkc01FNDNCQzloNXdnMVc5b2s?oc=5",
       "domain": "hudsoncountyview.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "FL",
-      "state_name": "Florida",
-      "locality": "",
-      "published": "2026-11-12T20:53:00Z",
-      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbjZVQi1wUlM5T09vbEJVbWdmSzBsZXlnTWk3Qm1QNENiTXdhcEpyajVmR1BQQWwtYUZLNXNXLUQ2aG82LVVZR1ZFanJGOGQ5M1c1bWVmbzRjUUY2X1poSmoyME5aSWlaV0Q2Q0p2Z3FmOGtJeDJIRjQzQjcydkVTcjB5Tlc2b084SGtLY0kzdkdQOTdrb0NLN3lFTUFLZjBiNFN5dTJpOHpOZnZPYUhTRU54elhlakQ1YkFaSlc3SXRGendX?oc=5",
-      "domain": "wusf.org",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Proposed / Process",
@@ -160,6 +160,23 @@
       "carried_forward": true
     },
     {
+      "state": "FL",
+      "state_name": "Florida",
+      "locality": "",
+      "published": "2026-11-12T08:00:00Z",
+      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
+      "domain": "wlrn.org",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Berkeley",
@@ -174,7 +191,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -546,6 +564,23 @@
       "discovery_provider": "Google News RSS"
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-11-02T08:24:49Z",
+      "title": "Federal Court Partially Blocks New York’s Algorithmic Rent-Pricing Law",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1pnRzFhR0w4ZlNRblJCMWlmTzNzYlhEaGlxYlZ5bmlwVTZONW85RjNINlR2QXIzOUdrS0Jqek1HazZoT0Z2WTlGMmdYVllkUUZGS1hsMjVsUzNSejhzOGl2ZVJXTDFmamc5VUV2ZHQ5aHRFaTduX2JOY0ExTll5YUpSLUZSZm5NU1pDR2VmWVo0akgwbWg4RWZXcHhlMG9EbG5uQ1JJNFNfaEI1TWJqTE81aGpfMmplSEVEMHU4eWk5TDZ6emFRYnR5dkdLWWZSZ25kMGlEd0JidEVjdVRmajQyZEM3NG1jMUJj?oc=5",
+      "domain": "legal500.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "West Hollywood",
@@ -794,6 +829,23 @@
       "carried_forward": true
     },
     {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-10-22T07:00:00Z",
+      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
+      "domain": "jdsupra.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Landlords / properties using covered pricing software",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "CA",
       "state_name": "California",
       "locality": "Salinas",
@@ -824,23 +876,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-22T07:00:00Z",
-      "title": "Federal Court Preliminarily Enjoins Enforcement of Section 3 of New York’s Algorithmic Rent-Setting Law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1M1hPWWhtb2ptUTRobDM1dnpvV3pFNWVtSndpS2dDNmtSeHo5LTlHcGFEcGZwS0Rya3JDWHJiX0Z6ZjN1QmNwU2pVMGR6STl3M3pabVBaVHFNMGNITVN6ZVU0Z0lndVRwZ3dwYVFDMy1oazNBTzR6RUtnQlRBcG04c04?oc=5",
-      "domain": "jdsupra.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -877,7 +912,8 @@
       "direction_score": 0,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -989,7 +1025,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1006,7 +1043,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1404,10 +1442,10 @@
         "state": "FL",
         "state_name": "Florida",
         "locality": "",
-        "published": "2026-11-12T20:53:00Z",
+        "published": "2026-11-12T08:00:00Z",
         "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbjZVQi1wUlM5T09vbEJVbWdmSzBsZXlnTWk3Qm1QNENiTXdhcEpyajVmR1BQQWwtYUZLNXNXLUQ2aG82LVVZR1ZFanJGOGQ5M1c1bWVmbzRjUUY2X1poSmoyME5aSWlaV0Q2Q0p2Z3FmOGtJeDJIRjQzQjcydkVTcjB5Tlc2b084SGtLY0kzdkdQOTdrb0NLN3lFTUFLZjBiNFN5dTJpOHpOZnZPYUhTRU54elhlakQ1YkFaSlc3SXRGendX?oc=5",
-        "domain": "wusf.org",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
+        "domain": "wlrn.org",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Proposed / Process",
@@ -1614,8 +1652,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1783,6 +1820,23 @@
         "state": "NY",
         "state_name": "New York",
         "locality": "",
+        "published": "2026-11-02T08:24:49Z",
+        "title": "Federal Court Partially Blocks New York’s Algorithmic Rent-Pricing Law",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1pnRzFhR0w4ZlNRblJCMWlmTzNzYlhEaGlxYlZ5bmlwVTZONW85RjNINlR2QXIzOUdrS0Jqek1HazZoT0Z2WTlGMmdYVllkUUZGS1hsMjVsUzNSejhzOGl2ZVJXTDFmamc5VUV2ZHQ5aHRFaTduX2JOY0ExTll5YUpSLUZSZm5NU1pDR2VmWVo0akgwbWg4RWZXcHhlMG9EbG5uQ1JJNFNfaEI1TWJqTE81aGpfMmplSEVEMHU4eWk5TDZ6emFRYnR5dkdLWWZSZ25kMGlEd0JidEVjdVRmajQyZEM3NG1jMUJj?oc=5",
+        "domain": "legal500.com",
+        "source_country": "United States",
+        "type": "Algorithmic Pricing",
+        "status": "Litigation",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Landlords / properties using covered pricing software",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
         "published": "2026-10-29T07:00:00Z",
         "title": "Federal Court Partially Blocks New York’s Algorithmic Rent-Pricing Law (Antitrust)",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcC1aLUlMZy1YRGo4M3hKbWtwWmk1LWoyeVBZTGdSSEo1UEFDeHhxUzQ3anhWbXkyaS1RYUpjeW5Bdkpnck9lM0wzeGxEZmFGS21LNkNoQlhHbGVnaTZ0UlhzcXlfYXZRME9GTVBVNXNlQTh4QUNzcmw5RU9vRUVhcWpvTGhDWlFTdUxPc0NvdG1UZjV2U2ZJekZHUW01OU1EMWxlTVdCNmNGRmEzZ0Q3VXN3ZVJSNW1IZkoyTlE4cm42bWtvZkM4eE1UVHRkcFJWVnVEREY1ZFVfLVFYM1pSOGxB?oc=5",
@@ -1847,7 +1901,8 @@
         "direction_score": 0,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NY",
@@ -2049,8 +2104,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2158,7 +2212,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2194,7 +2249,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2493,8 +2549,8 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 36,
-    "Easing": 7,
+    "Restrictive": 37,
+    "Easing": 8,
     "Neutral": 10
   },
   "health": {
@@ -2505,28 +2561,28 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 53
+    "retained_articles": 55
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
       "query": 4,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 3,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 2,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
