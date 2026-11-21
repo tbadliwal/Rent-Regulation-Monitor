@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:26:03.631848Z",
+  "generated_at": "2026-11-21T19:29:42.846870Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -8,9 +8,26 @@
       "state": "US",
       "state_name": "United States",
       "locality": "",
+      "published": "2026-11-21T10:33:26Z",
+      "title": "Rent Control to deploy 2,000 task force officers nationwide in 2027",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmtibnNwMlVmT0E1ejJVYlBLcV9yME9GQ1E2TU9fSGJWZkFlcEpkQmhwMVMxUDcwdFdGS3NGQVY0TmhLWVBmRUVyRnFMQWhEYzdQNlFOYjVUQ3FlcnltTVU3QWswdWdNUXpzQ3dYdi0yUE1icHE1QVY0bjJvMWk3c2g3X1hONnFqZ1k4RUZSZ3hVczVabE50Ujln?oc=5",
+      "domain": "adomonline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "US",
+      "state_name": "United States",
+      "locality": "",
       "published": "2026-11-21T03:02:00Z",
       "title": "Rent Control to deploy 2,000-member taskforce to enforce rent laws nationwide",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1ItaU52Q2Q5SFgtZVJUS2VoY2FwUEc2ejBUY0N6alVDZFNXUmpsNnpWdjVQT3VlNVJ3RmVJNGxwNjF2UERvcHhPQmFCaUF4TVp3eGFudXdfTzMwMHFocEtrUm8waUZtMF9QX1ZhdXI4WEdMUmRETmtkYWhHVFJYYmdmWEFJankxZEZmb1ZzMDhMTXduaEZJaA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1ItaU52Q2Q5SFgtZVJUS2VoY2FwUEc2ejBUY0N6alVDZFNXUmpsNnpWdjVQT3VlNVJ3RmVJNGxwNjF2UERvcHhPQmFCaUF4TVp3eGFudXdfTzMwMHFocEtrUm8waUZtMF9QX1ZhdXI4WEdMUmRETmtkYWhHVFJYYmdmWEFJankxZEZmb1ZzMDhMTXduaEZJaNIBlwFBVV95cUxNemZQOV81aEJjM3VPWW9vMGRmVkxvSFZXY0xYYlpYRi1jSTdoVDc1cTR6cVhvcnRBSGNSaldJWTRqLXNTTEFucUp0MklDTEo1eGRkRG1NWGRVbUFXYnBndmZIUXV2ZEo2cjFNLXM1UGtsSk13Y1ptaXAtbktCdHlMZkdEZDV1cDk5Ty0zcmxUaEtfUHZjRy1V?oc=5",
       "domain": "modernghana.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -299,6 +316,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-11-09T08:00:00Z",
+      "title": "Wrubel widens lead in District 1, ‘right to housing’ slate nears Rent Board sweep",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlFQbFBld3l5M1pESkVTbnZFVGstaXphTEtJVFBvaGNnUlRZYmxHcW43bHJZUUMtOEFEdXJwNHJ3QWhsT2dPY3ZSSGJNcW9lcHFvNzBHS2c3UFNlZWUwY3dKdjhDRzVfWkFSZjZEelFtSkR6cXl0ZnRaWFk1azRTV1FKZm9RVENURFJQcHZpR0NUbjFVU21CcG93?oc=5",
+      "domain": "berkeleyside.org",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "ME",
@@ -612,8 +646,7 @@
       "direction_score": -1,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -705,6 +738,23 @@
       "carried_forward": true
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-28T07:00:00Z",
+      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Good Cause / Just Cause",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "",
@@ -720,24 +770,6 @@
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Good Cause / Just Cause",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     },
     {
       "state": "NY",
@@ -878,7 +910,8 @@
       "direction_score": 1,
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -895,7 +928,8 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -911,23 +945,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Los Angeles County",
-      "published": "2026-10-21T16:30:40Z",
-      "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEcyaHlXbDRVbEVhV2dObTdCTmI5TncwMi1YWGROTjUyS2p1aVNwZWtDelJpMjFSSllpd1YwazU4ejR6MXhiWEFiTmFuOXNWWnA2MWVGc1hxSUFXTWs3NnR6cUE3OWtLUC1jTG5nd3h3eE9IQk13V1ZnaFA5MExFczU2M1BwcU53NXEyU1RRNUg4TWdnZWc3VEk4MExvcUFSeTJVc2VxbDVGX1dFay1hSVZTY2pmYkpIc01PX0k5RlBtOTJ4T25URlFqaTJqVWQ4MzFkRGxHd1VUYXc?oc=5",
-      "domain": "facebook.com",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
@@ -1026,6 +1043,23 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-11-09T08:00:00Z",
+        "title": "Wrubel widens lead in District 1, ‘right to housing’ slate nears Rent Board sweep",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlFQbFBld3l5M1pESkVTbnZFVGstaXphTEtJVFBvaGNnUlRZYmxHcW43bHJZUUMtOEFEdXJwNHJ3QWhsT2dPY3ZSSGJNcW9lcHFvNzBHS2c3UFNlZWUwY3dKdjhDRzVfWkFSZjZEelFtSkR6cXl0ZnRaWFk1azRTV1FKZm9RVENURFJQcHZpR0NUbjFVU21CcG93?oc=5",
+        "domain": "berkeleyside.org",
+        "source_country": "United States",
+        "type": "Tenant / Rental Policy",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1270,8 +1304,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1341,7 +1374,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1357,23 +1391,6 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Los Angeles County",
-        "published": "2026-10-21T16:30:40Z",
-        "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEcyaHlXbDRVbEVhV2dObTdCTmI5TncwMi1YWGROTjUyS2p1aVNwZWtDelJpMjFSSllpd1YwazU4ejR6MXhiWEFiTmFuOXNWWnA2MWVGc1hxSUFXTWs3NnR6cUE3OWtLUC1jTG5nd3h3eE9IQk13V1ZnaFA5MExFczU2M1BwcU53NXEyU1RRNUg4TWdnZWc3VEk4MExvcUFSeTJVc2VxbDVGX1dFay1hSVZTY2pmYkpIc01PX0k5RlBtOTJ4T25URlFqaTJqVWQ4MzFkRGxHd1VUYXc?oc=5",
-        "domain": "facebook.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
@@ -1775,8 +1792,7 @@
         "direction_score": -1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NY",
@@ -1829,7 +1845,8 @@
         "direction_score": 1,
         "property_scope": "Landlords / properties using covered pricing software",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NC": [],
@@ -2100,8 +2117,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Oakland": [
@@ -2354,7 +2370,8 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NJ|Elizabeth": [
@@ -2432,25 +2449,6 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      }
-    ],
-    "CA|Los Angeles County": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Los Angeles County",
-        "published": "2026-10-21T16:30:40Z",
-        "title": "Altadena Landlords Offered County Rent Registry Assistance After Annual Deadline Altadena landlords and rental property owners will have an opportunity Thursday, Oct. 22, to receive free assistance with Los Angeles County’s Rent Registry, three weeks aft",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEcyaHlXbDRVbEVhV2dObTdCTmI5TncwMi1YWGROTjUyS2p1aVNwZWtDelJpMjFSSllpd1YwazU4ejR6MXhiWEFiTmFuOXNWWnA2MWVGc1hxSUFXTWs3NnR6cUE3OWtLUC1jTG5nd3h3eE9IQk13V1ZnaFA5MExFczU2M1BwcU53NXEyU1RRNUg4TWdnZWc3VEk4MExvcUFSeTJVc2VxbDVGX1dFay1hSVZTY2pmYkpIc01PX0k5RlBtOTJ4T25URlFqaTJqVWQ4MzFkRGxHd1VUYXc?oc=5",
-        "domain": "facebook.com",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
       }
@@ -2459,7 +2457,7 @@
   "direction_counts": {
     "Restrictive": 37,
     "Easing": 7,
-    "Neutral": 9
+    "Neutral": 10
   },
   "health": {
     "queries": 8,
@@ -2469,14 +2467,9 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 53
+    "retained_articles": 54
   },
   "errors": [
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
     {
       "provider": "GDELT",
       "query": 3,
@@ -2484,12 +2477,17 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 2,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
