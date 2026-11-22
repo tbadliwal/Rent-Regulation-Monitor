@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-22T07:06:34.347571Z",
+  "generated_at": "2026-11-22T19:50:54.482075Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-11-22T17:40:00Z",
+      "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
+      "domain": "gothamist.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "US",
       "state_name": "United States",
@@ -138,8 +155,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -252,7 +268,7 @@
       "locality": "Berkeley",
       "published": "2026-11-11T08:00:00Z",
       "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
       "domain": "tapinto.net",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -739,6 +755,23 @@
       "carried_forward": true
     },
     {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-28T07:00:00Z",
+      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Good Cause / Just Cause",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "",
@@ -754,24 +787,6 @@
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Good Cause / Just Cause",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     },
     {
       "state": "NY",
@@ -859,7 +874,8 @@
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MA",
@@ -962,7 +978,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T08:00:00Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1252,8 +1268,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1306,7 +1321,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CO": [],
@@ -1516,6 +1532,23 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
+        "published": "2026-11-22T17:40:00Z",
+        "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
+        "domain": "gothamist.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
         "published": "2026-11-21T01:05:40Z",
         "title": "Jersey City Rent Control Rule Proposal a Cautionary Tale for NJ’s Economy",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFoUk8xM1BWMERfZlM4WWZJVGNLNmtLNVBUXzBJc1pxbDdITUZ2dDFFcDlQd0ZTMDVYTlZjQi1mSkFFbE53NWVUeUIxN3dMVm1HQzEyVlhCTnNqQ09DNlZzWWNDODNpemxnTjQ5VzJrWHdINUtGM1hGeWJ1ZV9wX0d4c0p5bnVNU2RtS1M1eGV5SkoxU3c?oc=5",
@@ -1544,8 +1577,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1807,6 +1839,23 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
+        "published": "2026-11-22T17:40:00Z",
+        "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
+        "domain": "gothamist.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
         "published": "2026-11-21T01:05:40Z",
         "title": "Jersey City Rent Control Rule Proposal a Cautionary Tale for NJ’s Economy",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFoUk8xM1BWMERfZlM4WWZJVGNLNmtLNVBUXzBJc1pxbDdITUZ2dDFFcDlQd0ZTMDVYTlZjQi1mSkFFbE53NWVUeUIxN3dMVm1HQzEyVlhCTnNqQ09DNlZzWWNDODNpemxnTjQ5VzJrWHdINUtGM1hGeWJ1ZV9wX0d4c0p5bnVNU2RtS1M1eGV5SkoxU3c?oc=5",
@@ -1835,8 +1884,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2014,8 +2062,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Oakland": [
@@ -2062,7 +2109,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T08:00:00Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2175,7 +2222,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "ME|Portland": [
@@ -2314,7 +2362,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 34,
+    "Restrictive": 35,
     "Easing": 7,
     "Neutral": 10
   },
@@ -2326,12 +2374,17 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 51
+    "retained_articles": 52
   },
   "errors": [
     {
       "provider": "GDELT",
       "query": 2,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2342,11 +2395,6 @@
     {
       "provider": "GDELT",
       "query": 1,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
