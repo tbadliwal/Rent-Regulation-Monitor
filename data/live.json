@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-11-22T19:50:54.482075Z",
+  "generated_at": "2026-11-23T07:53:40.346417Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
     {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "",
+      "published": "2026-11-23T06:00:00Z",
+      "title": "Most Lewiston mobile home residents wouldn’t be covered by the city’s proposed rent cap",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0JCb2RNSGI0OWZiU0tpOXM0Y2RzRExCLTBfTTV1V0ZFLVFMVnN1bWl2M1pTTHVBOEQ5SUZmaFVsZ09WWG4tNHJ3Q0xTSEVZeWxsWU5NTTV2Smc2ZzhlNkYwM1ZRWEdCZnlNZjV1MkFUSlF1OVBHV2NxOGRHTHAzYWpXUmFfTDZJTDhVaU1BTWxPckp3VmItNzZicm5RbGdfcm0wLTkxNDVsMkxLdlB6S2NnbWxmQWI3Y1JIek5xZlo5RXZM?oc=5",
+      "domain": "bangordailynews.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
-      "published": "2026-11-22T17:40:00Z",
+      "published": "2026-11-22T20:45:00Z",
       "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
       "domain": "gothamist.com",
@@ -207,7 +224,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MD",
@@ -268,7 +286,7 @@
       "locality": "Berkeley",
       "published": "2026-11-11T08:00:00Z",
       "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
       "domain": "tapinto.net",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -807,24 +825,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-10-27T13:43:20Z",
-      "title": "Charter Amendment Petition to Repeal and Replace Rent Stabilization,Eviction Protections Falls 135 Signatures Short",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVlFLWprRTRZZEs4dmRHUGw2SE9idERCNUZSOThyU2lCOHZxc2ZVdkQxSHB6a0lDOC1NVlJvSlhIZ3lwNGlZQTJJOUZNY3JvZWsxSFlnd3I0c3hJQVB4Uk9XbE9BbFJQbjM0aDl6WkhlVzNEMlgta1AzbnUyZjVfcG5sVXNKd0I3ek9tMEJKcVIyUTQxbkdtUEduaEtTSHF1QnBVY1lVaDdUYnBrRVpIek5RQ19FWTZOZUFGZElpTHM1Wk9PbHE5VTRrM3pnNGRWOGFoNC1ZOUdKU3M?oc=5",
-      "domain": "pasadenanow.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
       "state": "MD",
       "state_name": "Maryland",
       "locality": "",
@@ -844,6 +844,23 @@
     {
       "state": "CA",
       "state_name": "California",
+      "locality": "",
+      "published": "2026-10-27T07:00:00Z",
+      "title": "Charter Amendment Petition to Repeal and Replace Rent Stabilization,Eviction Protections Falls 135 Signatures Short",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVlFLWprRTRZZEs4dmRHUGw2SE9idERCNUZSOThyU2lCOHZxc2ZVdkQxSHB6a0lDOC1NVlJvSlhIZ3lwNGlZQTJJOUZNY3JvZWsxSFlnd3I0c3hJQVB4Uk9XbE9BbFJQbjM0aDl6WkhlVzNEMlgta1AzbnUyZjVfcG5sVXNKd0I3ek9tMEJKcVIyUTQxbkdtUEduaEtTSHF1QnBVY1lVaDdUYnBrRVpIek5RQ19FWTZOZUFGZElpTHM1Wk9PbHE5VTRrM3pnNGRWOGFoNC1ZOUdKU3M?oc=5",
+      "domain": "pasadenanow.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
       "locality": "Berkeley",
       "published": "2026-10-23T15:00:00Z",
       "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
@@ -852,60 +869,6 @@
       "source_country": "United States",
       "type": "Tenant / Rental Policy",
       "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Berkeley",
-      "published": "2026-10-23T07:00:00Z",
-      "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
-      "domain": "dailycal.org",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "MA",
-      "state_name": "Massachusetts",
-      "locality": "",
-      "published": "2026-10-23T07:00:00Z",
-      "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
-      "domain": "bizjournals.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "Portland",
-      "published": "2026-10-23T07:00:00Z",
-      "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
-      "domain": "timesofindia.indiatimes.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
       "direction": "Neutral",
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
@@ -978,7 +941,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T08:00:00Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1274,7 +1237,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "",
-        "published": "2026-10-27T13:43:20Z",
+        "published": "2026-10-27T07:00:00Z",
         "title": "Charter Amendment Petition to Repeal and Replace Rent Stabilization,Eviction Protections Falls 135 Signatures Short",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVlFLWprRTRZZEs4dmRHUGw2SE9idERCNUZSOThyU2lCOHZxc2ZVdkQxSHB6a0lDOC1NVlJvSlhIZ3lwNGlZQTJJOUZNY3JvZWsxSFlnd3I0c3hJQVB4Uk9XbE9BbFJQbjM0aDl6WkhlVzNEMlgta1AzbnUyZjVfcG5sVXNKd0I3ek9tMEJKcVIyUTQxbkdtUEduaEtTSHF1QnBVY1lVaDdUYnBrRVpIek5RQ19FWTZOZUFGZElpTHM1Wk9PbHE5VTRrM3pnNGRWOGFoNC1ZOUdKU3M?oc=5",
         "domain": "pasadenanow.com",
@@ -1285,8 +1248,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1294,24 +1256,6 @@
         "locality": "Berkeley",
         "published": "2026-10-23T15:00:00Z",
         "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
-        "domain": "dailycal.org",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Proposed / Process",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-10-23T07:00:00Z",
-        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
         "domain": "dailycal.org",
         "source_country": "United States",
@@ -1357,6 +1301,23 @@
     "KY": [],
     "LA": [],
     "ME": [
+      {
+        "state": "ME",
+        "state_name": "Maine",
+        "locality": "",
+        "published": "2026-11-23T06:00:00Z",
+        "title": "Most Lewiston mobile home residents wouldn’t be covered by the city’s proposed rent cap",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0JCb2RNSGI0OWZiU0tpOXM0Y2RzRExCLTBfTTV1V0ZFLVFMVnN1bWl2M1pTTHVBOEQ5SUZmaFVsZ09WWG4tNHJ3Q0xTSEVZeWxsWU5NTTV2Smc2ZzhlNkYwM1ZRWEdCZnlNZjV1MkFUSlF1OVBHV2NxOGRHTHAzYWpXUmFfTDZJTDhVaU1BTWxPckp3VmItNzZicm5RbGdfcm0wLTkxNDVsMkxLdlB6S2NnbWxmQWI3Y1JIek5xZlo5RXZM?oc=5",
+        "domain": "bangordailynews.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Mobile / manufactured housing",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "ME",
         "state_name": "Maine",
@@ -1425,24 +1386,6 @@
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Portland",
-        "published": "2026-10-23T07:00:00Z",
-        "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
-        "domain": "timesofindia.indiatimes.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "MD": [
@@ -1499,26 +1442,7 @@
         "discovery_provider": "Google News RSS"
       }
     ],
-    "MA": [
-      {
-        "state": "MA",
-        "state_name": "Massachusetts",
-        "locality": "",
-        "published": "2026-10-23T07:00:00Z",
-        "title": "Op-ed: Mass. ban on algorithmic rent pricing won’t help housing crisis",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1otTDUzZGNMYzZzeFk5YTRZSUpiWDlMblFXSHRHd2FPWk9zVGs5SS1Rb3d6S2N1RW1KcGdwdXAtVXo1b1lsSDAxeC0wWnRSZ01xajJvajc0dmpkZmlVN2Rrc1VKcmpueU9oNkZuTVZBNFd6LTlZN2V0VS13OUQ5ZXRpNmhUQ3Ezc1dKLWk4Mnd1SjlfSG55OGU2Yk9wTG5yclVBY01HVQ?oc=5",
-        "domain": "bizjournals.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      }
-    ],
+    "MA": [],
     "MI": [],
     "MN": [],
     "MS": [],
@@ -1532,7 +1456,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-22T17:40:00Z",
+        "published": "2026-11-22T20:45:00Z",
         "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
         "domain": "gothamist.com",
@@ -1594,7 +1518,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1839,7 +1764,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-22T17:40:00Z",
+        "published": "2026-11-22T20:45:00Z",
         "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
         "domain": "gothamist.com",
@@ -1901,7 +1826,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2109,7 +2035,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T08:00:00Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2206,24 +2132,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-10-23T07:00:00Z",
-        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
-        "domain": "dailycal.org",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Proposed / Process",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "ME|Portland": [
@@ -2243,24 +2151,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "Portland",
-        "published": "2026-10-23T07:00:00Z",
-        "title": "Maine tenants challenged rent increases under Portland’s rent-control law; after a union campaign and 20",
-        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQeXVxMGMwN2hEZUt3N3BqWU1VRm84ZXpkeGFyZTZJTnhXWGlpNWoxVDgtbXpBSG9oaHRNSG9xTi02WmRTbXJ3cUtpUEVYZEpRYVlKemNpQXdCZ2xTYi1aT1ZBZmF3Z2dBY3dZUURWN0NfVVp0Y21sMGE5ZEFTNnpDOEZpOGVTSnhTaDc1dXJhdzkwNFdZYnBEbkVYYzlZM1pYN1h1aGVtbGl5a1RHTTg5czVCaU5iRi14Zk51eS05Z3V3ZnotcUNUbWVFQzV4aUV0Yk1FdFAxVzVSRmgyamdlMUVrcTVVYnhmdk5wYnozTldNdWRab1dGYkpPbFVIYzNicF9DdldRdjdmNkpYdHl1TDZaZk5NSmpmZUZ1ZFpfdVZyMThTcTdjbUROMmFQVWtTWkhXcjROUmd6cERYdFBmZGdJTlAyY04wTDBTSnhrN2NoVC1QYmlRWEhBcmcza2lSbW1sZ25XdFIxT25NUGVsYXU3cUZpcEo0YWxyUDdVQ2hGclpHR3RyOEgta0dwSWfSAZQDQVVfeXFMT2Fzb29la2k2eFNaTEQyU2RWWUQ0aGExWlA4WFZvdl9lYm5sLTVKX0tSejA1N3kyeGpVcG9rZFd1V1B3SldjQnFKVkF5M3pGVXcxYkNVUlVQSU9RcTJPclYzZEFJWnJrYXU5U2pZYmVfV3lLY1VQeWNYWW5uM1FqS3RFZTlRMkpTMlZfMm15UDRDTFpWZUNkaExWTW1VOTBaRklnM25oSE1uQUZ2SFB6RGtTX2F1bXc0Z1hPOHFZaTJNSXJIUzBLdk9xZTVvNUNIU2pZb0Naa3FtUy1YQ2tSd1ZUdzNrVWtkb1RJVzFhMnQwbGFpQmQ5Uk5BOTdnN3cyNnY3LWdGeGV1LVBiTHQ2OFRmSzRyN29wS2J5elY4Q3pfUXRLYTBIREdpTEwya2tzVDRCcWtxY1luMXFZLWkwSVlqcWFjbXAxbWpKbHpZTmhQOHBTbXRvUUFVMHhKQXJwemlDMDVmV2FxeERONUJvdlNla2t3czJzdC05YU5oa3Y4TTRBRGFaLVlERlZJN29NcjFfOVU?oc=5",
-        "domain": "timesofindia.indiatimes.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CA|Salinas": [
@@ -2362,9 +2252,9 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 35,
+    "Restrictive": 36,
     "Easing": 7,
-    "Neutral": 10
+    "Neutral": 7
   },
   "health": {
     "queries": 8,
@@ -2374,9 +2264,14 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 52
+    "retained_articles": 50
   },
   "errors": [
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
     {
       "provider": "GDELT",
       "query": 2,
@@ -2390,11 +2285,6 @@
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 1,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
