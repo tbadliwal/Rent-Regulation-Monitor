@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-23T07:53:40.346417Z",
+  "generated_at": "2026-11-24T00:04:09.181370Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
     {
-      "state": "ME",
-      "state_name": "Maine",
+      "state": "NY",
+      "state_name": "New York",
       "locality": "",
-      "published": "2026-11-23T06:00:00Z",
-      "title": "Most Lewiston mobile home residents wouldn’t be covered by the city’s proposed rent cap",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0JCb2RNSGI0OWZiU0tpOXM0Y2RzRExCLTBfTTV1V0ZFLVFMVnN1bWl2M1pTTHVBOEQ5SUZmaFVsZ09WWG4tNHJ3Q0xTSEVZeWxsWU5NTTV2Smc2ZzhlNkYwM1ZRWEdCZnlNZjV1MkFUSlF1OVBHV2NxOGRHTHAzYWpXUmFfTDZJTDhVaU1BTWxPckp3VmItNzZicm5RbGdfcm0wLTkxNDVsMkxLdlB6S2NnbWxmQWI3Y1JIek5xZlo5RXZM?oc=5",
-      "domain": "bangordailynews.com",
+      "published": "2026-11-23T22:35:00Z",
+      "title": "Mamdani’s rent control fairy tale is bad news for New York — but he keeps telling it",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYkpFWEhJVHhTd0N1REVCbURndGVtX0YtekpBREFvcTF0VXFNTFdTMnkybzdBZGVhNElBdUxMZGhlaFJzUGhvYVYwazVUMWUtS1dYdWxYWEFXVFJ1ZVF1bmFkTFZ2MzRSOGdaTDBSMm9TOWxkWU13TzE1U0NRRl8tTFRLNG94SFYyaTlLUWhPTG9RY0xJRGpULXBVUVpnMjFuR0lPeFI3MVV3MnJfNUFrNFlfSzNxZlhTcXR1dWx6cDRWUS13NjdBRWd3?oc=5",
+      "domain": "nypost.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
-      "status": "Proposed / Process",
+      "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -25,7 +25,24 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
-      "published": "2026-11-22T20:45:00Z",
+      "published": "2026-11-23T19:38:00Z",
+      "title": "Jersey City rent control push stalls as LeFrak strikes affordability deal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUNQaEpUbnNSZUxHeVdiUnBvQ2d2d3YwZktucDloanpkQk5lRkZnWDM2a0lBSFdpY1VUM3dFTURLR1ZhVlZ2MXFQV2VYV0l6bFE3cUhPY3hkVmRUWFd1YUp4MzRMOEZQYlZFS05OYmZHRTIzTHV2bVV4MTFoaGpiU3dpQnNwY2pQdGFDVjM1SVE1TXNpTUhkaXd1VFFGNDVCbWZZc0ZZa0djZ0Via3FMazZoYw?oc=5",
+      "domain": "therealdeal.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-11-23T18:44:00Z",
       "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
       "domain": "gothamist.com",
@@ -35,6 +52,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "ME",
+      "state_name": "Maine",
+      "locality": "",
+      "published": "2026-11-23T06:00:00Z",
+      "title": "Most Lewiston mobile home residents wouldn’t be covered by the city’s proposed rent cap",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHJSRE0wZDVHemkxTDhJdF9ldlFjNi1ieV9US3FQTjhqNWg5RWl3YkRmZTNlYnZ2c2lnLXRRRnlzLURkT0pPQ0lfYUx6OFljU0lrUmtWMGNPaGZVaHpsbXRyTnhMNjh6WUp1d1lEcE00TlZsSzhXb200QWoxUjdDTWwxWUVBZF9KT0ZDTy1QNWJKclNsb2R4Y3J6WjVBYVJEd2dlbzdKQkF0LWVaOEE?oc=5",
+      "domain": "bangordailynews.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -53,7 +87,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "US",
@@ -104,7 +139,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MD",
@@ -117,6 +153,24 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
+    },
+    {
+      "state": "FL",
+      "state_name": "Florida",
+      "locality": "",
+      "published": "2026-11-18T18:15:35Z",
+      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcWdpV1VnWjZ6Uld6RmM4Y1FQaWhoY1Y4MUpvcFV2SFVLeEtCd2FOUlAzeDZiN2t5RGplcU9Md2ZabGllcmcyVFFKXzdmSDdpU1lUeEhTRW1ZZ2JFVUJCZmliTWljMWIwQ2N3NF84MVd1enlEdkxtYXJoRXhnbG56MThWa2oxU2hpQndQUDBJam1ENlliMmhHcnBYMV8zanAzdTJ3YWFkQWgxZjY4bnlSeG9ic3Q1RVdyTTlDQmRXYnJTQ2ZFOE5TSS15V0l6cTM4MExXdnFaMEdrN254eS1SYnJvUUJUUGp6VDNzbXZFQmVhS3VFSVBYNlBmUTh3QjBBWG9PSNIBigJBVV95cUxNb2RGMl9lRDI4eXN5QTdMaFlVQm5UWVJzTlAtSWRydWcxY3FOdi1yWVhMQ0lGZjJuQjNNcElrVVZ4VVVmOHBfX1lidjdIa3BMMFRoMXM5SnVCb0tOMDItM1hqWTJnNDI5T2gxVEYwY3Y0aVVVU3kyZi1aLWJYSTJRaVVpTUxjTDZHbDh0QnpxQk5oRjJoelQwTzhIQzR0NkRPUjJ1ODdBdmNkR1hKTjl0NWMzNmFmbnAzMmhldDdOeDJFVWZvcjhET2dYQXZNbkR2Wk9xcllMclY3dl91cEdZdHpGNHZUdjZTbmw1OXpHbmgzdktyUGIzeWpVZ0xzcHpEcnNib0Fhb0NwQQ?oc=5",
+      "domain": "miamitimesonline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -224,8 +278,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "MD",
@@ -241,41 +294,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "FL",
-      "state_name": "Florida",
-      "locality": "",
-      "published": "2026-11-12T08:00:00Z",
-      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
-      "domain": "wlrn.org",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "",
-      "published": "2026-11-11T11:30:03Z",
-      "title": "New Jersey Voters Overrule Landlord Opposition and Bring Back $20 Rent Increase Limit",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1ZnU1VmSlc0YmJ1ZnJuNDdXU2k3QnJ2Z3U4aW5vblBDSk9JUlFEWDktbjZOWlFNNlBHYkN1MXF6Q0pEWkRDUXR2ZUs5U2lISEFCY1lSUVVqZ2NMVEt1QTZ6R1RLMUpTc3N3V1liOURFSjVINXNIM2hXTm1pbndLRFpUTC1oZk5rWjlDQ2JMQm0wZXdXSjhYYllMVGtBMUFVLU1aSw?oc=5",
-      "domain": "yahoo.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
@@ -300,8 +318,25 @@
     {
       "state": "NJ",
       "state_name": "New Jersey",
+      "locality": "",
+      "published": "2026-11-11T08:00:00Z",
+      "title": "New Jersey Voters Overrule Landlord Opposition and Bring Back $20 Rent Increase Limit",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1ZnU1VmSlc0YmJ1ZnJuNDdXU2k3QnJ2Z3U4aW5vblBDSk9JUlFEWDktbjZOWlFNNlBHYkN1MXF6Q0pEWkRDUXR2ZUs5U2lISEFCY1lSUVVqZ2NMVEt1QTZ6R1RLMUpTc3N3V1liOURFSjVINXNIM2hXTm1pbndLRFpUTC1oZk5rWjlDQ2JMQm0wZXdXSjhYYllMVGtBMUFVLU1aSw?oc=5",
+      "domain": "yahoo.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Easing",
+      "direction_score": -1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
       "locality": "Jersey City",
-      "published": "2026-11-10T14:36:10Z",
+      "published": "2026-11-10T08:00:00Z",
       "title": "Jersey City Council reviews rent control expansion & Newport PILOT at caucus",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUF9OMTdyOER5UFVud1Jlb3BXZXZDa0RPTVppRk42VTRHOXVqalN4dWJtNWdnaTJBTUhHRzZvR2ZLMkFlLVYzb3VpWjhVb0s2TkY1Tng0aEpxTDZfM2RsT1dQOW9mS2ZQM0tLVmQ1RWxsck95M1psUHNuRWNUV212dFhuV3ZIb29vbWpEd0xGdGVTbURvOURjRGNLT1dqenFfeGRxWWxURQ?oc=5",
       "domain": "hudsoncountyview.com",
@@ -312,32 +347,13 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Berkeley",
-      "published": "2026-11-09T16:59:42Z",
-      "title": "Berkeley Heights Council to Discuss Rent Stabilization, Sewer Fees on Tuesday",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTBDVk1lYlJiLVozSHFGZ3NHRzJ6aTZOdEMyVkhXV3NURWd5UklBb056SEsxMUNydlcyaXdmOWdiM1I4VWdBV18tQWtCX3psNklCVlZKdVFEOHZyTzl5T0pMRnhQelVOb1NONmUzMDZyeEJUVW4xelNnemdRZTZGSEZKRWszQTJBRU5WY3ZhNWVoUXluMldQRXB2TkVZejZGNjNocllnMVFXTmgzNTc5ZV9aUmpUOHZwalEwajl4SjF5ZjNUY05kWDNwUWtsaFJNa0dxOF9sU0h1NDNkQkNiaGNKN1BOQkE?oc=5",
-      "domain": "tapinto.net",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
-      "published": "2026-11-09T10:39:37Z",
+      "published": "2026-11-09T08:00:00Z",
       "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
       "domain": "hudsoncountyview.com",
@@ -348,8 +364,24 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Berkeley",
+      "published": "2026-11-09T08:00:00Z",
+      "title": "Berkeley Heights Council to Discuss Rent Stabilization, Sewer Fees on Tuesday",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTBDVk1lYlJiLVozSHFGZ3NHRzJ6aTZOdEMyVkhXV3NURWd5UklBb056SEsxMUNydlcyaXdmOWdiM1I4VWdBV18tQWtCX3psNklCVlZKdVFEOHZyTzl5T0pMRnhQelVOb1NONmUzMDZyeEJUVW4xelNnemdRZTZGSEZKRWszQTJBRU5WY3ZhNWVoUXluMldQRXB2TkVZejZGNjNocllnMVFXTmgzNTc5ZV9aUmpUOHZwalEwajl4SjF5ZjNUY05kWDNwUWtsaFJNa0dxOF9sU0h1NDNkQkNiaGNKN1BOQkE?oc=5",
+      "domain": "tapinto.net",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -422,24 +454,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Salinas",
-      "published": "2026-11-05T05:11:00Z",
-      "title": "Salinas voters reject bid to repeal rent stabilization",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURhNS0ybmd4UUNOQjRIWGVYVWNyVzUyT3lIekdIamNLaThOaW9jWDE4bndNeXdxUVpqanpabTBlWDhCTzNteDMwZWpYdENzcnB0UkNtY1BQcWY2VnppazhyTVBJX2JhTnF1MFg3bkNzNzlJZmY5T0dySy1oZ2hVbW52ZktEeDFFVUw2U2IteG1mUlg1WTBydUMzOGxGdnIwV0xRcGRIdk9US2hULThaVWNKTE5MZzdmVzdCRlZxR1VvT1dX?oc=5",
-      "domain": "thecalifornian.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Easing",
-      "direction_score": -1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Elizabeth",
@@ -468,24 +482,6 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Salinas",
-      "published": "2026-11-04T21:14:00Z",
-      "title": "Despite a big-spending campaign by property owners, Salinas residents vote to keep rent stabilization.",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNHdqZm1LRlNBaW5Oc25IZDZwT0pqVTNsck93ZndEaTZRWmtLUGo2MXY5OWtNRzFadGFMMm00VzJZZXVheVNTSmpJcEZMZVdtNFVuUFhCZG1lMXY0ZkdILU9HV2xmUXFfdmczd0RVRTNnY1kyZ2dUMURiajBPQ0NMUU80TFZJek54OFMtU3RJa0o5bGphWkJNMk13U29lQmlnN1pFYmZHNTlFTTh3dEdiVlpRTWRZZnYwWnB4czJaeUpoYnJrOFVLSUZwbU9JYkg4cl9HV0k3eWpWeUduUTd3bzM3SkxzS0RtY3g0LV82WmJQOUpYejh3bGxvOG11YzhPX0ZQZTBIY1NCT19DSkpYVFYwZnFQWkZFa0JvX0JlQm7SAaYCQVVfeXFMTXMzX2hNZklMNFBlcHlobFZQU1pLMzdJZy1MUVVhd1R1NnFfLXdWbmo1VTZSNzlEV0Rpd19iNHZOb2hzamo1MHpSSzRZRWpvTmRCSmNvc3Y5dW00ZUpaM3FDLWZUaW5CaEZ0QUxqTU45eEhEdkpwd3FPYmpCVmNYWkQ5XzhobC03MER2djVCVzBNSTF5VUMyeHhRd3Nja19aRktndTlmR3JaNU1Cb0JzbXRsalpuTDJMUk5vNV9qYWE1b0dXZE1Sck1QZDZhblZORzdJSi1mSVlnYi1feGpoNVRmSWFsdjVtNy1NNVZjSnlLYnJVOW1nVi1kV1lJOXA0LWZVWEU5YjViMnVyMC1rUHBxcUQyTm9BV3Zxa2h4RzhXMjJISWNR?oc=5",
-      "domain": "montereycountynow.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -563,22 +559,21 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "RI",
-      "state_name": "Rhode Island",
-      "locality": "",
-      "published": "2026-11-04T01:02:59Z",
-      "title": "Rent stabilization, Flock cameras on the mind of City Council candidate",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcl9MUGNGaThyeUdvY21IZmY3M1R1VDA3RTAybVBra3JKWXFlUjlUU2NKeC1MS0FUR203RkEtWTlLMk5nbHdZaHNMcGk3YURvOU92OVBUUHNLNHE5RGcxQWJSMk1MbWpIU0dpRWxpWlV3UjV3S0hTMkxXNWV3MWE2QkQ3YzlVSGhkeFIyYnVia1hpaE10S3NiTmh0OEpxZFJlNTFtUXhWVHVMWmV1czJXRWxhOC05dmc4WS16T0l4VVpQTXc5R0Y4UFlyOU1sOVJpRGREbF91TnA0aTV3QzFYZkhRVHUybGM5TXZtdmJsZW5BRXBCSnc?oc=5",
-      "domain": "providencejournal.com",
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Salinas",
+      "published": "2026-11-04T08:00:00Z",
+      "title": "Salinas voters reject bid to repeal rent stabilization",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURhNS0ybmd4UUNOQjRIWGVYVWNyVzUyT3lIekdIamNLaThOaW9jWDE4bndNeXdxUVpqanpabTBlWDhCTzNteDMwZWpYdENzcnB0UkNtY1BQcWY2VnppazhyTVBJX2JhTnF1MFg3bkNzNzlJZmY5T0dySy1oZ2hVbW52ZktEeDFFVUw2U2IteG1mUlg1WTBydUMzOGxGdnIwV0xRcGRIdk9US2hULThaVWNKTE5MZzdmVzdCRlZxR1VvT1dX?oc=5",
+      "domain": "thecalifornian.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
+      "status": "Proposed / Process",
+      "direction": "Easing",
+      "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -596,24 +591,6 @@
       "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-11-03T15:53:48Z",
-      "title": "LETTER: Jersey City’s ‘rent control laws hurt the small homeowner’",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVJUeVk2NXNjeVlXYjBMQ3kzZktEc0cyWGEwYTNEeWtzeC1CNWpIOFZ3TnE1WEFoUFJuVHNWY1dNajNwTjlaRmlxd0dGSm5FNWtxWXdtMElfeGdZWGVyR0hpWEdDLVBzb3JtNXFwd2lISFpIN1VQREZYN0xNZVhiMXZ5NnUtZC1CQXRmcUtVNHk5NUw1OHh3?oc=5",
-      "domain": "hudsoncountyview.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     },
     {
       "state": "CA",
@@ -663,6 +640,74 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "LETTER: Jersey City’s ‘rent control laws hurt the small homeowner’",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVJUeVk2NXNjeVlXYjBMQ3kzZktEc0cyWGEwYTNEeWtzeC1CNWpIOFZ3TnE1WEFoUFJuVHNWY1dNajNwTjlaRmlxd0dGSm5FNWtxWXdtMElfeGdZWGVyR0hpWEdDLVBzb3JtNXFwd2lISFpIN1VQREZYN0xNZVhiMXZ5NnUtZC1CQXRmcUtVNHk5NUw1OHh3?oc=5",
+      "domain": "hudsoncountyview.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "RI",
+      "state_name": "Rhode Island",
+      "locality": "",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "Rent stabilization, Flock cameras on the mind of City Council candidate",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcl9MUGNGaThyeUdvY21IZmY3M1R1VDA3RTAybVBra3JKWXFlUjlUU2NKeC1MS0FUR203RkEtWTlLMk5nbHdZaHNMcGk3YURvOU92OVBUUHNLNHE5RGcxQWJSMk1MbWpIU0dpRWxpWlV3UjV3S0hTMkxXNWV3MWE2QkQ3YzlVSGhkeFIyYnVia1hpaE10S3NiTmh0OEpxZFJlNTFtUXhWVHVMWmV1czJXRWxhOC05dmc4WS16T0l4VVpQTXc5R0Y4UFlyOU1sOVJpRGREbF91TnA0aTV3QzFYZkhRVHUybGM5TXZtdmJsZW5BRXBCSnc?oc=5",
+      "domain": "providencejournal.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Salinas",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "Despite a big-spending campaign by property owners, Salinas residents vote to keep rent stabilization.",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObnRFU0RnTmwxQzE3NEF2RkpHVjh0ckNkSjVhd3gtbEZlaGdXb3ZUM0hIU3VId1JXbGV3clJSTF82R1dMR0tfcXdyRnAtb3lPa3dHWWpwdVlqc3ItUG9nYkJndVBXZk93anpSMURVVzNyTlVTYVBoZkJxaUE5N1ZBSFV2RUlOWmhaMnpuYXVrbmxqWnRQZnU3amdJNEdVam9sejA0RDZoOEZLWEdIVHgzSU44NGV2Zk5fOTQ4ZlI0c05yemcyWlMzUS1ZWVp1VDZWZEI0UksxSTB4SVpSNzRHOWNGX0E3RWc4eE85cUgwZE9SOXl3Q2YyYWRIeXpvRGdaT21ld2twVjBLM3RCcTNObU9VTGtWZWNEcUljaWNja0JkWVZCel9V0gGsAkFVX3lxTE4wSzdiUl9la3R4YzF1OHdLalBWampPNzUxdnJ0a0kyeUIteDA3V1ZWaWxoSVRBSWlfam9saWZmVnJKSDFfREl1aGpEczhRcVhhZm41NVVNWDZiQXRKZ3Z5VmZwODF4RU1MWG5tSnEyeFAxYm5CZnhHam9rdHlkLURxTnRUMWpQeHZHUFNtZ1dJTENNTUF4X2E5UUpoSmJwNFFhR3FFUXJKWUVDRkY3ZzFfZmN0SS1XbXl1SldIYk1hd0ZCc18za3dFM0NqczNyNmJoNEM5WFpWNU03b01EdFRQa29YcXc0QXJCZ0NzR05jcXFMbm1iR1llTUhzVjdjTzY1V3V0OFhwRDh4WHEwUWZFRGdsUHliVnFuaEtSS1BHbGhaSUVwZG80VmlIVA?oc=5",
+      "domain": "montereycountynow.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Monica",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "2026 CA Santa Monica Rent Stabilization Board At-Large General Election Results",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2w4Q0c2MFVaMzRiRE81bnBHc01qVDh6UXcyT2FSSC01WGswTjdhRFRjSkhGbHFGdFkyYnlkejd3RDJtRDhoV3U3QnlpRHdDMHp5cU1VdUwwV3BNVFdxbmFNWnJQT2t4UG4tTmx3SEtwRi1kXzV4Z1ZISHh0bmw3SGF5SnhPbG5TLVEzTXBoaUtWRXdiaVJvbk1RdHRFUXFlWTYxdmsyQkp2MDZ4UXJqOTltQk9UMnlZaU90VUZQNUd2Zw?oc=5",
+      "domain": "votes.decisiondeskhq.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -857,24 +902,6 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Berkeley",
-      "published": "2026-10-23T15:00:00Z",
-      "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
-      "domain": "dailycal.org",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Proposed / Process",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
     }
   ],
   "state_feeds": {
@@ -956,7 +983,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Berkeley",
-        "published": "2026-11-09T16:59:42Z",
+        "published": "2026-11-09T08:00:00Z",
         "title": "Berkeley Heights Council to Discuss Rent Stabilization, Sewer Fees on Tuesday",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTBDVk1lYlJiLVozSHFGZ3NHRzJ6aTZOdEMyVkhXV3NURWd5UklBb056SEsxMUNydlcyaXdmOWdiM1I4VWdBV18tQWtCX3psNklCVlZKdVFEOHZyTzl5T0pMRnhQelVOb1NONmUzMDZyeEJUVW4xelNnemdRZTZGSEZKRWszQTJBRU5WY3ZhNWVoUXluMldQRXB2TkVZejZGNjNocllnMVFXTmgzNTc5ZV9aUmpUOHZwalEwajl4SjF5ZjNUY05kWDNwUWtsaFJNa0dxOF9sU0h1NDNkQkNiaGNKN1BOQkE?oc=5",
         "domain": "tapinto.net",
@@ -967,8 +994,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1008,24 +1034,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-11-05T05:11:00Z",
-        "title": "Salinas voters reject bid to repeal rent stabilization",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURhNS0ybmd4UUNOQjRIWGVYVWNyVzUyT3lIekdIamNLaThOaW9jWDE4bndNeXdxUVpqanpabTBlWDhCTzNteDMwZWpYdENzcnB0UkNtY1BQcWY2VnppazhyTVBJX2JhTnF1MFg3bkNzNzlJZmY5T0dySy1oZ2hVbW52ZktEeDFFVUw2U2IteG1mUlg1WTBydUMzOGxGdnIwV0xRcGRIdk9US2hULThaVWNKTE5MZzdmVzdCRlZxR1VvT1dX?oc=5",
-        "domain": "thecalifornian.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "",
         "published": "2026-11-04T22:24:53Z",
         "title": "Redwood City: Rent Control Measure Lags Behind In Early Results",
@@ -1034,24 +1042,6 @@
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-11-04T21:14:00Z",
-        "title": "Despite a big-spending campaign by property owners, Salinas residents vote to keep rent stabilization.",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNHdqZm1LRlNBaW5Oc25IZDZwT0pqVTNsck93ZndEaTZRWmtLUGo2MXY5OWtNRzFadGFMMm00VzJZZXVheVNTSmpJcEZMZVdtNFVuUFhCZG1lMXY0ZkdILU9HV2xmUXFfdmczd0RVRTNnY1kyZ2dUMURiajBPQ0NMUU80TFZJek54OFMtU3RJa0o5bGphWkJNMk13U29lQmlnN1pFYmZHNTlFTTh3dEdiVlpRTWRZZnYwWnB4czJaeUpoYnJrOFVLSUZwbU9JYkg4cl9HV0k3eWpWeUduUTd3bzM3SkxzS0RtY3g0LV82WmJQOUpYejh3bGxvOG11YzhPX0ZQZTBIY1NCT19DSkpYVFYwZnFQWkZFa0JvX0JlQm7SAaYCQVVfeXFMTXMzX2hNZklMNFBlcHlobFZQU1pLMzdJZy1MUVVhd1R1NnFfLXdWbmo1VTZSNzlEV0Rpd19iNHZOb2hzamo1MHpSSzRZRWpvTmRCSmNvc3Y5dW00ZUpaM3FDLWZUaW5CaEZ0QUxqTU45eEhEdkpwd3FPYmpCVmNYWkQ5XzhobC03MER2djVCVzBNSTF5VUMyeHhRd3Nja19aRktndTlmR3JaNU1Cb0JzbXRsalpuTDJMUk5vNV9qYWE1b0dXZE1Sck1QZDZhblZORzdJSi1mSVlnYi1feGpoNVRmSWFsdjVtNy1NNVZjSnlLYnJVOW1nVi1kV1lJOXA0LWZVWEU5YjViMnVyMC1rUHBxcUQyTm9BV3Zxa2h4RzhXMjJISWNR?oc=5",
-        "domain": "montereycountynow.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
@@ -1090,6 +1080,23 @@
         "status": "Proposed / Process",
         "direction": "Restrictive",
         "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-11-04T08:00:00Z",
+        "title": "Salinas voters reject bid to repeal rent stabilization",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURhNS0ybmd4UUNOQjRIWGVYVWNyVzUyT3lIekdIamNLaThOaW9jWDE4bndNeXdxUVpqanpabTBlWDhCTzNteDMwZWpYdENzcnB0UkNtY1BQcWY2VnppazhyTVBJX2JhTnF1MFg3bkNzNzlJZmY5T0dySy1oZ2hVbW52ZktEeDFFVUw2U2IteG1mUlg1WTBydUMzOGxGdnIwV0xRcGRIdk9US2hULThaVWNKTE5MZzdmVzdCRlZxR1VvT1dX?oc=5",
+        "domain": "thecalifornian.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Easing",
+        "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -1142,6 +1149,40 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Despite a big-spending campaign by property owners, Salinas residents vote to keep rent stabilization.",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObnRFU0RnTmwxQzE3NEF2RkpHVjh0ckNkSjVhd3gtbEZlaGdXb3ZUM0hIU3VId1JXbGV3clJSTF82R1dMR0tfcXdyRnAtb3lPa3dHWWpwdVlqc3ItUG9nYkJndVBXZk93anpSMURVVzNyTlVTYVBoZkJxaUE5N1ZBSFV2RUlOWmhaMnpuYXVrbmxqWnRQZnU3amdJNEdVam9sejA0RDZoOEZLWEdIVHgzSU44NGV2Zk5fOTQ4ZlI0c05yemcyWlMzUS1ZWVp1VDZWZEI0UksxSTB4SVpSNzRHOWNGX0E3RWc4eE85cUgwZE9SOXl3Q2YyYWRIeXpvRGdaT21ld2twVjBLM3RCcTNObU9VTGtWZWNEcUljaWNja0JkWVZCel9V0gGsAkFVX3lxTE4wSzdiUl9la3R4YzF1OHdLalBWampPNzUxdnJ0a0kyeUIteDA3V1ZWaWxoSVRBSWlfam9saWZmVnJKSDFfREl1aGpEczhRcVhhZm41NVVNWDZiQXRKZ3Z5VmZwODF4RU1MWG5tSnEyeFAxYm5CZnhHam9rdHlkLURxTnRUMWpQeHZHUFNtZ1dJTENNTUF4X2E5UUpoSmJwNFFhR3FFUXJKWUVDRkY3ZzFfZmN0SS1XbXl1SldIYk1hd0ZCc18za3dFM0NqczNyNmJoNEM5WFpWNU03b01EdFRQa29YcXc0QXJCZ0NzR05jcXFMbm1iR1llTUhzVjdjTzY1V3V0OFhwRDh4WHEwUWZFRGdsUHliVnFuaEtSS1BHbGhaSUVwZG80VmlIVA?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Monica",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "2026 CA Santa Monica Rent Stabilization Board At-Large General Election Results",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2w4Q0c2MFVaMzRiRE81bnBHc01qVDh6UXcyT2FSSC01WGswTjdhRFRjSkhGbHFGdFkyYnlkejd3RDJtRDhoV3U3QnlpRHdDMHp5cU1VdUwwV3BNVFdxbmFNWnJQT2t4UG4tTmx3SEtwRi1kXzV4Z1ZISHh0bmw3SGF5SnhPbG5TLVEzTXBoaUtWRXdiaVJvbk1RdHRFUXFlWTYxdmsyQkp2MDZ4UXJqOTltQk9UMnlZaU90VUZQNUd2Zw?oc=5",
+        "domain": "votes.decisiondeskhq.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1249,24 +1290,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-10-23T15:00:00Z",
-        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
-        "domain": "dailycal.org",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Proposed / Process",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CO": [],
@@ -1277,10 +1300,10 @@
         "state": "FL",
         "state_name": "Florida",
         "locality": "",
-        "published": "2026-11-12T08:00:00Z",
+        "published": "2026-11-18T18:15:35Z",
         "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
-        "domain": "wlrn.org",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcWdpV1VnWjZ6Uld6RmM4Y1FQaWhoY1Y4MUpvcFV2SFVLeEtCd2FOUlAzeDZiN2t5RGplcU9Md2ZabGllcmcyVFFKXzdmSDdpU1lUeEhTRW1ZZ2JFVUJCZmliTWljMWIwQ2N3NF84MVd1enlEdkxtYXJoRXhnbG56MThWa2oxU2hpQndQUDBJam1ENlliMmhHcnBYMV8zanAzdTJ3YWFkQWgxZjY4bnlSeG9ic3Q1RVdyTTlDQmRXYnJTQ2ZFOE5TSS15V0l6cTM4MExXdnFaMEdrN254eS1SYnJvUUJUUGp6VDNzbXZFQmVhS3VFSVBYNlBmUTh3QjBBWG9PSNIBigJBVV95cUxNb2RGMl9lRDI4eXN5QTdMaFlVQm5UWVJzTlAtSWRydWcxY3FOdi1yWVhMQ0lGZjJuQjNNcElrVVZ4VVVmOHBfX1lidjdIa3BMMFRoMXM5SnVCb0tOMDItM1hqWTJnNDI5T2gxVEYwY3Y0aVVVU3kyZi1aLWJYSTJRaVVpTUxjTDZHbDh0QnpxQk5oRjJoelQwTzhIQzR0NkRPUjJ1ODdBdmNkR1hKTjl0NWMzNmFmbnAzMmhldDdOeDJFVWZvcjhET2dYQXZNbkR2Wk9xcllMclY3dl91cEdZdHpGNHZUdjZTbmw1OXpHbmgzdktyUGIzeWpVZ0xzcHpEcnNib0Fhb0NwQQ?oc=5",
+        "domain": "miamitimesonline.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Proposed / Process",
@@ -1307,7 +1330,7 @@
         "locality": "",
         "published": "2026-11-23T06:00:00Z",
         "title": "Most Lewiston mobile home residents wouldn’t be covered by the city’s proposed rent cap",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0JCb2RNSGI0OWZiU0tpOXM0Y2RzRExCLTBfTTV1V0ZFLVFMVnN1bWl2M1pTTHVBOEQ5SUZmaFVsZ09WWG4tNHJ3Q0xTSEVZeWxsWU5NTTV2Smc2ZzhlNkYwM1ZRWEdCZnlNZjV1MkFUSlF1OVBHV2NxOGRHTHAzYWpXUmFfTDZJTDhVaU1BTWxPckp3VmItNzZicm5RbGdfcm0wLTkxNDVsMkxLdlB6S2NnbWxmQWI3Y1JIek5xZlo5RXZM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHJSRE0wZDVHemkxTDhJdF9ldlFjNi1ieV9US3FQTjhqNWg5RWl3YkRmZTNlYnZ2c2lnLXRRRnlzLURkT0pPQ0lfYUx6OFljU0lrUmtWMGNPaGZVaHpsbXRyTnhMNjh6WUp1d1lEcE00TlZsSzhXb200QWoxUjdDTWwxWUVBZF9KT0ZDTy1QNWJKclNsb2R4Y3J6WjVBYVJEd2dlbzdKQkF0LWVaOEE?oc=5",
         "domain": "bangordailynews.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -1404,7 +1427,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "MD",
@@ -1456,7 +1480,24 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-22T20:45:00Z",
+        "published": "2026-11-23T19:38:00Z",
+        "title": "Jersey City rent control push stalls as LeFrak strikes affordability deal",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUNQaEpUbnNSZUxHeVdiUnBvQ2d2d3YwZktucDloanpkQk5lRkZnWDM2a0lBSFdpY1VUM3dFTURLR1ZhVlZ2MXFQV2VYV0l6bFE3cUhPY3hkVmRUWFd1YUp4MzRMOEZQYlZFS05OYmZHRTIzTHV2bVV4MTFoaGpiU3dpQnNwY2pQdGFDVjM1SVE1TXNpTUhkaXd1VFFGNDVCbWZZc0ZZa0djZ0Via3FMazZoYw?oc=5",
+        "domain": "therealdeal.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-23T18:44:00Z",
         "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
         "domain": "gothamist.com",
@@ -1518,14 +1559,13 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "",
-        "published": "2026-11-11T11:30:03Z",
+        "published": "2026-11-11T08:00:00Z",
         "title": "New Jersey Voters Overrule Landlord Opposition and Bring Back $20 Rent Increase Limit",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY1ZnU1VmSlc0YmJ1ZnJuNDdXU2k3QnJ2Z3U4aW5vblBDSk9JUlFEWDktbjZOWlFNNlBHYkN1MXF6Q0pEWkRDUXR2ZUs5U2lISEFCY1lSUVVqZ2NMVEt1QTZ6R1RLMUpTc3N3V1liOURFSjVINXNIM2hXTm1pbndLRFpUTC1oZk5rWjlDQ2JMQm0wZXdXSjhYYllMVGtBMUFVLU1aSw?oc=5",
         "domain": "yahoo.com",
@@ -1536,14 +1576,13 @@
         "direction_score": -1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-10T14:36:10Z",
+        "published": "2026-11-10T08:00:00Z",
         "title": "Jersey City Council reviews rent control expansion & Newport PILOT at caucus",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUF9OMTdyOER5UFVud1Jlb3BXZXZDa0RPTVppRk42VTRHOXVqalN4dWJtNWdnaTJBTUhHRzZvR2ZLMkFlLVYzb3VpWjhVb0s2TkY1Tng0aEpxTDZfM2RsT1dQOW9mS2ZQM0tLVmQ1RWxsck95M1psUHNuRWNUV212dFhuV3ZIb29vbWpEd0xGdGVTbURvOURjRGNLT1dqenFfeGRxWWxURQ?oc=5",
         "domain": "hudsoncountyview.com",
@@ -1554,14 +1593,13 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-09T10:39:37Z",
+        "published": "2026-11-09T08:00:00Z",
         "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
         "domain": "hudsoncountyview.com",
@@ -1572,8 +1610,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1597,7 +1634,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-03T15:53:48Z",
+        "published": "2026-11-03T08:00:00Z",
         "title": "LETTER: Jersey City’s ‘rent control laws hurt the small homeowner’",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVJUeVk2NXNjeVlXYjBMQ3kzZktEc0cyWGEwYTNEeWtzeC1CNWpIOFZ3TnE1WEFoUFJuVHNWY1dNajNwTjlaRmlxd0dGSm5FNWtxWXdtMElfeGdZWGVyR0hpWEdDLVBzb3JtNXFwd2lISFpIN1VQREZYN0xNZVhiMXZ5NnUtZC1CQXRmcUtVNHk5NUw1OHh3?oc=5",
         "domain": "hudsoncountyview.com",
@@ -1608,12 +1645,28 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "NM": [],
     "NY": [
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "",
+        "published": "2026-11-23T22:35:00Z",
+        "title": "Mamdani’s rent control fairy tale is bad news for New York — but he keeps telling it",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYkpFWEhJVHhTd0N1REVCbURndGVtX0YtekpBREFvcTF0VXFNTFdTMnkybzdBZGVhNElBdUxMZGhlaFJzUGhvYVYwazVUMWUtS1dYdWxYWEFXVFJ1ZVF1bmFkTFZ2MzRSOGdaTDBSMm9TOWxkWU13TzE1U0NRRl8tTFRLNG94SFYyaTlLUWhPTG9RY0xJRGpULXBVUVpnMjFuR0lPeFI3MVV3MnJfNUFrNFlfSzNxZlhTcXR1dWx6cDRWUS13NjdBRWd3?oc=5",
+        "domain": "nypost.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
       {
         "state": "NY",
         "state_name": "New York",
@@ -1730,7 +1783,7 @@
         "state": "RI",
         "state_name": "Rhode Island",
         "locality": "",
-        "published": "2026-11-04T01:02:59Z",
+        "published": "2026-11-03T08:00:00Z",
         "title": "Rent stabilization, Flock cameras on the mind of City Council candidate",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcl9MUGNGaThyeUdvY21IZmY3M1R1VDA3RTAybVBra3JKWXFlUjlUU2NKeC1MS0FUR203RkEtWTlLMk5nbHdZaHNMcGk3YURvOU92OVBUUHNLNHE5RGcxQWJSMk1MbWpIU0dpRWxpWlV3UjV3S0hTMkxXNWV3MWE2QkQ3YzlVSGhkeFIyYnVia1hpaE10S3NiTmh0OEpxZFJlNTFtUXhWVHVMWmV1czJXRWxhOC05dmc4WS16T0l4VVpQTXc5R0Y4UFlyOU1sOVJpRGREbF91TnA0aTV3QzFYZkhRVHUybGM5TXZtdmJsZW5BRXBCSnc?oc=5",
         "domain": "providencejournal.com",
@@ -1741,8 +1794,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "SC": [],
@@ -1764,7 +1816,24 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-22T20:45:00Z",
+        "published": "2026-11-23T19:38:00Z",
+        "title": "Jersey City rent control push stalls as LeFrak strikes affordability deal",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUNQaEpUbnNSZUxHeVdiUnBvQ2d2d3YwZktucDloanpkQk5lRkZnWDM2a0lBSFdpY1VUM3dFTURLR1ZhVlZ2MXFQV2VYV0l6bFE3cUhPY3hkVmRUWFd1YUp4MzRMOEZQYlZFS05OYmZHRTIzTHV2bVV4MTFoaGpiU3dpQnNwY2pQdGFDVjM1SVE1TXNpTUhkaXd1VFFGNDVCbWZZc0ZZa0djZ0Via3FMazZoYw?oc=5",
+        "domain": "therealdeal.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NJ",
+        "state_name": "New Jersey",
+        "locality": "Jersey City",
+        "published": "2026-11-23T18:44:00Z",
         "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
         "domain": "gothamist.com",
@@ -1826,14 +1895,13 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-10T14:36:10Z",
+        "published": "2026-11-10T08:00:00Z",
         "title": "Jersey City Council reviews rent control expansion & Newport PILOT at caucus",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUF9OMTdyOER5UFVud1Jlb3BXZXZDa0RPTVppRk42VTRHOXVqalN4dWJtNWdnaTJBTUhHRzZvR2ZLMkFlLVYzb3VpWjhVb0s2TkY1Tng0aEpxTDZfM2RsT1dQOW9mS2ZQM0tLVmQ1RWxsck95M1psUHNuRWNUV212dFhuV3ZIb29vbWpEd0xGdGVTbURvOURjRGNLT1dqenFfeGRxWWxURQ?oc=5",
         "domain": "hudsoncountyview.com",
@@ -1844,14 +1912,13 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-09T10:39:37Z",
+        "published": "2026-11-09T08:00:00Z",
         "title": "Op-Ed: The luxury rent control proposal in Jersey City is a vibe-based policy",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGtQVUpVQnRibHdHMmFFZzR0bGZFaHB1a0g4X1NaNG55Uk8zazVNMkJjRUFDUWdWYzQ0QnJYdWtNa1d4V2tIVTNYcmFueW1tNTNRMldHT05EX1o4ZXB6TGxRV054VzlnN0hNWkdwSTVNdzY3cEtKOUlaZkYxNm9KaTBHeGM0YU03VTk3QWp0dW1CWTFaU0NpdmpKWVl1bi1aYzZSa0doZHN6QQ?oc=5",
         "domain": "hudsoncountyview.com",
@@ -1862,14 +1929,13 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-03T15:53:48Z",
+        "published": "2026-11-03T08:00:00Z",
         "title": "LETTER: Jersey City’s ‘rent control laws hurt the small homeowner’",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVJUeVk2NXNjeVlXYjBMQ3kzZktEc0cyWGEwYTNEeWtzeC1CNWpIOFZ3TnE1WEFoUFJuVHNWY1dNajNwTjlaRmlxd0dGSm5FNWtxWXdtMElfeGdZWGVyR0hpWEdDLVBzb3JtNXFwd2lISFpIN1VQREZYN0xNZVhiMXZ5NnUtZC1CQXRmcUtVNHk5NUw1OHh3?oc=5",
         "domain": "hudsoncountyview.com",
@@ -1880,8 +1946,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "MD|Frederick": [
@@ -1900,7 +1965,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "MD",
@@ -2050,7 +2116,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Berkeley",
-        "published": "2026-11-09T16:59:42Z",
+        "published": "2026-11-09T08:00:00Z",
         "title": "Berkeley Heights Council to Discuss Rent Stabilization, Sewer Fees on Tuesday",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTBDVk1lYlJiLVozSHFGZ3NHRzJ6aTZOdEMyVkhXV3NURWd5UklBb056SEsxMUNydlcyaXdmOWdiM1I4VWdBV18tQWtCX3psNklCVlZKdVFEOHZyTzl5T0pMRnhQelVOb1NONmUzMDZyeEJUVW4xelNnemdRZTZGSEZKRWszQTJBRU5WY3ZhNWVoUXluMldQRXB2TkVZejZGNjNocllnMVFXTmgzNTc5ZV9aUmpUOHZwalEwajl4SjF5ZjNUY05kWDNwUWtsaFJNa0dxOF9sU0h1NDNkQkNiaGNKN1BOQkE?oc=5",
         "domain": "tapinto.net",
@@ -2061,8 +2127,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2114,24 +2179,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-10-23T15:00:00Z",
-        "title": "Endorsement: Vote for the Berkeley Right to Housing Rent Board Slate | Editorials | dailycal.org",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhBVXV1by0xTWFLeW1TNENiQV9mYWhHaFlBVG1jVkNQUFI0RFR2akYyVlJHUGxpWXhMLTJ1bTBHVWJObFdJaVhjajlrUDVtb3RWRlFDSzdNazI3OU91ZkpHS1hOaHZXR0FUMm54QzNhUUJuWDNpZHkzS3MyOXhxdHUzRmd3dHhWc3N0SUs4TFh2N19hcF9HakR5MUtBUXJ1dFduZVp0QllleWwtdVBwelAtaVJieXFQczRTcmN5TUQxR3JFcWZYdVJSYWVON2pieW1pdFU0LVNhM25NRVhJN3FId2RGR2YzVjhSdGdyLVhidTQ?oc=5",
-        "domain": "dailycal.org",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Proposed / Process",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "ME|Portland": [
@@ -2151,44 +2198,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      }
-    ],
-    "CA|Salinas": [
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-11-05T05:11:00Z",
-        "title": "Salinas voters reject bid to repeal rent stabilization",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURhNS0ybmd4UUNOQjRIWGVYVWNyVzUyT3lIekdIamNLaThOaW9jWDE4bndNeXdxUVpqanpabTBlWDhCTzNteDMwZWpYdENzcnB0UkNtY1BQcWY2VnppazhyTVBJX2JhTnF1MFg3bkNzNzlJZmY5T0dySy1oZ2hVbW52ZktEeDFFVUw2U2IteG1mUlg1WTBydUMzOGxGdnIwV0xRcGRIdk9US2hULThaVWNKTE5MZzdmVzdCRlZxR1VvT1dX?oc=5",
-        "domain": "thecalifornian.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Easing",
-        "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Salinas",
-        "published": "2026-11-04T21:14:00Z",
-        "title": "Despite a big-spending campaign by property owners, Salinas residents vote to keep rent stabilization.",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNHdqZm1LRlNBaW5Oc25IZDZwT0pqVTNsck93ZndEaTZRWmtLUGo2MXY5OWtNRzFadGFMMm00VzJZZXVheVNTSmpJcEZMZVdtNFVuUFhCZG1lMXY0ZkdILU9HV2xmUXFfdmczd0RVRTNnY1kyZ2dUMURiajBPQ0NMUU80TFZJek54OFMtU3RJa0o5bGphWkJNMk13U29lQmlnN1pFYmZHNTlFTTh3dEdiVlpRTWRZZnYwWnB4czJaeUpoYnJrOFVLSUZwbU9JYkg4cl9HV0k3eWpWeUduUTd3bzM3SkxzS0RtY3g0LV82WmJQOUpYejh3bGxvOG11YzhPX0ZQZTBIY1NCT19DSkpYVFYwZnFQWkZFa0JvX0JlQm7SAaYCQVVfeXFMTXMzX2hNZklMNFBlcHlobFZQU1pLMzdJZy1MUVVhd1R1NnFfLXdWbmo1VTZSNzlEV0Rpd19iNHZOb2hzamo1MHpSSzRZRWpvTmRCSmNvc3Y5dW00ZUpaM3FDLWZUaW5CaEZ0QUxqTU45eEhEdkpwd3FPYmpCVmNYWkQ5XzhobC03MER2djVCVzBNSTF5VUMyeHhRd3Nja19aRktndTlmR3JaNU1Cb0JzbXRsalpuTDJMUk5vNV9qYWE1b0dXZE1Sck1QZDZhblZORzdJSi1mSVlnYi1feGpoNVRmSWFsdjVtNy1NNVZjSnlLYnJVOW1nVi1kV1lJOXA0LWZVWEU5YjViMnVyMC1rUHBxcUQyTm9BV3Zxa2h4RzhXMjJISWNR?oc=5",
-        "domain": "montereycountynow.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "NJ|Elizabeth": [
@@ -2230,6 +2239,61 @@
         "discovery_provider": "Google News RSS"
       }
     ],
+    "CA|Salinas": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-11-04T08:00:00Z",
+        "title": "Salinas voters reject bid to repeal rent stabilization",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURhNS0ybmd4UUNOQjRIWGVYVWNyVzUyT3lIekdIamNLaThOaW9jWDE4bndNeXdxUVpqanpabTBlWDhCTzNteDMwZWpYdENzcnB0UkNtY1BQcWY2VnppazhyTVBJX2JhTnF1MFg3bkNzNzlJZmY5T0dySy1oZ2hVbW52ZktEeDFFVUw2U2IteG1mUlg1WTBydUMzOGxGdnIwV0xRcGRIdk9US2hULThaVWNKTE5MZzdmVzdCRlZxR1VvT1dX?oc=5",
+        "domain": "thecalifornian.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Easing",
+        "direction_score": -1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Salinas",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Despite a big-spending campaign by property owners, Salinas residents vote to keep rent stabilization.",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObnRFU0RnTmwxQzE3NEF2RkpHVjh0ckNkSjVhd3gtbEZlaGdXb3ZUM0hIU3VId1JXbGV3clJSTF82R1dMR0tfcXdyRnAtb3lPa3dHWWpwdVlqc3ItUG9nYkJndVBXZk93anpSMURVVzNyTlVTYVBoZkJxaUE5N1ZBSFV2RUlOWmhaMnpuYXVrbmxqWnRQZnU3amdJNEdVam9sejA0RDZoOEZLWEdIVHgzSU44NGV2Zk5fOTQ4ZlI0c05yemcyWlMzUS1ZWVp1VDZWZEI0UksxSTB4SVpSNzRHOWNGX0E3RWc4eE85cUgwZE9SOXl3Q2YyYWRIeXpvRGdaT21ld2twVjBLM3RCcTNObU9VTGtWZWNEcUljaWNja0JkWVZCel9V0gGsAkFVX3lxTE4wSzdiUl9la3R4YzF1OHdLalBWampPNzUxdnJ0a0kyeUIteDA3V1ZWaWxoSVRBSWlfam9saWZmVnJKSDFfREl1aGpEczhRcVhhZm41NVVNWDZiQXRKZ3Z5VmZwODF4RU1MWG5tSnEyeFAxYm5CZnhHam9rdHlkLURxTnRUMWpQeHZHUFNtZ1dJTENNTUF4X2E5UUpoSmJwNFFhR3FFUXJKWUVDRkY3ZzFfZmN0SS1XbXl1SldIYk1hd0ZCc18za3dFM0NqczNyNmJoNEM5WFpWNU03b01EdFRQa29YcXc0QXJCZ0NzR05jcXFMbm1iR1llTUhzVjdjTzY1V3V0OFhwRDh4WHEwUWZFRGdsUHliVnFuaEtSS1BHbGhaSUVwZG80VmlIVA?oc=5",
+        "domain": "montereycountynow.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Proposed / Process",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
+    "CA|Santa Monica": [
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Monica",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "2026 CA Santa Monica Rent Stabilization Board At-Large General Election Results",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2w4Q0c2MFVaMzRiRE81bnBHc01qVDh6UXcyT2FSSC01WGswTjdhRFRjSkhGbHFGdFkyYnlkejd3RDJtRDhoV3U3QnlpRHdDMHp5cU1VdUwwV3BNVFdxbmFNWnJQT2t4UG4tTmx3SEtwRi1kXzV4Z1ZISHh0bmw3SGF5SnhPbG5TLVEzTXBoaUtWRXdiaVJvbk1RdHRFUXFlWTYxdmsyQkp2MDZ4UXJqOTltQk9UMnlZaU90VUZQNUd2Zw?oc=5",
+        "domain": "votes.decisiondeskhq.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      }
+    ],
     "CA|West Hollywood": [
       {
         "state": "CA",
@@ -2252,9 +2316,9 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 36,
+    "Restrictive": 39,
     "Easing": 7,
-    "Neutral": 7
+    "Neutral": 6
   },
   "health": {
     "queries": 8,
@@ -2264,7 +2328,7 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 50
+    "retained_articles": 52
   },
   "errors": [
     {
@@ -2274,7 +2338,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 2,
+      "query": 3,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2284,7 +2348,7 @@
     },
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 2,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
