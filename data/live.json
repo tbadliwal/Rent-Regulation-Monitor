@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-11-24T22:36:50.992062Z",
+  "generated_at": "2026-11-25T08:51:28.893968Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
   "articles": [
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Monica",
+      "published": "2026-11-24T21:43:11Z",
+      "title": "Santa Monica Pushes Rent Registry Tenant Protections Back to 2028",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc19QSE9CdnZGckFfbWVKSW4wN3BiMmRpb3pjMjVOSEp2eERxY0hiQ0p6ckZxZEtyOExsdnJqTjRxZ3FrUEdiMk4zcjlXS3JwZjFlLVM3eGZvU296OUYyS1RCVzNZX1BGTlR4OHVfUE1sc1JsQUNyMmhpRzFUSjV3bWFEeGhHa1pYeF9SV1JtYWZLN0JGVXhQUjI4Zw?oc=5",
+      "domain": "hoodline.com",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Registered rental units; ordinance-specific coverage",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
     {
       "state": "CA",
       "state_name": "California",
@@ -19,7 +36,8 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -355,7 +373,7 @@
       "locality": "Berkeley",
       "published": "2026-11-11T08:00:00Z",
       "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
       "domain": "tapinto.net",
       "source_country": "United States",
       "type": "Rent Amount Control",
@@ -401,23 +419,6 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "",
-      "published": "2026-11-09T08:00:00Z",
-      "title": "Wrubel widens lead in District 1, ‘right to housing’ slate nears Rent Board sweep",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlFQbFBld3l5M1pESkVTbnZFVGstaXphTEtJVFBvaGNnUlRZYmxHcW43bHJZUUMtOEFEdXJwNHJ3QWhsT2dPY3ZSSGJNcW9lcHFvNzBHS2c3UFNlZWUwY3dKdjhDRzVfWkFSZjZEelFtSkR6cXl0ZnRaWFk1azRTV1FKZm9RVENURFJQcHZpR0NUbjFVU21CcG93?oc=5",
-      "domain": "berkeleyside.org",
-      "source_country": "United States",
-      "type": "Tenant / Rental Policy",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
@@ -450,6 +451,24 @@
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "",
+      "published": "2026-11-09T08:00:00Z",
+      "title": "Wrubel widens lead in District 1, ‘right to housing’ slate nears Rent Board sweep",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlFQbFBld3l5M1pESkVTbnZFVGstaXphTEtJVFBvaGNnUlRZYmxHcW43bHJZUUMtOEFEdXJwNHJ3QWhsT2dPY3ZSSGJNcW9lcHFvNzBHS2c3UFNlZWUwY3dKdjhDRzVfWkFSZjZEelFtSkR6cXl0ZnRaWFk1azRTV1FKZm9RVENURFJQcHZpR0NUbjFVU21CcG93?oc=5",
+      "domain": "berkeleyside.org",
+      "source_country": "United States",
+      "type": "Tenant / Rental Policy",
+      "status": "Discovery",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -645,23 +664,6 @@
     {
       "state": "CA",
       "state_name": "California",
-      "locality": "Berkeley",
-      "published": "2026-11-03T08:00:00Z",
-      "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
-      "domain": "dailycal.org",
-      "source_country": "United States",
-      "type": "Registry / Enforcement",
-      "status": "Enforcement / Administration",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Rental housing / multifamily mentioned",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
       "locality": "Santa Barbara",
       "published": "2026-11-03T08:00:00Z",
       "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
@@ -752,6 +754,40 @@
       "title": "2026 CA Santa Monica Rent Stabilization Board At-Large General Election Results",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2w4Q0c2MFVaMzRiRE81bnBHc01qVDh6UXcyT2FSSC01WGswTjdhRFRjSkhGbHFGdFkyYnlkejd3RDJtRDhoV3U3QnlpRHdDMHp5cU1VdUwwV3BNVFdxbmFNWnJQT2t4UG4tTmx3SEtwRi1kXzV4Z1ZISHh0bmw3SGF5SnhPbG5TLVEzTXBoaUtWRXdiaVJvbk1RdHRFUXFlWTYxdmsyQkp2MDZ4UXJqOTltQk9UMnlZaU90VUZQNUd2Zw?oc=5",
       "domain": "votes.decisiondeskhq.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Berkeley",
+      "published": "2026-11-03T08:00:00Z",
+      "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+      "domain": "dailycal.org",
+      "source_country": "United States",
+      "type": "Registry / Enforcement",
+      "status": "Enforcement / Administration",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "New York City",
+      "published": "2026-11-02T15:52:08Z",
+      "title": "SCOTUS Declines To Review New York City's Rent Stabilization Law",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY3dDa3htT3hBSHBsY0dIXzRPbUpsdnZ5aGNCX05zTm9vN1hvMk51dk45NHp6LUlXOVNfdUxCalYxTHdsYUVZUlZ1Uk1sTkhpeUROb3ViOFEyQlc5NlN4YzR2aU82NVNRZ3pmeThGZnJOQUV4ZDV6anVSdjE2NGVyZ2tJbnJuN3pLSTFOLUxPcXRaYTlZUDZZM1E5eVRhYlhSX1RWTDZLdEthdEQ2TG0yMl9SQmZMSzRsa1ppNURxdVdIWG5fb01mSnBKX1FZckZjcG5NekxJOWdUdXlwU1VzNA?oc=5",
+      "domain": "legal500.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
@@ -965,7 +1001,7 @@
         "state_name": "California",
         "locality": "Santa Monica",
         "published": "2026-11-24T21:43:11Z",
-        "title": "Santa Monica Rent Registry Tenant Defense Delayed to 2028",
+        "title": "Santa Monica Pushes Rent Registry Tenant Protections Back to 2028",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc19QSE9CdnZGckFfbWVKSW4wN3BiMmRpb3pjMjVOSEp2eERxY0hiQ0p6ckZxZEtyOExsdnJqTjRxZ3FrUEdiMk4zcjlXS3JwZjFlLVM3eGZvU296OUYyS1RCVzNZX1BGTlR4OHVfUE1sc1JsQUNyMmhpRzFUSjV3bWFEeGhHa1pYeF9SV1JtYWZLN0JGVXhQUjI4Zw?oc=5",
         "domain": "hoodline.com",
         "source_country": "United States",
@@ -976,6 +1012,24 @@
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Monica",
+        "published": "2026-11-24T21:43:11Z",
+        "title": "Santa Monica Rent Registry Tenant Defense Delayed to 2028",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc19QSE9CdnZGckFfbWVKSW4wN3BiMmRpb3pjMjVOSEp2eERxY0hiQ0p6ckZxZEtyOExsdnJqTjRxZ3FrUEdiMk4zcjlXS3JwZjFlLVM3eGZvU296OUYyS1RCVzNZX1BGTlR4OHVfUE1sc1JsQUNyMmhpRzFUSjV3bWFEeGhHa1pYeF9SV1JtYWZLN0JGVXhQUjI4Zw?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1035,30 +1089,13 @@
         "locality": "Berkeley",
         "published": "2026-11-11T08:00:00Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Discovery",
         "direction": "Easing",
         "direction_score": -1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "",
-        "published": "2026-11-09T08:00:00Z",
-        "title": "Wrubel widens lead in District 1, ‘right to housing’ slate nears Rent Board sweep",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlFQbFBld3l5M1pESkVTbnZFVGstaXphTEtJVFBvaGNnUlRZYmxHcW43bHJZUUMtOEFEdXJwNHJ3QWhsT2dPY3ZSSGJNcW9lcHFvNzBHS2c3UFNlZWUwY3dKdjhDRzVfWkFSZjZEelFtSkR6cXl0ZnRaWFk1azRTV1FKZm9RVENURFJQcHZpR0NUbjFVU21CcG93?oc=5",
-        "domain": "berkeleyside.org",
-        "source_country": "United States",
-        "type": "Tenant / Rental Policy",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
@@ -1079,6 +1116,24 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "",
+        "published": "2026-11-09T08:00:00Z",
+        "title": "Wrubel widens lead in District 1, ‘right to housing’ slate nears Rent Board sweep",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlFQbFBld3l5M1pESkVTbnZFVGstaXphTEtJVFBvaGNnUlRZYmxHcW43bHJZUUMtOEFEdXJwNHJ3QWhsT2dPY3ZSSGJNcW9lcHFvNzBHS2c3UFNlZWUwY3dKdjhDRzVfWkFSZjZEelFtSkR6cXl0ZnRaWFk1azRTV1FKZm9RVENURFJQcHZpR0NUbjFVU21CcG93?oc=5",
+        "domain": "berkeleyside.org",
+        "source_country": "United States",
+        "type": "Tenant / Rental Policy",
+        "status": "Discovery",
+        "direction": "Neutral",
+        "direction_score": 0,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1170,23 +1225,6 @@
       {
         "state": "CA",
         "state_name": "California",
-        "locality": "Berkeley",
-        "published": "2026-11-03T08:00:00Z",
-        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
-        "domain": "dailycal.org",
-        "source_country": "United States",
-        "type": "Registry / Enforcement",
-        "status": "Enforcement / Administration",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Rental housing / multifamily mentioned",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
         "locality": "Santa Barbara",
         "published": "2026-11-03T08:00:00Z",
         "title": "Santa Barbara Residents Wary of Petition Against Rent Stabilization",
@@ -1249,6 +1287,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Berkeley",
+        "published": "2026-11-03T08:00:00Z",
+        "title": "Rent registry informing Berkeley housing policy hampered by voluntary landlord reporting system",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQWNXZFpTc3ptb2taYTJJQndVY1lCUDNyLWhSMFN0dzJYZFNJbGo4d1BxUGZ4QW9haFdHZTBBYWxqN3lEajl3NmowbHExakNtOEtOQ3BKRmtoeHl2ZjhWVVVDclZKR0RpUjJzd1FjREJJQTd6TDJXaWpMM0ZYWXZuZVlBTzF5LWIxOEdyeUgzZkx3T0VMWWZ2WXcwNUtkSlZ4ak0zX2VKaWNPRklvenp2RkNLUUdHR3E3NkdhdWljdVUzbnhiNEpPd3V6UUtveWV5YmFpMHVwcE1wZDZENTVzQWVFMEtsZTN3M1hHR2c3bXJKcFY5VDJ1OEFHSWwzYW5uOW93aldJRnN5QXVoY1NqcXVIeWdHOFk?oc=5",
+        "domain": "dailycal.org",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       },
@@ -1804,6 +1859,23 @@
       {
         "state": "NY",
         "state_name": "New York",
+        "locality": "New York City",
+        "published": "2026-11-02T15:52:08Z",
+        "title": "SCOTUS Declines To Review New York City's Rent Stabilization Law",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY3dDa3htT3hBSHBsY0dIXzRPbUpsdnZ5aGNCX05zTm9vN1hvMk51dk45NHp6LUlXOVNfdUxCalYxTHdsYUVZUlZ1Uk1sTkhpeUROb3ViOFEyQlc5NlN4YzR2aU82NVNRZ3pmeThGZnJOQUV4ZDV6anVSdjE2NGVyZ2tJbnJuN3pLSTFOLUxPcXRaYTlZUDZZM1E5eVRhYlhSX1RWTDZLdEthdEQ2TG0yMl9SQmZMSzRsa1ppNURxdVdIWG5fb01mSnBKX1FZckZjcG5NekxJOWdUdXlwU1VzNA?oc=5",
+        "domain": "legal500.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
         "locality": "",
         "published": "2026-11-02T08:24:49Z",
         "title": "Federal Court Partially Blocks New York’s Algorithmic Rent-Pricing Law",
@@ -1917,7 +1989,7 @@
         "state_name": "California",
         "locality": "Santa Monica",
         "published": "2026-11-24T21:43:11Z",
-        "title": "Santa Monica Rent Registry Tenant Defense Delayed to 2028",
+        "title": "Santa Monica Pushes Rent Registry Tenant Protections Back to 2028",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc19QSE9CdnZGckFfbWVKSW4wN3BiMmRpb3pjMjVOSEp2eERxY0hiQ0p6ckZxZEtyOExsdnJqTjRxZ3FrUEdiMk4zcjlXS3JwZjFlLVM3eGZvU296OUYyS1RCVzNZX1BGTlR4OHVfUE1sc1JsQUNyMmhpRzFUSjV3bWFEeGhHa1pYeF9SV1JtYWZLN0JGVXhQUjI4Zw?oc=5",
         "domain": "hoodline.com",
         "source_country": "United States",
@@ -1928,6 +2000,24 @@
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "CA",
+        "state_name": "California",
+        "locality": "Santa Monica",
+        "published": "2026-11-24T21:43:11Z",
+        "title": "Santa Monica Rent Registry Tenant Defense Delayed to 2028",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc19QSE9CdnZGckFfbWVKSW4wN3BiMmRpb3pjMjVOSEp2eERxY0hiQ0p6ckZxZEtyOExsdnJqTjRxZ3FrUEdiMk4zcjlXS3JwZjFlLVM3eGZvU296OUYyS1RCVzNZX1BGTlR4OHVfUE1sc1JsQUNyMmhpRzFUSjV3bWFEeGhHa1pYeF9SV1JtYWZLN0JGVXhQUjI4Zw?oc=5",
+        "domain": "hoodline.com",
+        "source_country": "United States",
+        "type": "Registry / Enforcement",
+        "status": "Enforcement / Administration",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Registered rental units; ordinance-specific coverage",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1962,6 +2052,23 @@
         "direction": "Restrictive",
         "direction_score": 1,
         "property_scope": "Rental housing / multifamily mentioned",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "NY",
+        "state_name": "New York",
+        "locality": "New York City",
+        "published": "2026-11-02T15:52:08Z",
+        "title": "SCOTUS Declines To Review New York City's Rent Stabilization Law",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY3dDa3htT3hBSHBsY0dIXzRPbUpsdnZ5aGNCX05zTm9vN1hvMk51dk45NHp6LUlXOVNfdUxCalYxTHdsYUVZUlZ1Uk1sTkhpeUROb3ViOFEyQlc5NlN4YzR2aU82NVNRZ3pmeThGZnJOQUV4ZDV6anVSdjE2NGVyZ2tJbnJuN3pLSTFOLUxPcXRaYTlZUDZZM1E5eVRhYlhSX1RWTDZLdEthdEQ2TG0yMl9SQmZMSzRsa1ppNURxdVdIWG5fb01mSnBKX1FZckZjcG5NekxJOWdUdXlwU1VzNA?oc=5",
+        "domain": "legal500.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
       }
@@ -2256,7 +2363,7 @@
         "locality": "Berkeley",
         "published": "2026-11-11T08:00:00Z",
         "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMnNuY2xIOVdXdGpzOXk4dEVIdmt2eFdwemFlRkp4cWh3N0JzRV9oTGozWVdvcEhSZ3pVakdHWVVRNDM4V2oxRFRCLVAtdTRYTEFMNGFzTjNsNGNaWnBKdTBrd1lmQkNlOG93V3IzTmJaYjZBQVpYWmFtLWZtU3hleHh4N0ZKR3pfcEwtR2dtLUtWQUdvY1BDek1sSkFvZ09tclBTREhyXzUtY3pCd3M2OWJpczhXTkZRUWYzX0ZWbWo0ampHdTZqUUtVakNzWlJKdHhwTDE1RVhlbmxqbVRUejAzMTZnWURmVzNucHhsejVUdTNkcUw0LTZGWGI?oc=5",
         "domain": "tapinto.net",
         "source_country": "United States",
         "type": "Rent Amount Control",
@@ -2452,7 +2559,7 @@
     ]
   },
   "direction_counts": {
-    "Restrictive": 42,
+    "Restrictive": 44,
     "Easing": 7,
     "Neutral": 6
   },
@@ -2464,12 +2571,12 @@
       "google_news_rss": 4
     },
     "errors": 4,
-    "retained_articles": 55
+    "retained_articles": 57
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 3,
+      "query": 4,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
@@ -2479,12 +2586,12 @@
     },
     {
       "provider": "GDELT",
-      "query": 1,
+      "query": 3,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 4,
+      "query": 1,
       "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
