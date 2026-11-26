@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:37:28.075668Z",
+  "generated_at": "2026-11-26T21:43:59.152260Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -299,23 +299,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-11-16T08:00:00Z",
-      "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
-      "domain": "multifamilydive.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -329,6 +312,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-11-16T08:00:00Z",
+      "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -450,7 +450,8 @@
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -818,7 +819,7 @@
       "state": "CA",
       "state_name": "California",
       "locality": "West Hollywood",
-      "published": "2026-11-02T02:04:38Z",
+      "published": "2026-11-02T08:00:00Z",
       "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
       "domain": "wehoonline.com",
@@ -829,8 +830,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -904,23 +904,6 @@
       "carried_forward": true
     },
     {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Good Cause / Just Cause",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "ME",
       "state_name": "Maine",
       "locality": "",
@@ -934,6 +917,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "CA",
+      "state_name": "California",
+      "locality": "Santa Barbara",
+      "published": "2026-10-28T07:00:00Z",
+      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
+      "domain": "independent.com",
+      "source_country": "United States",
+      "type": "Good Cause / Just Cause",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -1117,7 +1117,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1313,7 +1314,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "West Hollywood",
-        "published": "2026-11-02T02:04:38Z",
+        "published": "2026-11-02T08:00:00Z",
         "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
         "domain": "wehoonline.com",
@@ -1324,8 +1325,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2547,7 +2547,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "West Hollywood",
-        "published": "2026-11-02T02:04:38Z",
+        "published": "2026-11-02T08:00:00Z",
         "title": "West Hollywood Council Meeting November 2 Takes Up Rent Stabilization and Cannabis Tax",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leld4QTBLdFZhck90ZmpVaFhuUlptMkhnVzlvVkxUeHhzd3lzRFduSzJoeWE4a2tpbzNyV0RkczdHdE5kenllbEpYOFBOQUZtREN0WEo2MnFna1k3cnlJX1hmWGRHUW9JY0FRcWd4elF6T1E?oc=5",
         "domain": "wehoonline.com",
@@ -2558,8 +2558,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ]
   },
@@ -2581,23 +2580,23 @@
   "errors": [
     {
       "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "query": 2,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 4,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 2,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 3,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 1,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
