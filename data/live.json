@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:48:44.686832Z",
+  "generated_at": "2026-11-27T21:28:13.357966Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -8,7 +8,7 @@
       "state": "NJ",
       "state_name": "New Jersey",
       "locality": "Jersey City",
-      "published": "2026-11-25T16:21:00Z",
+      "published": "2026-11-25T08:00:00Z",
       "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
       "domain": "gothamist.com",
@@ -139,19 +139,20 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
-      "state": "FL",
-      "state_name": "Florida",
-      "locality": "",
-      "published": "2026-11-22T08:00:00Z",
-      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcWdpV1VnWjZ6Uld6RmM4Y1FQaWhoY1Y4MUpvcFV2SFVLeEtCd2FOUlAzeDZiN2t5RGplcU9Md2ZabGllcmcyVFFKXzdmSDdpU1lUeEhTRW1ZZ2JFVUJCZmliTWljMWIwQ2N3NF84MVd1enlEdkxtYXJoRXhnbG56MThWa2oxU2hpQndQUDBJam1ENlliMmhHcnBYMV8zanAzdTJ3YWFkQWgxZjY4bnlSeG9ic3Q1RVdyTTlDQmRXYnJTQ2ZFOE5TSS15V0l6cTM4MExXdnFaMEdrN254eS1SYnJvUUJUUGp6VDNzbXZFQmVhS3VFSVBYNlBmUTh3QjBBWG9PSNIBigJBVV95cUxNb2RGMl9lRDI4eXN5QTdMaFlVQm5UWVJzTlAtSWRydWcxY3FOdi1yWVhMQ0lGZjJuQjNNcElrVVZ4VVVmOHBfX1lidjdIa3BMMFRoMXM5SnVCb0tOMDItM1hqWTJnNDI5T2gxVEYwY3Y0aVVVU3kyZi1aLWJYSTJRaVVpTUxjTDZHbDh0QnpxQk5oRjJoelQwTzhIQzR0NkRPUjJ1ODdBdmNkR1hKTjl0NWMzNmFmbnAzMmhldDdOeDJFVWZvcjhET2dYQXZNbkR2Wk9xcllMclY3dl91cEdZdHpGNHZUdjZTbmw1OXpHbmgzdktyUGIzeWpVZ0xzcHpEcnNib0Fhb0NwQQ?oc=5",
-      "domain": "miamitimesonline.com",
+      "state": "MD",
+      "state_name": "Maryland",
+      "locality": "Frederick",
+      "published": "2026-11-22T13:17:24Z",
+      "title": "UG must respect Rent Control’s authority – Frederick Opoku",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN09ZQXhFdWFCZVQ2eHBjQXZJT2piaVRsTDFnWkRJUFpBcXJ5X3o0amFGS3JxdW5oUjBRaEhvSDZVX21fam5MVEhkbnpzVGVkcnEtZVR2bVI0SjN1VzhsNk1NZVJMS0hVZnhManE5czNQYVpVV29hSC1tb0dWeWEtQUFhc2dkUXhP?oc=5",
+      "domain": "mynewsgh.com",
       "source_country": "United States",
       "type": "Rent Amount Control",
-      "status": "Proposed / Process",
+      "status": "Discovery",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -173,8 +174,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "US",
@@ -191,7 +191,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -250,7 +251,7 @@
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
-      "published": "2026-11-18T11:49:33Z",
+      "published": "2026-11-18T08:00:00Z",
       "title": "Santa Barbara extends rent freeze until June vote on rent stabilization ordinance",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm16dU9xWEZOWkxUNHNsNmVDanpfeWd6VWRvYlNwWEpSbDM2ZV80Z2gwSG1XNHRON0VFTXpnTVBzRHM3WnhHSVBIOXFPZU9XSHFFZU9sOFMtb2paSk1oazJqWnMyLUVYeDVQY2NySnhrN21Wb3dmcmo2V3ZWeHoxTmxXYWFIaGpmZXdvcksxaFJkSUNsSkZUb1lnNzhKb1d4c0pvTEo1aUhyVjE1MS1rNWg5UTc0Q0JoNEFj?oc=5",
       "domain": "newspress.com",
@@ -278,7 +279,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -299,23 +301,6 @@
       "carried_forward": true
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-11-16T08:00:00Z",
-      "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
-      "domain": "multifamilydive.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
-    },
-    {
       "state": "CA",
       "state_name": "California",
       "locality": "Santa Barbara",
@@ -329,6 +314,23 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Rental housing / multifamily mentioned",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
+    },
+    {
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-11-16T08:00:00Z",
+      "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
+      "domain": "multifamilydive.com",
+      "source_country": "United States",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -347,7 +349,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "MD",
@@ -366,6 +369,23 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
+    },
+    {
+      "state": "FL",
+      "state_name": "Florida",
+      "locality": "",
+      "published": "2026-11-12T08:00:00Z",
+      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
+      "domain": "wlrn.org",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -399,7 +419,8 @@
       "direction_score": -1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NJ",
@@ -416,7 +437,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -450,7 +472,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -485,8 +508,7 @@
       "direction_score": -1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "GDELT",
-      "carried_forward": true
+      "discovery_provider": "GDELT"
     },
     {
       "state": "ME",
@@ -642,7 +664,8 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -727,7 +750,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "RI",
@@ -744,7 +768,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -761,7 +786,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -778,7 +804,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -829,7 +856,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "CA",
@@ -1002,7 +1030,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-11-18T11:49:33Z",
+        "published": "2026-11-18T08:00:00Z",
         "title": "Santa Barbara extends rent freeze until June vote on rent stabilization ordinance",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm16dU9xWEZOWkxUNHNsNmVDanpfeWd6VWRvYlNwWEpSbDM2ZV80Z2gwSG1XNHRON0VFTXpnTVBzRHM3WnhHSVBIOXFPZU9XSHFFZU9sOFMtb2paSk1oazJqWnMyLUVYeDVQY2NySnhrN21Wb3dmcmo2V3ZWeHoxTmxXYWFIaGpmZXdvcksxaFJkSUNsSkZUb1lnNzhKb1d4c0pvTEo1aUhyVjE1MS1rNWg5UTc0Q0JoNEFj?oc=5",
         "domain": "newspress.com",
@@ -1187,7 +1215,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1255,7 +1284,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1272,7 +1302,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1289,7 +1320,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1371,10 +1403,10 @@
         "state": "FL",
         "state_name": "Florida",
         "locality": "",
-        "published": "2026-11-22T08:00:00Z",
+        "published": "2026-11-12T08:00:00Z",
         "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcWdpV1VnWjZ6Uld6RmM4Y1FQaWhoY1Y4MUpvcFV2SFVLeEtCd2FOUlAzeDZiN2t5RGplcU9Md2ZabGllcmcyVFFKXzdmSDdpU1lUeEhTRW1ZZ2JFVUJCZmliTWljMWIwQ2N3NF84MVd1enlEdkxtYXJoRXhnbG56MThWa2oxU2hpQndQUDBJam1ENlliMmhHcnBYMV8zanAzdTJ3YWFkQWgxZjY4bnlSeG9ic3Q1RVdyTTlDQmRXYnJTQ2ZFOE5TSS15V0l6cTM4MExXdnFaMEdrN254eS1SYnJvUUJUUGp6VDNzbXZFQmVhS3VFSVBYNlBmUTh3QjBBWG9PSNIBigJBVV95cUxNb2RGMl9lRDI4eXN5QTdMaFlVQm5UWVJzTlAtSWRydWcxY3FOdi1yWVhMQ0lGZjJuQjNNcElrVVZ4VVVmOHBfX1lidjdIa3BMMFRoMXM5SnVCb0tOMDItM1hqWTJnNDI5T2gxVEYwY3Y0aVVVU3kyZi1aLWJYSTJRaVVpTUxjTDZHbDh0QnpxQk5oRjJoelQwTzhIQzR0NkRPUjJ1ODdBdmNkR1hKTjl0NWMzNmFmbnAzMmhldDdOeDJFVWZvcjhET2dYQXZNbkR2Wk9xcllMclY3dl91cEdZdHpGNHZUdjZTbmw1OXpHbmgzdktyUGIzeWpVZ0xzcHpEcnNib0Fhb0NwQQ?oc=5",
-        "domain": "miamitimesonline.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
+        "domain": "wlrn.org",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Proposed / Process",
@@ -1427,7 +1459,8 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "ME",
@@ -1444,8 +1477,7 @@
         "direction_score": -1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "GDELT",
-        "carried_forward": true
+        "discovery_provider": "GDELT"
       },
       {
         "state": "ME",
@@ -1505,6 +1537,23 @@
         "state": "MD",
         "state_name": "Maryland",
         "locality": "Frederick",
+        "published": "2026-11-22T13:17:24Z",
+        "title": "UG must respect Rent Control’s authority – Frederick Opoku",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN09ZQXhFdWFCZVQ2eHBjQXZJT2piaVRsTDFnWkRJUFpBcXJ5X3o0amFGS3JxdW5oUjBRaEhvSDZVX21fam5MVEhkbnpzVGVkcnEtZVR2bVI0SjN1VzhsNk1NZVJMS0hVZnhManE5czNQYVpVV29hSC1tb0dWeWEtQUFhc2dkUXhP?oc=5",
+        "domain": "mynewsgh.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Frederick",
         "published": "2026-11-19T12:57:15Z",
         "title": "Nana Aba Anamoah Names Rent Control Boss Frederick Opoku Her Man of the Year After UG Hostel Clash",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmJCcnZIdXRKOHdWd1RBQld1NGxHNkN3Qm0zbjhjRXhNSXBEcmVrZ0FVLUVNcU5IaEgyaXZNc0k4bEJLZW0xTDZ3V1B1UHdfY21GWEtYdzJWd2R1SkRnTWVOQVZZc2VzdHFFZW14ODVPU1JoUEEyYlBiU1FKM19ES2VKdzgzQzNuWm9GWGJxU0VFOV9Uak45UXpOUjlfOWZJc0FvVndGX2ktSTlZSnI2a213Qk5RX0VBT0VZajR6aFcyc0lId3I5cVZfVEFnZjA?oc=5",
@@ -1552,7 +1601,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-25T16:21:00Z",
+        "published": "2026-11-25T08:00:00Z",
         "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
         "domain": "gothamist.com",
@@ -1614,7 +1663,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1631,7 +1681,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1648,7 +1699,8 @@
         "direction_score": -1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1665,7 +1717,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1682,7 +1735,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -1717,7 +1771,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NM": [],
@@ -1900,7 +1955,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "SC": [],
@@ -1922,7 +1978,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-25T16:21:00Z",
+        "published": "2026-11-25T08:00:00Z",
         "title": "A rush to rent control in Jersey City ends in a setback for DSA council members",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFp3Y25ORFFoWjd3QjlLNW9sMzd3ZkpmNlZqTGt4aEpObDJJSEhJQm9nQUVycEF2dEFITExlTlZ5OGd0Q0xKd1FHaENfVE1kUUdHeWE0bmZDZEJqWXZWUVp6Q3QwNzVmdjI5VWN5UWlXaE9obzloNVE2bVk4Q1hVU212cnFwdzE5ZkZDWWZNTzl2LWpzd0xPWEtZdWVVTFVSd241YWI5TGprZw?oc=5",
         "domain": "gothamist.com",
@@ -1984,7 +2040,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2001,7 +2058,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2018,7 +2076,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2035,7 +2094,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "NJ",
@@ -2052,7 +2112,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|Santa Monica": [
@@ -2106,7 +2167,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "NY|New York City": [
@@ -2150,6 +2212,23 @@
         "state": "MD",
         "state_name": "Maryland",
         "locality": "Frederick",
+        "published": "2026-11-22T13:17:24Z",
+        "title": "UG must respect Rent Control’s authority – Frederick Opoku",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN09ZQXhFdWFCZVQ2eHBjQXZJT2piaVRsTDFnWkRJUFpBcXJ5X3o0amFGS3JxdW5oUjBRaEhvSDZVX21fam5MVEhkbnpzVGVkcnEtZVR2bVI0SjN1VzhsNk1NZVJMS0hVZnhManE5czNQYVpVV29hSC1tb0dWeWEtQUFhc2dkUXhP?oc=5",
+        "domain": "mynewsgh.com",
+        "source_country": "United States",
+        "type": "Rent Amount Control",
+        "status": "Discovery",
+        "direction": "Restrictive",
+        "direction_score": 1,
+        "property_scope": "Property scope must be verified in source",
+        "source_tier": "C",
+        "discovery_provider": "Google News RSS"
+      },
+      {
+        "state": "MD",
+        "state_name": "Maryland",
+        "locality": "Frederick",
         "published": "2026-11-19T12:57:15Z",
         "title": "Nana Aba Anamoah Names Rent Control Boss Frederick Opoku Her Man of the Year After UG Hostel Clash",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmJCcnZIdXRKOHdWd1RBQld1NGxHNkN3Qm0zbjhjRXhNSXBEcmVrZ0FVLUVNcU5IaEgyaXZNc0k4bEJLZW0xTDZ3V1B1UHdfY21GWEtYdzJWd2R1SkRnTWVOQVZZc2VzdHFFZW14ODVPU1JoUEEyYlBiU1FKM19ES2VKdzgzQzNuWm9GWGJxU0VFOV9Uak45UXpOUjlfOWZJc0FvVndGX2ktSTlZSnI2a213Qk5RX0VBT0VZajR6aFcyc0lId3I5cVZfVEFnZjA?oc=5",
@@ -2188,7 +2267,7 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Santa Barbara",
-        "published": "2026-11-18T11:49:33Z",
+        "published": "2026-11-18T08:00:00Z",
         "title": "Santa Barbara extends rent freeze until June vote on rent stabilization ordinance",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUm16dU9xWEZOWkxUNHNsNmVDanpfeWd6VWRvYlNwWEpSbDM2ZV80Z2gwSG1XNHRON0VFTXpnTVBzRHM3WnhHSVBIOXFPZU9XSHFFZU9sOFMtb2paSk1oazJqWnMyLUVYeDVQY2NySnhrN21Wb3dmcmo2V3ZWeHoxTmxXYWFIaGpmZXdvcksxaFJkSUNsSkZUb1lnNzhKb1d4c0pvTEo1aUhyVjE1MS1rNWg5UTc0Q0JoNEFj?oc=5",
         "domain": "newspress.com",
@@ -2453,7 +2532,8 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -2470,7 +2550,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "CA|West Hollywood": [
@@ -2489,45 +2570,41 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ]
   },
   "direction_counts": {
-    "Restrictive": 44,
+    "Restrictive": 45,
     "Easing": 6,
     "Neutral": 5
   },
   "health": {
     "queries": 8,
-    "successful_queries": 4,
+    "successful_queries": 5,
     "provider_success": {
-      "gdelt": 0,
+      "gdelt": 1,
       "google_news_rss": 4
     },
-    "errors": 4,
-    "retained_articles": 55
+    "errors": 3,
+    "retained_articles": 56
   },
   "errors": [
     {
       "provider": "GDELT",
-      "query": 1,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
-      "query": 3,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "provider": "GDELT",
       "query": 4,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "provider": "GDELT",
       "query": 2,
-      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "provider": "GDELT",
+      "query": 3,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
