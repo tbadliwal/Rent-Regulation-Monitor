@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:28:13.357966Z",
+  "generated_at": "2026-11-28T08:05:36.010247Z",
   "status": "partial",
   "window_days": 30,
   "message": "U.S.-only automated discovery. Items are monitoring candidates, not verified legal conclusions.",
@@ -139,8 +139,7 @@
       "direction_score": 1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "MD",
@@ -153,6 +152,24 @@
       "source_country": "United States",
       "type": "Rent Amount Control",
       "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
+      "source_tier": "C",
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
+    },
+    {
+      "state": "FL",
+      "state_name": "Florida",
+      "locality": "",
+      "published": "2026-11-22T08:00:00Z",
+      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcWdpV1VnWjZ6Uld6RmM4Y1FQaWhoY1Y4MUpvcFV2SFVLeEtCd2FOUlAzeDZiN2t5RGplcU9Md2ZabGllcmcyVFFKXzdmSDdpU1lUeEhTRW1ZZ2JFVUJCZmliTWljMWIwQ2N3NF84MVd1enlEdkxtYXJoRXhnbG56MThWa2oxU2hpQndQUDBJam1ENlliMmhHcnBYMV8zanAzdTJ3YWFkQWgxZjY4bnlSeG9ic3Q1RVdyTTlDQmRXYnJTQ2ZFOE5TSS15V0l6cTM4MExXdnFaMEdrN254eS1SYnJvUUJUUGp6VDNzbXZFQmVhS3VFSVBYNlBmUTh3QjBBWG9PSNIBigJBVV95cUxNb2RGMl9lRDI4eXN5QTdMaFlVQm5UWVJzTlAtSWRydWcxY3FOdi1yWVhMQ0lGZjJuQjNNcElrVVZ4VVVmOHBfX1lidjdIa3BMMFRoMXM5SnVCb0tOMDItM1hqWTJnNDI5T2gxVEYwY3Y0aVVVU3kyZi1aLWJYSTJRaVVpTUxjTDZHbDh0QnpxQk5oRjJoelQwTzhIQzR0NkRPUjJ1ODdBdmNkR1hKTjl0NWMzNmFmbnAzMmhldDdOeDJFVWZvcjhET2dYQXZNbkR2Wk9xcllMclY3dl91cEdZdHpGNHZUdjZTbmw1OXpHbmgzdktyUGIzeWpVZ0xzcHpEcnNib0Fhb0NwQQ?oc=5",
+      "domain": "miamitimesonline.com",
+      "source_country": "United States",
+      "type": "Rent Amount Control",
+      "status": "Proposed / Process",
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
@@ -174,7 +191,8 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "US",
@@ -191,8 +209,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NJ",
@@ -265,30 +282,29 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NJ",
-      "state_name": "New Jersey",
-      "locality": "Jersey City",
-      "published": "2026-11-16T17:25:09Z",
-      "title": "Jersey City Rejects Rent Control Expansion, Launches Parking Cameras + More November 2026 Updates",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdWZDYVhUellBSTFXX2kxT0szOGVkY1BHb2J4Q2FTREREZFBjTWxIOWNzc2tJX3k5SExybUtwODhKdWNxWEhaRThEUVpaMGZzTXlUMVFIaGpEY1Q0UFhuOGhWWk10WmlrTERQcUtWMWxNZVU?oc=5",
-      "domain": "hobokengirl.com",
+      "state": "NY",
+      "state_name": "New York",
+      "locality": "",
+      "published": "2026-11-16T08:00:00Z",
+      "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
+      "domain": "multifamilydive.com",
       "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Discovery",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
+      "type": "Algorithmic Pricing",
+      "status": "Litigation",
+      "direction": "Neutral",
+      "direction_score": 0,
+      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
       "state_name": "California",
       "locality": "Oakland",
-      "published": "2026-11-16T11:36:55Z",
+      "published": "2026-11-16T08:00:00Z",
       "title": "A mandatory rental registry could improve housing in Oakland, experts say",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VdIBvwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmVaM1RxSHBxMVZSeTRmZ1NNb3l6V2h1Unk3SEtQaWFQQVFEa3dBTkUyYWF2QXFoMXBYU3FoUXhhN3NaZ19zR2ZUeUtJNVowbHlldXAwdURGbXFWTDhCV3ZZcTFuRmlFSll4Ml82SXAxT1dGajQwUFNzekM3QnRPN3R4Um9mZ1BkT2xLQ1Q1SF9wYkVZWDc5N3pMZ0RoNE9jVnhoT0o2cHQwVlF1NGJseVVKUi1kdW16aHfSAb8BQVVfeXFMT01kTGM1Tlk0cTRxbmZvTGQ4cWUzZDJMSGYwaW4yWHpBcFE1RDBxX2lkOHpPWG42X0Z0SkV2RmhGUTkwdzRrS1IzODJDb2l5T1pmSTVWV3Z6TGlmSXVibGxnVUctZkJLLVlWaXdDTV8tYVFwMmsxR0phR0Q3S2JyTmxXZ3FiTnI4RHVOelppZ3BZcFNXNDJBbWFON1YwVGJtajJmODU5VDFjTVA1RzRmUUZMN05fd1hyVmxmZFlBNlU?oc=5",
       "domain": "pittnews.com",
       "source_country": "United States",
       "type": "Registry / Enforcement",
@@ -297,8 +313,7 @@
       "direction_score": 1,
       "property_scope": "Registered rental units; ordinance-specific coverage",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -318,19 +333,19 @@
       "discovery_provider": "Google News RSS"
     },
     {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
+      "state": "NJ",
+      "state_name": "New Jersey",
+      "locality": "Jersey City",
       "published": "2026-11-16T08:00:00Z",
-      "title": "Realpage’s New York lawsuit tests the limits of algorithmic rent-pricing bans",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVJ5WG56V3Y0Rk9JWjhtdUhCUG10b3FBdVM3MHdaNHdaYU9pc1RQTlFuZXF4b0xlZ2VrNTliSm10MGQ0RW5tN2dIVEpPOVJtYkVSUHc1R01XU1A5ZHF3a184MW5pWFZrUlYwTW5XejdJZ1lVSHl6OVRiZFJoUDVBZUxHRzVKZmg4c2lqTTl0Zmt3clh1MlE?oc=5",
-      "domain": "multifamilydive.com",
+      "title": "Jersey City Rejects Rent Control Expansion, Launches Parking Cameras + More November 2026 Updates",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdWZDYVhUellBSTFXX2kxT0szOGVkY1BHb2J4Q2FTREREZFBjTWxIOWNzc2tJX3k5SExybUtwODhKdWNxWEhaRThEUVpaMGZzTXlUMVFIaGpEY1Q0UFhuOGhWWk10WmlrTERQcUtWMWxNZVU?oc=5",
+      "domain": "hobokengirl.com",
       "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Litigation",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
+      "type": "Rent Amount Control",
+      "status": "Discovery",
+      "direction": "Restrictive",
+      "direction_score": 1,
+      "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
       "discovery_provider": "Google News RSS"
     },
@@ -349,8 +364,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "MD",
@@ -369,23 +383,6 @@
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
-    },
-    {
-      "state": "FL",
-      "state_name": "Florida",
-      "locality": "",
-      "published": "2026-11-12T08:00:00Z",
-      "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
-      "domain": "wlrn.org",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -419,8 +416,7 @@
       "direction_score": -1,
       "property_scope": "Rental housing / multifamily mentioned",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NJ",
@@ -437,8 +433,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -472,8 +467,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -508,7 +502,8 @@
       "direction_score": -1,
       "property_scope": "Mobile / manufactured housing",
       "source_tier": "C",
-      "discovery_provider": "GDELT"
+      "discovery_provider": "GDELT",
+      "carried_forward": true
     },
     {
       "state": "ME",
@@ -664,8 +659,7 @@
       "direction_score": -1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -750,8 +744,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "RI",
@@ -768,8 +761,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -786,8 +778,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -804,8 +795,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "NY",
@@ -856,8 +846,7 @@
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
+      "discovery_provider": "Google News RSS"
     },
     {
       "state": "CA",
@@ -892,7 +881,8 @@
       "direction_score": 0,
       "property_scope": "Property scope must be verified in source",
       "source_tier": "C",
-      "discovery_provider": "Google News RSS"
+      "discovery_provider": "Google News RSS",
+      "carried_forward": true
     },
     {
       "state": "NY",
@@ -926,60 +916,6 @@
       "direction": "Restrictive",
       "direction_score": 1,
       "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "ME",
-      "state_name": "Maine",
-      "locality": "",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Strimling: All around Maine, mobile home rent control is on the ballot",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcElwRDVlOW5kZDkxTW5xbzFBRTNRc0w5V3o4aUlmMktzallsVTZSVXlaTElQNS1IT3R1N2I1di1hY2piSlNDNExPcGhpTGxTemtwQVZ4OE01OEtDQ2VsSlZ1cVFFMkpJMjdQVmloUEMtYnpmejdVeWh6bzNPWTdlOF9zUlJialhiS0tueTZQbWpHQzJWM2lZSQ?oc=5",
-      "domain": "mainebeacon.com",
-      "source_country": "United States",
-      "type": "Rent Amount Control",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Mobile / manufactured housing",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "CA",
-      "state_name": "California",
-      "locality": "Santa Barbara",
-      "published": "2026-10-28T07:00:00Z",
-      "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-      "domain": "independent.com",
-      "source_country": "United States",
-      "type": "Good Cause / Just Cause",
-      "status": "Proposed / Process",
-      "direction": "Restrictive",
-      "direction_score": 1,
-      "property_scope": "Property scope must be verified in source",
-      "source_tier": "C",
-      "discovery_provider": "Google News RSS",
-      "carried_forward": true
-    },
-    {
-      "state": "NY",
-      "state_name": "New York",
-      "locality": "",
-      "published": "2026-10-27T22:31:00Z",
-      "title": "RealPage says New York can't relitigate issues in algorithmic rent-setting ban",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlhHU21nSDBfZ3NUa2U0VWZZalpLVG5fWUJPUXZnWW5obmZya3ltZ0tPNUxFMXJJaXo1MXVnSmpDTUJyckNiRHM1OFRNcEFEellwLWRocE8zYVJXNU1lT0RHQUpmdTUwQkxHUHVUVDlGYk02VDgyX2hLcUVoLWpERGtXb3BEdDJ1WWxrSXJVTEc1WnR5c202VUFrc29pTUpFcC1QRUsyX3EzNkw3c2l1SXBaTXJHcnBmLU5uWjZR0gFaQVVfeXFMUFJheEJ5ZXpZUTgyUzF1Y3VFeC1GVWs4RHdZeFNoZlpfNTVuZVF3dmN6VnJ0cDV2eHNsUkpBUFhZYnhPdThVZFFfTjhBeVdMblYxWWx0YmNBTEJB?oc=5",
-      "domain": "mlex.com",
-      "source_country": "United States",
-      "type": "Algorithmic Pricing",
-      "status": "Discovery",
-      "direction": "Neutral",
-      "direction_score": 0,
-      "property_scope": "Landlords / properties using covered pricing software",
       "source_tier": "C",
       "discovery_provider": "Google News RSS",
       "carried_forward": true
@@ -1047,9 +983,9 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Oakland",
-        "published": "2026-11-16T11:36:55Z",
+        "published": "2026-11-16T08:00:00Z",
         "title": "A mandatory rental registry could improve housing in Oakland, experts say",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VdIBvwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmVaM1RxSHBxMVZSeTRmZ1NNb3l6V2h1Unk3SEtQaWFQQVFEa3dBTkUyYWF2QXFoMXBYU3FoUXhhN3NaZ19zR2ZUeUtJNVowbHlldXAwdURGbXFWTDhCV3ZZcTFuRmlFSll4Ml82SXAxT1dGajQwUFNzekM3QnRPN3R4Um9mZ1BkT2xLQ1Q1SF9wYkVZWDc5N3pMZ0RoNE9jVnhoT0o2cHQwVlF1NGJseVVKUi1kdW16aHfSAb8BQVVfeXFMT01kTGM1Tlk0cTRxbmZvTGQ4cWUzZDJMSGYwaW4yWHpBcFE1RDBxX2lkOHpPWG42X0Z0SkV2RmhGUTkwdzRrS1IzODJDb2l5T1pmSTVWV3Z6TGlmSXVibGxnVUctZkJLLVlWaXdDTV8tYVFwMmsxR0phR0Q3S2JyTmxXZ3FiTnI4RHVOelppZ3BZcFNXNDJBbWFON1YwVGJtajJmODU5VDFjTVA1RzRmUUZMN05fd1hyVmxmZFlBNlU?oc=5",
         "domain": "pittnews.com",
         "source_country": "United States",
         "type": "Registry / Enforcement",
@@ -1058,8 +994,7 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1215,8 +1150,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1284,8 +1218,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1302,8 +1235,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1320,8 +1252,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -1356,7 +1287,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "CA",
@@ -1375,24 +1307,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-10-28T07:00:00Z",
-        "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Good Cause / Just Cause",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CO": [],
@@ -1403,10 +1317,10 @@
         "state": "FL",
         "state_name": "Florida",
         "locality": "",
-        "published": "2026-11-12T08:00:00Z",
+        "published": "2026-11-22T08:00:00Z",
         "title": "Florida progressive groups plan statewide rent control measure for 2028 ballot",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnlacnJfbjhqMVR2SVBVTGM1cWktblJXS2RHOGZZX0NJU1BGM3hlMEF6c3p3MU5qRGZ6UlVicHd4V2wtOGhaYjNmVWdTSkJhZmxTOEhyRTRkUERRZ25Rbm1Rc2lKa0JONlB6TUlVU2lmSWJMNl9MRmdDWGJFV1hNYU5wS01BNjhZdzFodElPa3JOR0pUME9CT2lfQzd6RHVjakdpZVRnOA?oc=5",
-        "domain": "wlrn.org",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcWdpV1VnWjZ6Uld6RmM4Y1FQaWhoY1Y4MUpvcFV2SFVLeEtCd2FOUlAzeDZiN2t5RGplcU9Md2ZabGllcmcyVFFKXzdmSDdpU1lUeEhTRW1ZZ2JFVUJCZmliTWljMWIwQ2N3NF84MVd1enlEdkxtYXJoRXhnbG56MThWa2oxU2hpQndQUDBJam1ENlliMmhHcnBYMV8zanAzdTJ3YWFkQWgxZjY4bnlSeG9ic3Q1RVdyTTlDQmRXYnJTQ2ZFOE5TSS15V0l6cTM4MExXdnFaMEdrN254eS1SYnJvUUJUUGp6VDNzbXZFQmVhS3VFSVBYNlBmUTh3QjBBWG9PSNIBigJBVV95cUxNb2RGMl9lRDI4eXN5QTdMaFlVQm5UWVJzTlAtSWRydWcxY3FOdi1yWVhMQ0lGZjJuQjNNcElrVVZ4VVVmOHBfX1lidjdIa3BMMFRoMXM5SnVCb0tOMDItM1hqWTJnNDI5T2gxVEYwY3Y0aVVVU3kyZi1aLWJYSTJRaVVpTUxjTDZHbDh0QnpxQk5oRjJoelQwTzhIQzR0NkRPUjJ1ODdBdmNkR1hKTjl0NWMzNmFmbnAzMmhldDdOeDJFVWZvcjhET2dYQXZNbkR2Wk9xcllMclY3dl91cEdZdHpGNHZUdjZTbmw1OXpHbmgzdktyUGIzeWpVZ0xzcHpEcnNib0Fhb0NwQQ?oc=5",
+        "domain": "miamitimesonline.com",
         "source_country": "United States",
         "type": "Rent Amount Control",
         "status": "Proposed / Process",
@@ -1459,8 +1373,7 @@
         "direction_score": 1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "ME",
@@ -1477,7 +1390,8 @@
         "direction_score": -1,
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
-        "discovery_provider": "GDELT"
+        "discovery_provider": "GDELT",
+        "carried_forward": true
       },
       {
         "state": "ME",
@@ -1512,24 +1426,6 @@
         "property_scope": "Mobile / manufactured housing",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "ME",
-        "state_name": "Maine",
-        "locality": "",
-        "published": "2026-10-28T07:00:00Z",
-        "title": "Strimling: All around Maine, mobile home rent control is on the ballot",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcElwRDVlOW5kZDkxTW5xbzFBRTNRc0w5V3o4aUlmMktzallsVTZSVXlaTElQNS1IT3R1N2I1di1hY2piSlNDNExPcGhpTGxTemtwQVZ4OE01OEtDQ2VsSlZ1cVFFMkpJMjdQVmloUEMtYnpmejdVeWh6bzNPWTdlOF9zUlJialhiS0tueTZQbWpHQzJWM2lZSQ?oc=5",
-        "domain": "mainebeacon.com",
-        "source_country": "United States",
-        "type": "Rent Amount Control",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Mobile / manufactured housing",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "MD": [
@@ -1548,7 +1444,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "MD",
@@ -1652,7 +1549,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-16T17:25:09Z",
+        "published": "2026-11-16T08:00:00Z",
         "title": "Jersey City Rejects Rent Control Expansion, Launches Parking Cameras + More November 2026 Updates",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdWZDYVhUellBSTFXX2kxT0szOGVkY1BHb2J4Q2FTREREZFBjTWxIOWNzc2tJX3k5SExybUtwODhKdWNxWEhaRThEUVpaMGZzTXlUMVFIaGpEY1Q0UFhuOGhWWk10WmlrTERQcUtWMWxNZVU?oc=5",
         "domain": "hobokengirl.com",
@@ -1663,8 +1560,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1681,8 +1577,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1699,8 +1594,7 @@
         "direction_score": -1,
         "property_scope": "Rental housing / multifamily mentioned",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1717,8 +1611,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1735,8 +1628,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -1771,8 +1663,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "NM": [],
@@ -1896,24 +1787,6 @@
         "source_tier": "C",
         "discovery_provider": "Google News RSS",
         "carried_forward": true
-      },
-      {
-        "state": "NY",
-        "state_name": "New York",
-        "locality": "",
-        "published": "2026-10-27T22:31:00Z",
-        "title": "RealPage says New York can't relitigate issues in algorithmic rent-setting ban",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlhHU21nSDBfZ3NUa2U0VWZZalpLVG5fWUJPUXZnWW5obmZya3ltZ0tPNUxFMXJJaXo1MXVnSmpDTUJyckNiRHM1OFRNcEFEellwLWRocE8zYVJXNU1lT0RHQUpmdTUwQkxHUHVUVDlGYk02VDgyX2hLcUVoLWpERGtXb3BEdDJ1WWxrSXJVTEc1WnR5c202VUFrc29pTUpFcC1QRUsyX3EzNkw3c2l1SXBaTXJHcnBmLU5uWjZR0gFaQVVfeXFMUFJheEJ5ZXpZUTgyUzF1Y3VFeC1GVWs4RHdZeFNoZlpfNTVuZVF3dmN6VnJ0cDV2eHNsUkpBUFhZYnhPdThVZFFfTjhBeVdMblYxWWx0YmNBTEJB?oc=5",
-        "domain": "mlex.com",
-        "source_country": "United States",
-        "type": "Algorithmic Pricing",
-        "status": "Discovery",
-        "direction": "Neutral",
-        "direction_score": 0,
-        "property_scope": "Landlords / properties using covered pricing software",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "NC": [],
@@ -1955,8 +1828,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "SC": [],
@@ -2029,7 +1901,7 @@
         "state": "NJ",
         "state_name": "New Jersey",
         "locality": "Jersey City",
-        "published": "2026-11-16T17:25:09Z",
+        "published": "2026-11-16T08:00:00Z",
         "title": "Jersey City Rejects Rent Control Expansion, Launches Parking Cameras + More November 2026 Updates",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdWZDYVhUellBSTFXX2kxT0szOGVkY1BHb2J4Q2FTREREZFBjTWxIOWNzc2tJX3k5SExybUtwODhKdWNxWEhaRThEUVpaMGZzTXlUMVFIaGpEY1Q0UFhuOGhWWk10WmlrTERQcUtWMWxNZVU?oc=5",
         "domain": "hobokengirl.com",
@@ -2040,8 +1912,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2058,8 +1929,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2076,8 +1946,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2094,8 +1963,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "NJ",
@@ -2112,8 +1980,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|Santa Monica": [
@@ -2167,8 +2034,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "NY|New York City": [
@@ -2223,7 +2089,8 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       },
       {
         "state": "MD",
@@ -2313,24 +2180,6 @@
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
         "discovery_provider": "Google News RSS"
-      },
-      {
-        "state": "CA",
-        "state_name": "California",
-        "locality": "Santa Barbara",
-        "published": "2026-10-28T07:00:00Z",
-        "title": "Changes to Santa Barbara’s Just Cause Ordinance Need Ironing Out",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcTh4ZUpUb3BnZDZkZkRzRy00TlVGeFBCeTFEQTI5dWFGZ1FFQzZJR1BaV1FpQW9uVF9TaDhkVFl2ajRTQjllTTFOcnlJeS1DTmtrTVNUTG1vb3lqa2phU1daRjNTRTdvYnpGZm5rM0F4elNFbzBiVnpzWHpubDRaTkg5Q0RtR29SSGVadDV4eUJ6dnpMcFZoZERpRFY4WExJWWJ0Rl93?oc=5",
-        "domain": "independent.com",
-        "source_country": "United States",
-        "type": "Good Cause / Just Cause",
-        "status": "Proposed / Process",
-        "direction": "Restrictive",
-        "direction_score": 1,
-        "property_scope": "Property scope must be verified in source",
-        "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
       }
     ],
     "CA|Oakland": [
@@ -2338,9 +2187,9 @@
         "state": "CA",
         "state_name": "California",
         "locality": "Oakland",
-        "published": "2026-11-16T11:36:55Z",
+        "published": "2026-11-16T08:00:00Z",
         "title": "A mandatory rental registry could improve housing in Oakland, experts say",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VdIBvwFBVV95cUxPTWRMYzVOWTRxNHFuZm9MZDhxZTNkMkxIZjBpbjJYekFwUTVEMHFfaWQ4ek9YbjZfRnRKRXZGaEZROTB3NGtLUjM4MkNvaXlPWmZJNVZXdnpMaWZJdWJsbGdVRy1mQkstWVZpd0NNXy1hUXAyazFHSmFHRDdLYnJObFdncWJOcjhEdU56WmlncFlwU1c0MkFtYU43VjBUYm1qMmY4NTlUMWNNUDVHNGZRRkw3Tl93WHJWbGZkWUE2VQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmVaM1RxSHBxMVZSeTRmZ1NNb3l6V2h1Unk3SEtQaWFQQVFEa3dBTkUyYWF2QXFoMXBYU3FoUXhhN3NaZ19zR2ZUeUtJNVowbHlldXAwdURGbXFWTDhCV3ZZcTFuRmlFSll4Ml82SXAxT1dGajQwUFNzekM3QnRPN3R4Um9mZ1BkT2xLQ1Q1SF9wYkVZWDc5N3pMZ0RoNE9jVnhoT0o2cHQwVlF1NGJseVVKUi1kdW16aHfSAb8BQVVfeXFMT01kTGM1Tlk0cTRxbmZvTGQ4cWUzZDJMSGYwaW4yWHpBcFE1RDBxX2lkOHpPWG42X0Z0SkV2RmhGUTkwdzRrS1IzODJDb2l5T1pmSTVWV3Z6TGlmSXVibGxnVUctZkJLLVlWaXdDTV8tYVFwMmsxR0phR0Q3S2JyTmxXZ3FiTnI4RHVOelppZ3BZcFNXNDJBbWFON1YwVGJtajJmODU5VDFjTVA1RzRmUUZMN05fd1hyVmxmZFlBNlU?oc=5",
         "domain": "pittnews.com",
         "source_country": "United States",
         "type": "Registry / Enforcement",
@@ -2349,8 +2198,7 @@
         "direction_score": 1,
         "property_scope": "Registered rental units; ordinance-specific coverage",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2455,7 +2303,8 @@
         "direction_score": 0,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS"
+        "discovery_provider": "Google News RSS",
+        "carried_forward": true
       }
     ],
     "ME|Portland": [
@@ -2532,8 +2381,7 @@
         "direction_score": -1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       },
       {
         "state": "CA",
@@ -2550,8 +2398,7 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ],
     "CA|West Hollywood": [
@@ -2570,41 +2417,45 @@
         "direction_score": 1,
         "property_scope": "Property scope must be verified in source",
         "source_tier": "C",
-        "discovery_provider": "Google News RSS",
-        "carried_forward": true
+        "discovery_provider": "Google News RSS"
       }
     ]
   },
   "direction_counts": {
-    "Restrictive": 45,
+    "Restrictive": 43,
     "Easing": 6,
-    "Neutral": 5
+    "Neutral": 4
   },
   "health": {
     "queries": 8,
-    "successful_queries": 5,
+    "successful_queries": 4,
     "provider_success": {
-      "gdelt": 1,
+      "gdelt": 0,
       "google_news_rss": 4
     },
-    "errors": 3,
-    "retained_articles": 56
+    "errors": 4,
+    "retained_articles": 53
   },
   "errors": [
     {
       "provider": "GDELT",
+      "query": 3,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
+    },
+    {
+      "provider": "GDELT",
       "query": 4,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
       "query": 2,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     },
     {
       "provider": "GDELT",
-      "query": 3,
-      "error": "HTTP Error 429: Too Many Requests"
+      "query": 1,
+      "error": "<urlopen error _ssl.c:994: The handshake operation timed out>"
     }
   ],
   "method": "Parallel GDELT DOC 2.0 plus U.S.-localized Google News RSS topical discovery; U.S.-jurisdiction filter; state/locality assignment after retrieval; 30-day window; prior snapshot preserved only if all upstream queries fail."
